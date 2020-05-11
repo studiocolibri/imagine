@@ -1,0 +1,127 @@
+
+::selection {
+	color:white;
+	background-color: $red;
+}
+
+html {
+    scroll-behavior: smooth;
+    font-size:18px;
+
+    @media screen and (min-width: $bp-s) {
+        font-size:20px;
+    }
+    
+    @media screen and (min-width: $bp-l) {
+        font-size:22px;
+    }
+}
+
+body {
+    @include ff-r; 
+    font-weight:400;
+    line-height:1.25;
+    background-color: white;
+    color:$txt-color;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    box-sizing: border-box;
+
+}
+
+body * {
+    box-sizing: border-box;
+}
+
+.site-wrapper {
+    width:100%;
+    max-width:1920px;
+    margin:0 auto;
+    position: relative;
+}
+
+a.skip-to-content.hide {
+
+    &:focus {
+        left: 50%;
+        transform: translate(-50%, 40px);
+        background: gray;
+        border-radius: 0.5em;
+        padding: 0.25em 0.75em;
+        color: white;
+        font-weight: bold;
+        text-decoration: none;
+        transition: all 150ms ease-out;
+    }
+}
+
+.site-main {
+    margin:0 auto;
+}
+
+//max width
+.mw {
+    width:100%;
+    max-width:$mw;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+//content width
+.cw {
+    width:100%;
+    max-width:$cw;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+.flex-2-cols {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 100%;
+    padding:0;
+    margin-right:auto;
+    margin-left:auto;
+    box-sizing: content-box;
+
+    @media screen and (min-width:$bp-s) {
+        flex-direction:row;
+    }
+}
+
+.flex-2-cols__col {
+    width:100%;
+    margin-top:$su*2;
+
+    &:first-of-type {
+        margin-top:0;
+    }
+
+    @media screen and (min-width:$bp-s) {
+        width:calc(50% - #{$su});
+        margin-top:0;
+        
+        &:first-of-type {
+            margin-right:$su*2;
+        }
+    }
+
+    @media screen and (min-width:$bp-m) {
+        width:calc(50% - #{$su * 2});
+
+        &:first-of-type {
+            margin-right:$su*4;
+        }
+    }
+
+    @media screen and (min-width:$bp-l) {
+        width:calc(50% - #{$su * 5});
+    }
+}
+
+.flex-2-cols__col--center {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}

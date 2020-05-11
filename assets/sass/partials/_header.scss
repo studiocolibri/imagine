@@ -1,0 +1,22 @@
+/*
+* HEADER
+*/
+
+.site-header {
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+    top:$su*3;
+    left:50%;
+    height:50px;
+    width:100%;
+    margin:0;
+    padding:0 $su*4;
+    transform:translateX(-50%);
+}
+
+.site-nav__link {
+    color:white;
+    text-decoration: none;
+    font-weight: bold;
+}

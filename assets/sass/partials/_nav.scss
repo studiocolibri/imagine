@@ -1,0 +1,117 @@
+.site-nav__list {
+    display:none;
+    margin:0;
+    padding:0;
+    opacity:0;
+    z-index: 15;
+    transform:scale(0);
+    transform-origin: right top;
+
+    @media screen and (min-width:$bp-l) {
+        display:flex;
+        align-items:center;
+        justify-content: flex-end;
+        opacity:1;
+        transform:none;
+    }
+
+    li {
+        list-style: none;
+
+        &:last-child {
+
+            .site-nav__link {
+                margin-right: 0;
+            }
+        }
+    }
+}
+
+.site-nav__link {
+    display:block;
+    line-height: 1;
+    font-size: 0.9rem;
+    padding:0.5em 0;
+    margin-right: $su*3;
+    position: relative;
+
+    &:after {
+        content:'';
+        position: absolute;
+        bottom:0;
+        left:0;
+        right:0;
+        background:white;
+        height:2px;
+        width:100%;
+        opacity:0;
+        transition:opacity 150ms ease-out;
+    }
+
+    &:hover, &:focus {
+
+        &:after {
+            opacity:1;
+        }
+    }
+}
+
+
+.site-nav__checkbox {
+    position: absolute;
+    right:8px;
+    width: 40px;
+    height: 30px;
+    display: block;
+    opacity: 0;
+    z-index:2;
+    cursor:pointer;
+
+    &:hover ~ .site-nav__button .nav-btn-0, &:focus ~ .site-nav__button .nav-btn-0 {
+        transform:scaleX(0.9);
+    }
+
+    @media screen and (max-width:($bp-l - 1)) {
+
+        &:checked ~ .site-nav__list {
+            display: block;
+            position: absolute;
+            animation:show-nav 200ms ease-out forwards;
+        }
+    }
+
+    @media screen and (min-width:$bp-m) {
+        
+        &:checked ~ .site-nav__list {
+            top: 65px;
+        }
+    }
+
+    @media screen and (min-width:$bp-l) {
+        display:none;
+    }
+}
+
+.site-nav__button {
+    position: absolute;
+    right:0;
+    border: none;
+    background: none;
+    
+    @media screen and (min-width:$bp-l) {
+        display:none;
+    }
+}
+
+@keyframes show-nav {
+    0% {
+        display:none;
+        opacity:0;
+        transform:scale(0);
+    }
+    100% {
+        display:block;
+        opacity:1;
+        transform:scale(1);
+    }
+}

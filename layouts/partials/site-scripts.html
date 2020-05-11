@@ -1,0 +1,9 @@
+{{ $nav := resources.Get "js/nav.js" }}
+{{ $navPublic := $nav | resources.Minify | resources.Fingerprint }}
+<script src="{{ $navPublic.Permalink }}"></script>
+
+{{ if .IsHome }}
+    {{ $homeSlider := resources.Get "js/homeSlider.js" }}
+    {{ $homeSliderPublic := $homeSlider | resources.Minify | resources.Fingerprint }}
+    <script src="{{ $homeSliderPublic.Permalink }}"></script>
+{{ end }}

@@ -1,0 +1,80 @@
+/*
+* MODULES
+*/
+
+img {
+    max-width: 100%;
+    height:auto;
+}
+
+picture {
+    display:block;
+}
+
+.btn {
+    display:inline-block;
+    position: relative;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 0.9rem;
+    color:$txt-color;
+    text-decoration: none;
+
+    &:hover, &:focus {
+
+        &:after {
+            transform:translateX(3px);
+        }
+    }
+
+    &:after {
+        content: '';
+        position: absolute;
+        top: 0.22em;
+        right: -0.9em;
+        background-image: url(../assets/img/arrow-right.svg);
+        background-repeat: no-repeat;
+        width: 0.4em;
+        height: 0.8em;
+        transform:translateX(0px);
+        transition:transform 150ms ease-out;
+    }
+
+    &--square {
+        display:block; 
+        padding:0.5em 2em;
+        color:white;
+        text-transform: none;
+        border:2px solid transparent;
+        transition:color 150ms ease-out, background-color 150ms ease-out, border-color 150ms ease-out;
+        
+        &:after {
+            display:none;
+        }
+        
+        &:hover, &:focus {
+            background-color:transparent;
+        }
+    }
+    
+    &--green {
+        background-color:$green;
+        
+        &:hover, &:focus {
+            color:$green;
+            border-color:$green;
+        }
+    }
+}
+
+.list--no-style {
+    list-style:none;
+}
+
+.hide {
+    display:block;
+    top:0;
+    position: absolute;
+    left:-99999px;
+    clip-path: polygon(0px 0px,0px 0px,0px 0px,0px 0px);
+}

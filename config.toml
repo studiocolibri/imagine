@@ -1,0 +1,33 @@
+baseURL = "https://imaginedemainlemonde.netlify.app"
+languageCode = "fr-be"
+title = "Imagine | Demain le monde | Slow press magazine"
+Paginate = 2
+
+[markup]
+
+[markup.goldmark]
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[taxonomies]
+
+[[menu.main]]
+name = "numéro"
+url = "/dernier-numero/"
+weight = 1
+
+[[menu.main]]
+name = "e-magine"
+url = "/e-magine/"
+weight = 2
+
+[[menu.main]]
+name = "#imagine2020"
+url = "/presentation/"
+weight = 3
+
+[[menu.main]]
+name = "archives"
+url = "https://www.imagine-magazine.com/lire/?page=archive"
+weight = 4

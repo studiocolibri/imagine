@@ -1,0 +1,64 @@
+
+$txt-color: #495050;
+$green: #B0D8D6;
+$turquoise: #00839A;
+
+
+$red: #FF2869;
+$brown: #29281B;
+$orange: #FDCD00;
+$dark-blue: #082044;
+$light-color: #F7F7F7;
+
+$mw: 1920px; // max-width
+$cw: 1200px; // content max-width
+
+$su: 20px; // spacing-unit
+$bp-xs: 400px; // breakpoint S
+$bp-s: 768px; // breakpoint S
+$bp-m: 980px; // breakpoint M
+$bp-l: 1200px; // breakpoint L
+
+@font-face {
+    font-family: 'Faible';
+    src: url('../assets/fonts/faible-regular-webfont.woff2') format('woff2'),
+         url('../assets/fonts/faible-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display:swap;
+    unicode-range:U+0020-007F,U+00A0-00FF;
+}
+
+@font-face {
+    font-family: 'Faible';
+    src: url('../assets/fonts/faible-bold-webfont.woff2') format('woff2'),
+         url('../assets/fonts/faible-bold-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display:swap;
+    unicode-range:U+0020-007F,U+00A0-00FF;
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('../assets/fonts/subset-PlayfairDisplay-Regular.woff2') format('woff2'),
+         url('../assets/fonts/subset-PlayfairDisplay-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display:swap;
+    unicode-range:U+0020-007F,U+00A0-00FF;
+}
+
+@import 
+'partials/_reset',
+'partials/_mixins',
+'partials/_layout',
+'partials/_typo',
+'partials/_header',
+'partials/_nav',
+'partials/_footer',
+'partials/_home',
+'partials/_partials',
+'partials/_modules',
+'partials/_single',
+'partials/_pages';
