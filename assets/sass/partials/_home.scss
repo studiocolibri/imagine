@@ -22,12 +22,15 @@
 #home-header__slides {
 	position: relative;	
     padding-bottom: 3rem;
+    background-image:url('../assets/img/les-confluents.svg');
+    background-position:-($su*5) 0px;
+    background-repeat: no-repeat;
 }
 
 #home-header__slides, #home-header__slides-items .slide-item, figure {
 	width: 100%;
 	max-width: 100%;
-	height: 525px;	
+	height: 540px;	
 	margin: 0 auto;	
 }
 
