@@ -121,15 +121,18 @@
 
 </section>
 
-<section class="home-6-territoires cw flex-2-cols">
-    <div class="flex-2-cols__col">
-        <img src="/assets/img/imagine-6-territoires.png">
+<section class="home-6-territoires">
+    <div class="flex-2-cols cw">
+        <div class="flex-2-cols__col">
+            <img src="/assets/img/imagine-6-territoires.png">
+        </div>
+        <div class="flex-2-cols__col">
+            <h2>{{ .Params.territoires.title | safeHTML }}</h2>
+            <p>{{ .Params.territoires.text | safeHTML }}</p>
+            <a href="{{ .Params.territoires.btn_link }}" class="btn">{{ .Params.territoires.btn_text }}</a>
+        </div>
     </div>
-    <div class="flex-2-cols__col">
-        <h2>{{ .Params.territoires.title | safeHTML }}</h2>
-        <p>{{ .Params.territoires.text | safeHTML }}</p>
-        <a href="{{ .Params.territoires.btn_link }}" class="btn">{{ .Params.territoires.btn_text }}</a>
-    </div>
+    <div class="home-section__title">#imagine2020</div>
 </section>
 
 {{ end }}
