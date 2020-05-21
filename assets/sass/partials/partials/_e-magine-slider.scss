@@ -26,7 +26,7 @@
 }
 
 .e-magine-slider__controls {
-    display:flex;
+    display:flex !important;
     min-width:$su*3;
     margin-left:$su;
     max-width: $su*3;

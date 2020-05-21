@@ -37,13 +37,36 @@
             order:-1;
             margin-top:0;
         }
+
+        a {
+            padding: 0.2em 0.5em 0.2em 0;
+            
+            img {
+                transform: scale(1);
+                transition: transform 200ms ease-out;
+            }
+
+            &:hover, &:focus {
+                
+                img {
+                    transform: scale(1.2);
+                }
+            }
+
+            &:active {
+                
+                img {
+                    transform: scale(1);
+                }
+            }
+        }
     }
 
     &--right {
         text-transform: uppercase;
 
         p:first-of-type {
-            font-size:0.7rem;
+            font-size:0.62rem;
             margin-bottom:$su/2;
         }
 
@@ -53,6 +76,7 @@
             font-weight: bold;
             text-decoration: none;
             color:$txt-color;
+            font-size: 0.8rem;
 
             &:after {
                 content:'';
