@@ -4,4 +4,92 @@
 
 .site-footer {
     position:relative;
+    padding:$su*3 $su*2;
+    
+    @media screen and (min-width:$bp-l) {
+        padding:$su*5 $su;
+    }
+}
+
+.site-footer__inner {
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+
+    @media screen and (min-width:$bp-s) {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    * {
+        font-size: 0.9rem;
+        margin:0;
+    }
+}
+
+.site-footer__inner__col {
+
+    &--left {
+        order:2;
+        margin-top:$su*2;
+
+        @media screen and (min-width:$bp-s) {
+            order:-1;
+            margin-top:0;
+        }
+    }
+
+    &--right {
+        text-transform: uppercase;
+
+        p:first-of-type {
+            font-size:0.7rem;
+            margin-bottom:$su/2;
+        }
+
+        a {
+            display: inline-block;
+            position: relative;
+            font-weight: bold;
+            text-decoration: none;
+            color:$txt-color;
+
+            &:after {
+                content:'';
+                display:block;
+                position: absolute;
+                bottom:-0.4em;
+                left:0;
+                height:2px;
+                width:100%;
+                background-color:$pink;
+                opacity:1;
+                transition:opacity 200ms ease-out;
+            }
+
+            &:hover, &:focus {
+
+                &:after {
+                    opacity:0;
+                }
+            }
+
+            &:active {
+
+                &:after {
+                    opacity:1;
+                }
+            }
+        }
+    }
+}
+
+.site-footer__social {
+    margin-bottom:$su/2;
+
+    @media screen and (max-width: ($bp-s - 1)) {
+        display:flex;
+        justify-content: center;
+    }
+
 }

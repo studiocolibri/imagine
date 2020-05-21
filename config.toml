@@ -13,8 +13,8 @@ unsafe = true
 [taxonomies]
 
 [[menu.main]]
-name = "numéro"
-url = "/dernier-numero/"
+name = "n° en cours"
+url = "/numero-en-cours/"
 weight = 1
 
 [[menu.main]]
@@ -24,7 +24,7 @@ weight = 2
 
 [[menu.main]]
 name = "#imagine2020"
-url = "/presentation/"
+url = "/imagine-2020/"
 weight = 3
 
 [[menu.main]]

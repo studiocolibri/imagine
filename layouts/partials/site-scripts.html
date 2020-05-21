@@ -3,7 +3,14 @@
 <script src="{{ $navPublic.Permalink }}"></script>
 
 {{ if .IsHome }}
-    {{ $homeSlider := resources.Get "js/homeSlider.js" }}
-    {{ $homeSliderPublic := $homeSlider | resources.Minify | resources.Fingerprint }}
-    <script src="{{ $homeSliderPublic.Permalink }}"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"></script>
+    {{ $tinySlider := resources.Get "js/tinySliderOptions.js" }}
+    {{ $tinySliderPublic := $tinySlider | resources.Minify | resources.Fingerprint }}
+    <script src="{{ $tinySliderPublic.Permalink }}"></script>
+{{ end }}
+
+{{ if eq .Page.Params.class "e-magine" }}
+    {{ $eMagineSlider := resources.Get "js/eMagineSlider.js" }}
+    {{ $eMagineSliderPublic := $eMagineSlider | resources.Minify | resources.Fingerprint }}
+    <script src="{{ $eMagineSliderPublic.Permalink }}"></script>
 {{ end }}

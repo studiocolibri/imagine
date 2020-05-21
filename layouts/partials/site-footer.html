@@ -1,4 +1,18 @@
 <footer class="site-footer" id="site-footer">
-	<h2>Footer</h2>
+	<div class="site-footer__inner cw">
+		<div class="site-footer__inner__col site-footer__inner__col--left">
+			<div class="site-footer__social">
+				<a href="{{ .Site.Data.infos.facebook_link }}">
+					<img src="/assets/img/facebook-logo.svg" alt="Notre page facebook">
+				</a>
+			</div>
+			<p>© <span id="date-now"></span> Imagine - Demain Le Monde</p>
+			<script>var dt = new Date;dt = dt.getFullYear();document.getElementById("date-now").innerText = dt;</script>
+		</div>
+		<div class="site-footer__inner__col site-footer__inner__col--right">
+			<p>Pour rester informé de nos actualités</p>
+			<p><a href="#">S’inscrire à notre newsletter</a></p>
+		</div>
+	</div>
 </footer>
-<a href="#root" id="top-btn" title="Revenir en haut de page">⌃</a>
+<a style="display:none;" href="#root" id="top-btn" title="Revenir en haut de page">⌃</a>

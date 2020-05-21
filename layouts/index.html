@@ -1,138 +1,58 @@
 {{ define "main" }}
 
 <section class="home-header">
-
-    <div id="home-header__slides" class="confluents" aria-roledescription="Slideshow"
-        aria-label="Description of Carousel">
-
-        <div class="home-header__slides-control">
-            <button class="home-header__slides-control__btn home-header__slides-control__btn--prev"
-                aria-controls="slides-items" aria-label="Previous Slide">
-                <svg xmlns="http://www.w3.org/2000/svg" width="8.334" height="16.159" viewBox="0 0 8.334 16.159">
-                    <path d="M937,1438.5l6.254,7.246L937,1453.371" transform="translate(944.561 1454.006) rotate(180)"
-                        fill="none" stroke="#fff" stroke-width="2" /></svg>
-            </button>
-            <button class="home-header__slides-control__btn home-header__slides-control__btn--next"
-                aria-controls="slides-items" aria-label="Next Slide">
-                <svg xmlns="http://www.w3.org/2000/svg" width="8.334" height="16.159" viewBox="0 0 8.334 16.159">
-                    <path d="M937,1438.5l6.254,7.246L937,1453.371" transform="translate(-936.227 -1437.847)" fill="none"
-                        stroke="#b0d8d6" stroke-width="2" /></svg>
-            </button>
+    {{ range first 1 (where $.Site.RegularPages.ByDate.Reverse "Section" "numeros") }}
+        <div class="flex-2-cols cw">
+            <div class="flex-2-cols__col home-header__left">
+                <p class="home-header__numero"><strong>n°{{ .Params.num }}</strong> / {{ .Params.period }}</p>
+                <a class="home-header__title" href="/numero-en-cours">
+                    <h1>{{ .Title | safeHTML }}</h1>
+                </a>
+            </div>
+            <div class="flex-2-cols__col home-header__right">
+                <a class="home-header__img" href="/numero-en-cours">
+                    <img src="/assets/img/{{ .Params.cover }}" alt="Couverture du numéro {{ .Params.num }}">
+                </a>
+            </div>
         </div>
-
-        <div id="home-header__slides-items">
-
-            <!-- Slide 1 : image link + caption -->
-            <div id="slide-1" class="slide-item slide--active" role="group" aria-roledescription="Slide"
-                aria-label="1 de 6">
-                <figure>
-                    <a href="#">
-                        <img src="/assets/img/home-slider-example.jpg" alt="Image 1 alternative" width="823"
-                            height="474">
-                    </a>
-                    <figcaption>
-                        <a href="#">
-                            <small>Les confluents</small>
-                            <h3>Ruud van Empel au Hangar</h3>
-                        </a>
-                    </figcaption>
-                </figure>
-            </div>
-
-            <div id="slide-2" class="slide-item" role="group" aria-roledescription="Slide" aria-label="2 de 6">
-                <figure>
-                    <a href="#">
-                        <img src="/assets/img/home-slider-example.jpg" alt="Image 1 alternative" width="823"
-                            height="474">
-                    </a>
-                    <figcaption>
-                        <a href="#">
-                            <small>Les confluents</small>
-                            <h3>Ruud van Empel au Hangar</h3>
-                        </a>
-                    </figcaption>
-                </figure>
-            </div>
-
-            <div id="slide-3" class="slide-item" role="group" aria-roledescription="Slide" aria-label="3 de 6">
-                <figure>
-                    <a href="#">
-                        <img src="/assets/img/home-slider-example.jpg" alt="Image 1 alternative" width="823"
-                            height="474">
-                    </a>
-                    <figcaption>
-                        <a href="#">
-                            <small>Les confluents</small>
-                            <h3>Ruud van Empel au Hangar</h3>
-                        </a>
-                    </figcaption>
-                </figure>
-            </div>
-
-            <div id="slide-4" class="slide-item" role="group" aria-roledescription="Slide" aria-label="4 de 6">
-                <figure>
-                    <a href="#">
-                        <img src="/assets/img/home-slider-example.jpg" alt="Image 1 alternative" width="823"
-                            height="474">
-                    </a>
-                    <figcaption>
-                        <a href="#">
-                            <small>Les confluents</small>
-                            <h3>Ruud van Empel au Hangar</h3>
-                        </a>
-                    </figcaption>
-                </figure>
-            </div>
-
-            <div id="slide-5" class="slide-item" role="group" aria-roledescription="Slide" aria-label="5 de 6">
-                <figure>
-                    <a href="#">
-                        <img src="/assets/img/home-slider-example.jpg" alt="Image 1 alternative" width="823"
-                            height="474">
-                    </a>
-                    <figcaption>
-                        <a href="#">
-                            <small>Les confluents</small>
-                            <h3>Ruud van Empel au Hangar</h3>
-                        </a>
-                    </figcaption>
-                </figure>
-            </div>
-
-            <div id="slide-6" class="slide-item" role="group" aria-roledescription="Slide" aria-label="6 de 6">
-                <figure>
-                    <a href="#">
-                        <img src="/assets/img/home-slider-example.jpg" alt="Image 1 alternative" width="823"
-                            height="474">
-                    </a>
-                    <figcaption>
-                        <a href="#">
-                            <small>Les confluents</small>
-                            <h3>Ruud van Empel au Hangar</h3>
-                        </a>
-                    </figcaption>
-                </figure>
-            </div>
-
-        </div>
-    </div>
-
-    <a class="home-header__discover-btn" href="/dernier-numero">Découvrir le numéro #276</a>
-
+    {{ end }}
+    <a class="btn home-header__discover-btn" href="/numero-en-cours">Découvrir le numéro</a>
 </section>
 
-<section class="home-6-territoires">
+<section class="home-new-imagine section-2-cols">
+    <h2 class="home-section__title right">#imagine2020</h2>
     <div class="flex-2-cols cw">
         <div class="flex-2-cols__col">
-            <img src="/assets/img/imagine-6-territoires.png">
+            <img src="/assets/img/imagine-6-territoires.png" alt="les 6 territoires">
         </div>
         <div class="flex-2-cols__col">
-            <h2>{{ .Params.territoires.title | safeHTML }}</h2>
-            <p>{{ .Params.territoires.text | safeHTML }}</p>
-            <a href="{{ .Params.territoires.btn_link }}" class="btn">{{ .Params.territoires.btn_text }}</a>
+            <h3>{{ .Params.new_imagine.title | safeHTML }}</h3>
+            <p>{{ .Params.new_imagine.text | safeHTML }}</p>
+            <a href="{{ .Params.new_imagine.btn_link }}" class="btn">{{ .Params.new_imagine.btn_text }}</a>
         </div>
     </div>
-    <div class="home-section__title">#imagine2020</div>
 </section>
+
+<section class="home-e-magine">
+    <h2 class="home-section__title left">e-magine</h2>
+    {{ partial "e-magine-slider.html" }}
+    <p><a href="#" class="btn home-e-magine__btn-all">Tous nos contenus</a></p>
+</section>
+
+<section class="home-dossier section-2-cols">
+    <h2 class="home-section__title right">dossier</h2>
+    <div class="flex-2-cols cw">
+        <div class="flex-2-cols__col">
+            <img src="/assets/img/home-dossier.jpg">
+        </div>
+        <div class="flex-2-cols__col">
+            <h3>{{ .Params.dossier.title | safeHTML }}</h3>
+            <p>{{ .Params.dossier.text | safeHTML }}</p>
+            <a href="{{ .Params.dossier.btn_link }}" class="btn">{{ .Params.dossier.btn_text }}</a>
+        </div>
+    </div>
+</section>
+
+{{ partial "s-abonner.html" . }}
 
 {{ end }}

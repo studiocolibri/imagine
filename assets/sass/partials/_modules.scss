@@ -65,6 +65,17 @@ picture {
             border-color:$green;
         }
     }
+
+    &--red {
+        background-color:$red;
+        color:white;
+        
+        &:hover, &:focus {
+            color:$red;
+            background-color:transparent;
+            border-color:$red;
+        }
+    }
 }
 
 .list--no-style {

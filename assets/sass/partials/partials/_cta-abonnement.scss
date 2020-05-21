@@ -1,0 +1,23 @@
+.cta-abonnement {
+    background:$pink;
+    padding:$su*5 $su*2;
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+
+    p {
+        @include ff-t;
+        max-width:24em;
+        font-size: 2.6rem;
+        text-align: center;
+        color:$red;
+        margin:0;
+    }
+
+    a.btn {
+        text-transform: uppercase;
+        padding:1em 4em;
+        margin-top:$su*2;
+    }
+}

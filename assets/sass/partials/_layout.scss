@@ -1,7 +1,7 @@
 
 ::selection {
 	color:white;
-	background-color: $green;
+	background-color: $red;
 }
 
 html {
@@ -124,4 +124,21 @@ a.skip-to-content.hide {
     display:flex;
     align-items: center;
     justify-content: center;
+}
+
+.section-2-cols {
+    
+    h3 {
+        font-size: 2.4rem;
+        line-height: 1;
+        margin-top: $su;
+    }
+    
+    p {
+        font-size: 1.2rem;
+    }
+    
+    .btn {
+        margin-top: $su;
+    }
 }

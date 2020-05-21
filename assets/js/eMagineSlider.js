@@ -1,27 +1,27 @@
-var carousel = document.querySelector('#home-header__slides-items');
-var items = document.querySelectorAll('#home-header__slides .slide-item');
+var carousel = document.querySelector('#e-magine-header__slides-items');
+var items = document.querySelectorAll('#e-magine-header__slides .slide-item');
 
 if (carousel !== undefined && items !== undefined && carousel !== null && items !== null) {
 	var itemscount = items.length;
-	var btnprev = document.querySelector('.home-header__slides-control__btn--prev');
-	var btnnext = document.querySelector('.home-header__slides-control__btn--next');	
+	var btnprev = document.querySelector('.e-magine-header__slides-control__btn--prev');
+	var btnnext = document.querySelector('.e-magine-header__slides-control__btn--next');	
 
 	if (itemscount > 1) {
 		
 		// Create Dots
 		var dotbox = document.createElement('div');
-		dotbox.classList.add('home-header__slides-dots');
+		dotbox.classList.add('e-magine-header__slides-dots');
 		// carousel.after(dotbox); Not supported by Edge => see next line
 		carousel.parentNode.insertBefore(dotbox, carousel.nextSibling);			
 		for (var i=0; i<itemscount; i++) {
 			dotbox.insertAdjacentHTML('beforeend', '<button aria-controls="slide-'+(i+1)+'" aria-label="Slide number '+(i+1)+'" aria-selected="'+(document.querySelector('.slide--active').getAttribute('id').slice(-1) == (i+1) ? 'true' : 'false')+'"><svg xmlns="http://www.w3.org/2000/svg" width="13" height="14" viewBox="0 0 13 14"><g fill="none" stroke="#bbe0de" stroke-width="1"><ellipse cx="6.5" cy="7" rx="6.5" ry="7" stroke="none"/><ellipse cx="6.5" cy="7" rx="6" ry="6.5" fill="none"/></g></svg></button>');
 		}	
 			
-		var dots = document.querySelectorAll('.home-header__slides-dots button');
+		var dots = document.querySelectorAll('.e-magine-header__slides-dots button');
 	
 		function slideprev() {
 			var itemcurrent = document.querySelector('.slide--active');
-			var dotcurrent = document.querySelector('.home-header__slides-dots button[aria-selected="true"]');
+			var dotcurrent = document.querySelector('.e-magine-header__slides-dots button[aria-selected="true"]');
 			var prevslide = itemcurrent.previousElementSibling;
 			var prevdot = dotcurrent.previousElementSibling;
 			if(prevslide === null) {
@@ -39,7 +39,7 @@ if (carousel !== undefined && items !== undefined && carousel !== null && items 
 		
 		function slidenext() {
 			var itemcurrent = document.querySelector('.slide--active');
-			var dotcurrent = document.querySelector('.home-header__slides-dots button[aria-selected="true"]');
+			var dotcurrent = document.querySelector('.e-magine-header__slides-dots button[aria-selected="true"]');
 			var nextslide = itemcurrent.nextElementSibling;
 			var nextdot = dotcurrent.nextElementSibling;
 			if(nextslide === null) {
@@ -60,7 +60,7 @@ if (carousel !== undefined && items !== undefined && carousel !== null && items 
 
 			dot.addEventListener('click', function(e) {
 				var itemcurrent = document.querySelector('.slide--active');
-				var dotcurrent = document.querySelector('.home-header__slides-dots button[aria-selected="true"]');
+				var dotcurrent = document.querySelector('.e-magine-header__slides-dots button[aria-selected="true"]');
 				var dotclick = dot.getAttribute('aria-controls');
 				var targetslide = document.querySelector('#'+ dotclick +'');
 				var targetdot = document.querySelector('button[aria-controls="'+dotclick+'"]');
