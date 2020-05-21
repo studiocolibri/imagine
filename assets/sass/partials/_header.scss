@@ -12,8 +12,12 @@
     width:100%;
     max-width: 1420px;
     margin:0;
-    padding:0 $su*2;
+    padding:0 $su;
     transform:translateX(-50%);
+
+    @media screen and (min-width:$bp-s) {
+        padding:0 $su*2;
+    }
 
     @media screen and (min-width:$bp-l) {
         padding:0 $su*4;
@@ -22,15 +26,20 @@
 
 .site-logo {
     width:100%;
-    max-width: 258px;
+    max-width: 200px;
+
+    @media screen and (min-width:$bp-l) {
+        max-width: 258px;
+    }
 
     img {
         width:100%;
     }
 }
 
-.site-nav__link {
-    color:white;
-    text-decoration: none;
-    font-weight: bold;
+.site-header__subscribe {
+
+    @media screen and (max-width:($bp-s - 1)) {
+        display:none !important;
+    }
 }

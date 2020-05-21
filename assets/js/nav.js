@@ -13,17 +13,24 @@ window.onload = function() {
         navBtn.setAttribute('aria-expanded', false);
     }
     let toggleNav = function() {
-        if (navCheckbox.checked == false) { openNav(); }
-        else { closeNav(); }
+        if (navCheckbox.checked == false) {
+            openNav();
+        }
+        else {
+            closeNav();
+        }
     };
     navBtn.addEventListener('click', toggleNav);
-
-    // aria-expanded  
+    
+    // aria-expanded + body class toggle
     navCheckbox.addEventListener('change', function() {
-        if (navCheckbox.checked == false) { 
+        if (navCheckbox.checked == true) { 
             navBtn.setAttribute('aria-expanded', true);
+            window.scrollTo(0,0);
+            document.body.classList.add("nav-opened");
         } else {
             navBtn.setAttribute('aria-expanded', false);
+            document.body.classList.remove("nav-opened");
         }
     });
     

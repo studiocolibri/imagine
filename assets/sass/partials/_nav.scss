@@ -1,18 +1,32 @@
 .site-nav__list {
-    display:none;
+    display:block;
+    position:fixed;
+    left: 0;
+    width: 100%;
+    max-width: 50vw;
+    min-width: 240px;
+    height: 200vh;
+    top: -($su*3);
+    background-color: $turquoise;
     margin:0;
-    padding:0;
-    opacity:0;
+    padding:$su*6 $su*2;
     z-index: 15;
-    transform:scale(0);
+    box-shadow: 2px 2px 20px -10px #000;
+    left:-120vw;
     transform-origin: right top;
+    transition: left 300ms ease-in-out;
 
     @media screen and (min-width:$bp-l) {
+        position: static;
         display:flex;
         align-items:center;
         justify-content: flex-end;
-        opacity:1;
+        box-shadow: none;
         transform:none;
+        width:auto;
+        max-width: 100%;
+        height:auto;
+        background-color: transparent;
     }
 
     li {
@@ -28,12 +42,21 @@
 }
 
 .site-nav__link {
-    display:block;
-    line-height: 1;
-    font-size: 0.9rem;
-    padding:0.5em 0;
-    margin-right: $su*2;
+    display:inline-block;
     position: relative;
+    margin-right: $su*2;
+    margin-bottom:$su;
+    padding:0.5em 0;
+    line-height: 1;
+    text-decoration: none;
+    font-size: 1.3rem;
+    font-weight: bold;
+    color:white;
+
+    @media screen and (min-width:$bp-l) {
+        font-size: 0.9rem;
+        margin-bottom:0;
+    }
 
     &:after {
         content:'';
@@ -59,7 +82,8 @@
 
 .site-nav__checkbox {
     position: absolute;
-    right:8px;
+    top:0;
+    right:26px;
     width: 40px;
     height: 30px;
     display: block;
@@ -68,22 +92,13 @@
     cursor:pointer;
 
     &:hover ~ .site-nav__button .nav-btn-0, &:focus ~ .site-nav__button .nav-btn-0 {
-        transform:scaleX(0.9);
+        transform:scale(1.05);
     }
 
     @media screen and (max-width:($bp-l - 1)) {
 
         &:checked ~ .site-nav__list {
-            display: block;
-            position: absolute;
-            animation:show-nav 200ms ease-out forwards;
-        }
-    }
-
-    @media screen and (min-width:$bp-m) {
-        
-        &:checked ~ .site-nav__list {
-            top: 65px;
+            left:0;
         }
     }
 
@@ -94,24 +109,12 @@
 
 .site-nav__button {
     position: absolute;
-    right:0;
+    top:0;
+    right:$su;
     border: none;
     background: none;
     
     @media screen and (min-width:$bp-l) {
         display:none;
-    }
-}
-
-@keyframes show-nav {
-    0% {
-        display:none;
-        opacity:0;
-        transform:scale(0);
-    }
-    100% {
-        display:block;
-        opacity:1;
-        transform:scale(1);
     }
 }

@@ -4,10 +4,10 @@
 
 .site-footer {
     position:relative;
-    padding:$su*3 $su*2;
+    padding:$su*3 $su;
     
     @media screen and (min-width:$bp-l) {
-        padding:$su*5 $su;
+        padding:$su*5 $su*2;
     }
 }
 
@@ -40,7 +40,7 @@
 
         a {
             padding: 0.2em 0.5em 0.2em 0;
-            
+
             img {
                 transform: scale(1);
                 transition: transform 200ms ease-out;
