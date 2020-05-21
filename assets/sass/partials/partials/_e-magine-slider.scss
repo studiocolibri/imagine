@@ -26,12 +26,13 @@
 }
 
 .e-magine-slider__controls {
+    display:flex;
     margin-left:$su;
     max-width: $su*3;
     outline:0;
 
     @media screen and (min-width:$bp-l) {
-        margin-left:$su*3;
+        margin-left:$su*4;
     }
 
     button {
@@ -55,6 +56,10 @@
     @media screen and (min-width:$bp-l) {
         margin-left:$su*3;
     }
+}
+
+.tns-nav {
+    display:none;
 }
 
 #tns1-iw.tns-inner {

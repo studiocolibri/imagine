@@ -127,11 +127,12 @@ a.skip-to-content.hide {
 }
 
 .section-2-cols {
-    
+
     h3 {
         font-size: 2.4rem;
         line-height: 1;
-        margin-top: $su;
+        margin-top: 0;
+        padding-right:$su/2;
     }
     
     p {
