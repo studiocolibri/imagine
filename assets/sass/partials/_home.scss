@@ -9,27 +9,6 @@
 $bp-cover : 1363px;
 
 .home-header {
-    position: relative;
-    padding-top: $su*7;
-    background-color: $green;
-    background-image: url(../assets/img/les-confluents.png);
-    background-position: -150px 150px;
-    background-repeat: no-repeat;
-    overflow: hidden;
-    
-    @media screen and (min-width:$bp-l) {
-        padding-top: $su*10;
-        background-image: url(../assets/img/les-confluents.png),
-        linear-gradient(
-            90deg,
-            $green 0%,
-            $green 70%,
-            white 70%,
-            white 100%
-        );
-        background-position: -100px 160px, 0 0;
-        background-repeat: no-repeat, no-repeat;
-    }
 
     .home-header__right {
         position: relative;
@@ -42,36 +21,13 @@ $bp-cover : 1363px;
     color:$turquoise;
 }
 
+
+
 .home-header__title {
-    text-decoration: none;
-    display:block;
 
     @media screen and (min-width:1600px) {
         width:640px;
     }
-
-    h1 {
-        margin:$su 0;
-        color:white;
-        font-size: 2.4rem;
-        line-height: 1;
-
-        @media screen and (min-width:$bp-s) {
-            font-size: 4rem;
-        }
-    }
-
-    @supports (-webkit-text-stroke: 1px white) {
-
-        &:hover, &:focus {
-            
-            h1 {
-                color:transparent;
-                -webkit-text-stroke: 1px white;
-            }
-        }
-    }
-
 }
 
 .home-header__left {
@@ -217,7 +173,7 @@ $bp-cover : 1363px;
 
 }
 
-.home-new-imagine {
+.home-section-one {
     position: relative;
     padding:$su*5 $su 0;
     
@@ -230,12 +186,12 @@ $bp-cover : 1363px;
     }
 }
 
-.home-e-magine {
+.home-section-two {
     position: relative;
     padding:$su*5 0;
     overflow: hidden;
     
-    @media screen and (min-width:$bp-m) {
+    @media screen and (min-width:$bp-l) {
         padding:$su*5 0 0 $su*5;
         background: linear-gradient(
             90deg,
@@ -251,6 +207,7 @@ $bp-cover : 1363px;
     
     .section-title {
         color:$yellow;
+        margin-left:$su;
     }
 
     &__btn-all {
@@ -268,7 +225,7 @@ $bp-cover : 1363px;
     }
 }
 
-.home-dossier {
+.home-section-three {
     position: relative;
     padding:0 0 $su*4 0;
     
@@ -286,6 +243,7 @@ $bp-cover : 1363px;
     .section-title {
         color:$pink;
         top:$su*10;
+        margin-left:$su;
     }
 
     .flex-2-cols {

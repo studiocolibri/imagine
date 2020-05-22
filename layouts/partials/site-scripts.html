@@ -2,7 +2,7 @@
 {{ $navPublic := $nav | resources.Minify | resources.Fingerprint }}
 <script src="{{ $navPublic.Permalink }}"></script>
 
-{{ if .IsHome }}
+{{ if or (.IsHome) (eq .Page.Params.class "imagine-2020") }}
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"></script>
     {{ $tinySlider := resources.Get "js/tinySliderOptions.js" }}
     {{ $tinySliderPublic := $tinySlider | resources.Minify | resources.Fingerprint }}

@@ -1,5 +1,4 @@
 var sliderControlsContainer = document.querySelector('.e-magine-slider__controls');
-sliderControlsContainer.style.display = 'block';
 
 var slider = tns({
 	container: '.e-magine-slider',

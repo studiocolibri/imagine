@@ -1,3 +1,101 @@
+.page-header {
+    position: relative;
+    padding-top: $su*7;
+    background-color: $green;
+    background-image: url(../assets/img/les-confluents.png);
+    background-position: -150px 150px;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    
+    @media screen and (min-width:$bp-l) {
+        padding-top: $su*10;
+        background-image: url(../assets/img/les-confluents.png),
+        linear-gradient(
+            90deg,
+            $green 0%,
+            $green 70%,
+            white 70%,
+            white 100%
+        );
+        background-position: -100px 160px, 0 0;
+        background-repeat: no-repeat, no-repeat;
+    }
+}
+
+.page-header__title {
+    text-decoration: none;
+    display:block;
+
+    h1 {
+        margin:$su 0;
+        color:white;
+        font-size: 2.4rem;
+        line-height: 1;
+
+        @media screen and (min-width:$bp-s) {
+            font-size: 4rem;
+        }
+    }
+
+}
+
+.section-2-cols {
+
+    h3 {
+        font-size: 2.4rem;
+        line-height: 1;
+        margin-top: 0;
+        padding-right:$su/2;
+    }
+    
+    p {
+        font-size: 1.2rem;
+    }
+    
+    .btn {
+        margin-top: $su;
+    }
+}
+
+.section-title {
+    font-weight: bold;
+    font-size: 1.2rem;
+    padding:0;
+    transform-origin: center center;
+    @include ff-r;
+
+    &.right,
+    &.left {
+        margin:0 0 $su*2 0;
+
+        &.margin {
+            margin:0 $su*2 $su*2 $su*2;
+        }
+
+        @media screen and (min-width:$bp-l) {
+            position: absolute;
+            margin-bottom:0;
+            writing-mode: vertical-rl;
+            transform:rotate(180deg);
+        }
+    }
+
+    &.right {
+        text-align:right;
+
+        @media screen and (min-width:$bp-l) {
+            right:$su*3;
+        }
+    }
+
+    &.left{
+
+        @media screen and (min-width:$bp-l) {
+            left:$su*2;
+        }
+    }
+}
+
 @import
     "partials/pages/e-magine",
     "partials/pages/imagine-2020",

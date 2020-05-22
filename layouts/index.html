@@ -1,11 +1,11 @@
 {{ define "main" }}
 
-<section class="home-header">
+<section class="home-header page-header">
     {{ range first 1 (where $.Site.RegularPages.ByDate.Reverse "Section" "numeros") }}
         <div class="flex-2-cols cw">
             <div class="flex-2-cols__col home-header__left">
                 <p class="home-header__numero"><strong>n°{{ .Params.num }}</strong> / {{ .Params.period }}</p>
-                <a class="home-header__title" href="/numero-en-cours">
+                <a class="home-header__title page-header__title" href="/numero-en-cours">
                     <h1>{{ .Title | safeHTML }}</h1>
                 </a>
             </div>
@@ -21,36 +21,36 @@
     </div>
 </section>
 
-<section class="home-new-imagine section-2-cols">
-    <h2 class="section-title right">#imagine2020</h2>
+<section class="home-section-one section-2-cols">
+    <h2 class="section-title right">{{ .Params.section_one.section_title }}</h2>
     <div class="flex-2-cols cw">
         <div class="flex-2-cols__col">
             <img src="/assets/img/imagine-6-territoires.png" alt="les 6 territoires">
         </div>
         <div class="flex-2-cols__col">
-            <h3>{{ .Params.new_imagine.title | safeHTML }}</h3>
-            <p>{{ .Params.new_imagine.text | safeHTML }}</p>
-            <a href="{{ .Params.new_imagine.btn_link }}" class="btn">{{ .Params.new_imagine.btn_text }}</a>
+            <h3>{{ .Params.section_one.title | safeHTML }}</h3>
+            <p>{{ .Params.section_one.text | safeHTML }}</p>
+            <a href="{{ .Params.section_one.btn_link }}" class="btn">{{ .Params.section_one.btn_text }}</a>
         </div>
     </div>
 </section>
 
-<section class="home-e-magine">
-    <h2 class="section-title left">e-magine</h2>
+<section class="home-section-two">
+    <h2 class="section-title left margin">{{ .Params.section_two.section_title }}</h2>
     {{ partial "e-magine-slider.html" }}
-    <p><a href="#" class="btn home-e-magine__btn-all">Tous nos contenus</a></p>
+    <p><a href="{{ .Params.section_two.btn_link }}" class="btn home-section-two__btn-all">{{ .Params.section_two.btn_txt }}</a></p>
 </section>
 
-<section class="home-dossier section-2-cols">
-    <h2 class="section-title right">dossier</h2>
+<section class="home-section-three section-2-cols">
+    <h2 class="section-title right margin">{{ .Params.section_three.section_title }}</h2>
     <div class="flex-2-cols cw">
         <div class="flex-2-cols__col">
             <img src="/assets/img/home-dossier.jpg">
         </div>
         <div class="flex-2-cols__col">
-            <h3>{{ .Params.dossier.title | safeHTML }}</h3>
-            <p>{{ .Params.dossier.text | safeHTML }}</p>
-            <a href="{{ .Params.dossier.btn_link }}" class="btn">{{ .Params.dossier.btn_text }}</a>
+            <h3>{{ .Params.section_three.title | safeHTML }}</h3>
+            <p>{{ .Params.section_three.text | safeHTML }}</p>
+            <a href="{{ .Params.section_three.btn_link }}" class="btn">{{ .Params.section_three.btn_text }}</a>
         </div>
     </div>
 </section>

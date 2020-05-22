@@ -30,12 +30,12 @@ picture {
     &:after {
         content: '';
         position: absolute;
-        top: 0.22em;
-        right: -0.9em;
+        top: 0.15em;
+        right: -1.2em;
         background-image: url(../assets/img/arrow-right.svg);
         background-repeat: no-repeat;
-        width: 0.4em;
-        height: 0.8em;
+        width: 0.7em;
+        height: 1em;
         transform:translateX(0px);
         transition:transform 150ms ease-out;
     }
