@@ -4,11 +4,11 @@
     width: 100%;
     height: 100vh;
     top: -($su*3);
-    left:-120vw;
+    transform: translateX(-120vw);
     padding:$su*9 0 0 0;
     background-color: $green;
     box-shadow: 2px 2px 20px -10px #000;
-    transition: left 300ms ease-in-out;
+    transition: transform 300ms ease-in-out;
     display:flex;
     flex-direction: column;
     justify-content: space-between;
@@ -129,7 +129,7 @@
     @media screen and (max-width:($bp-l - 1)) {
 
         &:checked ~ .site-nav__inner {
-            left:0;
+            transform:translateX(0);
         }
 
         &:checked ~ .site-nav__button .site-nav__button__open {
