@@ -6,10 +6,12 @@ window.onload = function() {
 
     let openNav = function() {
         navCheckbox.checked = true;
+        document.body.classList.add("nav-opened");
         navBtnOpen.setAttribute('aria-expanded', true);
     }
     let closeNav = function() {
         navCheckbox.checked = false;
+        document.body.classList.remove("nav-opened");
         navBtnOpen.setAttribute('aria-expanded', false);
     }
     let toggleNav = function() {
@@ -26,11 +28,9 @@ window.onload = function() {
     navCheckbox.addEventListener('change', function() {
         if (navCheckbox.checked == true) { 
             navBtnOpen.setAttribute('aria-expanded', true);
-            window.scrollTo(0,0);
-            document.body.classList.add("nav-opened");
         } else {
             navBtnOpen.setAttribute('aria-expanded', false);
-            document.body.classList.remove("nav-opened");
+        
         }
     });
     
