@@ -65,6 +65,7 @@
     font-weight: bold;
     color:white;
     text-transform: uppercase;
+    transition: color 150ms ease-out;
 
     @media screen and (min-width:$bp-l) {
         display:inline-block;
@@ -75,20 +76,8 @@
         text-transform: initial;
     }
 
-    &:after {
-        content:'';
-        position: absolute;
-        bottom:0;
-        left:0;
-        right:0;
-        background:white;
-        height:2px;
-        width:100%;
-        opacity:0;
-        transition:opacity 150ms ease-out;
-    }
-
     &:hover, &:focus {
+        color:$turquoise;
 
         &:after {
             opacity:1;
