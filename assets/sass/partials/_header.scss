@@ -27,6 +27,8 @@
 .site-logo {
     width:100%;
     max-width: 200px;
+    position: relative;
+    z-index:20;
 
     @media screen and (min-width:$bp-l) {
         max-width: 258px;
@@ -39,7 +41,7 @@
 
 .site-header__subscribe {
 
-    @media screen and (max-width:($bp-s - 1)) {
+    @media screen and (max-width:($bp-l - 1)) {
         display:none !important;
     }
 }

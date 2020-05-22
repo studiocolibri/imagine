@@ -1,32 +1,42 @@
-.site-nav__list {
-    display:block;
+.site-nav__inner {
     position:fixed;
     left: 0;
     width: 100%;
-    max-width: 50vw;
-    min-width: 240px;
-    height: 200vh;
+    height: 100vh;
     top: -($su*3);
-    background-color: $turquoise;
-    margin:0;
-    padding:$su*6 $su*2;
-    z-index: 15;
-    box-shadow: 2px 2px 20px -10px #000;
     left:-120vw;
-    transform-origin: right top;
+    padding:$su*9 0 0 0;
+    background-color: $green;
+    box-shadow: 2px 2px 20px -10px #000;
     transition: left 300ms ease-in-out;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
 
     @media screen and (min-width:$bp-l) {
         position: static;
-        display:flex;
-        align-items:center;
-        justify-content: flex-end;
-        box-shadow: none;
-        transform:none;
         width:auto;
         max-width: 100%;
         height:auto;
+        padding:0;
         background-color: transparent;
+        box-shadow: none;
+    }
+}
+
+.site-nav__list {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    margin:0;
+    padding:0 $su*2;
+    z-index: 15;
+
+    @media screen and (min-width:$bp-l) {
+        flex-direction: row;
+        align-items:center;
+        justify-content: flex-end;
+        box-shadow: none;
     }
 
     li {
@@ -42,20 +52,24 @@
 }
 
 .site-nav__link {
-    display:inline-block;
+    display:block;
     position: relative;
-    margin-right: $su*2;
-    margin-bottom:$su;
-    padding:0.5em 0;
+    margin:0 0 $su 0;
+    padding:0.5em;
     line-height: 1;
     text-decoration: none;
     font-size: 1.3rem;
     font-weight: bold;
     color:white;
+    text-transform: uppercase;
 
     @media screen and (min-width:$bp-l) {
+        display:inline-block;
         font-size: 0.9rem;
+        padding:0.5em 0;
+        margin-right: $su*2;
         margin-bottom:0;
+        text-transform: initial;
     }
 
     &:after {
@@ -79,6 +93,23 @@
     }
 }
 
+.site-nav__list__subscribe_btn {
+    display:block;
+    width:100%;
+    margin-top: auto;
+    padding:2em;
+    background: $turquoise;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing:1px;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+
+    @media screen and (min-width:$bp-l) {
+        display: none;
+    }
+}
 
 .site-nav__checkbox {
     position: absolute;
@@ -97,8 +128,16 @@
 
     @media screen and (max-width:($bp-l - 1)) {
 
-        &:checked ~ .site-nav__list {
+        &:checked ~ .site-nav__inner {
             left:0;
+        }
+
+        &:checked ~ .site-nav__button .site-nav__button__open {
+            display:none;
+        }
+
+        &:checked ~ .site-nav__button .site-nav__button__close {
+            display:block;
         }
     }
 
@@ -113,8 +152,16 @@
     right:$su;
     border: none;
     background: none;
+    z-index:20;
     
     @media screen and (min-width:$bp-l) {
         display:none;
     }
+
+    &__close {
+        display:none;
+        width:30px;
+        height:30px;
+    }
 }
+

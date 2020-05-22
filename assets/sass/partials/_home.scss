@@ -219,7 +219,7 @@ $bp-cover : 1363px;
 
 .home-new-imagine {
     position: relative;
-    padding:$su*5 $su*2 0;
+    padding:$su*5 $su 0;
     
     @media screen and (min-width:$bp-l) {
         padding:$su*5 $su*2;
