@@ -15,7 +15,7 @@ $bp-cover : 1363px;
     background-image: url(../assets/img/les-confluents.png);
     background-position: -150px 150px;
     background-repeat: no-repeat;
-    overflow-x: hidden;
+    overflow: hidden;
     
     @media screen and (min-width:$bp-l) {
         padding-top: $su*10;
