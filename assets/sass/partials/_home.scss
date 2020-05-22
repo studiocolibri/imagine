@@ -15,6 +15,7 @@ $bp-cover : 1363px;
     background-image: url(../assets/img/les-confluents.png);
     background-position: -150px 150px;
     background-repeat: no-repeat;
+    overflow-x: hidden;
     
     @media screen and (min-width:$bp-l) {
         padding-top: $su*10;
@@ -28,6 +29,11 @@ $bp-cover : 1363px;
         );
         background-position: -100px 160px, 0 0;
         background-repeat: no-repeat, no-repeat;
+    }
+
+    .home-header__right {
+        position: relative;
+        z-index: 2;
     }
 
 }
@@ -81,12 +87,16 @@ $bp-cover : 1363px;
     }
     
     @media screen and (min-width:$bp-l) {
-        padding:0;
+        padding:0 $su;
         width:calc(50% - #{$su * 5});
         
         &.flex-2-cols__col:first-of-type {
             margin-right:0;
         }
+    }
+
+    @media screen and (min-width:$bp-l + ($su*3)) {
+        padding:0;
     }
 }
 
@@ -153,28 +163,24 @@ $bp-cover : 1363px;
     }
 }
 
-.home-header__discover-btn.btn {
+.home-header__discover-btn {
     display:inline-block;
-    color:white;
-    text-decoration: none;
-    text-transform: uppercase;
-    font-weight: bold;
-    font-size: 0.9rem;
+    position: relative;
+    z-index:1;
+    width: 100%;
     padding:$su*3 0;
     padding-left:$su*5;
-    transform: translateX(0px);
-    transition: transform 150ms ease-out;
     background: white;
-    width: 100%;
-    color: $turquoise;
-
+    
     @media screen and (min-width:$bp-l) {
+        display:flex;
+        align-items:flex-end;
+        position:absolute;
+        bottom:-10px;
+        height:160px;
         padding-left:$su*7;
-        background:transparent;
-        color:white;
-        width: auto;
     }
-
+    
     &:before {
         content:'';
         position: absolute;
@@ -182,36 +188,30 @@ $bp-cover : 1363px;
         left:-50px;
         height:1px;
         width:$su*6 + 5px;
-        background-color: $turquoise;
+        background-color:$turquoise;
 
         @media screen and (min-width:$bp-l) {
             left:-5px;
-            background-color:white;
         }
     }
-
-    &:after {
-        background-image:url('../assets/img/arrow-right-turquoise.svg');
-        top: calc(50% - 0.5em);
-        width: 0.7em;
-        height: 0.9em;
-        left: 18.3em;
-
-        @media screen and (min-width:$bp-s) {
-            left:17.6em;
-        }
-        
-        @media screen and (min-width:$bp-l) {
-            top: calc(50% - 0.4em);
-            left:19.1em;
-            background-image:url('../assets/img/arrow-right-white.svg');
-        }
-    }
-
-    &:hover, &:focus {
-
-        @media screen and (min-width:$bp-l) {
-            transform: translateX(5px);
+    
+    .btn {
+        text-decoration: none;
+        text-transform: uppercase;
+        font-weight: bold;
+        font-size: 0.9rem;
+        color: $turquoise;
+    
+        &:after {
+            background-image:url('../assets/img/arrow-right-turquoise.svg');
+            top: calc(50% - 0.5em);
+            width: 0.7em;
+            height: 0.9em;
+            right:-1.2em;
+            
+            @media screen and (min-width:$bp-l) {
+                top: calc(50% - 0.4em);
+            }
         }
     }
 
