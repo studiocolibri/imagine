@@ -21,10 +21,10 @@
     <link rel="stylesheet" type="text/css" href="{{ $style.Permalink | relURL }}">
     {{ partial "site-favicon.html" . }}
   </head>
-	<body id="root" class="{{ with .IsHome }}home{{ end }}{{ with .Page.Params.class }} {{ . }}{{ end }}">
+	<body id="root" class="{{ with .Page.Params.class }}{{ . }}{{ end }}">
     <a class="hide skip-to-content" href="#site-main">Aller directement vers le contenu</a>
     <div class="site-wrapper">
-      {{ partial "site-header.html" .}}
+      {{ partial "site-header.html" . }}
       <main id="site-main" class="site-main">{{ block "main" . }}{{ end }}</main>
       {{ partial "site-footer.html" . }}
     </div>

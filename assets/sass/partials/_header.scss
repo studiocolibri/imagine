@@ -5,12 +5,10 @@
 .site-header {
     display:flex;
     align-items:center;
-    justify-content: space-between;
     top:$su*3;
     left:50%;
     height:50px;
     width:100%;
-    max-width: 1420px;
     margin:0;
     padding:0 $su;
     transform:translateX(-50%);
@@ -19,8 +17,9 @@
         padding:0 $su*2;
     }
 
-    @media screen and (min-width:$bp-l) {
+    @media screen and (min-width:1400px) {
         padding:0 $su*4;
+        justify-content: space-between;
     }
 }
 
@@ -40,8 +39,13 @@
 }
 
 .site-header__subscribe {
+    margin-left:auto;
 
     @media screen and (max-width:($bp-l - 1)) {
         display:none !important;
+    }
+
+    @media screen and (min-width:1400px) {
+        margin-left:0;
     }
 }

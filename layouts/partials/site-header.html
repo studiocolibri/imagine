@@ -11,9 +11,10 @@
 		</button>
 		<div class="site-nav__inner">
 			<ul class="site-nav__list">
+				{{ $currentPage := . }}
 				{{ range .Site.Menus.main }}
 					<li>
-						<a class="site-nav__link" href="{{ .URL }}">{{ .Name | safeHTML }}</a>
+						<a class="site-nav__link{{ if in $currentPage.RelPermalink .URL }} active{{ end }}" href="{{ .URL }}">{{ .Name | safeHTML }}</a>
 					</li>
 				{{ end }}
 			</ul>

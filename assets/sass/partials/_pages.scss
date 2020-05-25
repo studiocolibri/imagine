@@ -13,12 +13,23 @@
         linear-gradient(
             90deg,
             $green 0%,
-            $green 70%,
-            white 70%,
+            $green 80%,
+            white 80%,
             white 100%
         );
         background-position: -100px 160px, 0 0;
         background-repeat: no-repeat, no-repeat;
+    }
+
+    @media screen and (min-width:1600px) {
+        background-image: url(../assets/img/les-confluents.png),
+        linear-gradient(
+            90deg,
+            $green 0%,
+            $green 75%,
+            white 75%,
+            white 100%
+        );
     }
 }
 

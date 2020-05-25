@@ -1,4 +1,5 @@
 ---
+class: home
 title: Imagine | Demain le monde | Slow press magazine
 section_one:
   section_title: "#imagine2020"

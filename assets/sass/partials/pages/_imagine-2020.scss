@@ -14,13 +14,15 @@
         linear-gradient(
             90deg,
             $green 0%,
-            $green 70%,
-            white 70%,
+            $green 80%,
+            white 80%,
             white 100%
         );
         background-position: -100px 160px, 0 0;
         background-repeat: no-repeat, no-repeat;
     }
+
+    
 }
 
 .imagine-2020__header__title {
@@ -96,7 +98,7 @@
         }
 
         @media screen and (min-width:$bp-l) {
-            transform:translateY(-$su*9);
+            transform:translate($su*8,-$su*9);
         }
     }
 }
