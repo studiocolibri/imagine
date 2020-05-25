@@ -66,7 +66,7 @@ $bp-cover : 1363px;
         background-image:url('../assets/img/book-shadow.png');
         background-repeat: no-repeat;
         background-size: 267px 135px;
-        background-position: right 0px bottom 0px;
+        background-position: right 0px bottom 6px;
         transform: scale(0.8);
     }
 
@@ -94,7 +94,7 @@ $bp-cover : 1363px;
         text-align: left;
         padding:0;
         width:449px;
-        transform: perspective(430px) rotateY(-9deg);
+        transform: perspective(860px) rotateY(-14deg);
 
         img {
             box-shadow: none;
