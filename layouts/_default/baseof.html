@@ -4,8 +4,9 @@
     <meta charset="utf-8">
     <meta name="language" content="{{ .Site.LanguageCode }}" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    {{/*  <link rel="preload" href="/assets/fonts/volte-webfont.woff2" as="font" type="font/woff2" crossorigin="anonymous">
-    <link rel="preload" href="/assets/fonts/hwtartz-webfont.woff2" as="font" type="font/woff2" crossorigin="anonymous">  */}}
+    <link rel="preload" href="/assets/fonts/faible-regular-webfont.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+    <link rel="preload" href="/assets/fonts/faible-bold-webfont.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+    <link rel="preload" href="/assets/fonts/subset-PlayfairDisplay-Regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
     <title>
       {{ .Site.Title }}
     </title>
@@ -16,8 +17,8 @@
     <meta property="og:description" content='{{ with .Content }}{{ . | truncate 158 }}{{ else }}{{ .Site.Data.infos.description }}{{ end }}' />
     <!-- <meta property="og:image" content="{{ .Site.BaseURL }}assets/upload" /> -->
     <meta property="og:site_name" content="{{ .Site.Title }}" />
-    {{- if .IsHome }}<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/tiny-slider.css">{{ end }}
-    {{ $style := resources.Get "sass/main.scss" | resources.ToCSS | resources.PostCSS (dict "config" "postcss.config.js") | resources.Minify | resources.Fingerprint }}
+    {{ if or (.IsHome) (eq .Page.Params.class "imagine-2020") }}<link rel="stylesheet" href="/assets/css/tinyslider.css">{{ end }}
+    {{- $style := resources.Get "sass/main.scss" | resources.ToCSS | resources.PostCSS (dict "config" "postcss.config.js") | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet" type="text/css" href="{{ $style.Permalink | relURL }}">
     {{ partial "site-favicon.html" . }}
   </head>

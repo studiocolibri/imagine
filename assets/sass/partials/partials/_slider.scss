@@ -1,4 +1,4 @@
-.e-magine-slider {
+.slider__list {
     margin:0;
 
     article {
@@ -25,8 +25,8 @@
     }
 }
 
-.e-magine-slider__controls {
-    display:flex !important;
+.slider__controls {
+    display:flex;
     min-width:$su*3;
     margin-bottom:$su;
     margin-left:$su;
@@ -81,7 +81,7 @@
     }
 }
 
-.e-magine-slider__category {
+.slider__category {
     display:block;
     position:absolute;
     top:$su*2;
@@ -91,28 +91,28 @@
     font-size: 0.9rem;
     font-weight: bold;
 
-    &.yellow {
+    &[data-color="monde"] {
         background-color:$yellow;
     }
-    &.green {
+    &[data-color="découvrir"] {
         background-color:$green;
     }
-    &.pink {
+    &[data-color="actualité"] {
         background-color:$pink;
     }
 }
 
-.e-magine-slider__date {
+.slider__date {
     display:block;
     font-size: 0.9rem;
     font-weight: bold;
 }
 
-.e-magine-slider__title {
+.slider__title {
     font-size:1.4rem;
 }
 
-.e-magine-slider__description {
+.slider__description {
     font-size:1.2rem;
 }
 

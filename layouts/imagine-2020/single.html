@@ -85,10 +85,11 @@
     </div>
 </section>
 
-<!-- <section class="imagine-2020__section-six">
-    <h3>{{ .Params.section_five.title | safeHTML }}</h3>
-    {{ partial "e-magine-slider.html" . }}
-</section> -->
+<section class="imagine-2020__section-six page-section">
+    <h3>{{ .Params.section_six.title | safeHTML }}</h3>
+    {{ $items := first 8 (sort ($.Site.Data.presse.items) "date" "desc") }}
+    {{ partial "slider.html" (dict "type" "presse" "items" $items) }}
+</section>
 
 {{ partial "s-abonner.html" . }}
 

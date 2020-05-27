@@ -280,3 +280,49 @@
         }
     }
 }
+
+.imagine-2020__section-six {
+    position: relative;
+    padding:$su*5 0;
+    margin-right: 0;
+    overflow: hidden;
+    background: linear-gradient(
+        180deg,
+        white 0%,
+        white 50%,
+        $pink 50%,
+        $pink 100%
+        );
+    background-position: 0 50%;
+    background-repeat: no-repeat;
+    
+    @media screen and (min-width:$bp-l) {
+        padding:$su*5 0 $su*3 $su*5;
+    }
+
+    h3 {
+        margin-left:$su;
+    }
+
+    .slider__controls {
+        margin-left:$su;
+    
+        @media screen and (min-width:$bp-l) {
+            margin-left:$su;
+        }
+    }
+
+    #tns1-ow.tns-outer {
+        margin-left:0;
+    }
+
+    .slider__date {
+        display:inline-block;
+    }
+
+    .slider__origin {
+        font-size: 0.9rem;
+        font-weight: bold;
+        text-transform: uppercase;
+    }
+}

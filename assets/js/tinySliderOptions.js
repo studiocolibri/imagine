@@ -1,7 +1,7 @@
-var sliderControlsContainer = document.querySelector('.e-magine-slider__controls');
+var sliderControlsContainer = document.querySelector('.slider__controls');
 
 var slider = tns({
-	container: '.e-magine-slider',
+	container: '.slider__list',
 	items: 1,
 	gutter: 10,
 	arrowKeys: true,

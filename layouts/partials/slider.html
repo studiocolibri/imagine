@@ -1,0 +1,58 @@
+{{ $type := .type }}
+{{ $items := .items }}
+
+<div class="slider__controls">
+    <button>
+        <svg xmlns="http://www.w3.org/2000/svg" width="8.334" height="16.159" viewBox="0 0 8.334 16.159"><path d="M937,1438.5l6.254,7.246L937,1453.371" transform="translate(944.561 1454.006)rotate(180)" fill="none" stroke="#9D9D9D" stroke-width="2"></path></svg>
+    </button>
+    <button>
+        <svg xmlns="http://www.w3.org/2000/svg" width="8.334" height="16.159" viewBox="0 0 8.334 16.159"><path d="M937,1438.5l6.254,7.246L937,1453.371" transform="translate(-936.227 -1437.847)" fill="none" stroke="#9D9D9D" stroke-width="2"></path></svg>
+    </button>
+</div>
+<ul class="slider__list">
+    {{ if eq $type "e-magine" }}
+        {{ range $items }}
+            <li class="slider__item--e-magine">
+                <a href="{{ .Permalink }}">
+                    <article>
+                        <span class="slider__category" data-color="{{ .Params.categories | plainify | lower }}">{{ .Params.categories }}</span>
+                        <img class="slider__img" src="{{ .Site.BaseURL }}/assets/img/{{ .Params.img }}" role="presentation">
+                        <time class="slider__date" datetime="{{ .Date.Format "02-01-06"}}">{{ .Date.Format "02.01.06"}}</time>
+                        <h4 class="slider__title">{{ .Title }}</h4>
+                        <p class="slider__description">{{ .Params.description }}</p>
+                    </article>
+                </a>
+            </li>
+        {{ end }}
+    {{ else }}
+        {{ range $items }}
+            <li class="slider__item--presse">
+                <a href="{{ .link }}">
+                    <article>
+                        <img class="slider__img" src="{{ .Site.BaseURL }}/assets/img/{{ .img }}" role="presentation">
+                        <time class="slider__date" datetime="{{ dateFormat "02-01-06" .date }}">{{ dateFormat "02.01.06" .date }}</time> - <span class="slider__origin">{{ .origin }}</span>
+                        <h4 class="slider__title">{{ .title }}</h4>
+                    </article>
+                </a>
+            </li>
+        {{ end }}
+    {{ end }}
+</ul>
+<noscript>
+    <style>
+        .slider__controls {
+            display:none;
+        }
+        .slider__list {
+            display:flex;
+            overflow:auto;
+        }
+        .slider__list li {
+            list-style: none;
+            margin:0 20px 20px 0;
+            width:33%;
+            min-width: 280px;
+            max-width: 480px;
+        }
+    </style>
+</noscript>
