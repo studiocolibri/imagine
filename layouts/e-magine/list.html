@@ -1,6 +1,14 @@
 {{ define "main" }}
 
-<section class="e-magine-header">
+<div style="padding-top:200px">
+    {{ range .Pages }}
+        <a href="{{ .Permalink }}">
+            <h2>{{ .Title }}</h2>
+        </a>
+    {{ end }}
+</div>    
+
+{{/*  <section class="e-magine-header">
 
     <div id="e-magine-header__slides" class="confluents" aria-roledescription="Slideshow"
         aria-label="Description of Carousel">
@@ -119,6 +127,6 @@
 
     <a class="home-header__discover-btn" href="/dernier-numero">Découvrir le numéro #276</a>
 
-</section>
+</section>  */}}
 
 {{ end }}

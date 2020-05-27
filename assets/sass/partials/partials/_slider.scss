@@ -90,16 +90,6 @@
     text-transform: uppercase;
     font-size: 0.9rem;
     font-weight: bold;
-
-    &[data-color="monde"] {
-        background-color:$yellow;
-    }
-    &[data-color="découvrir"] {
-        background-color:$green;
-    }
-    &[data-color="actualité"] {
-        background-color:$pink;
-    }
 }
 
 .slider__date {

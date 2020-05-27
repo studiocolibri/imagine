@@ -7,8 +7,38 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiu
 img: 06Marikana.jpg
 ---
 
-Culpa tempor commodo id aliqua voluptate enim exercitation magna aliquip qui. Dolore sit minim tempor cillum aute quis cupidatat. Fugiat sunt mollit qui velit velit dolor irure sint irure pariatur ut. Eu ullamco velit non elit ex ut aliqua laborum exercitation exercitation proident exercitation. Minim tempor qui duis voluptate. Occaecat deserunt dolore velit ut ipsum amet laboris ipsum nisi est enim do.
+<p class="chapeau">Lorem ipsum dolor sit amet, consectetur adipiscing 
+elit, sed do eiusmod tempor incididunt ut labore et 
+dolore magna aliqua. Ut laboris nisi ut 
+aliquip ex ea commodo consequat ?</p>
 
-Esse est fugiat labore ullamco magna dolore sint nulla non magna ipsum. Laboris duis non pariatur proident veniam culpa. Eu deserunt nisi consequat nostrud. Occaecat amet occaecat elit aliquip tempor. Enim proident tempor eiusmod exercitation. Amet esse aliquip occaecat dolor esse.
+## Exemple de titre de paragraphe
 
-Occaecat aliquip velit nisi fugiat aute in incididunt id eiusmod ipsum non aliquip aliqua aliquip. Commodo labore ad ad laboris consectetur est duis consectetur labore ad pariatur. Aliquip tempor incididunt enim elit. Eiusmod qui excepteur velit fugiat consequat officia officia duis aliquip sit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+
+## Exemple de titre de paragraphe 2
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+
+> Lorem ipsum dolor sit amet, consectetur adipiscing 
+elit, sed do eiusmod tempor incididunt ut labore et 
+dolore magna aliqua. Ut laboris nisi ut 
+aliquip ex ea commodo consequat ? 
+
+<div class="full-width-img">
+    <img src="/assets/img/06Marikana.jpg" alt="alt text">
+</div>
+
+## Exemple de titre de paragraphe 3
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 

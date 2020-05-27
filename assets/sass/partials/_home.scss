@@ -131,10 +131,9 @@ $bp-cover : 1363px;
     
     @media screen and (min-width:$bp-l) {
         display:flex;
-        align-items:flex-end;
+        align-items:center;
         position:absolute;
         bottom:-10px;
-        height:160px;
         padding-left:$su*7;
     }
     
@@ -161,14 +160,11 @@ $bp-cover : 1363px;
     
         &:after {
             background-image:url('../assets/img/arrow-right-turquoise.svg');
-            top: calc(50% - 0.5em);
-            width: 0.7em;
-            height: 0.9em;
+            top: 50%;
+            width: 12px;
+            height: 18px;
             right:-1.2em;
-            
-            @media screen and (min-width:$bp-l) {
-                top: calc(50% - 0.4em);
-            }
+            transform:translateY(-50%);
         }
     }
 
@@ -217,11 +213,10 @@ $bp-cover : 1363px;
 
         @media screen and (min-width:$bp-m) {
             margin-top:$su*5;
-            margin-left:0;
         }
 
         @media screen and (min-width:$bp-l) {
-            margin-left:$su*3;
+            margin-left:$su*4;
         }
     }
 }

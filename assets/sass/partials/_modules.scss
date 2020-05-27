@@ -11,6 +11,16 @@ picture {
     display:block;
 }
 
+*[data-color="monde"] {
+    background-color:$yellow;
+}
+*[data-color="découvrir"] {
+    background-color:$green;
+}
+*[data-color="actualité"] {
+    background-color:$pink;
+}
+
 .btn {
     display:inline-block;
     position: relative;
@@ -23,20 +33,27 @@ picture {
     &:hover, &:focus {
 
         &:after {
-            transform:translateX(3px);
+            transform:translate(3px, -50%);
+        }
+    }
+
+    &:active {
+        
+        &:after {
+            transform:translate(0px, -50%);
         }
     }
 
     &:after {
         content: '';
         position: absolute;
-        top: 0.15em;
+        top: 50%;
         right: -1.2em;
         background-image: url(../assets/img/arrow-right.svg);
         background-repeat: no-repeat;
-        width: 0.7em;
-        height: 1em;
-        transform:translateX(0px);
+        width: 12px;
+        height: 18px;
+        transform:translate(0px, -50%);
         transition:transform 150ms ease-out;
     }
 
@@ -74,6 +91,22 @@ picture {
             color:$red;
             background-color:transparent;
             border-color:$red;
+        }
+    }
+
+    &--reverse {
+        transform:translateX(1em);
+
+        &:after {
+            left: -1.2em;
+            transform:translate(0px, -50%) rotate(180deg);
+        }
+
+        &:hover, &:focus {
+           
+           &:after {
+               transform:translate(-3px, -50%) rotate(180deg);
+           }
         }
     }
 }
