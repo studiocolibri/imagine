@@ -13,6 +13,7 @@ $aw: 1000px; //article-width
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+    min-height: 90vh;
 
     @media screen and (min-width:$bp-s) {
         padding: $su*10 $su*2 $su*6 $su*2;
@@ -66,7 +67,6 @@ $aw: 1000px; //article-width
     @include ff-t;
     font-size: calc(1rem + 5vw);
     color:white;
-    text-shadow: 0 0 2px #000;
     word-break: break-word;
     z-index:3;
 
