@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+<section class="page-header">
+    <h1 class="cw">{{ .Title }} - Page {{ .Paginator.PageNumber }}/{{ .Paginator.TotalPages }}</h1>
+</section>
+
+<section class="list-taxonomy cw">
+
+    <ul class="e-magine__articles__list">
+        {{ $paginator := .Paginate .Pages.ByDate.Reverse 6 }}
+        {{ range $paginator.Pages }}
+            {{ .Render "article" }}
+        {{ end }}
+    </ul>
+
+    {{ template "_internal/pagination.html" . }}
+</section>
+
+{{ partial "s-abonner.html" . }}
+
+{{ end }}

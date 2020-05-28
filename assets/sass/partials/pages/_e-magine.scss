@@ -148,3 +148,137 @@
 		}
 	}
 }
+
+.e-magine__list-taxo {
+    display:flex;
+    flex-wrap: wrap;
+    list-style: none;
+    margin:$su*2 0;
+    padding:0;
+    
+    @media screen and (min-width:$bp-s) {
+        margin:$su*5 0 $su*3;
+    }
+
+    a.btn {
+        margin:0 $su/2 $su/2 0;
+        border:1px solid transparent;
+        font-size: 0.9rem;
+        text-transform: uppercase;
+        
+        @media screen and (min-width:$bp-s) {
+            margin:0 $su $su 0;
+        }
+
+        &:hover, &:focus {
+            border:1px solid $txt-color;
+            color:$txt-color;
+        }
+
+        &:active {
+            border-color:transparent;
+            color:white;
+        }
+    }
+}
+
+.e-magine__articles__list {
+    list-style:none;
+    margin:0;
+    padding:0;
+    
+    @media screen and (min-width:$bp-s) {
+        
+        li:nth-child(even) {
+            
+            .e-magine__article {
+    
+                &__col.right {
+                    order:-1;
+                }
+
+                &__col.left {
+                    margin-right:0;
+                    margin-left:$su*2;
+                }
+            }
+        }
+    }
+}
+
+.e-magine__article {
+    margin-bottom:$su*4;
+
+    &__col.left {
+        display:block;
+        position:relative;
+    }
+
+    &__col.right {
+
+        * + * {
+            margin-top:0;
+            margin-bottom:$su;
+        }
+    }
+
+    @media screen and (min-width:$bp-s) {
+        display:flex;
+        margin-bottom:$su*4;
+
+        &__col {
+            width:50%;
+
+            &.left {
+                margin-right:$su*2;
+            }
+        }
+    }
+
+}
+
+.e-magine__article__category {
+    position: absolute;
+    top:$su*2;
+    left:0;
+    padding:.5em 1.75em;
+    text-transform: uppercase;
+    font-weight: bold;
+    color:white;
+    font-size: 0.9rem;
+}
+
+.e-magine__article__img{
+    width:100%;
+    height:auto;
+}
+
+.e-magine__article__date {
+    display:block;
+    font-weight: bold;
+    font-size: 0.9rem;
+    margin-top:$su/2;
+    margin-bottom:$su;
+}
+
+.e-magine__article__title-link {
+    color:$txt-color;
+    text-decoration: none;
+
+    &:hover, &:focus {
+        text-decoration: underline;
+    }
+
+    &:active {
+        text-decoration: none;
+    }
+}
+
+.e-magine__article__title {
+    font-size: 1.6rem;
+    margin:0 0 $su 0;
+}
+
+.e-magine__article__description {
+    font-size: 1.2rem;
+}

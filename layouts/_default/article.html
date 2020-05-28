@@ -1,0 +1,18 @@
+<li>
+    <article class="e-magine__article">
+        <a class="e-magine__article__col left" href="{{ .Permalink }}">
+            <span class="e-magine__article__category" data-color="{{ range .Params.categories }}{{ . | plainify | lower }}{{ end}}">
+                {{ range .Params.categories }}{{ . }}{{ end}}
+            </span>
+            <img class="e-magine__article__img" src="/assets/img/{{ .Params.img }}">
+        </a>
+        <div class="e-magine__article__col right">
+            <time class="e-magine__article__date" datetime="{{ .Date.Format "02-01-06"}}">{{ .Date.Format "02.01.06"}}</time>
+            <a class="e-magine__article__title-link" href="{{ .Permalink }}">
+                <h2 class="e-magine__article__title">{{ .Title }}</h2>
+            </a>
+            <p class="e-magine__article__description">{{ .Params.description | markdownify | truncate 240 }}</p>
+            <a class="e-magine__article__link btn" href="{{ .Permalink }}" class="btn">Lire plus</a>
+        </div>
+    </article>
+</li>

@@ -1,7 +1,7 @@
 baseURL = "https://imaginedemainlemonde.netlify.app"
 languageCode = "fr-be"
-title = "Imagine | Demain le monde | Slow press magazine"
-Paginate = 2
+title = "Imagine, Demain le monde | Slow press magazine"
+Paginate = 6
 
 [markup]
 
@@ -11,6 +11,7 @@ Paginate = 2
 unsafe = true
 
 [taxonomies]
+category = "categories"
 
 [[menu.main]]
 name = "n° en cours"

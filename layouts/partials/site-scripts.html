@@ -9,7 +9,7 @@
     <script src="{{ $tinySliderOptionsPublic.Permalink }}"></script>
 {{ end }}
 
-{{ if eq .Page.Params.class "e-magine" }}
+{{ if eq .Page.Params.class "e-magine-list" }}
     {{ $eMagineSlider := resources.Get "js/eMagineSlider.js" }}
     {{ $eMagineSliderPublic := $eMagineSlider | resources.Minify | resources.Fingerprint }}
     <script src="{{ $eMagineSliderPublic.Permalink }}"></script>

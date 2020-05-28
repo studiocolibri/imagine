@@ -2,7 +2,8 @@
 class: single-e-magine
 title: Titre du contenu/article online 3
 date: 2020-08-01
-categories: Découvrir
+categories:
+- Découvrir
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut.
 img: 06Marikana.jpg
 ---

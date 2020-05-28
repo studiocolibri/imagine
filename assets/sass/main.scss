@@ -11,11 +11,13 @@ $su: 20px; // spacing-unit
 
 $mw: 1920px; // max-width
 $cw: 1200px; // content max-width
+$aw: 1000px; // article-width
 
 $bp-xs: 400px; // breakpoint S
 $bp-s: 768px; // breakpoint S
 $bp-m: 980px; // breakpoint M
-$bp-l: 1200px; // breakpoint L
+$bp-l: 1140px; // breakpoint L
+$bp-xl: 1400px; // breakpoint XL
 
 @font-face {
     font-family: 'Faible';

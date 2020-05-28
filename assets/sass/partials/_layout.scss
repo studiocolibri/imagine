@@ -76,6 +76,24 @@ a.skip-to-content.hide {
     max-width:$cw;
     margin-right:auto;
     margin-left:auto;
+    padding:0 $su;
+
+    @media screen and (min-width:$bp-l) {
+        padding:0 $su*2;
+    }
+}
+
+//article width
+.aw {
+    width:100%;
+    max-width:$aw;
+    margin-right:auto;
+    margin-left:auto;
+    padding:0 $su;
+
+    @media screen and (min-width:$bp-l) {
+        padding:0 $su*2;
+    }
 }
 
 .flex-2-cols {

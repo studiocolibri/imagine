@@ -2,14 +2,14 @@
     position: relative;
     padding-top: $su*7;
     background-color: $green;
-    background-image: url(../assets/img/les-confluents.png);
+    background-image: url(../assets/img/round.png);
     background-position: -150px 150px;
     background-repeat: no-repeat;
     overflow: hidden;
     
     @media screen and (min-width:$bp-l) {
         padding-top: $su*10;
-        background-image: url(../assets/img/les-confluents.png),
+        background-image: url(../assets/img/round.png),
         linear-gradient(
             90deg,
             $green 0%,
@@ -22,7 +22,7 @@
     }
 
     @media screen and (min-width:1600px) {
-        background-image: url(../assets/img/les-confluents.png),
+        background-image: url(../assets/img/round.png),
         linear-gradient(
             90deg,
             $green 0%,
@@ -84,7 +84,7 @@
             margin:0 $su*2 $su*2 $su*2;
         }
 
-        @media screen and (min-width:$bp-l) {
+        @media screen and (min-width:$bp-xl) {
             position: absolute;
             margin-bottom:0;
             writing-mode: vertical-rl;
@@ -95,14 +95,14 @@
     &.right {
         text-align:right;
 
-        @media screen and (min-width:$bp-l) {
+        @media screen and (min-width:$bp-xl) {
             right:$su*3;
         }
     }
 
     &.left{
 
-        @media screen and (min-width:$bp-l) {
+        @media screen and (min-width:$bp-xl) {
             left:$su*2;
         }
     }

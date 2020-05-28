@@ -1,12 +1,17 @@
 ul.pagination {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     list-style: none;
-    margin: $su*4 auto $su*2;
-    padding:0;
+    margin: $su*4 auto;
+    padding: 0 $su;
+
+    @media screen and (min-width:$bp-l) {
+        padding:0 $su*2;
+    }
 
     .page-item {
-        margin:0 $su/4;
+        margin:$su/2 $su/4;
 
         &.disabled {
 
@@ -19,30 +24,30 @@ ul.pagination {
         &.active {
 
             .page-link {
-                background-color: white;
+                background-color: $pink;
                 color: $red;
-                border: 2px solid $red;
-                padding: 0em 0.4em;
+                border: 1px solid $red;
             }
         }
     }
 
     a.page-link {
-        padding:0.1em 0.5em;
-        background:$red;
-        color:white;
-        border-radius: 0.3em;
-        @include ff-t;
         display:block;
-        transition: transform 150ms;
+        padding:0.35em 0.75em;
+        background:$pink;
+        font-size: 0.9rem;
+        text-decoration: none;
+        line-height: 1;
+        color:$red;
+        border:1px solid transparent;
+        transition:border-color 150ms ease-out;
 
         &:hover, &:focus {
-            transform:scale(1.15);
-            text-decoration: none;
+            border-color:$red;
         }
 
         &:active {
-            transform:scale(1);
+            border-color:transparent
         }
     }
 }

@@ -2,7 +2,8 @@
 class: single-e-magine
 title: Titre du contenu/article online 7
 date: 2020-03-12
-categories: Monde
+categories:
+- Monde
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut.
 img: andreas-gucklhorn.jpg
 ---
@@ -17,6 +18,11 @@ aliquip ex ea commodo consequat ?</p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+
+<figure class="half-width-img-txt">
+    <img src="/assets/img/andreas-gucklhorn.jpg" alt="">
+    <figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing dolore magna aliqua. Ut laboris nisi ut aliquip ex ea commodo consequat ?</figcaption>
+</figure>
 
 ## Exemple de titre de paragraphe 2
 

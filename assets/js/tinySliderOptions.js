@@ -5,7 +5,7 @@ var slider = tns({
 	items: 1,
 	gutter: 10,
 	arrowKeys: true,
-	mouseDrag: false,
+	mouseDrag: true,
 	controlsContainer: sliderControlsContainer,
 	responsive: {
 		480: {

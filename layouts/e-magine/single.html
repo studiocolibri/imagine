@@ -3,15 +3,22 @@
 <article>
     <header class="single-e-magine__header" style="background-image:url('{{ .Site.BaseURL }}/assets/img/{{ .Params.img }}')">
         <div class="single-e-magine__category">
-            <p class="" data-color="{{ .Params.categories | plainify | lower }}">{{ .Params.categories }}</p>
+            <p data-color="{{ range first 1 .Params.categories }}{{ . | plainify | lower }}{{ end}}">
+                {{ range first 1 .Params.categories }}{{ . }}{{ end}}
+            </p>
         </div>
         <h1 class="single-e-magine__title">{{ .Title }}</h1>
+        <picture class="single-e-magine__more-img">
+            <source srcset="/assets/img/arrow-down.svg" media="(max-width: 1140px)">
+            <img src="/assets/img/arrow-down-long.svg" alt="Faites dérouler pour voir la suite" width="15" height="82">
+        </picture>
     </header>
     <time class="single-e-magine__date" datetime="{{ .Date.Format "02-01-06"}}">{{ .Date.Format "02.01.06"}}</time>
     <div class="single-e-magine__content">
         {{ .Content }}
         <p class="single-e-magine__back-to-list">
-            <a class="single-e-magine__back-to-list__btn btn btn--reverse" href="/e-magine">Retour</a></p>
+            <a class="single-e-magine__back-to-list__btn btn btn--reverse" href="/e-magine">Retour</a>
+        </p>
     </div>
 </article>
 

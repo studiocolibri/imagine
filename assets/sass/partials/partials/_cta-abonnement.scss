@@ -9,13 +9,13 @@
     p {
         @include ff-t;
         max-width:24em;
-        font-size: 2rem;
+        font-size: 1.2rem;
         text-align: center;
         color:$red;
         margin:0;
 
         @media screen and (min-width:$bp-s) {
-            font-size: 2.4rem;
+            font-size: 1.6rem;
         }
     }
 
@@ -23,5 +23,10 @@
         text-transform: uppercase;
         padding:1em 4em;
         margin-top:$su*2;
+        text-align: center;
+
+        &:hover, &:focus {
+            background-color:transparent;
+        }
     }
 }

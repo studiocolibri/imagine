@@ -4,22 +4,22 @@ title : Imagine, aujourd'hui
 class: imagine-2020
 section_one:
     section_title: nos valeurs
-    title: Notre manifeste
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+    title: Le manifeste et la charte fondatrice d'Imagine
+    text: Pour développer son projet slow press, Imagine s’appuie sur son manifeste (2020) et sur sa charte fondatrice (1996). Deux documents dans lesquels le magazine (ré)affirme ses valeurs, sa ligne éditoriale et ses engagements vis-à-vis des lecteurs. 
     btn_txt: Lire le manifeste
-    btn_link: #
+    btn_link: "/notre-manifeste"
     img: notre-manifeste-portrait.jpg
 section_two:
     section_title: un voyage nouveau
-    title: Les 6 territoires
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-    btn_txt: Le n° du moment
-    btn_link: /numero-en-cours/
+    title: La cartographie Imagine
+    text: "<em>Imagine</em> propose à ses lecteurs de « redevenir terrestres » et de voyager, tous les deux mois, à travers sa nouvelle « cartographie » organisée en six territoires : Sur le volcan, Le sixième continent, Zones fertiles, Terra incognita, Les Confluents et Au large. A chacun d’entre eux correspond un univers thématique, journalistique et graphique."
+    btn_txt: En savoir plus
+    btn_link: #
     img: imagine-6-territoires.png
 section_three:
     section_title: Imagine, c’est quoi ?
-    title: Notre projet
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+    title: "Le processus<br>#Imagine 2020"
+    text: "Pour réaliser son nouveau projet éditorial lancé début juin 2020, Imagine a lancé, un an plus tôt, un grand processus créatif baptisé #Imagine2020 en huit étapes." 
     btn_txt: En savoir plus
     btn_link: #
     img: imagine-c-est-quoi.jpg
