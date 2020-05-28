@@ -134,7 +134,7 @@
     @media screen and (max-width:($bp-l - 1)) {
 
         &:checked ~ .site-nav__inner {
-            left:0;
+            left:-1px;
             transform:translateX(0);
         }
 
