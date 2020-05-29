@@ -171,8 +171,7 @@
         }
 
         &:hover, &:focus {
-            border:1px solid $txt-color;
-            color:$txt-color;
+            border:1px solid $red;
         }
 
         &:active {
@@ -251,26 +250,37 @@
 .e-magine__article__img{
     width:100%;
     height:auto;
+    border: 2px solid transparent;
+    transition:border-color 150ms ease-out;
+
+    &:hover, &:focus {
+        border-color:$red;
+    }
+
+    &:active {
+        border-color:transparent;
+    }
 }
 
 .e-magine__article__date {
     display:block;
     font-weight: bold;
     font-size: 0.9rem;
-    margin-top:$su/2;
+    margin-top:$su;
     margin-bottom:$su;
 }
 
 .e-magine__article__title-link {
     color:$txt-color;
     text-decoration: none;
+    transition:color 150ms ease-out;
 
     &:hover, &:focus {
-        text-decoration: underline;
+        color:$red;
     }
 
     &:active {
-        text-decoration: none;
+        color:$txt-color;
     }
 }
 

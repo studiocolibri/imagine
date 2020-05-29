@@ -32,5 +32,5 @@ class: notre-manifeste single-page
 
 Projet ambitieux ? Peut-être, mais l’on rencontre tant de morosité aujourd’hui qu’un magazine qui a l’audace d’une vision prospective, qui redonne du souffle et engendre l’enthousiasme plutôt que le défaitisme cynique, n’est certainement pas inutile (…) »
 
-<p><a class="btn" href="/assets/pdf/Manifeste_Imagine2020.pdf" target="_blank" rel="noopener">Lire l’intégralité du manifeste Imagine ici</a></p>
+<p><a class="btn btn--square btn--green" href="/assets/pdf/Manifeste_Imagine2020.pdf" target="_blank" rel="noopener">Lire l’intégralité du manifeste Imagine ici</a></p>
 

@@ -280,3 +280,32 @@
 .single-e-magine__back-to-list {
     margin:$su*4 auto;
 }
+
+.single-page {
+
+    h1 {
+        color:white;
+        font-size: 2.4rem;
+        padding-top:$su*2;
+        padding-right: $su*3;
+        padding-bottom:$su*2;
+    }
+
+    .main-content {
+        margin-top:$su*4;
+        margin-bottom:$su*6;
+
+        h2 {
+            font-size:1.4rem;
+            margin-top:$su*4;
+    
+            &:first-of-type {
+                margin-top:0;
+            }
+        }
+
+        p {
+            line-height: 1.3;
+        }
+    }
+}

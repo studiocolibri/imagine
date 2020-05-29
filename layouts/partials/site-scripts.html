@@ -14,3 +14,29 @@
     {{ $eMagineSliderPublic := $eMagineSlider | resources.Minify | resources.Fingerprint }}
     <script src="{{ $eMagineSliderPublic.Permalink }}"></script>
 {{ end }}
+
+<script type="text/javascript">
+    if(/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) {
+        document.write('<script src="/assets/js/css-vars-ponyfill.js"><\/script>');
+        // Default values
+        cssVars({
+            // Targets
+            rootElement   : document,
+            shadowDOM     : false,
+        
+            // Sources
+            include       : 'link[rel=stylesheet],style',
+            exclude       : '',
+            variables     : {},
+        
+            // Options
+            onlyLegacy    : true,
+            preserveStatic: true,
+            preserveVars  : false,
+            silent        : false,
+            updateDOM     : true,
+            updateURLs    : true,
+            watch         : false
+        });
+    }
+</script>

@@ -1,0 +1,14 @@
+- name : txt-color
+  color: "#495050"
+- name: green
+  color: "#B0D8D6"
+- name: turquoise
+  color: "#00839A"
+- name: yellow
+  color: "#FFE6B5"
+- name: pink
+  color: "#FBDACE"
+- name: red
+  color: "#D82F1E"
+- name: article-light
+  color: "#BBE0DE"

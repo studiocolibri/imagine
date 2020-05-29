@@ -10,7 +10,7 @@
     }
 
     @media screen and (min-width:$bp-l) {
-        padding:0 0 $su*3.5 0; 
+        padding:0 0 $su*3.5 $su*2; 
         
         h1 {
             max-width: 6em;
@@ -21,6 +21,7 @@
 .imagine-2020__section-one {
     position: relative;
     padding:0 0 0 $su;
+    z-index:45;
 
     @media screen and (max-width:($bp-s - 1)) {
         top:-$su*5;

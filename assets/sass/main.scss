@@ -1,11 +1,11 @@
 
-$txt-color: #495050;
-$green: #B0D8D6;
-$turquoise: #00839A;
-$yellow: #FFE6B5;
-$pink: #FBDACE;
-$red: #D82F1E;
-$article-light: #BBE0DE;
+$txt-color: var(--txt-color);
+$green: var(--green);
+$turquoise: var(--turquoise);
+$yellow: var(--yellow);
+$pink: var(--pink);
+$red: var(--red);
+$article-light: var(--article-light);
 
 $su: 20px; // spacing-unit
 

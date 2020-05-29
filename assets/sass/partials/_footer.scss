@@ -117,3 +117,25 @@
     }
 
 }
+
+#top-btn {
+    position:fixed;
+    right:$su;
+    bottom:$su;
+    padding: 0 8px;
+    text-decoration: none;
+    color:#ADADAD;
+    z-index:30;
+    transform:translateY(0px);
+    transition: color 150ms ease-out, transform 150ms ease-out;
+
+    &:hover, &:focus {
+        transform:translateY(-3px);
+        color:$red;
+    }
+
+    &:active {
+        transform:translateY(0px);
+        color:initial;
+    }
+}

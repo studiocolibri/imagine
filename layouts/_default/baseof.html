@@ -12,10 +12,17 @@
     <meta name="description" content="{{- with .Content -}}{{- . | truncate 158 -}}{{- else -}}{{- .Site.Data.infos.description -}}{{- end -}}" />
     <meta property="og:type" content="website" />
   	<meta property="og:url" content="{{ .Permalink }}" />
-    <meta property="og:title" content="{{ .Site.Title }}{{ with .Params.categories }} | {{ range first 1 . }}{{ . }}{{ end}}{{ end }}{{ with .Params.Title }} | {{ . }}{{ end }}" />
+    <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ with .Params.Title }}{{ . }}{{ end }} | {{ with .Params.categories }}{{ range first 1 . }}{{ . }}{{ end}} | {{ end }}{{ .Site.Title }}{{ end }}" />
     <meta property="og:description" content='{{ with .Content }}{{ . | truncate 158 }}{{ else }}{{ .Site.Data.infos.description }}{{ end }}' />
     <!-- <meta property="og:image" content="{{ .Site.BaseURL }}assets/upload" /> -->
     <meta property="og:site_name" content="{{ .Site.Title }}" />
+    <style>
+      :root{
+        {{- range .Site.Data.colors }}
+          --{{ .name }}: {{ .color }};
+        {{- end }}
+      }
+    </style>
     {{ if or (.IsHome) (eq .Page.Params.class "imagine-2020") }}<link rel="stylesheet" href="/assets/css/tinyslider.css">{{ end }}
     {{- $style := resources.Get "sass/main.scss" | resources.ToCSS | resources.PostCSS (dict "config" "postcss.config.js") | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet" type="text/css" href="{{ $style.Permalink | relURL }}">
