@@ -136,9 +136,13 @@
     }
 
     .chapeau {
+        margin-bottom:$su*4;
+    }
+
+    .chapeau > * {
         @include ff-t;
         font-size: 1.6rem;
-        margin-bottom:$su*4;
+        margin-bottom:0;
         line-height:1.3;
     }
 

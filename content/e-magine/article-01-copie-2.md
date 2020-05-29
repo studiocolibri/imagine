@@ -8,10 +8,14 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiu
 img: epiceriesociale.jpg
 ---
 
-<p class="chapeau">Lorem ipsum dolor sit amet, consectetur adipiscing 
+<div class="chapeau">
+
+Lorem ipsum dolor sit amet, consectetur adipiscing 
 elit, sed do eiusmod tempor incididunt ut labore et 
 dolore magna aliqua. Ut laboris nisi ut 
-aliquip ex ea commodo consequat ?</p>
+aliquip ex ea commodo consequat ?
+
+</div>
 
 ## Exemple de titre de paragraphe
 

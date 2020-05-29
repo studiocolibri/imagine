@@ -8,7 +8,11 @@ description: Par Corinne Morel Darleux, écrivaine, militante écosocialiste, au
 img: 3543354018_8e05ded28c_o.jpg
 ---
 
-<p class="chapeau">Par Corinne Morel Darleux, écrivaine, militante écosocialiste, autrice de Plutôt couler en beauté que flotter sans grâce (Liberta).</p>
+<div class="chapeau">
+
+Par Corinne Morel Darleux, écrivaine, militante écosocialiste, autrice de Plutôt couler en beauté que flotter sans grâce (Liberta).
+
+</div>
 
 ## Taux de préférence pour le présent
 
