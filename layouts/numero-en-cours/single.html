@@ -39,14 +39,15 @@
                 <div class="numero-section-two__tabs__left">
                     {{ range $i, $el := .Params.sixieme_continent }}
                         <img class="numero-section-two__tab__img{{ if eq $i 0 }} selected{{ end }}" src="/assets/img/{{ .img }}" id="tab-img-{{ $i }}" role="presentation" alt="">
-                        <button class="numero-section-two__tab__btn{{ if eq $i 0 }} selected{{ end }}" onclick="openTab({{ $i }})">
+                        <a href="#tab-{{$i}}" class="numero-section-two__tab__btn{{ if eq $i 0 }} selected{{ end }}" data-num="{{ $i }}">
                             <h4>{{ .title | markdownify }}</h4>
-                        </button>
+                        </a>
                     {{ end }}
                 </div>
                 <div class="numero-section-two__tabs__right">
                     {{ range $i, $el := .Params.sixieme_continent }}
-                        <div class="numero-section-two__tab__content">
+                        <div class="numero-section-two__tab__content" id="tab-{{$i}}">
+                            <h4 class="numero-section-two__tab__title">{{ .title | markdownify }}</h4>
                             {{ .content | markdownify }}
                         </div>
                     {{ end }}
@@ -54,7 +55,11 @@
             {{ end }}
         </div>
     </div>
-    
+    <noscript>
+        <style>
+            .numero-section-two__tab__content {display:block;margin-bottom:60px;}
+        </style>
+    </noscript>
 </section>
 
 <section class="numero-section-three">
