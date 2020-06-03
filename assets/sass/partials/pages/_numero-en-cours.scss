@@ -57,13 +57,14 @@
     }
 
     &--bottom {
-        padding-bottom:$su*7;
-
+        padding-bottom:$su*3;
+        
         .numero-header__left {
             display:none;
-
+            
             @media screen and (min-width:$bp-l) {
                 display:block;
+                padding-bottom:$su*7;
             }
         }
     }
@@ -91,6 +92,13 @@
         width:40%;
         max-width: 500px;
         padding-left:0;
+
+        .page-header__title {
+
+            h1 {
+                margin-bottom:$su*2;
+            }
+        }
     }
 }
 
@@ -126,12 +134,13 @@
 
 .numero-section-two {
     position: relative;
-    padding:$su*10 0 $su*5;
-
+    padding:$su*6 0 $su*3;
+    
     .section-title {
         color:$yellow;
         
         @media screen and (min-width:$bp-xl) {
+            padding:$su*10 0 $su*5;
             min-height: 12em;
         }
     }

@@ -27,7 +27,7 @@
     <link rel="stylesheet" type="text/css" href="{{ $style.Permalink | relURL }}">
     {{ partial "site-favicon.html" . }}
   </head>
-	<body id="root" class="{{ with .Page.Params.class }}{{ . }}{{ end }}">
+	<body id="root" class="{{ with .Page.Params.class }}{{ . }}{{ end }}{{ if eq .Type "categories" }} categories-list{{ end }}">
     <a class="hide skip-to-content" href="#site-main">Aller directement vers le contenu</a>
     <div class="site-wrapper">
       {{ partial "site-header.html" . }}
