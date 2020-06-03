@@ -8,3 +8,5 @@ fields:
 - type: text
   name: class
   label: class
+  hidden: true
+  default: notre-manifeste single-page
