@@ -1,0 +1,47 @@
+---
+label: Numero en cours
+hide_body: true
+fields:
+- type: text
+  name: class
+  label: class
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: period
+  label: period
+- type: number
+  name: num
+  label: num
+- type: file
+  name: cover
+  label: cover
+- type: file
+  name: simulation_cover
+  label: simulation_cover
+- type: file
+  name: six_territoires_img
+  label: six_territoires_img
+- type: textarea
+  name: short_description
+  label: short_description
+- type: image_gallery
+  name: decouverte
+  label: decouverte
+- type: field_group_list
+  name: sixieme_continent
+  label: sixieme_continent
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: file
+    name: img
+    label: img
+  - type: textarea
+    name: content
+    label: content
