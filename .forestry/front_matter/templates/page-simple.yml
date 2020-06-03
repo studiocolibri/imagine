@@ -10,3 +10,5 @@ fields:
   label: class
   hidden: true
   default: notre-manifeste single-page
+pages:
+- content/testtest.md
