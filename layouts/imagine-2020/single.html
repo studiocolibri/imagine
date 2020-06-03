@@ -78,11 +78,11 @@
     </ul>
 </section>
 
-<section class="imagine-2020__section-six page-section">
+<!--<section class="imagine-2020__section-six page-section">
     <h3>{{ .Params.section_six.title | safeHTML }}</h3>
     {{ $items := first 8 (sort ($.Site.Data.presse.items) "date" "desc") }}
     {{ partial "slider.html" (dict "type" "presse" "items" $items) }}
-</section>
+</section>-->
 
 {{ partial "s-abonner.html" . }}
 

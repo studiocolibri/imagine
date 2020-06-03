@@ -14,17 +14,17 @@ unsafe = true
 category = "categories"
 
 [[menu.main]]
-name = "n° en cours"
+name = "N° en cours"
 url = "/numero-en-cours/"
 weight = 1
 
 [[menu.main]]
-name = "e-magine"
+name = "Contenus"
 url = "/e-magine/"
 weight = 2
 
 [[menu.main]]
-name = "#imagine2020"
+name = "Le projet Imagine"
 url = "/imagine-2020/"
 weight = 3
 
