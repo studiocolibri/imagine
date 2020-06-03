@@ -1,8 +1,10 @@
 
 $txt-color: var(--txt-color);
 $green: var(--green);
+$lightgreen: var(--lightgreen);
 $turquoise: var(--turquoise);
 $yellow: var(--yellow);
+$orange: var(--orange);
 $pink: var(--pink);
 $red: var(--red);
 $article-light: var(--article-light);
@@ -57,6 +59,7 @@ $bp-xl: 1400px; // breakpoint XL
 'partials/_header',
 'partials/_nav',
 'partials/_footer',
+'partials/_tinyslider',
 'partials/_home',
 'partials/_partials',
 'partials/_modules',

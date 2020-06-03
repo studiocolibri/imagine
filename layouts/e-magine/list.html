@@ -1,137 +1,24 @@
 {{ define "main" }}
 
 <section class="e-magine__header page-header">
-    <div id="e-magine-header__slides" class="confluents" aria-roledescription="Slideshow"
-        aria-label="Description of Carousel">
-
-        <div class="e-magine-header__slides-control">
-            <button class="e-magine-header__slides-control__btn e-magine-header__slides-control__btn--prev"
-                aria-controls="slides-items" aria-label="Previous Slide">
-                <svg xmlns="http://www.w3.org/2000/svg" width="8.334" height="16.159" viewBox="0 0 8.334 16.159">
-                    <path d="M937,1438.5l6.254,7.246L937,1453.371" transform="translate(944.561 1454.006) rotate(180)"
-                        fill="none" stroke="#fff" stroke-width="2" /></svg>
-            </button>
-            <button class="e-magine-header__slides-control__btn e-magine-header__slides-control__btn--next"
-                aria-controls="slides-items" aria-label="Next Slide">
-                <svg xmlns="http://www.w3.org/2000/svg" width="8.334" height="16.159" viewBox="0 0 8.334 16.159">
-                    <path d="M937,1438.5l6.254,7.246L937,1453.371" transform="translate(-936.227 -1437.847)" fill="none"
-                        stroke="#b0d8d6" stroke-width="2" /></svg>
-            </button>
+    <div class="e-magine__header__inner cw">
+        <div class="page-header__title">
+            <h1><small>{{ .Params.subtitle }}</small><br>{{ .Title}}</h1>
         </div>
-
-        <div id="e-magine-header__slides-items">
-
-            <!-- Slide 1 : image link + caption -->
-            <div id="slide-1" class="slide-item slide--active" role="group" aria-roledescription="Slide"
-                aria-label="1 de 6">
-                <figure>
-                    <a href="#">
-                        <img src="/assets/img/home-slider-example.jpg" alt="Image 1 alternative" width="823"
-                            height="474">
-                    </a>
-                    <figcaption>
-                        <a href="#">
-                            <small>Les confluents</small>
-                            <h3>Ruud van Empel au Hangar</h3>
-                        </a>
-                    </figcaption>
-                </figure>
-            </div>
-
-            <div id="slide-2" class="slide-item" role="group" aria-roledescription="Slide" aria-label="2 de 6">
-                <figure>
-                    <a href="#">
-                        <img src="/assets/img/home-slider-example.jpg" alt="Image 1 alternative" width="823"
-                            height="474">
-                    </a>
-                    <figcaption>
-                        <a href="#">
-                            <small>Les confluents</small>
-                            <h3>Ruud van Empel au Hangar</h3>
-                        </a>
-                    </figcaption>
-                </figure>
-            </div>
-
-            <div id="slide-3" class="slide-item" role="group" aria-roledescription="Slide" aria-label="3 de 6">
-                <figure>
-                    <a href="#">
-                        <img src="/assets/img/home-slider-example.jpg" alt="Image 1 alternative" width="823"
-                            height="474">
-                    </a>
-                    <figcaption>
-                        <a href="#">
-                            <small>Les confluents</small>
-                            <h3>Ruud van Empel au Hangar</h3>
-                        </a>
-                    </figcaption>
-                </figure>
-            </div>
-
-            <div id="slide-4" class="slide-item" role="group" aria-roledescription="Slide" aria-label="4 de 6">
-                <figure>
-                    <a href="#">
-                        <img src="/assets/img/home-slider-example.jpg" alt="Image 1 alternative" width="823"
-                            height="474">
-                    </a>
-                    <figcaption>
-                        <a href="#">
-                            <small>Les confluents</small>
-                            <h3>Ruud van Empel au Hangar</h3>
-                        </a>
-                    </figcaption>
-                </figure>
-            </div>
-
-            <div id="slide-5" class="slide-item" role="group" aria-roledescription="Slide" aria-label="5 de 6">
-                <figure>
-                    <a href="#">
-                        <img src="/assets/img/home-slider-example.jpg" alt="Image 1 alternative" width="823"
-                            height="474">
-                    </a>
-                    <figcaption>
-                        <a href="#">
-                            <small>Les confluents</small>
-                            <h3>Ruud van Empel au Hangar</h3>
-                        </a>
-                    </figcaption>
-                </figure>
-            </div>
-
-            <div id="slide-6" class="slide-item" role="group" aria-roledescription="Slide" aria-label="6 de 6">
-                <figure>
-                    <a href="#">
-                        <img src="/assets/img/home-slider-example.jpg" alt="Image 1 alternative" width="823"
-                            height="474">
-                    </a>
-                    <figcaption>
-                        <a href="#">
-                            <small>Les confluents</small>
-                            <h3>Ruud van Empel au Hangar</h3>
-                        </a>
-                    </figcaption>
-                </figure>
-            </div>
-
-        </div>
+        <ul class="e-magine__list-taxo">
+            {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
+                {{ range $key, $value := $taxonomy }}
+                    <li>
+                        <a class="btn btn--square" href="/{{ $taxonomyname }}/{{ $key | urlize }}" data-color="{{ $key | plainify | lower }}">{{ trim $key "[]" }}</a>
+                    </li>
+                {{ end }}
+            {{ end }}
+        </ul>
     </div>
-
-    <a class="e-magine__discover-btn" href="/dernier-numero">Découvrir le numéro #276</a>
-
 </section>
 
 <section class="e-magine__articles cw">
-    <ul class="e-magine__list-taxo">
-        {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
-            {{ range $key, $value := $taxonomy }}
-                <li>
-                    <a class="btn btn--square" href="/{{ $taxonomyname }}/{{ $key | urlize }}" data-color="{{ $key | plainify | lower }}">{{ trim $key "[]" }}</a>
-                </li>
-            {{ end }}
-        {{ end }}
-    </ul>
-
-    <h1>{{ .Title }} - Page {{ .Paginator.PageNumber }}/{{ .Paginator.TotalPages }}</h1>
+    <p>Page {{ .Paginator.PageNumber }}/{{ .Paginator.TotalPages }}</h1></p>
 
     <ul class="e-magine__articles__list">
         {{ $paginator := .Paginate .Pages.ByDate.Reverse 6 }}

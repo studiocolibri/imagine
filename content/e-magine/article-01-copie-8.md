@@ -3,7 +3,7 @@ class: single-e-magine
 title: Titre du contenu/article online 8
 date: 2020-04-24
 categories:
-- Actualité
+- Editorial
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut.
 img: epiceriesociale.jpg
 ---

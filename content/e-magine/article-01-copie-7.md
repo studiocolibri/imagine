@@ -3,7 +3,7 @@ class: single-e-magine
 title: Titre du contenu/article online 7
 date: 2020-03-12
 categories:
-- Monde
+- Chronique
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut.
 img: andreas-gucklhorn.jpg
 ---

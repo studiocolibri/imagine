@@ -3,7 +3,7 @@ class: single-e-magine
 title: Tribune Covid
 date: 2020-04-25
 categories:
-- Découvrir
+- Tribune
 description: En 2050, les livres d'histoire contemporaine raconteront peut-être que l'année 2020 fut celle d'un grand basculement. Où l'anticipation des crises permit à la communauté internationale de financer la transformation de l'économie fossile pour limiter l'élévation du thermomètre sous le seuil fatidique exigé par la science.
 img: 06Marikana.jpg
 ---

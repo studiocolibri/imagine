@@ -1,7 +1,80 @@
 {{ define "main" }}
 
-<section class="page-header">
-    <h1>NUMERO EN COURS</h1>
+<section class="numero-header numero-header--top">
+    {{ range first 1 (where $.Site.RegularPages.ByDate.Reverse "Section" "numeros") }}
+        <div class="numero-header__left">
+            <img src="/assets/img/{{ .Params.simulation_cover }}" alt="Couverture du numéro {{ .Params.num }}">
+        </div>
+        <div class="numero-header__right">
+            <p class="numero-header__numero"><strong>n°{{ .Params.num }}</strong> / {{ .Params.period }}</p>
+            <div class="page-header__title">
+                <h1 class="numero-header__title">{{ .Title | markdownify }}</h1>
+            </div>
+        </div>
+    {{ end }}
+</section>
+
+<section class="numero-header numero-header--bottom">
+    {{ range first 1 (where $.Site.RegularPages.ByDate.Reverse "Section" "numeros") }}
+        <div class="numero-header__left"></div>
+        <div class="numero-header__right">
+            <p>{{ .Params.short_description | markdownify }}</p>
+            <a href="#" class="btn" target="_blank" rel="noopener">S'abonner / se procurer</a>
+        </div>
+    {{ end }}
+</section>
+
+<section class="numero-section-one cw">
+    <h2 class="numero-section-one__title">Le voyage terrestre d'Imagine</h2>
+    {{ range first 1 (where $.Site.RegularPages.ByDate.Reverse "Section" "numeros") }}
+        <img src="/assets/img/{{ .Params.six_territoires_img }}" alt="Description des six territoires d'Imagine">
+    {{ end }}
+</section>
+
+<section class="numero-section-two">
+    <h2 class="section-title right margin">{{ .Params.section_two.section_title }}</h2>
+    <div class="numero-section-two__inner cw">
+        <div class="numero-section-two__tabs">
+            {{ range first 1 (where $.Site.RegularPages.ByDate.Reverse "Section" "numeros") }}
+                <div class="numero-section-two__tabs__left">
+                    {{ range $i, $el := .Params.sixieme_continent }}
+                        <img class="numero-section-two__tab__img{{ if eq $i 0 }} selected{{ end }}" src="/assets/img/{{ .img }}" id="tab-img-{{ $i }}" role="presentation" alt="">
+                        <button class="numero-section-two__tab__btn{{ if eq $i 0 }} selected{{ end }}" onclick="openTab({{ $i }})">
+                            <h4>{{ .title | markdownify }}</h4>
+                        </button>
+                    {{ end }}
+                </div>
+                <div class="numero-section-two__tabs__right">
+                    {{ range $i, $el := .Params.sixieme_continent }}
+                        <div class="numero-section-two__tab__content">
+                            {{ .content | markdownify }}
+                        </div>
+                    {{ end }}
+                </div>
+            {{ end }}
+        </div>
+    </div>
+    
+</section>
+
+<section class="numero-section-three">
+    <h2 class="section-title left">{{ .Params.section_three.section_title }}</h2>
+    <h3 class="numero-section-three__title">{{ .Params.section_three.title }}</h3>
+    <div class="slider__controls">
+        <button>
+            <svg xmlns="http://www.w3.org/2000/svg" width="8.334" height="16.159" viewBox="0 0 8.334 16.159"><path d="M937,1438.5l6.254,7.246L937,1453.371" transform="translate(944.561 1454.006)rotate(180)" fill="none" stroke="#9D9D9D" stroke-width="2"></path></svg>
+        </button>
+        <button>
+            <svg xmlns="http://www.w3.org/2000/svg" width="8.334" height="16.159" viewBox="0 0 8.334 16.159"><path d="M937,1438.5l6.254,7.246L937,1453.371" transform="translate(-936.227 -1437.847)" fill="none" stroke="#9D9D9D" stroke-width="2"></path></svg>
+        </button>
+    </div>
+    <ul class="slider__list numero-slider">
+        {{ range first 1 (where $.Site.RegularPages.ByDate.Reverse "Section" "numeros") }}
+            {{ range .Params.decouverte }}
+                <li><img src="/assets/img/{{ . }}" alt="Aperçu d'une page de contenu du numéro en cours"></li>
+            {{ end }}
+        {{ end }}
+    </ul>
 </section>
 
 {{ partial "s-abonner.html" . }}

@@ -235,6 +235,8 @@
         list-style:none;
         display:flex;
         flex-wrap: wrap;
+        margin-left:0;
+        padding-left:0;
 
         li {
             margin:$su/2;

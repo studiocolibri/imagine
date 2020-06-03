@@ -11,14 +11,17 @@ picture {
     display:block;
 }
 
-*[data-color="monde"] {
+*[data-color="chronique"] {
     background-color:$yellow;
 }
-*[data-color="découvrir"] {
+*[data-color="editorial"] {
     background-color:$green;
 }
-*[data-color="actualité"] {
+*[data-color="reportage"] {
     background-color:$pink;
+}
+*[data-color="tribune"] {
+    background-color:$red;
 }
 
 .btn {

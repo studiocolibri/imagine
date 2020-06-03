@@ -5,9 +5,8 @@
         <div class="flex-2-cols cw">
             <div class="flex-2-cols__col home-header__left">
                 <p class="home-header__numero"><strong>n°{{ .Params.num }}</strong> / {{ .Params.period }}</p>
-                <a class="home-header__title page-header__title" href="/numero-en-cours">
-                    <h1>{{ .Title | safeHTML }}</h1>
-                </a>
+                <h1 class="home-header__title page-header__title">Comprendre, clarifier, libérer les idées et les esprits.</h1>
+                <p class="home-header__short-description">{{ .Params.short_description | markdownify }}</p>
             </div>
             <div class="flex-2-cols__col home-header__right">
                 <a class="home-header__img" href="/numero-en-cours">

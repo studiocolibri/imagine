@@ -2,17 +2,15 @@
 {{ $navPublic := $nav | resources.Minify | resources.Fingerprint }}
 <script src="{{ $navPublic.Permalink }}"></script>
 
-{{ if or (.IsHome) (eq .Page.Params.class "imagine-2020") }}
-    <script src="/assets/js/tinyslider.js"></script>
-    {{ $tinySliderOptions := resources.Get "js/tinySliderOptions.js" }}
-    {{ $tinySliderOptionsPublic := $tinySliderOptions | resources.Minify | resources.Fingerprint }}
-    <script src="{{ $tinySliderOptionsPublic.Permalink }}"></script>
-{{ end }}
+<script src="/assets/js/tinyslider.js"></script>
+{{ $tinySliderOptions := resources.Get "js/tinySliderOptions.js" }}
+{{ $tinySliderOptionsPublic := $tinySliderOptions | resources.Minify | resources.Fingerprint }}
+<script src="{{ $tinySliderOptionsPublic.Permalink }}"></script>
 
-{{ if eq .Page.Params.class "e-magine-list" }}
-    {{ $eMagineSlider := resources.Get "js/eMagineSlider.js" }}
-    {{ $eMagineSliderPublic := $eMagineSlider | resources.Minify | resources.Fingerprint }}
-    <script src="{{ $eMagineSliderPublic.Permalink }}"></script>
+{{ if eq .Params.class "numero-en-cours" }}
+    {{ $tabs := resources.Get "js/tabs.js" }}
+    {{ $tabsPublic := $tabs | resources.Minify | resources.Fingerprint }}
+    <script src="{{ $tabsPublic.Permalink }}"></script>
 {{ end }}
 
 <script type="text/javascript">

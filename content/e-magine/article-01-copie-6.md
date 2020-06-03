@@ -3,7 +3,7 @@ class: single-e-magine
 title: Titre du contenu/article online 6
 date: 2020-02-26
 categories:
-- Découvrir
+- Reportage
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut.
 img: 06Marikana.jpg
 ---

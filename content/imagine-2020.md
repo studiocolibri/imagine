@@ -24,8 +24,8 @@ section_three:
     btn_link: #
     img: imagine-c-est-quoi.jpg
 section_four:
-    section_title: L'équipe
-    title: Les différents regards d'Imagine
+    section_title: Le magazine
+    title: Le projet Imagine
     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
     btn_txt: En savoir plus
     btn_link: #

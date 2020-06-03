@@ -3,7 +3,7 @@ class: single-e-magine
 title: Titre du contenu/article online 2
 date: 2020-01-23
 categories:
-- Actualité
+- Editorial
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut.
 img: epiceriesociale.jpg
 ---

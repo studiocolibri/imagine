@@ -23,7 +23,6 @@
         {{- end }}
       }
     </style>
-    {{ if or (.IsHome) (eq .Page.Params.class "imagine-2020") }}<link rel="stylesheet" href="/assets/css/tinyslider.css">{{ end }}
     {{- $style := resources.Get "sass/main.scss" | resources.ToCSS | resources.PostCSS (dict "config" "postcss.config.js") | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet" type="text/css" href="{{ $style.Permalink | relURL }}">
     {{ partial "site-favicon.html" . }}

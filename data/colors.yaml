@@ -1,11 +1,15 @@
 - name : txt-color
   color: "#495050"
 - name: green
+  color: "#60B2AE"
+- name: lightgreen
   color: "#B0D8D6"
 - name: turquoise
   color: "#00839A"
 - name: yellow
   color: "#FFE6B5"
+- name: orange
+  color: "#EE7F00"
 - name: pink
   color: "#FBDACE"
 - name: red

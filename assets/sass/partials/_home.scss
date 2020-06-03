@@ -21,13 +21,16 @@ $bp-cover : 1363px;
     color:$turquoise;
 }
 
-
-
 .home-header__title {
+    color:white;
 
     @media screen and (min-width:1600px) {
         width:640px;
     }
+}
+
+.home-header__short-description {
+    color:white;
 }
 
 .home-header__left {
