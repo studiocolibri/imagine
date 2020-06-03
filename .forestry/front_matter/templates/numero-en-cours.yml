@@ -7,18 +7,21 @@ fields:
   label: class
   default: single-e-magine
   hidden: true
+- type: number
+  name: num
+  label: 'Numéro '
 - type: text
-  name: title
-  label: Titre du Numéro
+  name: period
+  label: Période
 - type: datetime
   name: date
   label: Date de Parution
 - type: text
-  name: period
-  label: Période
-- type: number
-  name: num
-  label: 'Numéro '
+  name: title
+  label: Titre du Numéro
+- type: textarea
+  name: short_description
+  label: Courte description du numéro
 - type: file
   name: cover
   label: cover
@@ -28,9 +31,6 @@ fields:
 - type: file
   name: six_territoires_img
   label: Image du Sommaire
-- type: textarea
-  name: short_description
-  label: Courte description du numéro
 - type: field_group_list
   name: sixieme_continent
   label: Les territoires
