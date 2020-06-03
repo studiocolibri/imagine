@@ -5,18 +5,20 @@ fields:
 - type: text
   name: class
   label: class
+  default: single-e-magine
+  hidden: true
 - type: text
   name: title
-  label: title
+  label: Titre du Numéro
 - type: datetime
   name: date
-  label: date
+  label: Date de Parution
 - type: text
   name: period
-  label: period
+  label: Période
 - type: number
   name: num
-  label: num
+  label: 'Numéro '
 - type: file
   name: cover
   label: cover
@@ -25,16 +27,13 @@ fields:
   label: simulation_cover
 - type: file
   name: six_territoires_img
-  label: six_territoires_img
+  label: Image du Sommaire
 - type: textarea
   name: short_description
-  label: short_description
-- type: image_gallery
-  name: decouverte
-  label: decouverte
+  label: Courte description du numéro
 - type: field_group_list
   name: sixieme_continent
-  label: sixieme_continent
+  label: Les territoires
   fields:
   - type: text
     name: title
@@ -45,3 +44,6 @@ fields:
   - type: textarea
     name: content
     label: content
+- type: image_gallery
+  name: decouverte
+  label: Aperçus du magazine
