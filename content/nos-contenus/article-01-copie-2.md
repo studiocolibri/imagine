@@ -12,11 +12,6 @@ draft: true
 ---
 <div class="chapeau">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing
-elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut laboris nisi ut
-aliquip ex ea commodo consequat ?
-
 </div>
 
 _« Nous vivons dans un monde fini, avec des limites planétaires largement dépassées : nous n’avons pas de planète B. Nous sommes au cœur d’un basculement et nous allons vers un futur incertain et imprévisible (…) Nous avons le devoir moral d’agir individuellement et collectivement pour faire face aux périls qui menacent la survie de l’humanité (…) »_
@@ -37,4 +32,6 @@ Ce nécessaire retour sur Terre est un des fondements de notre magazine depuis s
 
 Tous les deux mois, notre magazine poursuivra sur la voie d’un journalisme en prise directe avec le réel. Pour raconter, questionner, explorer, décrypter et dénoncer ce monde en clair- obscur _« ni définitivement noir, ni complètement radieux »_ et se projeter vers un futur désirable. Pour porter des idées audacieuses, relayer une pensée complexe et nuancée, faire entendre la voix des dominés et des minorités oubliées, partager cette indispensable poésie de la vie. A l’écoute, sans cesse, des chants, des cris et des révoltes. Au coin de la rue, comme à l’autre bout du globe. Bon voyage avec _Imagine Demain le Monde_. Merci de nous accompagner dans cette vivifiante aventure terrestre.
 
-**Hugues Dorzée, rédacteur en chef![](/uploads/editomai2020.jpg)**
+**Hugues Dorzée, rédacteur en chef**
+
+**![](/uploads/editomai2020.jpg)**
