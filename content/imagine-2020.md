@@ -39,7 +39,7 @@ section_four:
     incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
     exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   btn_txt: En savoir plus
-  btn_link: ''
+  btn_link: "/le-projet-imagine"
   img: differents-regards.jpg
 section_five:
   title: Nos partenaires
