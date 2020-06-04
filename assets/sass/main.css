@@ -5,19 +5,19 @@ Error: File to import not found or unreadable: partials/partials/slider.
          /Applications/Adobe Dreamweaver 2020/Configuration/SassFrameworks/neat
          /Applications/Adobe Dreamweaver 2020/Configuration/SassFrameworks/base
         on line 2 of /Users/anthonybarbarich/Documents/imagine/Hugo/assets/sass/partials/_partials.scss
-        from line 64 of /Users/anthonybarbarich/Documents/imagine/Hugo/assets/sass/main.scss
+        from line 65 of /Users/anthonybarbarich/Documents/imagine/Hugo/assets/sass/main.scss
 
 1: 
 2: $txt-color: var(--txt-color);
 3: $green: var(--green);
 4: $lightgreen: var(--lightgreen);
-5: $turquoise: var(--turquoise);
-6: $yellow: var(--yellow);
-7: $orange: var(--orange);
+5: $ultralightgreen: var(--ultralightgreen);
+6: $turquoise: var(--turquoise);
+7: $yellow: var(--yellow);
 
 Backtrace:
 /Users/anthonybarbarich/Documents/imagine/Hugo/assets/sass/partials/_partials.scss:2
-/Users/anthonybarbarich/Documents/imagine/Hugo/assets/sass/main.scss:64
+/Users/anthonybarbarich/Documents/imagine/Hugo/assets/sass/main.scss:65
 /Applications/Adobe Dreamweaver 2020/Adobe Dreamweaver 2020.app/Contents/Resources/gems/rubygems/gems/sass-3.5.3/lib/sass/tree/import_node.rb:67:in `rescue in import'
 /Applications/Adobe Dreamweaver 2020/Adobe Dreamweaver 2020.app/Contents/Resources/gems/rubygems/gems/sass-3.5.3/lib/sass/tree/import_node.rb:44:in `import'
 /Applications/Adobe Dreamweaver 2020/Adobe Dreamweaver 2020.app/Contents/Resources/gems/rubygems/gems/sass-3.5.3/lib/sass/tree/import_node.rb:28:in `imported_file'
@@ -67,4 +67,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: File to import not found or unreadable: partials/partials/slider.\A        Load paths:\A          /Applications/Adobe Dreamweaver 2020/Configuration/SassFrameworks/bourbon\A          /Applications/Adobe Dreamweaver 2020/Configuration/SassFrameworks/neat\A          /Applications/Adobe Dreamweaver 2020/Configuration/SassFrameworks/base\A         on line 2 of /Users/anthonybarbarich/Documents/imagine/Hugo/assets/sass/partials/_partials.scss\A         from line 64 of /Users/anthonybarbarich/Documents/imagine/Hugo/assets/sass/main.scss\A \A 1: \A 2: $txt-color: var(--txt-color);\A 3: $green: var(--green);\A 4: $lightgreen: var(--lightgreen);\A 5: $turquoise: var(--turquoise);\A 6: $yellow: var(--yellow);\A 7: $orange: var(--orange);"; }
+  content: "Error: File to import not found or unreadable: partials/partials/slider.\A        Load paths:\A          /Applications/Adobe Dreamweaver 2020/Configuration/SassFrameworks/bourbon\A          /Applications/Adobe Dreamweaver 2020/Configuration/SassFrameworks/neat\A          /Applications/Adobe Dreamweaver 2020/Configuration/SassFrameworks/base\A         on line 2 of /Users/anthonybarbarich/Documents/imagine/Hugo/assets/sass/partials/_partials.scss\A         from line 65 of /Users/anthonybarbarich/Documents/imagine/Hugo/assets/sass/main.scss\A \A 1: \A 2: $txt-color: var(--txt-color);\A 3: $green: var(--green);\A 4: $lightgreen: var(--lightgreen);\A 5: $ultralightgreen: var(--ultralightgreen);\A 6: $turquoise: var(--turquoise);\A 7: $yellow: var(--yellow);"; }
