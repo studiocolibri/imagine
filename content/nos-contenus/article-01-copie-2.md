@@ -7,7 +7,6 @@ categories:
 description: 'L’épidémie du Covid-19 nous conforte plus que jamais dans nos convictions
   éditoriales : il est grand temps qu’Homo sapiens atterrisse. '
 img: "/uploads/editomai2020-1.jpg"
-draft: true
 
 ---
 <div class="chapeau">
