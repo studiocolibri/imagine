@@ -121,7 +121,7 @@
 
     > * {
         max-width: $aw;
-        margin:$su*2 auto;
+        margin:$su/4*5 auto;
         padding:0 $su;
 
         @media screen and (min-width:$bp-s) {
