@@ -19,7 +19,7 @@ Le long format
 
 C’est le territoire où atterrit un dossier « long format », à la croisée des différents territoires.
 
-**Zones fertiles** \[_P. méton._ Abondante en récoltes\]
+**Zones fertiles** \[_P. méton._ Abondantes en récoltes\]
 
 observations – alternatives – solutions
 
