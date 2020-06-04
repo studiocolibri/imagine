@@ -21,7 +21,7 @@ class: notre-manifeste single-page
 
 <p><a class="btn btn--square btn--green" href="/assets/pdf/Manifeste_Imagine2020.pdf" target="_blank" rel="noopener">Lire l’intégralité du manifeste Imagine ici</a></p>
 
-## Extraits de la chartre fondatrice du magazine Imagine                « Comprendre la société » (rédigée lors de sa création en septembre 1996)
+## Extraits de la chartre fondatrice du magazine _Imagine_                « Comprendre la société » (rédigée lors de sa création en septembre 1996)
 
 « _Imagine_ est un magazine engagé :
 
