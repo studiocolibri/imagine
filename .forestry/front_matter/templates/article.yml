@@ -20,3 +20,5 @@ fields:
 - type: file
   name: img
   label: img
+pages:
+- content/nos-contenus/article-01.md
