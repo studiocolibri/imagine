@@ -129,3 +129,5 @@ fields:
   - type: text
     name: title
     label: title
+pages:
+- content/imagine-2020.md

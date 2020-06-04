@@ -3,7 +3,7 @@
         <span class="e-magine__article__category" data-color="{{ range .Params.categories }}{{ . | plainify | lower }}{{ end}}">
             {{ range .Params.categories }}{{ . }}{{ end}}
         </span>
-        <img class="e-magine__article__img" src="/assets/uploads/{{ .Params.img }}">
+        <img class="e-magine__article__img" src="{{ .Params.img }}">
     </a>
     <div class="e-magine__article__col right">
         <time class="e-magine__article__date" datetime="{{ .Date.Format "02-01-06"}}">{{ .Date.Format "02.01.06"}}</time>

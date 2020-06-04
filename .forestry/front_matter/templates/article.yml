@@ -20,3 +20,8 @@ fields:
 - type: file
   name: img
   label: img
+pages:
+- content/nos-contenus/article-01-copie-2.md
+- content/nos-contenus/article-01-copie-4.md
+- content/nos-contenus/article-01-copie.md
+- content/nos-contenus/article-01.md
