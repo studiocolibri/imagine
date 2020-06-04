@@ -16,10 +16,10 @@ section_two:
   section_title: un voyage nouveau
   title: La cartographie Imagine
   text: "<em>Imagine</em> propose à ses lecteurs de « redevenir terrestres » et de
-    voyager, tous les deux mois, à travers sa nouvelle « cartographie » organisée
-    en six territoires : Sur le volcan, Le sixième continent, Zones fertiles, Terra
-    incognita, Les Confluents et Au large. A chacun d’entre eux correspond un univers
-    thématique, journalistique et graphique."
+    voyager, tous les deux mois, à travers sa nouvelle cartographie organisée en six
+    territoires : Sur le volcan, Le sixième continent, Zones fertiles, Terra incognita,
+    Les Confluents et Au large. A chacun d’entre eux correspond un univers thématique,
+    journalistique et graphique."
   btn_txt: En savoir plus
   btn_link: ''
   img: imagine-6-territoires.png
