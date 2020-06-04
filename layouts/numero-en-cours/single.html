@@ -3,7 +3,7 @@
 <section class="numero-header numero-header--top">
     {{ range first 1 (where $.Site.RegularPages.ByDate.Reverse "Section" "numeros") }}
         <div class="numero-header__left">
-            <img id="cover" src="https://res.cloudinary.com/drg3m95yg/image/upload/{{ .Params.simulation_cover }}" alt="Couverture du numéro {{ .Params.num }}">
+            <img id="cover" src="{{ .Site.Params.cloudinary_url }}{{ .Params.simulation_cover }}" alt="Couverture du numéro {{ .Params.num }}">
             <script>var cover = {{ replace .Params.simulation_cover "\"" "" }};var backcover = {{ replace .Params.simulation_cover_bis "\"" "" }};</script>
         </div>
         <div class="numero-header__right">
@@ -28,7 +28,7 @@
 <section class="numero-section-one cw">
     <h2 class="numero-section-one__title">Le voyage terrestre d'Imagine</h2>
     {{ range first 1 (where $.Site.RegularPages.ByDate.Reverse "Section" "numeros") }}
-        <img src="https://res.cloudinary.com/drg3m95yg/image/upload/{{ .Params.six_territoires_img }}" alt="Description des six territoires d'Imagine" loading="lazy">
+        <img src="{{ .Site.Params.cloudinary_url }}{{ .Params.six_territoires_img }}" alt="Description des six territoires d'Imagine" loading="lazy">
     {{ end }}
 </section>
 
@@ -38,8 +38,17 @@
         <div class="numero-section-two__tabs">
             {{ range first 1 (where $.Site.RegularPages.ByDate.Reverse "Section" "numeros") }}
                 <div class="numero-section-two__tabs__left">
+                    {{ $imgUrl := .Site.Params.cloudinary_url }}
                     {{ range $i, $el := .Params.sixieme_continent }}
-                        <img class="numero-section-two__tab__img{{ if eq $i 0 }} selected{{ end }}" src="https://res.cloudinary.com/drg3m95yg/image/upload/{{ .img }}" id="tab-img-{{ $i }}" role="presentation" alt="" loading="lazy">
+                        <img class="numero-section-two__tab__img{{ if eq $i 0 }} selected{{ end }}"
+                            src="{{ $imgUrl }}{{ .img }}"
+                            id="tab-img-{{ $i }}"
+                            width="500" 
+                            height="500"
+                            role="presentation"
+                            alt=""
+                            loading="lazy"
+                        >
                         <a href="#tab-{{$i}}" class="numero-section-two__tab__btn{{ if eq $i 0 }} selected{{ end }}" data-num="{{ $i }}">
                             <h4>{{ .title | markdownify }}</h4>
                         </a>
@@ -75,10 +84,11 @@
         </button>
     </div>
     <ul class="slider__list numero-slider">
+        {{ $imgUrlBis := .Site.Params.cloudinary_url }}
         {{ range first 1 (where $.Site.RegularPages.ByDate.Reverse "Section" "numeros") }}
             {{ range .Params.decouverte }}
                 <li>
-                    <img src="https://res.cloudinary.com/drg3m95yg/image/upload/{{ . }}" alt="Aperçu d'une page de contenu du numéro en cours" loading="lazy">
+                    <img src="{{ $imgUrlBis }}/f_auto,q_80,w_694/{{ . }}" alt="Aperçu d'une page de contenu du numéro en cours" loading="lazy">
                 </li>
             {{ end }}
         {{ end }}

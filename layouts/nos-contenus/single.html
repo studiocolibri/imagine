@@ -2,9 +2,21 @@
 
 <article>
     <style>
-
+        .single-e-magine__header { background-image:url('{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_480/{{ .Params.img }}'); }
+        @media screen and (min-width:480px) {
+            .single-e-magine__header { background-image:url('{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_768/{{ .Params.img }}'); }
+        }
+        @media screen and (min-width:768px) {
+            .single-e-magine__header { background-image:url('{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_1100/{{ .Params.img }}'); }
+        }
+        @media screen and (min-width:1100px) {
+            .single-e-magine__header { background-image:url('{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_1600/{{ .Params.img }}'); }
+        }
+        @media screen and (min-width:1600px) {
+            .single-e-magine__header { background-image:url('{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_1920/{{ .Params.img }}'); }
+        }
     </style>
-    <header class="single-e-magine__header" style="background-image:url('{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_427/{{ .Params.img }}')">
+    <header class="single-e-magine__header">
         <div class="single-e-magine__category">
             <p data-color="{{ range first 1 .Params.categories }}{{ . | plainify | lower }}{{ end}}">
                 {{ range first 1 .Params.categories }}{{ . }}{{ end}}

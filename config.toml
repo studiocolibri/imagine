@@ -28,7 +28,7 @@ weight = 2
 
 [[menu.main]]
 name = "Le projet Imagine"
-url = "/imagine-2020/"
+url = "/notre-projet/"
 weight = 3
 
 [[menu.main]]

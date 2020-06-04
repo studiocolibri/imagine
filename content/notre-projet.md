@@ -1,7 +1,7 @@
 ---
-type: imagine-2020
+type: notre-projet
 title: 'Qui sommes-nous ? '
-class: imagine-2020
+class: notre-projet
 section_one:
   section_title: nos valeurs
   title: Le manifeste et la charte fondatrice d'Imagine

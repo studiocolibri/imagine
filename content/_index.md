@@ -11,7 +11,7 @@ section_one:
     composé de quinze personnalités issues de la société civile… Voici le récit de
     cette aventure inédite #Imagine2020.'
   btn_text: En savoir plus
-  btn_link: "/imagine-2020/"
+  btn_link: "/notre-projet/"
 section_two:
   section_title: Accès libre
   btn_link: "/nos-contenus/"

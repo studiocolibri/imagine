@@ -18,10 +18,10 @@
     // Cover hover 
     var coverEl = document.getElementById('cover');
     coverEl.onmouseenter = function () {
-        coverEl.src = "https://res.cloudinary.com/drg3m95yg/image/upload/" + backcover;
+        coverEl.src = "{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_673/" + backcover;
     }
     coverEl.onmouseleave = function () {
-        coverEl.src = "https://res.cloudinary.com/drg3m95yg/image/upload/" + cover;
+        coverEl.src = "{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_673/" + cover;
     }
 </script>
 {{ end }}

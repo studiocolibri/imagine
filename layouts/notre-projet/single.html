@@ -1,12 +1,12 @@
 {{ define "main" }}
 
-<section class="imagine-2020__header page-header">
-    <div class="imagine-2020__header__title page-header__title cw">
+<section class="notre-projet__header page-header">
+    <div class="notre-projet__header__title page-header__title cw">
         <h1>{{ .Title }}</h1>
     </div>
 </section>
 
-<section class="imagine-2020__section-one section-2-cols">
+<section class="notre-projet__section-one section-2-cols">
     <h2 class="section-title left">{{ .Params.section_one.section_title }}</h2>
     <div class="flex-2-cols cw">
         <div class="flex-2-cols__col left">
@@ -15,16 +15,16 @@
             <a href="{{ .Params.section_one.btn_link }}" class="btn">{{ .Params.section_one.btn_txt }}</a>
         </div>
         <div class="flex-2-cols__col right">
-            <img src="https://res.cloudinary.com/drg3m95yg/image/upload/{{ .Params.section_one.img }}" alt="" role="presentation" loading="lazy">
+            <img src="{{ .Site.Params.cloudinary_url }}{{ .Params.section_one.img }}" alt="" role="presentation" loading="lazy">
         </div>
     </div>
 </section>
 
-<section class="imagine-2020__section-two section-2-cols">
+<section class="notre-projet__section-two section-2-cols">
     <h2 class="section-title right margin">{{ .Params.section_two.section_title }}</h2>
     <div class="flex-2-cols cw">
         <div class="flex-2-cols__col left">
-            <img src="https://res.cloudinary.com/drg3m95yg/image/upload/{{ .Params.section_two.img }}" alt="" role="presentation" loading="lazy">
+            <img src="{{ .Site.Params.cloudinary_url }}{{ .Params.section_two.img }}" alt="" role="presentation" loading="lazy">
         </div>
         <div class="flex-2-cols__col right">
             <h3>{{ .Params.section_two.title | safeHTML }}</h3>
@@ -34,7 +34,7 @@
     </div>
 </section>
 
-<section class="imagine-2020__section-three section-2-cols">
+<section class="notre-projet__section-three section-2-cols">
     <h2 class="section-title left">{{ .Params.section_three.section_title }}</h2>
     <div class="flex-2-cols cw">
         <div class="flex-2-cols__col left">
@@ -44,17 +44,17 @@
         </div>
         <div class="flex-2-cols__col right">
             <div class="flex-2-cols__img-wrapper">
-                <img src="https://res.cloudinary.com/drg3m95yg/image/upload/{{ .Params.section_three.img }}" alt="" role="presentation" loading="lazy">
+                <img src="{{ .Site.Params.cloudinary_url }}{{ .Params.section_three.img }}" alt="" role="presentation" loading="lazy">
             </div>
         </div>
     </div>
 </section>
 
-<section class="imagine-2020__section-four section-2-cols">
+<section class="notre-projet__section-four section-2-cols">
     <h2 class="section-title right margin">{{ .Params.section_four.section_title }}</h2>
     <div class="flex-2-cols cw">
         <div class="flex-2-cols__col left">
-            <img src="https://res.cloudinary.com/drg3m95yg/image/upload/{{ .Params.section_four.img }}" alt="" role="presentation" loading="lazy">
+            <img src="{{ .Site.Params.cloudinary_url }}{{ .Params.section_four.img }}" alt="" role="presentation" loading="lazy">
         </div>
         <div class="flex-2-cols__col right">
             <h3>{{ .Params.section_four.title | safeHTML }}</h3>
@@ -64,21 +64,21 @@
     </div>
 </section>
 
-<section class="imagine-2020__section-five section-2-cols cw">
+<section class="notre-projet__section-five section-2-cols cw">
     <h2 class="section-title right margin hide">{{ .Params.section_five.title }}</h2>
     <h3>{{ .Params.section_five.title | safeHTML }}</h3>
     <ul class="partenaires-list">
         {{ range .Params.section_five.img_list }}
             <li>
                 <a href="{{ .link }}" target="_blank" rel="noopener">
-                    <img src="https://res.cloudinary.com/drg3m95yg/image/upload/{{ .img }}" alt="logo de : {{ .title }}" title="{{ .title }}" loading="lazy">
+                    <img src="{{ .Site.Params.cloudinary_url }}{{ .img }}" alt="logo de : {{ .title }}" title="{{ .title }}" loading="lazy">
                 </a>
             </li>
         {{ end }}
     </ul>
 </section>
 
-<!--<section class="imagine-2020__section-six page-section">
+<!--<section class="notre-projet__section-six page-section">
     <h3>{{ .Params.section_six.title | safeHTML }}</h3>
     {{ $items := first 8 (sort ($.Site.Data.presse.items) "date" "desc") }}
     {{ partial "slider.html" (dict "type" "presse" "items" $items) }}
