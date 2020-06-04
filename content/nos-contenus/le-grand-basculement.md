@@ -4,9 +4,8 @@ title: Le grand basculement
 date: 2020-06-04T00:00:00+02:00
 categories:
 - Tribune
-description: Une tribune signée par la rédaction d'Imagine Demain le monde (Laure
-  de Hesselle, Sarah Freres, Christophe Schoune, Hugues Dorzée) et le comité 2020
-  Les Pisteurs d'Imagine
+description: Une tribune signée par la rédaction d'Imagine Demain le monde et le comité
+  2020 Les Pisteurs d'Imagine
 img: sans-titre2.jpg
 
 ---
