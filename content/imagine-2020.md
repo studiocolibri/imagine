@@ -27,7 +27,7 @@ section_three:
   section_title: Imagine, c’est quoi ?
   title: Le processus<br>#Imagine 2020
   text: 'Pour réaliser son nouveau projet éditorial lancé début juin 2020, Imagine
-    a lancé, un an plus tôt, un grand processus créatif baptisé #Imagine2020 en huit
+    a initié, un an plus tôt, un grand processus créatif baptisé #Imagine2020 en huit
     étapes.'
   btn_txt: En savoir plus
   btn_link: ''
