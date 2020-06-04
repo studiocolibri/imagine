@@ -41,4 +41,4 @@ sensibilité – arts – esthétique
 
 Ici, notre magazine met l’accent sur les arts, la littérature, le cinéma… et en partageant ses coups de coeur culturels.
 
-* Dans chaque territoire, une attention particulière est accordée aux personnes vulnérables, dominées, trop souvent oubliées dans la sphère publique, à la diversité de genre et à l’inclusion des minorités, et au monde vivant dans sa globalité (végétaux, animaux…).
+* Dans chaque territoire, une attention continue est accordée aux personnes vulnérables, dominées, trop souvent oubliées dans la sphère publique, à la diversité de genre, à l’inclusion des minorités et au monde vivant dans sa globalité (végétaux, animaux…).
