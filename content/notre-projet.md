@@ -11,7 +11,7 @@ section_one:
     lecteurs.
   btn_txt: En savoir plus
   btn_link: "/notre-manifeste"
-  img: "/v1591303920/Capture_d_e%CC%81cran_2020-06-04_a%CC%80_22.47.46_kyoepi.png"
+  img: "/v1591304643/manifest-leaflet_hrv4jt.jpg"
 section_two:
   section_title: 'un nouveau voyage '
   title: Notre cartographie
