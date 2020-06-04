@@ -30,5 +30,5 @@ weight = 3
 
 [[menu.main]]
 name = "Archives"
-url = "https://www.imagine-magazine.com/lire/?page=archive"
+url = "https://archives.imagine-magazine.com/lire/?page=archive"
 weight = 4
