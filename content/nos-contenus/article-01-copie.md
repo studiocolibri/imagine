@@ -1,15 +1,16 @@
 ---
 class: single-e-magine
-title: Tribune Covid
+title: Le grand basculement
 date: 2020-04-25
 categories:
 - Tribune
-description: En 2050, les livres d'histoire contemporaine raconteront peut-être que l'année 2020 fut celle d'un grand basculement. Où l'anticipation des crises permit à la communauté internationale de financer la transformation de l'économie fossile pour limiter l'élévation du thermomètre sous le seuil fatidique exigé par la science.
-img: 06Marikana.jpg
+description: En 2050, les livres d'histoire contemporaine raconteront peut-être que
+  l'année 2020 fut celle d'un grand basculement. Où l'anticipation des crises permit
+  à la communauté internationale de financer la transformation de l'économie fossile
+  pour limiter l'élévation du thermomètre sous le seuil fatidique exigé par la science.
+img: ''
+
 ---
-
-## Le grand basculement
-
 En 2050, les livres d'histoire contemporaine raconteront peut-être que l'année 2020 fut celle d'un grand basculement. Où l'anticipation des crises permit à la communauté internationale de financer la transformation de l'économie fossile pour limiter l'élévation du thermomètre sous le seuil fatidique exigé par la science. Où la coopération finança les pays du Sud pour s'adapter aux conséquences désastreuses du dérèglement climatique. Où la logique effrénée de l'urgence, de l'hyper-mobilité et des marchés financiers ont progressivement laissé place au ralentissement de la société mondialisée, à la relocalisation des chaînes de production essentielles à l'humanité et à une redistribution équitable des richesses autour des bien communs. Où l'écosystème Terre, sous pression de toutes parts, entama sa lente régénération.
 
 Six mois après le déclenchement de la première pandémie du 21ème siècle, il est difficile de présager que 2020 amorcera ce nouveau récit. Prise dans les nasses d'une impréparation coupable face aux nombreux avertissements adressés par différents acteurs scientifiques et institutionnels depuis quinze ans, les gouvernements occidentaux, à de rares exceptions près, ont fait la démonstration flagrante de la faillite d'un modèle de diminution des investissements publics. Une doctrine d'inspiration néolibérale sur laquelle l'Europe et nos Etats se sont reposés en grande partie ces trente dernières années et qui a accru notre dépendance et notre vulnérabilité.
@@ -32,4 +33,4 @@ Que nos gouvernements se rassurent, ils ne sont pas sans ressources pour reconst
 
 Nourris par cette expérience douloureuse, sidérante et transformatrice de la pandémie, une grande partie des citoyens ont compris qu'il fallait sans doute changer le logiciel du système. Puisse l'Etat entendre cette attente pour être l'aiguillon visionnaire d'une transformation culturelle qui conduirait notre civilisation, en 2050, à revoir les anciennes tables des lois du Marché. Où la compétitivité, les cadences infernales et la domination de la nature auraient laissé place, dans les livres d'histoire, aux valeurs de coopération, d'équité et de soutenabilité.
 
-La rédaction d'_Imagine Demain le monde_ (Laure De Hesselle, Sarah Frères, Christophe Schoune, Hugues Dorzée) et le comité 2020 Les Pisteurs d'Imagine
+**La rédaction d'_Imagine Demain le monde_ (Laure De Hesselle, Sarah Freres, Christophe Schoune, Hugues Dorzée) et le comité 2020 Les Pisteurs d'_Imagine_**
