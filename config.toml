@@ -29,6 +29,6 @@ url = "/imagine-2020/"
 weight = 3
 
 [[menu.main]]
-name = "archives"
+name = "Archives"
 url = "https://www.imagine-magazine.com/lire/?page=archive"
 weight = 4
