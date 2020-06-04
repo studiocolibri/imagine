@@ -4,10 +4,9 @@ title: Nemesis boxe le patriarcat
 date: 2020-06-03T22:00:00.000+00:00
 categories:
 - Reportage
-description: Dans la mythologie grecque, Nemesis était la déesse de la vengeance et
-  de la justice distributive. A Anderlecht, le Nemesis Fighting Club est un espace
-  féministe et antifasciste, où femmes et minorités de genre se retrouvent pour boxer
-  le patriarcat.
+description: Au Nemesis Fighting Club, femmes et minorités de genre décochent des
+  uppercuts à la culture du viol, des droites à la marchandisation du sport et des
+  crochets aux discriminations.
 img: "/v1591300601/Sans_titre8_pbf2r2.jpg"
 
 ---
