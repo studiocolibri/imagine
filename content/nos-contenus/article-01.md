@@ -8,7 +8,6 @@ description: Selon l'étymologie grecque, le mot « némésis » signifie _« r�
   distributive. A Anderlecht, le Nemesis Fighting Club est un espace féministe et
   antifasciste, où femmes et minorités de genre se retrouvent pour boxer le patriarcat.
 img: ''
-draft: true
 
 ---
 <div class="chapeau">
