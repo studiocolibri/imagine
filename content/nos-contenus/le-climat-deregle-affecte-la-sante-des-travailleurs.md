@@ -3,7 +3,7 @@ categories = ["Reportage"]
 class = "single-e-magine"
 date = 2020-06-03T22:00:00Z
 description = "Les vagues de chaleurs répétées et plus intenses vont impacter davantage les travailleurs les plus exposés (construction, agriculture, transports…). Et en Belgique, comment se prépare-t-on à vivre ces mutations ? "
-img = "/v1591293085/35482786310_44b3a38435_o_tijjxj.jpg"
+img = "/v1591293083/17368360661_3df90bbc0b_k_cgvg1i.jpg"
 title = "Le climat déréglé affecte la santé des travailleurs"
 
 +++
@@ -38,6 +38,8 @@ Pour pallier ce manque, la CSC Liège forme ses délégués syndicaux auprès de
 ### Rotation du personnel et toits végétaux
 
 Dans leur rapport, les experts de l’OIT avancent une série de propositions pour atténuer les effets du dérèglement climatique au travail. Ils prônent notamment la vigilance entre collègues pour repérer les premiers signes de mal-être et prévenir d’éventuels accidents plus graves.
+
+![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1591293085/35482786310_44b3a38435_o_tijjxj.jpg "© Cifor")
 
 Mais les recommandations s’adressent d’abord aux employeurs. Parmi celles-ci, il est préconisé d’assurer une rotation des travailleurs au fil de la journée, de renouveler régulièrement l’équipement informatique ou la machinerie pour réduire la chaleur qui s’en dégage, d’aménager des toits végétaux sur les buildings afin de garder l’air chaud à l’extérieur, etc.
 
