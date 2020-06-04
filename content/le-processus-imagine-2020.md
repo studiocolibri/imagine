@@ -4,8 +4,9 @@ draft = true
 title = "Le processus #Imagine 2020"
 
 +++
-
 ## Pour réaliser son nouveau projet éditorial lancé début juin 2020, Imagine a lancé, un an plus tôt, un grand processus créatif baptisé #Imagine2020 en huit étapes.
+
+<br>
 
 **1. La mise au vert**. Durant l’été 2019, la rédaction s’est posé un moment pour poser les jalons d’une réforme ambitieuse en travaillant tant sur le fond (ses valeurs, ses fondamentaux, sa manière de raconter le monde…) que sur la forme du magazine (lay out, format, site web…). Plutôt que d’évoluer en vase clos, elle décide de lancer un processus participatif et collectif.
 
@@ -13,7 +14,6 @@ title = "Le processus #Imagine 2020"
 
 lien vers la page manifeste et/ou PDF
 
-  
 **3. Un atelier d’intelligence collective.** Le13 novembre 2019, lors d’une soirée d’intelligence collective organisée chez Mundo N, à Namur, une vingtaine de personnes proches du magazine et issues d’horizons divers (enseignement, presse, ONG…) participent à l’Atelier Imagine construit en partenariat avec l’Asbl bruxelloise Collectiv-a spécialisée dans l’élaboration et l’animation d’événements participatifs. Plusieurs thématiques sont abordées (Imagine 2.0, l’information constructive, la diffusion du magazine…)
 
 **4. Un questionnaire en ligne adressé aux lecteurs.** La rédaction sonde ses lecteurs par mail et via les réseaux. Au total, elle recevra 284 réponses. Les répondants sont principalement originaires de Bruxelles, Liège et du Brabant wallon. Le plus jeune a 24 ans, le plus âgé 83 ans. Ils sont retraités (30 %), employés à temps plein (33 %), travailleurs à temps partiel (18 %). A la question de savoir ce qu’ils pensent des contenus, trois idées émergent : avec _Imagine_, ils _« se sentent mieux informés »_, _« découvrent des idées nouvelles »_, le magazine _« les inspire et les porte vers l’avenir »._ Des critiques sont également apportées sur le manque de couverture de certains sujets, la maquette, le site web, etc.
@@ -28,7 +28,6 @@ Programmée début mai, la sortie du nouveau projet est reportée début juin su
 
 ## Les Pisteurs d’Imagine
 
-  
 **Olivier De Schutter**, juriste, professeur à l’UCL, nouveau rapporteur spécial de l’ONU sur l’extrême pauvreté et les droits de l’homme (co-président)
 
 **Fatima Zibouh**, politologue, experte inclusion/discrimination chez Actiris, doctorante au Cedem (ULiège), co-fondatrice du projet Women 100 (co-présidente)
