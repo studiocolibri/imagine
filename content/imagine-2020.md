@@ -30,7 +30,7 @@ section_three:
     a initié, un an plus tôt, un grand processus créatif baptisé #Imagine2020 en huit
     étapes.'
   btn_txt: En savoir plus
-  btn_link: ''
+  btn_link: "/le-processus-imagine-2020"
   img: imagine-c-est-quoi.jpg
 section_four:
   section_title: Le magazine
