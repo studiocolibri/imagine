@@ -32,7 +32,7 @@ Programmée début mai, la sortie du nouveau projet est reportée début juin su
 
 <br>
 
-<a class="btn btn--square btn--green" href="/libre-acces/le-grand-basculement/" target="_blank" rel="noopener">Lire l’intégralité du manifeste Imagine ici</a>
+<a class="btn btn--square btn--green" href="/libre-acces/le-grand-basculement/" target="_blank" rel="noopener">Lire notre tribune : Le grand basculement</a>
 
 <br>
 
