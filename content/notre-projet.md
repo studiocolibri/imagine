@@ -40,7 +40,7 @@ section_four:
     exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   btn_txt: En savoir plus
   btn_link: "/le-projet-imagine"
-  img: differents-regards.jpg
+  img: "/v1591305781/dessinImagine_thyoyd.jpg"
 section_five:
   title: Nos partenaires
   text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
