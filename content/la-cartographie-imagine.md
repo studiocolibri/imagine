@@ -7,7 +7,7 @@ title = "La cartographie Imagine"
 
 <br>
 
-**Sur le volcan** \[Au fig. _Ce qui est vif, ardent, bouillonnant_\]
+**Sur le volcan** \[_Au fig._ Ce qui est vif, ardent, bouillonnant\]
 
 luttes – critique sociale – résistances
 
@@ -25,7 +25,7 @@ observations – alternatives – solutions
 
 C’est là qu’_Imagine_ pose des constats et propose des alternatives sur des thématiques essentielles (alimentation, énergie, habitat, agriculture, démocratie, économie…). C’est aussi le territoire des solutions qui font du bien, des transformations audacieuses.
 
-**Terra incognita** \[Du latin. Territoire qui n'a pas encore été exploré par l'Homme.\]
+**Terra incognita** \[_Du latin._ Territoire qui n'a pas encore été exploré par l'Homme.\]
 
 adaptation – prospective – utopies
 
@@ -37,7 +37,7 @@ transmission, bien-être, soins
 
 Dans ce territoire, il est question de transmission, d’éducation, d’intergénérationnel. On y parle aussi de bien-être personnel, de philosophie, de pédagogie, d’histoire, d’héritages transmis et à transmettre.
 
-**Au large** \[_Adv. _Dans un espace étendu, profondément\]
+**Au large** \[_Adv._ Dans un espace étendu, profondément\]
 
 sensibilité – arts – esthétique
 
