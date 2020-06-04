@@ -6,7 +6,7 @@ categories:
 - Editorial
 description: 'L’épidémie du Covid-19 nous conforte plus que jamais dans nos convictions
   éditoriales : il est grand temps qu’Homo sapiens atterrisse. '
-img: ''
+img: "/uploads/editomai2020-1.jpg"
 draft: true
 
 ---
@@ -33,5 +33,3 @@ Ce nécessaire retour sur Terre est un des fondements de notre magazine depuis s
 Tous les deux mois, notre magazine poursuivra sur la voie d’un journalisme en prise directe avec le réel. Pour raconter, questionner, explorer, décrypter et dénoncer ce monde en clair- obscur _« ni définitivement noir, ni complètement radieux »_ et se projeter vers un futur désirable. Pour porter des idées audacieuses, relayer une pensée complexe et nuancée, faire entendre la voix des dominés et des minorités oubliées, partager cette indispensable poésie de la vie. A l’écoute, sans cesse, des chants, des cris et des révoltes. Au coin de la rue, comme à l’autre bout du globe. Bon voyage avec _Imagine Demain le Monde_. Merci de nous accompagner dans cette vivifiante aventure terrestre.
 
 **Hugues Dorzée, rédacteur en chef**
-
-**![](/uploads/editomai2020.jpg)**
