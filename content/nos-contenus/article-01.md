@@ -44,7 +44,9 @@ Et peu à peu, l'offre s'étoffe. Le premier club de boxe populaire de Belgique 
 
 L'ADN de ce cocktail mélangeant aspects sportifs et militants : l'émancipation des femmes et des minorités de genre. Stages d'auto-défense pour les travailleuses du sexe, informations pratiques pour les personnes qui peuvent difficilement fuir les violences conjugales ou intra-familiales en période de confinement… « _Notre projet ne se limite pas à la boxe. On fait de la sensibilisation sur les différents types de discrimination, on discute de luttes politiques, on veut améliorer les conditions de vie des personnes qui viennent ici »,_ décrit Nancy, membre du collectif. _« Je crois en la force du sport pour apporter un changement concret dans la société. La boxe, pour moi, c'est une philosophie de vie. En boxe, comme dans la vie, il faut trouver le juste équilibre pour ne pas tomber, apprendre à se défendre, savoir prendre des coups, se relever, visualiser ses points faibles et identifier ses erreurs, faire mieux la prochaine fois »,_ enchaîne Ida.
 
-> _« Aujourd'hui une femme qui boxe ne fait pas ce que la société attend d'elle. Si elle fait de la danse, on ne questionnera jamais son choix »_, Leila, fondatrice du Nemesis Fighting Club.
+> _« Aujourd'hui une femme qui boxe ne fait pas ce que la société attend d'elle. Si elle fait de la danse, on ne questionnera jamais son choix »_ 
+>
+> Leila, fondatrice du Nemesis Fighting Club
 
 D'emblée, le sport a été promulgué comme un outil politique. La boxe pour _« s'engager collectivement par le corps et prendre conscience de notre force »._ L'autodéfense féministe pour _« donner des outils aux femmes et aux minorités de genre afin de lutter contre les violences verbales et physiques permanentes, dont iels ont souffert ou sont menacé-e-s »._ Deux pratiques à la finalité fondamentalement différente mais qui partagent le poids de stéréotypes similaires. Les femmes seraient faibles de manière inhérente, celles qui apprennent à donner (ou rendre) les coups seraient inévitablement des garçons manqués, des casseuses, des caractérielles…
 
@@ -54,7 +56,9 @@ Enracinés dans la mémoire collective, ces clichés datent d'une époque où le
 _« Aujourd'hui encore, une femme qui boxe ne fait pas ce que la société attend d'elle. Elle devra toujours se justifier. Elle ne peut pas simplement dire qu'elle boxe parce que ce sport lui plaît. Or, si elle fait de la danse, on ne questionnera jamais son choix »,_ résume Leila (prénom d'emprunt), fondatrice de Nemesis et créatrice de projets similaires à Pérouse (Italie) ou dans les favelas de Sao Paulo (Brésil).
 
 > _« La normalité est violente et la société nous a appris à être machistes ! Un homme n'a pas le droit de pleurer.  
-> La couleur bleue c'est pour les garçons, le rose pour les filles »_, Leila.
+> La couleur bleue c'est pour les garçons, le rose pour les filles »_ 
+>
+> Leila
 
 De l'avis de plusieurs participantes, le choc entre différentes réalités, privilèges, luttes et vérités inculquées depuis l'enfance est nourrissant. La possibilité de participer à des activités sans la présence du « groupe dominant » est rassurante. C'est l'autre particularité de Nemesis, un des rares endroits du royaume où la totalité des cours sont organisés en mixité choisie, c'est-à-dire sans hommes cisgenre (NDLR : ce terme désigne les personnes dont le genre ressenti correspond au sexe biologique assigné à la naissance). Un concept très controversé, y compris au sein des mouvements féministes. Ses détracteurs y voient une atteinte à la liberté d'association, de la discrimination, voire de la ségrégation. Pour ses partisans, la mixité non-choisie ne tient pas compte des relations et des inégalités de pouvoir, ce qui entraîne des effets pervers.
 
