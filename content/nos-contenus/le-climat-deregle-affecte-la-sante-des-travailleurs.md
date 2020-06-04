@@ -1,13 +1,17 @@
 +++
 categories = ["Analyse"]
-class = ""
+class = "single-e-magine"
 date = 2020-06-03T22:00:00Z
 description = "Les vagues de chaleurs répétées et plus intenses vont impacter davantage les travailleurs les plus exposés (construction, agriculture, transports…). Et en Belgique, comment se prépare-t-on à vivre ces mutations ? "
 img = "/v1591293083/17368360661_3df90bbc0b_k_cgvg1i.jpg"
 title = "Le climat déréglé affecte la santé des travailleurs"
 
 +++
-**Les vagues de chaleurs répétées et plus intenses vont impacter davantage les travailleurs les plus exposés (construction, agriculture, transports…). Et en Belgique, comment se prépare-t-on à vivre ces mutations ?**
+<div class="chapeau">
+
+Les vagues de chaleurs répétées et plus intenses vont impacter davantage les travailleurs les plus exposés (construction, agriculture, transports…). Et en Belgique, comment se prépare-t-on à vivre ces mutations ?
+
+</div>
 
 Les canicules se multiplient et s’intensifient partout dans le monde. En Belgique, durant le seul été 2019, trois vagues de chaleur se sont succédé. Avec les dérèglements climatiques à venir, elles seront de plus en plus longues et de plus en plus violentes.
 
