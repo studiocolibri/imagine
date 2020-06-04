@@ -31,7 +31,7 @@ section_three:
     étapes.'
   btn_txt: En savoir plus
   btn_link: "/le-processus-imagine-2020"
-  img: imagine-c-est-quoi.jpg
+  img: "/v1591304774/processus2020_hgyw54.jpg"
 section_four:
   section_title: Le magazine
   title: Le projet Imagine
