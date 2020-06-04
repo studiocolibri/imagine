@@ -4,10 +4,11 @@ title: Nemesis boxe le patriarcat
 date: 2020-04-26
 categories:
 - Reportage
-description: "Selon l'étymologie grecque, le mot « némésis » signifie « répartir équitablement
-  ». \nDans la mythologie, Nemesis était la déesse de la vengeance et de la justice
-  distributive. A Anderlecht, le Nemesis Fighting Club est un espace féministe et
-  antifasciste, où femmes et minorités de genre se retrouvent pour boxer le patriarcat."
+description: "Selon l'étymologie grecque, le mot « némésis » \nsignifie « répartir
+  équitablement ». Dans la mythologie, Nemesis était la déesse de la vengeance et
+  de la justice distributive. A Anderlecht, le Nemesis Fighting Club est un espace
+  féministe et antifasciste, où femmes et minorités de genre se retrouvent pour boxer
+  le patriarcat."
 img: "/uploads/img_3149.jpg"
 
 ---
