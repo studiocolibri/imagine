@@ -1,7 +1,7 @@
 ---
 class: single-e-magine
 title: Le grand basculement
-date: 2020-06-03T22:00:00.000+00:00
+date: 2020-06-04T00:00:00+02:00
 categories:
 - Tribune
 description: Une tribune signée par la rédaction d'Imagine Demain le monde (Laure
