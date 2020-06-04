@@ -16,7 +16,7 @@ sections:
   match: "**/*"
 - type: directory
   path: content/nos-contenus
-  label: E magine
+  label: Nos contenus
   create: all
   match: "**/*"
 upload_dir: static/uploads
