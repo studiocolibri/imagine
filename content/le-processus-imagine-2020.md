@@ -34,6 +34,10 @@ _« se sentent mieux informés »_, _« découvrent des idées nouvelles »_, le
 
 <a class="btn btn--square btn--green" href="/libre-acces/le-grand-basculement/" target="_blank" rel="noopener">Lire notre tribune : Le grand basculement</a>
 
+<br>
+
+![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1591305781/dessinImagine_thyoyd.jpg)
+
 ## Les Pisteurs d’Imagine
 
 <br>
