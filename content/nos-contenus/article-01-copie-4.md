@@ -4,10 +4,11 @@ title: Contre-courants
 date: 2020-05-28
 categories:
 - Chronique
-description: Par Corinne Morel Darleux, écrivaine, militante écosocialiste, autrice de Plutôt couler en beauté que flotter sans grâce (Liberta).
+description: Par Corinne Morel Darleux, écrivaine, militante écosocialiste, autrice
+  de Plutôt couler en beauté que flotter sans grâce (Liberta).
 img: 3543354018_8e05ded28c_o.jpg
----
 
+---
 <div class="chapeau">
 
 Par Corinne Morel Darleux, écrivaine, militante écosocialiste, autrice de Plutôt couler en beauté que flotter sans grâce (Liberta).
