@@ -4,10 +4,9 @@ title: Nemesis boxe le patriarcat
 date: 2020-06-03T22:00:00.000+00:00
 categories:
 - Reportage
-description: Au Nemesis Fighting Club, un espace féministe et antifasciste, femmes
-  et minorités de genre cognent le patriarcat, la marchandisation du sport, le racisme,
-  les discriminations, l'âgisme, la transphobie, la grossophobie, l'homo-lesbophobie,
-  le validisme, le virilisme, le capitalisme et la culture du viol.
+description: Au Nemesis Fighting Club, femmes et minorités de genre décochent des
+  uppercuts à la culture du viol, des droites à la marchandisation du sport et des
+  crochets à toute forme de discrimination.
 img: "/v1591300601/Sans_titre8_pbf2r2.jpg"
 
 ---
