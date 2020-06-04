@@ -1,5 +1,5 @@
 ---
-title: Notre manifeste
+title: Nos valeurs
 class: notre-manifeste single-page
 
 ---
