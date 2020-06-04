@@ -6,7 +6,7 @@ categories:
 - Reportage
 description: Au Nemesis Fighting Club, femmes et minorités de genre décochent des
   uppercuts à la culture du viol, des droites à la marchandisation du sport et des
-  crochets à toute forme de discrimination.
+  crochets aux nombreuses discriminations.
 img: "/v1591300601/Sans_titre8_pbf2r2.jpg"
 
 ---
