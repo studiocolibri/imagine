@@ -24,7 +24,7 @@ section_two:
   btn_link: "/la-cartographie-imagine"
   img: imagine-6-territoires.png
 section_three:
-  section_title: Imagine, c’est quoi ?
+  section_title: Une métamorphose
   title: Le processus<br>#Imagine 2020
   text: 'Pour réaliser son nouveau projet éditorial lancé début juin 2020, Imagine
     a initié, un an plus tôt, un grand processus créatif baptisé #Imagine2020 en huit
