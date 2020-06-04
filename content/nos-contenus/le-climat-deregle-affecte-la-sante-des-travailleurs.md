@@ -3,7 +3,6 @@ categories = ["Analyse"]
 class = ""
 date = 2020-06-03T22:00:00Z
 description = "Les vagues de chaleurs répétées et plus intenses vont impacter davantage les travailleurs les plus exposés (construction, agriculture, transports…). Et en Belgique, comment se prépare-t-on à vivre ces mutations ? "
-draft = true
 img = "/v1591293083/17368360661_3df90bbc0b_k_cgvg1i.jpg"
 title = "Le climat déréglé affecte la santé des travailleurs"
 
