@@ -15,7 +15,7 @@
             <a href="{{ .Params.section_one.btn_link }}" class="btn">{{ .Params.section_one.btn_txt }}</a>
         </div>
         <div class="flex-2-cols__col right">
-            <img src="/uploads/{{ .Params.section_one.img }}" alt="" role="presentation">
+            <img src="/uploads/{{ .Params.section_one.img }}" alt="" role="presentation" loading="lazy">
         </div>
     </div>
 </section>
@@ -24,7 +24,7 @@
     <h2 class="section-title right margin">{{ .Params.section_two.section_title }}</h2>
     <div class="flex-2-cols cw">
         <div class="flex-2-cols__col left">
-            <img src="/uploads/{{ .Params.section_two.img }}" alt="" role="presentation">
+            <img src="/uploads/{{ .Params.section_two.img }}" alt="" role="presentation" loading="lazy">
         </div>
         <div class="flex-2-cols__col right">
             <h3>{{ .Params.section_two.title | safeHTML }}</h3>
@@ -44,7 +44,7 @@
         </div>
         <div class="flex-2-cols__col right">
             <div class="flex-2-cols__img-wrapper">
-                <img src="/uploads/{{ .Params.section_three.img }}" alt="" role="presentation">
+                <img src="/uploads/{{ .Params.section_three.img }}" alt="" role="presentation" loading="lazy">
             </div>
         </div>
     </div>
@@ -54,7 +54,7 @@
     <h2 class="section-title right margin">{{ .Params.section_four.section_title }}</h2>
     <div class="flex-2-cols cw">
         <div class="flex-2-cols__col left">
-            <img src="/uploads/{{ .Params.section_four.img }}" alt="" role="presentation">
+            <img src="/uploads/{{ .Params.section_four.img }}" alt="" role="presentation" loading="lazy">
         </div>
         <div class="flex-2-cols__col right">
             <h3>{{ .Params.section_four.title | safeHTML }}</h3>
@@ -71,7 +71,7 @@
         {{ range .Params.section_five.img_list }}
             <li>
                 <a href="{{ .link }}" target="_blank" rel="noopener">
-                    <img src="/uploads/{{ .img }}" alt="logo de : {{ .title }}" title="{{ .title }}">
+                    <img src="/uploads/{{ .img }}" alt="logo de : {{ .title }}" title="{{ .title }}" loading="lazy">
                 </a>
             </li>
         {{ end }}
