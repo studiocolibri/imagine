@@ -8,14 +8,14 @@ section_one:
   btn_text : En savoir plus
   btn_link : /imagine-2020/
 section_two :
-  section_title: e-magine
-  btn_link: /e-magine/
+  section_title: Nos contenus
+  btn_link: /nos-contenus/
   btn_txt: Tous nos contenus
 section_three:
   section_title: dossier
   title : Lorem ipsum dolor sit amet y consigner et uy
   btn_text : Découvrir
-  btn_link : /e-magine/
+  btn_link : /nos-contenus/
 ---
 
 Contenu de la homepage

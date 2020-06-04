@@ -29,13 +29,7 @@
         right:0;
         bottom:0;
         left:0;
-        background: linear-gradient(
-            180deg,
-            $txt-color 0%,
-            $txt-color 70%,
-            transparent 100%
-        );
-        background-repeat: no-repeat;
+        background-color:black;
         opacity:0.4;
         z-index:2;
     }

@@ -15,7 +15,7 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/e-magine
+  path: content/nos-contenus
   label: E magine
   create: all
   match: "**/*"

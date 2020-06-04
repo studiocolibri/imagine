@@ -36,8 +36,8 @@
 
 <section class="home-section-two">
     <h2 class="section-title left margin">{{ .Params.section_two.section_title }}</h2>
-    {{ $items := first 8 (where $.Site.RegularPages.ByDate.Reverse "Section" "e-magine") }}
-    {{ partial "slider.html" (dict "type" "e-magine" "items" $items) }}
+    {{ $items := first 8 (where $.Site.RegularPages.ByDate.Reverse "Section" "nos-contenus") }}
+    {{ partial "slider.html" (dict "type" "nos-contenus" "items" $items) }}
     <p><a href="{{ .Params.section_two.btn_link }}" class="btn home-section-two__btn-all">{{ .Params.section_two.btn_txt }}</a></p>
 </section>
 
