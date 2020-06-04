@@ -21,8 +21,4 @@ fields:
   name: img
   label: img
 pages:
-- content/nos-contenus/article-01-copie-2.md
-- content/nos-contenus/article-01-copie-4.md
-- content/nos-contenus/article-01-copie.md
-- content/nos-contenus/article-01.md
 - content/nos-contenus/le-climat-deregle-affecte-la-sante-des-travailleurs.md
