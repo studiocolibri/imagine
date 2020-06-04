@@ -26,7 +26,7 @@
 </section>
 
 <section class="numero-section-one cw">
-    <h2 class="numero-section-one__title">Le voyage terrestre d'Imagine</h2>
+    <h2 class="numero-section-one__title">Le <em>voyage terrestre </em>d'Imagine</h2><br><br>
     {{ range first 1 (where $.Site.RegularPages.ByDate.Reverse "Section" "numeros") }}
         <img src="{{ .Site.Params.cloudinary_url }}{{ .Params.six_territoires_img }}" alt="Description des six territoires d'Imagine" loading="lazy">
     {{ end }}

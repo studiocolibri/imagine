@@ -183,6 +183,7 @@
     display:none;
     width:500px;
     height:auto;
+	opacity:0.4;
 
     @media screen and (min-width:$bp-s) {
         position: absolute;
@@ -213,7 +214,7 @@
     
     &:hover, &:focus, &.selected {
         cursor:pointer;
-        color: $orange;
+        color: $green;
 
         @media screen and (min-width:$bp-s) {
             transform:translateX(5px);
