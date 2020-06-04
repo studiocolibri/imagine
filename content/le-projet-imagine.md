@@ -1,9 +1,9 @@
 +++
 class = "notre-manifeste single-page"
-title = "Imagine Demain le monde"
+title = "Le projet Imagine"
 
 +++
-## **En bref**
+## **Notre Asbl**
 
 <br>
 
@@ -15,7 +15,7 @@ title = "Imagine Demain le monde"
 * _Imagine_ est présent en Belgique, mais également en France en partenariat **avec Les Liens qui Libèrent** qui assure sa distribution dans l’Hexagone. Créée en 2014 en association avec Actes Sud, cette jeune maison d’édition française interroge la question de la crise des liens dans nos sociétés occidentales. A l’automne, Imagine & LLL co-éditeront un hors-série inédit autour de l’origine des catastrophes.
 * _Imagine_ a été fondé en septembre 1996 à l’initiative de Jacky Morael, alors secrétaire fédéral d’Ecolo avec l’appui de son parti et la venue d’André Ruwet (ex-rédacteur en chef du magazine _Greenpeace_ et journaliste à _La Cité_). En janvier 2003, les Verts ont décidé de renoncer à _Imagine_ et de créer leur propre publication. La rédaction a ensuite racheté le titre, créé **son Asbl et relancé ce média de manière totalement autonome.** En 2004, elle s’est associée avec le CNCD-11.11.11 pour développer l’aspect Nord-Sud. En 2014, elle a entrepris une première réforme importante (52 à 100 pages, nouveau format…). Avec le processus #Imagine2020, l’équipe franchit un pas supplémentaire en se positionnant comme **« le » magazine des mutations en cours et à venir**.
 
-## **L’équipe d’_Imagine_**
+## **Notre équipe**
 
 <br>
 
@@ -35,7 +35,7 @@ Sophie Weverbergh, relectrice-correctrice
 
 Yves Alié, conseiller régie publictiaire
 
-## **La touche Imagine**
+## **Nos différences**
 
 <br>
 

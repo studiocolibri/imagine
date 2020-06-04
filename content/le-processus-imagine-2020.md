@@ -15,7 +15,7 @@ lien vers la page manifeste et/ou PDF
 
 **3. Un atelier d’intelligence collective.** Le 13 novembre 2019, lors d’une soirée d’intelligence collective organisée chez Mundo N, à Namur, une vingtaine de personnes proches du magazine et issues d’horizons divers (enseignement, presse, ONG…) participent à l’Atelier Imagine construit en partenariat avec l’Asbl bruxelloise Collectiv-a spécialisée dans l’élaboration et l’animation d’événements participatifs. Plusieurs thématiques sont abordées (_Imagine_ 2.0, l’information constructive, la diffusion du magazine…)
 
-**4. Un questionnaire en ligne adressé aux lecteurs.** La rédaction sonde ses lecteurs par mail et via les réseaux. Au total, elle recevra 284 réponses. Les répondants sont principalement originaires de Bruxelles, Liège et du Brabant wallon. Le plus jeune a 24 ans, le plus âgé 83 ans. Ils sont employés à temps plein (33 %), retraités (30 %),  travailleurs à temps partiel (18 %). A la question de savoir ce qu’ils pensent des contenus, trois idées émergent : avec _Imagine_, ils   
+**4. Un questionnaire en ligne adressé aux lecteurs.** La rédaction sonde ses lecteurs par mail et via les réseaux. Au total, elle recevra 284 réponses. Les répondants sont principalement originaires de Bruxelles, Liège et du Brabant wallon. Le plus jeune a 24 ans, le plus âgé 83 ans. Ils sont employés à temps plein (33 %), retraités (30 %),  travailleurs à temps partiel (18 %). A la question de savoir ce qu’ils pensent des contenus, trois idées émergent : avec _Imagine_, ils  
 _« se sentent mieux informés »_, _« découvrent des idées nouvelles »_, le magazine _« les inspire et les porte vers l’avenir »._ Des critiques sont également apportées sur le manque de couverture de certains sujets, la maquette, le site web, etc.
 
 **5. La création du groupe Les Pisteurs d’Imagine.** Pour avoir un regard croisé et extérieur et renforcer la légitimité de ce processus, l’équipe décide, une fois de plus, de sortir de la rédaction et de créer un comité d’accompagnement #Imagine2020 en sollicitant une quinzaine de personnalités issues de la société civile (universités, ONG…). Certains sont des lecteurs du magazine, d’autres pas – voir la composition du comité ci-dessous
@@ -58,4 +58,4 @@ Programmée début mai, la sortie du nouveau projet est reportée début juin su
 
 **Sébastien Kennes**, animateur, formateur, chargé de projet à l’Asbl Rencontre des Continents
 
-**Arnaud Zacharie**, secrétaire général du CNCD-11.1
+**Arnaud Zacharie**, secrétaire général du CNCD-11.11.11, maître de conférences (ULB, ULiège)
