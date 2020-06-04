@@ -23,7 +23,7 @@ Oui, _Homo sapiens_ doit atterrir, là, maintenant, et redevenir au plus vite te
 
 Oui, nous devons d’urgence reprendre contact avec le sol, avec la vie. Nous ré-enraciner. Humains et non humains solidaires. Sans hiérarchie de valeur ni de statut pour _« ouvrir la voie d'un habiter terrestre, viable et fraternel »_, comme le propose le philosophe Dominique Bourg.
 
-Re-fonder la société des hommes dans leur manière de produire, consommer, gouverner, travailler, enseigner, réfléchir éduquer, anticiper, s’entraider, partager les richesses et les ressources. Tirer les leçons de l’histoire. Et poser les jalons d’une nouvelle civilisation.
+Re-fonder la société des hommes dans leur manière de produire, consommer, gouverner, travailler, enseigner, réfléchir, éduquer, anticiper, s’entraider, partager les richesses et les ressources. Tirer les leçons de l’histoire. Et poser les jalons d’une nouvelle civilisation.
 
 ## Vers un futur désirable
 
