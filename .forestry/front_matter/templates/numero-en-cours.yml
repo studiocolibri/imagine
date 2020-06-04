@@ -44,6 +44,10 @@ fields:
   - type: textarea
     name: content
     label: content
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
 - type: image_gallery
   name: decouverte
   label: Aperçus du magazine
