@@ -43,7 +43,7 @@ Mais les recommandations s’adressent d’abord aux employeurs. Parmi celles-ci
 
 Sur le long terme, l’OIT préconise d’évaluer au maximum les risques à venir, d’établir des plans de prévention et d’adaptation, de former et sensibiliser l’ensemble du personnel dans les secteurs menacés. Les experts interpellent par ailleurs les gouvernements en leur demandant d’améliorer les normes techniques des bâtiments, d'engager de véritables planifications urbaines, de réduire les coûts financiers et énergétiques des systèmes de climatisation, mais aussi de veiller au respect strict des normes de protection sociale et des normes de travail.
 
-![](https://res.cloudinary.com/cefasbl/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1591293085/35482786310_44b3a38435_o_tijjxj.jpg)
+![](https://res.cloudinary.com/cefasbl/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1591293085/35482786310_44b3a38435_o_tijjxj.jpg "© Cifor")
 
 ### Prévenir les cancers de la peau
 
