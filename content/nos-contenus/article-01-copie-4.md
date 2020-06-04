@@ -4,14 +4,14 @@ title: Contre-courants
 date: 2020-05-28
 categories:
 - Chronique
-description: Par Corinne Morel Darleux, écrivaine, militante écosocialiste, autrice
-  de Plutôt couler en beauté que flotter sans grâce (Liberta).
+description: Une chronique de Corinne Morel Darleux, écrivaine, militante écosocialiste,
+  autrice de Plutôt couler en beauté que flotter sans grâce (Liberta).
 img: "/uploads/139_nemesis_rouge.jpg"
 
 ---
 <div class="chapeau">
 
-Par Corinne Morel Darleux, écrivaine, militante écosocialiste, autrice de Plutôt couler en beauté que flotter sans grâce (Liberta).
+Une chronique de Corinne Morel Darleux, écrivaine, militante écosocialiste, autrice de Plutôt couler en beauté que flotter sans grâce (Liberta).
 
 </div>
 
@@ -19,11 +19,11 @@ Par Corinne Morel Darleux, écrivaine, militante écosocialiste, autrice de Plut
 
 J’ai la mauvaise habitude d’accumuler les fenêtres ouvertes sur internet à chaque fois que je croise une idée, un auteur, un texte inspirant sans avoir le temps d’approfondir sur le moment. Quand je sens qu’il y a là un fil à tirer.
 
-Récemment j’ai eu la curiosité de retourner au premier de ces onglets ensevelis depuis longtemps. Il s’agissait d’une définition économique : le « taux de préférence pour le présent » ou « taux pur de préférence temporelle ». La rythmique de cette expression, son pouvoir évocateur, m’ont à nouveau frappée. 
+Récemment j’ai eu la curiosité de retourner au premier de ces onglets ensevelis depuis longtemps. Il s’agissait d’une définition économique : le « taux de préférence pour le présent » ou « taux pur de préférence temporelle ». La rythmique de cette expression, son pouvoir évocateur, m’ont à nouveau frappée.
 
 Le taux de préférence pour le présent est le reflet d’une certaine impatience sociale à consommer, le fondement de toutes les politiques de relance par la consommation. Le fait, plus généralement, de préférer une satisfaction immédiate à une satisfaction plus éloignée dans le temps.
 
-Cette notion peut s’appliquer aux gouvernements. Elle s’appelle alors imprévoyance, myopie ou incurie. 
+Cette notion peut s’appliquer aux gouvernements. Elle s’appelle alors imprévoyance, myopie ou incurie.
 
 Non-respect des objectifs climatiques, abandon de stocks de masques face au risque de pandémie ou baisse des investissements publics : il s’agit de privilégier le court terme et ce, quels qu’en soient les coûts futurs. La préférence temporelle offre finalement une métaphore assez saisissante des comportements collectifs face au risque imminent : force est de constater que la catastrophe climatique conjuguée au futur n’a jamais eu l’effet d’une crise sanitaire au présent.
 
