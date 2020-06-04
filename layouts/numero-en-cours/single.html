@@ -3,7 +3,7 @@
 <section class="numero-header numero-header--top">
     {{ range first 1 (where $.Site.RegularPages.ByDate.Reverse "Section" "numeros") }}
         <div class="numero-header__left">
-            <img id="cover" src="/uploads/{{ .Params.simulation_cover }}" alt="Couverture du numéro {{ .Params.num }}">
+            <img id="cover" src="https://res.cloudinary.com/drg3m95yg/image/upload/{{ .Params.simulation_cover }}" alt="Couverture du numéro {{ .Params.num }}">
             <script>var cover = {{ replace .Params.simulation_cover "\"" "" }};var backcover = {{ replace .Params.simulation_cover_bis "\"" "" }};</script>
         </div>
         <div class="numero-header__right">
@@ -28,7 +28,7 @@
 <section class="numero-section-one cw">
     <h2 class="numero-section-one__title">Le voyage terrestre d'Imagine</h2>
     {{ range first 1 (where $.Site.RegularPages.ByDate.Reverse "Section" "numeros") }}
-        <img src="/uploads/{{ .Params.six_territoires_img }}" alt="Description des six territoires d'Imagine" loading="lazy">
+        <img src="https://res.cloudinary.com/drg3m95yg/image/upload/{{ .Params.six_territoires_img }}" alt="Description des six territoires d'Imagine" loading="lazy">
     {{ end }}
 </section>
 
@@ -39,7 +39,7 @@
             {{ range first 1 (where $.Site.RegularPages.ByDate.Reverse "Section" "numeros") }}
                 <div class="numero-section-two__tabs__left">
                     {{ range $i, $el := .Params.sixieme_continent }}
-                        <img class="numero-section-two__tab__img{{ if eq $i 0 }} selected{{ end }}" src="/uploads/{{ .img }}" id="tab-img-{{ $i }}" role="presentation" alt="" loading="lazy">
+                        <img class="numero-section-two__tab__img{{ if eq $i 0 }} selected{{ end }}" src="https://res.cloudinary.com/drg3m95yg/image/upload/{{ .img }}" id="tab-img-{{ $i }}" role="presentation" alt="" loading="lazy">
                         <a href="#tab-{{$i}}" class="numero-section-two__tab__btn{{ if eq $i 0 }} selected{{ end }}" data-num="{{ $i }}">
                             <h4>{{ .title | markdownify }}</h4>
                         </a>
@@ -78,7 +78,7 @@
         {{ range first 1 (where $.Site.RegularPages.ByDate.Reverse "Section" "numeros") }}
             {{ range .Params.decouverte }}
                 <li>
-                    <img src="/uploads/{{ . }}" alt="Aperçu d'une page de contenu du numéro en cours" loading="lazy">
+                    <img src="https://res.cloudinary.com/drg3m95yg/image/upload/{{ . }}" alt="Aperçu d'une page de contenu du numéro en cours" loading="lazy">
                 </li>
             {{ end }}
         {{ end }}

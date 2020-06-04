@@ -8,7 +8,7 @@ description: Dans la mythologie grecque, Nemesis était la déesse de la vengean
   de la justice distributive. A Anderlecht, le Nemesis Fighting Club est un espace
   féministe et antifasciste, où femmes et minorités de genre se retrouvent pour boxer
   le patriarcat.
-img: "/uploads/img_3149.jpg"
+img: "img_3149.jpg"
 
 ---
 <div class="chapeau">

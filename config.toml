@@ -13,6 +13,9 @@ unsafe = true
 [taxonomies]
 category = "categories"
 
+[params]
+cloudinary_url = "https://res.cloudinary.com/drg3m95yg/image/upload/"
+
 [[menu.main]]
 name = "N° en cours"
 url = "/numero-en-cours/"

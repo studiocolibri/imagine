@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <article>
-    <header class="single-e-magine__header" style="background-image:url('{{ .Params.img }}')">
+    <header class="single-e-magine__header" style="background-image:url('{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_427{{ .Params.img }}')">
         <div class="single-e-magine__category">
             <p data-color="{{ range first 1 .Params.categories }}{{ . | plainify | lower }}{{ end}}">
                 {{ range first 1 .Params.categories }}{{ . }}{{ end}}
