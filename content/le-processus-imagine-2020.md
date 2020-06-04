@@ -34,8 +34,6 @@ Programmée début mai, la sortie du nouveau projet est reportée début juin su
 
 <a class="btn btn--square btn--green" href="/libre-acces/le-grand-basculement/" target="_blank" rel="noopener">Lire notre tribune : Le grand basculement</a>
 
-<br>
-
 ## Les Pisteurs d’Imagine
 
 <br>
