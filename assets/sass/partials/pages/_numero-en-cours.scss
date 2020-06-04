@@ -135,13 +135,17 @@
 .numero-section-two {
     position: relative;
     padding:$su*6 0 $su*3;
+
+    @media screen and (min-width:$bp-xl) {
+        padding:$su*10 0 $su*5;
+    }
     
     .section-title {
         color:$yellow;
         
         @media screen and (min-width:$bp-xl) {
-            padding:$su*10 0 $su*5;
-            min-height: 12em;
+            padding:0;
+            min-height: 15em;
         }
     }
 }
