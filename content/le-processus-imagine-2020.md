@@ -26,9 +26,15 @@ _« se sentent mieux informés »_, _« découvrent des idées nouvelles »_, le
 
 **6. Un lunch laboratoire.** Le 17 janvier, la rédaction et les Pisteurs d’Imagine se retrouvent chez Mundo B, à Bruxelles, pour travailler de manière participative autour de différents thèmes (le manifeste, l’information prospective, les relations avec la société civile…).
 
-**7. Une semaine de workshop à la rédaction.** Début février 2020, la rédaction rassemble la totalité des propositions et réflexions accumulées durant ces différents mois et se remet au travail avec David Cauwe (graphiste), le Studo Colibri (création du site éco-responsable), des stagiaires de l’Ihecs et de l’ULiège, pour plancher sur le nouveau chemin de fer, la maquette, l’articulation avec le web…
+**7. Une semaine de workshop à la rédaction.** Début février 2020, la rédaction rassemble la totalité des propositions et réflexions accumulées durant ces différents mois et se remet au travail avec David Cauwe (graphiste), le Studio Colibri (création du site éco-responsable), des stagiaires de l’Ihecs et de l’ULiège, pour plancher sur le nouveau chemin de fer, la maquette, l’articulation avec le web…
 
-Programmée début mai, la sortie du nouveau projet est reportée début juin sur fond de crise du Covid-19. Malgré le contexte (des reportages annulés, des réunions de rédaction à distance…) _Imagine_ s’adapte, avec agilité et créativité, en sortant un numéro de 156 pages, dont un cahier de 42 pages spécial « Covid-19 : changer d’ère », avec une tribune titrée « Le grand basculement » co-signée par la rédaction et les Pisteurs d’Imagine. lien vers la tribune
+Programmée début mai, la sortie du nouveau projet est reportée début juin sur fond de crise du Covid-19. Malgré le contexte (des reportages annulés, des réunions de rédaction à distance…) _Imagine_ s’adapte, avec agilité et créativité, en sortant un numéro de 156 pages, dont un cahier de 42 pages spécial « Covid-19 : changer d’ère », avec une tribune titrée « Le grand basculement » co-signée par la rédaction et les Pisteurs d’Imagine. 
+
+<br>
+
+<a class="btn btn--square btn--green" href="/libre-acces/le-grand-basculement/" target="_blank" rel="noopener">Lire l’intégralité du manifeste Imagine ici</a>
+
+<br>
 
 ## Les Pisteurs d’Imagine
 
