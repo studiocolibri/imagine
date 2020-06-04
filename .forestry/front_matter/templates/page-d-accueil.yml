@@ -1,0 +1,58 @@
+---
+label: Page d'accueil
+hide_body: false
+fields:
+- type: text
+  name: class
+  label: class
+- type: text
+  name: title
+  label: title
+- type: field_group
+  name: section_one
+  label: section_one
+  fields:
+  - type: text
+    name: section_title
+    label: section_title
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: text
+    label: text
+  - type: text
+    name: btn_text
+    label: btn_text
+  - type: text
+    name: btn_link
+    label: btn_link
+- type: field_group
+  name: section_two
+  label: section_two
+  fields:
+  - type: text
+    name: section_title
+    label: section_title
+  - type: text
+    name: btn_link
+    label: btn_link
+  - type: text
+    name: btn_txt
+    label: btn_txt
+- type: field_group
+  name: section_three
+  label: section_three
+  fields:
+  - type: text
+    name: section_title
+    label: section_title
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: btn_text
+    label: btn_text
+  - type: text
+    name: btn_link
+    label: btn_link
