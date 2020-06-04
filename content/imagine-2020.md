@@ -1,6 +1,6 @@
 ---
 type: imagine-2020
-title: Imagine aujourd'hui
+title: 'Qui sommes-nous ? '
 class: imagine-2020
 section_one:
   section_title: nos valeurs
@@ -9,11 +9,11 @@ section_one:
     (2020) et sur sa charte fondatrice (1996). Deux documents dans lesquels le magazine
     (ré)affirme ses valeurs, sa ligne éditoriale et ses engagements vis-à-vis des
     lecteurs.
-  btn_txt: Lire le manifeste
+  btn_txt: En savoir plus
   btn_link: "/notre-manifeste"
   img: notre-manifeste-portrait.jpg
 section_two:
-  section_title: un voyage nouveau
+  section_title: 'un nouveau voyage '
   title: La cartographie Imagine
   text: "<em>Imagine</em> propose à ses lecteurs de « redevenir terrestres » et de
     voyager, tous les deux mois, à travers sa nouvelle cartographie organisée en six
