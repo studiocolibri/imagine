@@ -7,7 +7,7 @@ description: Selon l'étymologie grecque, le mot « némésis » signifie _« r�
   »._ Dans la mythologie, Nemesis était la déesse de la vengeance et de la justice
   distributive. A Anderlecht, le Nemesis Fighting Club est un espace féministe et
   antifasciste, où femmes et minorités de genre se retrouvent pour boxer le patriarcat.
-img: ''
+img: "/uploads/139_nemesis_rouge.jpg"
 
 ---
 <div class="chapeau">
@@ -51,8 +51,6 @@ Enracinés dans la mémoire collective, ces clichés datent d'une époque où le
 > _« La normalité est violente et la société nous a appris à être machistes ! Un homme n'a pas le droit de pleurer. La couleur bleue c'est pour les garçons, le rose pour les filles »_, Leila.
 
 De l'avis de plusieurs participantes, le choc entre différentes réalités, privilèges, luttes et vérités inculquées depuis l'enfance est nourrissant. La possibilité de participer à des activités sans la présence du « groupe dominant » est rassurante. C'est l'autre particularité de Nemesis, un des rares endroits du royaume où la totalité des cours sont organisés en mixité choisie, c'est-à-dire sans hommes cisgenre (NDLR : ce terme désigne les personnes dont le genre ressenti correspond au sexe biologique assigné à la naissance). Un concept très controversé, y compris au sein des mouvements féministes. Ses détracteurs y voient une atteinte à la liberté d'association, de la discrimination, voire de la ségrégation. Pour ses partisans, la mixité non-choisie ne tient pas compte des relations et des inégalités de pouvoir, ce qui entraîne des effets pervers.
-
-![© Nemesis Fighting Club](/uploads/60739913_2407306426156223_3603381689084018688_o.jpg)
 
 Au quai de l'Industrie, la mixité choisie est donc revendiquée comme un choix politique, nécessaire pour les groupes discriminés. _« Ça n'a pas été un choix facile. On savait qu'on serait considérées comme des radicales, des féminazies qui construisent des ghettos, une contre-société ou une armée pour attaquer les machos_, explique Leila. _Ceux qui le pensent oublient la multitude d'endroits où seuls les hommes cisgenre ont un droit d'entrée ou de parole. Cet endroit est nécessaire, notamment pour permettre aux participants d'apprendre à reconnaître les abus, partager leurs expériences, leurs solutions. Un endroit où l'on peut susciter une prise de conscience. Qu'y a-t-il de mal à ça ? Les violences ont été tellement intériorisées qu'on ne les remarque même plus. Je sais que c'est difficile à entendre parce que ça remet en question la normalité dans laquelle nous avons grandi. Mais la normalité est violente et la société nous a appris à être machistes ! Un homme n'a pas le droit de pleurer. La couleur bleue c'est pour les garçons, le rose pour les filles. Tout ça, ce sont des constructions sociétales à détricoter. »_
 
