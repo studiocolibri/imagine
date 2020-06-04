@@ -1,7 +1,7 @@
 ---
 class: single-e-magine
 title: Nemesis boxe le patriarcat
-date: 2020-04-26
+date: 2020-06-04T00:00:00+02:00
 categories:
 - Reportage
 description: Dans la mythologie grecque, Nemesis était la déesse de la vengeance et
@@ -44,7 +44,7 @@ Et peu à peu, l'offre s'étoffe. Le premier club de boxe populaire de Belgique 
 
 L'ADN de ce cocktail mélangeant aspects sportifs et militants : l'émancipation des femmes et des minorités de genre. Stages d'auto-défense pour les travailleuses du sexe, informations pratiques pour les personnes qui peuvent difficilement fuir les violences conjugales ou intra-familiales en période de confinement… « _Notre projet ne se limite pas à la boxe. On fait de la sensibilisation sur les différents types de discrimination, on discute de luttes politiques, on veut améliorer les conditions de vie des personnes qui viennent ici »,_ décrit Nancy, membre du collectif. _« Je crois en la force du sport pour apporter un changement concret dans la société. La boxe, pour moi, c'est une philosophie de vie. En boxe, comme dans la vie, il faut trouver le juste équilibre pour ne pas tomber, apprendre à se défendre, savoir prendre des coups, se relever, visualiser ses points faibles et identifier ses erreurs, faire mieux la prochaine fois »,_ enchaîne Ida.
 
-> _« Aujourd'hui une femme qui boxe ne fait pas ce que la société attend d'elle. Si elle fait de la danse, on ne questionnera jamais son choix »_ 
+> _« Aujourd'hui une femme qui boxe ne fait pas ce que la société attend d'elle. Si elle fait de la danse, on ne questionnera jamais son choix »_
 >
 > Leila, fondatrice du Nemesis Fighting Club
 
@@ -56,7 +56,7 @@ Enracinés dans la mémoire collective, ces clichés datent d'une époque où le
 _« Aujourd'hui encore, une femme qui boxe ne fait pas ce que la société attend d'elle. Elle devra toujours se justifier. Elle ne peut pas simplement dire qu'elle boxe parce que ce sport lui plaît. Or, si elle fait de la danse, on ne questionnera jamais son choix »,_ résume Leila (prénom d'emprunt), fondatrice de Nemesis et créatrice de projets similaires à Pérouse (Italie) ou dans les favelas de Sao Paulo (Brésil).
 
 > _« La normalité est violente et la société nous a appris à être machistes ! Un homme n'a pas le droit de pleurer.  
-> La couleur bleue c'est pour les garçons, le rose pour les filles »_ 
+> La couleur bleue c'est pour les garçons, le rose pour les filles »_
 >
 > Leila
 
