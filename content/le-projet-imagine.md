@@ -1,7 +1,7 @@
 +++
 class = "notre-manifeste single-page"
 draft = true
-title = "Le projet Imagine"
+title = "Le projet Imagine Demain le monde"
 
 +++
 ## En bref
