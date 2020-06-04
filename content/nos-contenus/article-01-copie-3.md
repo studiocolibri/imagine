@@ -24,7 +24,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 
 <figure class="half-width-img-txt">
-    <img src="/assets/img/andreas-gucklhorn.jpg" alt="">
+    <img src="/assets/uploads/andreas-gucklhorn.jpg" alt="">
     <figcaption>Lorem ipsum dolor sit amet, consectetur adipiscing dolore magna aliqua. Ut laboris nisi ut aliquip ex ea commodo consequat ?</figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ dolore magna aliqua. Ut laboris nisi ut
 aliquip ex ea commodo consequat ? 
 
 <div class="full-width-img">
-    <img src="/assets/img/06Marikana.jpg" alt="alt text">
+    <img src="/assets/uploads/06Marikana.jpg" alt="alt text">
 </div>
 
 ## Exemple de titre de paragraphe 3
