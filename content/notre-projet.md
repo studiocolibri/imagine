@@ -14,7 +14,7 @@ section_one:
   img: "/v1591303920/Capture_d_e%CC%81cran_2020-06-04_a%CC%80_22.47.46_kyoepi.png"
 section_two:
   section_title: 'un nouveau voyage '
-  title: La cartographie Imagine
+  title: Notre cartographie
   text: "<em>Imagine</em> propose à ses lecteurs de « redevenir terrestres » et de
     voyager, tous les deux mois, à travers sa nouvelle cartographie organisée en six
     territoires : Sur le volcan, Le sixième continent, Zones fertiles, Terra incognita,
