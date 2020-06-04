@@ -1,7 +1,7 @@
 ---
 class: single-e-magine
 title: Taux de préférence pour le présent
-date: 2020-05-28
+date: 2020-06-04T00:00:00+02:00
 categories:
 - Chronique
 description: Contre-courants, une chronique de Corinne Morel Darleux, écrivaine, militante
