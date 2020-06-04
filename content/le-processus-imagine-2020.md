@@ -3,7 +3,7 @@ class = "notre-manifeste single-page"
 title = "Le processus #Imagine 2020"
 
 +++
-## Pour réaliser son nouveau projet éditorial lancé début juin 2020, Imagine a initié, un an plus tôt, un grand processus créatif baptisé #Imagine2020 en huit étapes.
+## Pour réaliser son nouveau projet éditorial lancé début juin 2020, _Imagine_ a initié, un an plus tôt, un grand processus créatif baptisé #Imagine2020 en huit étapes.
 
 <br>
 
