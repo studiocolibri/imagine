@@ -39,6 +39,6 @@ Dans ce territoire, il est question de transmission, d’éducation, d’interg�
 
 sensibilité – arts – esthétique
 
-Ici, notre magazine met l’accent sur les arts, la littérature, le cinéma… et en partageant ses coups de coeur culturels.
+Ici, notre magazine met l’accent sur les arts, la littérature, le cinéma… et en partageant ses coups de cœur culturels.
 
 * Dans chaque territoire, une attention continue est accordée aux personnes vulnérables, dominées, trop souvent oubliées dans la sphère publique, à la diversité de genre, à l’inclusion des minorités et au monde vivant dans sa globalité (végétaux, animaux…).

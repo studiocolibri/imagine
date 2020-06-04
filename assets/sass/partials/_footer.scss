@@ -111,11 +111,20 @@
 .site-footer__social {
     margin-bottom:$su/2;
 
+    a {
+        display:inline-block;
+        text-decoration: none;
+        margin-right:$su*4;
+
+        &:last-of-type {
+            margin-right: 0;
+        }
+    }
+
     @media screen and (max-width: ($bp-s - 1)) {
         display:flex;
         justify-content: center;
     }
-
 }
 
 #top-btn {

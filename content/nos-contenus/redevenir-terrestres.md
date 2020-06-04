@@ -9,11 +9,8 @@ description: 'L’épidémie du Covid-19 nous conforte plus que jamais dans nos 
 img: "sans-titre1.jpg"
 
 ---
-<div class="chapeau">
 
-</div>
-
-_« Nous vivons dans un monde fini, avec des limites planétaires largement dépassées : nous n’avons pas de planète B. Nous sommes au coeur d’un basculement et nous allons vers un futur incertain et imprévisible (…) Nous avons le devoir moral d’agir individuellement et collectivement pour faire face aux périls qui menacent la survie de l’humanité (…) »_
+_« Nous vivons dans un monde fini, avec des limites planétaires largement dépassées : nous n’avons pas de planète B. Nous sommes au cœur d’un basculement et nous allons vers un futur incertain et imprévisible (…) Nous avons le devoir moral d’agir individuellement et collectivement pour faire face aux périls qui menacent la survie de l’humanité (…) »_
 
 Ces quelques lignes ont été écrites _in tempore non suspecto_ au début de l’automne 2019. Elles figurent en ouverture de notre nouveau manifeste Imagine qui accompagne ce numéro. L’épidémie du covid-19 nous conforte plus que jamais dans nos convictions éditoriales : il est grand temps qu’_Homo sapiens_ atterrisse. Trop longtemps, l’homme dit « moderne » a vécu hors sol, déconnecté de l’essentiel, persuadé qu’il était invincible, omniscient, au centre de l’univers, capable de tout dominer, maîtriser, diriger, et soudainement, brutalement, le coronavirus lui rappelle qu’il n’en est rien.
 

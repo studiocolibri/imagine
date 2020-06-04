@@ -68,10 +68,11 @@
     <h2 class="section-title right margin hide">{{ .Params.section_five.title }}</h2>
     <h3>{{ .Params.section_five.title | safeHTML }}</h3>
     <ul class="partenaires-list">
+        {{ $imgUrl := .Site.Params.cloudinary_url }}
         {{ range .Params.section_five.img_list }}
             <li>
                 <a href="{{ .link }}" target="_blank" rel="noopener">
-                    <img src="{{ .Site.Params.cloudinary_url }}{{ .img }}" alt="logo de : {{ .title }}" title="{{ .title }}" loading="lazy">
+                    <img src="{{ $imgUrl }}f_auto,q_80,w_135,c_limit/{{ .img }}" alt="logo de : {{ .title }}" title="{{ .title }}" loading="lazy">
                 </a>
             </li>
         {{ end }}
