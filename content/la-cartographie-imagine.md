@@ -33,7 +33,7 @@ Dans cette séquence, _Imagine_ est orienté vers le futur : études prospective
 
 **Les confluents** \[_Par analogie._ Point de rencontre de deux ou plusieurs voies\]
 
-transmission, bien-être, soins
+transmission – bien-être – soins
 
 Dans ce territoire, il est question de transmission, d’éducation, d’intergénérationnel. On y parle aussi de bien-être personnel, de philosophie, de pédagogie, d’histoire, d’héritages transmis et à transmettre.
 
