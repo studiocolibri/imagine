@@ -21,4 +21,5 @@ fields:
   name: img
   label: img
 pages:
+- content/nos-contenus/article-01-copie-2.md
 - content/nos-contenus/article-01.md
