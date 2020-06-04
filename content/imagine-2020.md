@@ -26,7 +26,7 @@ section_three:
 section_four:
     section_title: Le magazine
     title: Le projet Imagine
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+    text: Fondé en 1996, Imagine Demain le monde est un projet de presse alternative et indépendante sans but lucratif. Ce magazine est pensé, réalisé et géré avec soin et passion par ceux qui le fabriquent. 
     btn_txt: En savoir plus
     btn_link: #
     img: differents-regards.jpg
