@@ -17,7 +17,7 @@ section_two:
   btn_link: "/libre-acces/"
   btn_txt: Tous nos articles
 section_three:
-  section_title: dossier
+  section_title: Espace abonnés numérique
   title: Lorem ipsum dolor sit amet y consigner et uy
   btn_text: Découvrir
   btn_link: "/libre-acces/"
