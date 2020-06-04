@@ -1,12 +1,12 @@
 ---
 class: single-e-magine
-title: Contre-courants
+title: Taux de préférence pour le présent
 date: 2020-05-28
 categories:
 - Chronique
-description: Une chronique de Corinne Morel Darleux, écrivaine, militante écosocialiste,
-  autrice de Plutôt couler en beauté que flotter sans grâce (Liberta).
-img: "/uploads/139_nemesis_rouge.jpg"
+description: Contre-courants, une chronique de Corinne Morel Darleux, écrivaine, militante
+  écosocialiste, autrice de Plutôt couler en beauté que flotter sans grâce (Liberta).
+img: "/uploads/3543354018_8e05ded28c_o-2.jpg"
 
 ---
 <div class="chapeau">
@@ -14,8 +14,6 @@ img: "/uploads/139_nemesis_rouge.jpg"
 Une chronique de Corinne Morel Darleux, écrivaine, militante écosocialiste, autrice de Plutôt couler en beauté que flotter sans grâce (Liberta).
 
 </div>
-
-## Taux de préférence pour le présent
 
 J’ai la mauvaise habitude d’accumuler les fenêtres ouvertes sur internet à chaque fois que je croise une idée, un auteur, un texte inspirant sans avoir le temps d’approfondir sur le moment. Quand je sens qu’il y a là un fil à tirer.
 
