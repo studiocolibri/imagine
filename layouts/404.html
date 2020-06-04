@@ -1,10 +1,16 @@
 {{ define "main" }}
 
-<div class="main-content">
-  <h2>Cette page n'existe pas ou a changé d'adresse</h2>
-  <p>
-    <a class="back-to-news" href="/">Retour à la page d'accueil</a>
+<section class="page-header">
+    <h1 class="aw" style="color:white">Erreur 404</h1>
+</section>
+
+<section class="main-content aw">
+  <h2 style="margin:80px 0">Oups ! Cette page n'existe pas ou a changé d'adresse.</h2>
+  <p style="margin:80px 0">
+    <a class="btn btn--reverse" href="/">Retour à la page d'accueil</a>
   </p>
-</div>
+</section>
+
+{{ partial "s-abonner.html" . }}
 
 {{ end }}
