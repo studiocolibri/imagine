@@ -4,7 +4,9 @@ draft = true
 title = "Imagine Demain le monde"
 
 +++
-## En bref
+## **En bref**
+
+<br>
 
 * C’est **un magazine belge, bimestriel et alternatif**, qui traite des questions d’**écologie, de société et de relations Nord-Sud.** Il est édité par une Asbl, indépendante de tout groupe de presse et de tout parti politique, et géré par l’équipe qui le réalise.
 
@@ -16,6 +18,8 @@ title = "Imagine Demain le monde"
 * _Imagine_ a été fondé en septembre 1996 à l’initiative de Jacky Morael, alors secrétaire fédéral d’Ecolo avec l’appui de son parti et la venue d’André Ruwet (ex-rédacteur en chef du magazine _Greenpeace_ et journaliste à _La Cité_). En janvier 2003, les Verts ont décidé de renoncer à _Imagine_ et de créer leur propre publication. La rédaction a ensuite racheté le titre, créé **son Asbl et relancé ce média de manière totalement autonome.** En 2004, elle s’est associée avec le CNCD-11.11.11 pour développer l’aspect Nord-Sud. En 2014, elle a entrepris une première réforme importante (52 à 100 pages, nouveau format…). Avec le processus #Imagine2020, l’équipe franchit un pas supplémentaire en se positionnant comme **« le » magazine des mutations en cours et à venir**.
 
 ## **L’équipe d’_Imagine_**
+
+<br>
 
 Hugues Dorzée, rédacteur en chef, éditeur responsable
 
@@ -34,6 +38,8 @@ Sophie Weverbergh, relectrice-correctrice
 Yves Alié, conseiller régie publictiaire
 
 ## **La touche Imagine**
+
+<br>
 
 * **Un bel objet graphique & éco-friendly**
 
