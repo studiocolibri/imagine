@@ -31,7 +31,7 @@
             <li class="slider__item--presse">
                 <a href="{{ .link }}">
                     <article>
-                        <img class="slider__img" src="{{ .Site.BaseURL }}/assets/uploads/{{ .img }}" role="presentation">
+                        <img class="slider__img" src="{{ .Site.BaseURL }}/uploads/{{ .img }}" role="presentation">
                         <time class="slider__date" datetime="{{ dateFormat "02-01-06" .date }}">{{ dateFormat "02.01.06" .date }}</time> - <span class="slider__origin">{{ .origin }}</span>
                         <h4 class="slider__title">{{ .title }}</h4>
                     </article>
