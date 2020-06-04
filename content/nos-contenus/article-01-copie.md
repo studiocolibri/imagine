@@ -8,7 +8,7 @@ description: En 2050, les livres d'histoire contemporaine raconteront peut-être
   l'année 2020 fut celle d'un grand basculement. Où l'anticipation des crises permit
   à la communauté internationale de financer la transformation de l'économie fossile
   pour limiter l'élévation du thermomètre sous le seuil fatidique exigé par la science.
-img: "/uploads/imagine139_covercovid.jpg"
+img: "/uploads/sans-titre2.jpg"
 
 ---
 En 2050, les livres d'histoire contemporaine raconteront peut-être que l'année 2020 fut celle d'un grand basculement. Où l'anticipation des crises permit à la communauté internationale de financer la transformation de l'économie fossile pour limiter l'élévation du thermomètre sous le seuil fatidique exigé par la science. Où la coopération finança les pays du Sud pour s'adapter aux conséquences désastreuses du dérèglement climatique. Où la logique effrénée de l'urgence, de l'hyper-mobilité et des marchés financiers ont progressivement laissé place au ralentissement de la société mondialisée, à la relocalisation des chaînes de production essentielles à l'humanité et à une redistribution équitable des richesses autour des biens communs. Où l'écosystème Terre, sous pression de toutes parts, entama sa lente régénération.
