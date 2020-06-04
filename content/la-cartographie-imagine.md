@@ -15,8 +15,6 @@ On y parle, du Nord au Sud, des luttes, des résistances, des voix critiques fac
 
 **Le sixième continent** \[_Usuel._ Partie étendue du monde\]
 
-Le long format
-
 C’est le territoire où atterrit un dossier « long format », à la croisée des différents territoires.
 
 **Zones fertiles** \[_P. méton._ Abondantes en récoltes\]
@@ -41,6 +39,6 @@ Dans ce territoire, il est question de transmission, d’éducation, d’interg�
 
 sensibilité – arts – esthétique
 
-Ici, notre magazine met l’accent sur les arts, la littérature, le cinéma… et en partageant ses coups de cœur culturels.
+Ici, notre magazine met l’accent sur les arts, la littérature, le cinéma… et en partageant ses coups de coeur culturels.
 
 * Dans chaque territoire, une attention particulière est accordée aux personnes vulnérables, dominées, trop souvent oubliées dans la sphère publique, à la diversité de genre et à l’inclusion des minorités, et au monde vivant dans sa globalité (végétaux, animaux…).
