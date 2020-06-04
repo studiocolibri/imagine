@@ -17,7 +17,7 @@ sections:
   templates:
   - numero-en-cours
 - type: directory
-  path: content/nos-contenus
+  path: content/libre-acces
   label: Nos contenus
   create: all
   match: "**/*"

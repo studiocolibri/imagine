@@ -4,6 +4,8 @@
   color: "#60B2AE"
 - name: lightgreen
   color: "#B0D8D6"
+- name: ultralightgreen
+  color: "#9CDE9F"
 - name: turquoise
   color: "#00839A"
 - name: yellow

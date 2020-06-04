@@ -22,8 +22,8 @@ url = "/numero-en-cours/"
 weight = 1
 
 [[menu.main]]
-name = "Contenus"
-url = "/nos-contenus/"
+name = "Libre accès"
+url = "/libre-acces/"
 weight = 2
 
 [[menu.main]]

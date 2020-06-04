@@ -14,13 +14,13 @@ section_one:
   btn_link: "/notre-projet/"
 section_two:
   section_title: Accès libre
-  btn_link: "/nos-contenus/"
+  btn_link: "/libre-acces/"
   btn_txt: Tous nos articles
 section_three:
   section_title: dossier
   title: Lorem ipsum dolor sit amet y consigner et uy
   btn_text: Découvrir
-  btn_link: "/nos-contenus/"
+  btn_link: "/libre-acces/"
 
 ---
 Contenu de la homepage
