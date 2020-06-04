@@ -11,7 +11,7 @@ img: "/uploads/sans-titre.jpg"
 ---
 <div class="chapeau">
 
-Une chronique de Corinne Morel Darleux, écrivaine, militante écosocialiste, autrice de Plutôt couler en beauté que flotter sans grâce (Liberta).
+Une chronique de Corinne Morel Darleux, écrivaine, militante écosocialiste, autrice de _Plutôt couler en beauté que flotter sans grâce_ (Liberta).
 
 </div>
 
@@ -29,7 +29,7 @@ Non-respect des objectifs climatiques, abandon de stocks de masques face au risq
 
 L’attention au futur, ressort oublié de nos intentions ? Cela me rappelle un atelier animé avec des lycéens l’an dernier. Nous devions parler climat, pollution et biodiversité, pousser même jusqu’au risque d’effondrement de nos sociétés. Les jeunes bâillaient, blaguaient, attendaient la récré. Les plus studieux brandissaient, pensant nous faire plaisir, les poncifs de la croissance verte. Des phrases toutes faites, entendues à la télé ou lues dans un magazine mainstream, rendues muettes à la première question obligeant à reformuler. Tous imaginaient un avenir fait de voitures volantes et de renforts numériques et je réalisai au passage que l’imaginaire ne s’était pas défait des marqueurs de la science-fiction du siècle dernier.
 
-Alors, je décidai de changer de méthode. En quelques mots, j’exposai les limites et effets de la quantité d’énergie exploitée sur Terre et leur posai deux questions : « Sachant qu’on ne pourra pas continuer indéfiniment à ce rythme, quelle est aujourd’hui l’activité à laquelle vous tenez le plus, ce que vous voulez à tout prix encore avoir dans 5, 10 ans ? Et à quoi êtes-vous prêts à renoncer pour ça, dès maintenant ? ». Il s’agissait bien de parler non de besoins de base mais d’envies vitales pour chacun. Pas seulement de limites et de menaces abstraites, mais de leurs plaisirs quotidiens. Et tout à coup les yeux se sont animés. Il a été question de smartphones, de jeux vidéos et de virées en mob’ avec les copains. De renoncements délibérés pour préserver ce à quoi on tient.
+Alors, je décidai de changer de méthode. En quelques mots, j’exposai les limites et effets de la quantité d’énergie exploitée sur Terre et leur posai deux questions : _« Sachant qu’on ne pourra pas continuer indéfiniment à ce rythme, quelle est aujourd’hui l’activité à laquelle vous tenez le plus, ce que vous voulez à tout prix encore avoir dans cinq, dix ans ? Et à quoi êtes-vous prêts à renoncer pour ça, dès maintenant ? »_ Il s’agissait bien de parler non de besoins de base mais d’envies vitales pour chacun. Pas seulement de limites et de menaces abstraites, mais de leurs plaisirs quotidiens. Et tout à coup les yeux se sont animés. Il a été question de smartphones, de jeux vidéos et de virées en mob’ avec les copains. De renoncements délibérés pour préserver ce à quoi on tient.
 
 L’espace d’un instant, le taux de préférence pour le futur a explosé le présent.
 
