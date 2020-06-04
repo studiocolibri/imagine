@@ -1,6 +1,6 @@
 ---
 type: notre-projet
-title: 'Qui sommes-nous ? '
+title: Qui nous sommes
 class: notre-projet
 section_one:
   section_title: nos valeurs
