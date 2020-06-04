@@ -35,3 +35,8 @@ weight = 3
 name = "Archives"
 url = "https://archives.imagine-magazine.com/lire/?page=archive"
 weight = 4
+
+[[menu.main]]
+name = "Contact"
+url = "/nous-contacter"
+weight = 5
