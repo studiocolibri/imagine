@@ -20,7 +20,7 @@ section_three:
   section_title: Espace abonnés numérique
   title: Lorem ipsum dolor sit amet y consigner et uy
   btn_text: Découvrir
-  btn_link: "/libre-acces/"
+  btn_link: https://kiosque.imagine-magazine.com/pour-les-abonnes-imagine/
 
 ---
 Contenu de la homepage
