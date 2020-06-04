@@ -18,7 +18,7 @@
                         <span class="slider__category" data-color="{{ range first 1 .Params.categories }}{{ . | plainify | lower }}{{ end}}">
                             {{ range first 1 .Params.categories }}{{ . }}{{ end}}
                         </span>
-                        <img class="slider__img" src="{{ .Params.img }}" role="presentation">
+                        <img class="slider__img" src="{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_435{{ .Params.img }}" role="presentation">
                         <time class="slider__date" datetime="{{ .Date.Format "02-01-06"}}">{{ .Date.Format "02.01.06"}}</time>
                         <h4 class="slider__title">{{ .Title }}</h4>
                         <p class="slider__description">{{ .Params.description | markdownify | truncate 180 }}</p>
@@ -31,7 +31,7 @@
             <li class="slider__item--presse">
                 <a href="{{ .link }}">
                     <article>
-                        <img class="slider__img" src="{{ .Site.BaseURL }}/uploads/{{ .img }}" role="presentation">
+                        <img class="slider__img" src="{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_700{{ .img }}" role="presentation">
                         <time class="slider__date" datetime="{{ dateFormat "02-01-06" .date }}">{{ dateFormat "02.01.06" .date }}</time> - <span class="slider__origin">{{ .origin }}</span>
                         <h4 class="slider__title">{{ .title }}</h4>
                     </article>
