@@ -1,7 +1,7 @@
 ---
 class: single-e-magine
 title: Le grand basculement
-date: 2020-04-25
+date: 2020-06-04T00:00:00+02:00
 categories:
 - Tribune
 description: En 2050, les livres d'histoire contemporaine raconteront peut-être que
