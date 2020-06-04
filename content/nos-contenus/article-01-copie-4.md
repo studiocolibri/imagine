@@ -21,9 +21,7 @@ Récemment j’ai eu la curiosité de retourner au premier de ces onglets enseve
 
 Le taux de préférence pour le présent est le reflet d’une certaine impatience sociale à consommer, le fondement de toutes les politiques de relance par la consommation. Le fait, plus généralement, de préférer une satisfaction immédiate à une satisfaction plus éloignée dans le temps.
 
-Cette notion peut s’appliquer aux gouvernements. Elle s’appelle alors imprévoyance, myopie ou incurie.
-
-Non-respect des objectifs climatiques, abandon de stocks de masques face au risque de pandémie ou baisse des investissements publics : il s’agit de privilégier le court terme et ce, quels qu’en soient les coûts futurs. La préférence temporelle offre finalement une métaphore assez saisissante des comportements collectifs face au risque imminent : force est de constater que la catastrophe climatique conjuguée au futur n’a jamais eu l’effet d’une crise sanitaire au présent.
+Cette notion peut s’appliquer aux gouvernements. Elle s’appelle alors imprévoyance, myopie ou incurie. Non-respect des objectifs climatiques, abandon de stocks de masques face au risque de pandémie ou baisse des investissements publics : il s’agit de privilégier le court terme et ce, quels qu’en soient les coûts futurs. La préférence temporelle offre finalement une métaphore assez saisissante des comportements collectifs face au risque imminent : force est de constater que la catastrophe climatique conjuguée au futur n’a jamais eu l’effet d’une crise sanitaire au présent.
 
 ## Le coût de l’urgence
 
