@@ -3,7 +3,8 @@
 <section class="numero-header numero-header--top">
     {{ range first 1 (where $.Site.RegularPages.ByDate.Reverse "Section" "numeros") }}
         <div class="numero-header__left">
-            <img src="/assets/img/{{ .Params.simulation_cover }}" alt="Couverture du numéro {{ .Params.num }}">
+            <img id="cover" src="/assets/img/{{ .Params.simulation_cover }}" alt="Couverture du numéro {{ .Params.num }}">
+            <script>var cover = {{ replace .Params.simulation_cover "\"" "" }};var backcover = {{ replace .Params.simulation_cover_bis "\"" "" }};</script>
         </div>
         <div class="numero-header__right">
             <p class="numero-header__numero"><strong>n°{{ .Params.num }}</strong> / {{ .Params.period }}</p>

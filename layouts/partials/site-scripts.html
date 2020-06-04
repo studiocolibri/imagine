@@ -11,6 +11,16 @@
     {{ $tabs := resources.Get "js/tabs.js" }}
     {{ $tabsPublic := $tabs | resources.Minify | resources.Fingerprint }}
     <script src="{{ $tabsPublic.Permalink }}"></script>
+    <script>
+        // Cover hover 
+        var coverEl = document.getElementById('cover');
+        coverEl.onmouseover = function () {
+            this.src = "/uploads/" + backcover;
+        }
+        coverEl.onmouseout = function () {
+            this.src = "/uploads/" + cover;
+        }
+    </script>
 {{ end }}
 
 <script type="text/javascript">
