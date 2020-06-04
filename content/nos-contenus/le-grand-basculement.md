@@ -4,11 +4,9 @@ title: Le grand basculement
 date: 2020-06-04T00:00:00+02:00
 categories:
 - Tribune
-description: En 2050, les livres d'histoire contemporaine raconteront peut-être que
-  l'année 2020 fut celle d'un grand basculement. Où l'anticipation des crises permit
-  à la communauté internationale de financer la transformation de l'économie fossile
-  pour limiter l'élévation du thermomètre sous le seuil fatidique exigé par la science.
-img: "sans-titre2.jpg"
+description: Une tribune signée par la rédaction d'Imagine Demain le monde et le comité
+  2020 Les Pisteurs d'Imagine
+img: sans-titre2.jpg
 
 ---
 En 2050, les livres d'histoire contemporaine raconteront peut-être que l'année 2020 fut celle d'un grand basculement. Où l'anticipation des crises permit à la communauté internationale de financer la transformation de l'économie fossile pour limiter l'élévation du thermomètre sous le seuil fatidique exigé par la science. Où la coopération finança les pays du Sud pour s'adapter aux conséquences désastreuses du dérèglement climatique. Où la logique effrénée de l'urgence, de l'hyper-mobilité et des marchés financiers ont progressivement laissé place au ralentissement de la société mondialisée, à la relocalisation des chaînes de production essentielles à l'humanité et à une redistribution équitable des richesses autour des biens communs. Où l'écosystème Terre, sous pression de toutes parts, entama sa lente régénération.
@@ -23,6 +21,8 @@ Catastrophe économique et sociale mondiale, la pandémie du coronavirus engendr
 
 Comme nous l'écrivions dans notre tribune collective en mars, cette crise, pourvu qu'on veuille bien s'en saisir, offre l'opportunité à la communauté internationale de changer de cap face aux menaces systémiques du dérèglement climatique, de la raréfaction des ressources et des inégalités planétaires. Elle renvoie l'ensemble des décideurs politiques et de leurs partenaires sociétaux à l'impératif de refonder l'économie autant que la démocratie en conciliant justice sociale, fiscale et environnementale.
 
+**Lire aussi notre tribune collective >** [**Après la pandémie**](https://www.cncd.be/Apres-la-pandemie)
+
 Pour piloter ce chantier titanesque, l'Union européenne ne manque pas d'outils, à commencer par le pacte pour le climat, dont on attend qu'il soit financé enfin à la hauteur de son ambition. Osons rêver ! En trois mois, les pays de l'Union ont fait voler en éclat les dogmes de l'austérité assénés depuis plusieurs décennies au nom de croyances quasi-mystiques. Exit l'orthodoxie budgétaire des déficits limités, oubliées les condamnations de la concurrence déloyale liées aux aides d'Etat, envolé le credo de la main invisible du marché…
 
 L'Etat est revenu au centre du jeu et les milliers de milliards coulent à flots pour limiter la casse sociale et renflouer les entreprises au bord de la faillite.  Reste-t-il à mutualiser les dettes ? Les pays les plus réfractaires à ces options essentielles, à commencer par l'Allemagne, ne peuvent oublier que l'Europe s'est constituée sur un défi pacifique, économique et social. L'effort collectif fut proportionnel à la capacité contributive des six pays fondateurs.
@@ -33,4 +33,4 @@ Que nos gouvernements se rassurent, ils ne sont pas sans ressources pour reconst
 
 Nourris par cette expérience douloureuse, sidérante et transformatrice de la pandémie, une grande partie des citoyens ont compris qu'il fallait sans doute changer le logiciel du système. Puisse l'Etat entendre cette attente pour être l'aiguillon visionnaire d'une transformation culturelle qui conduirait notre civilisation, en 2050, à revoir les anciennes tables des lois du Marché. Où la compétitivité, les cadences infernales et la domination de la nature auraient laissé place, dans les livres d'histoire, aux valeurs de coopération, d'équité et de soutenabilité.
 
-**La rédaction d'_Imagine Demain le monde_ (Laure de Hesselle, Sarah Freres, Christophe Schoune, Hugues Dorzée) et le comité 2020 Les Pisteurs d'_Imagine_**
+**Une tribune signée par la rédaction d'_Imagine Demain le monde_ (Laure de Hesselle, Sarah Freres, Christophe Schoune, Hugues Dorzée) et le comité 2020 Les Pisteurs d'_Imagine_**
