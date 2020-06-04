@@ -1,5 +1,5 @@
 ---
 type: libre-acces
-title : Nos contenus
+title : Libre accès
 class: e-magine-list
 ---
