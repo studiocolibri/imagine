@@ -3,7 +3,7 @@ categories = ["Reportage"]
 class = "single-e-magine"
 date = 2020-06-03T22:00:00Z
 description = "Les vagues de chaleurs répétées et plus intenses vont impacter davantage les travailleurs les plus exposés (construction, agriculture, transports…). Et en Belgique, comment se prépare-t-on à vivre ces mutations ? "
-img = "/v1591293083/17368360661_3df90bbc0b_k_cgvg1i.jpg"
+img = "/v1591293085/35482786310_44b3a38435_o_tijjxj.jpg"
 title = "Le climat déréglé affecte la santé des travailleurs"
 
 +++
@@ -42,8 +42,6 @@ Dans leur rapport, les experts de l’OIT avancent une série de propositions po
 Mais les recommandations s’adressent d’abord aux employeurs. Parmi celles-ci, il est préconisé d’assurer une rotation des travailleurs au fil de la journée, de renouveler régulièrement l’équipement informatique ou la machinerie pour réduire la chaleur qui s’en dégage, d’aménager des toits végétaux sur les buildings afin de garder l’air chaud à l’extérieur, etc.
 
 Sur le long terme, l’OIT préconise d’évaluer au maximum les risques à venir, d’établir des plans de prévention et d’adaptation, de former et sensibiliser l’ensemble du personnel dans les secteurs menacés. Les experts interpellent par ailleurs les gouvernements en leur demandant d’améliorer les normes techniques des bâtiments, d'engager de véritables planifications urbaines, de réduire les coûts financiers et énergétiques des systèmes de climatisation, mais aussi de veiller au respect strict des normes de protection sociale et des normes de travail.
-
-![](https://res.cloudinary.com/cefasbl/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1591293085/35482786310_44b3a38435_o_tijjxj.jpg "© Cifor")
 
 ### Prévenir les cancers de la peau
 
