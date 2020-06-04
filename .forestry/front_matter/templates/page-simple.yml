@@ -11,5 +11,6 @@ fields:
   hidden: true
   default: notre-manifeste single-page
 pages:
+- content/la-cartographie-imagine.md
 - content/le-projet-imagine.md
 - content/testtest.md
