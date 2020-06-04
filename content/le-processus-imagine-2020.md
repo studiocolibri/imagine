@@ -11,7 +11,11 @@ title = "Le processus #Imagine 2020"
 
 **2. L’écriture collective du manifeste Imagine**. Pour asseoir son projet, l’équipe décide d’écrire collectivement un texte fondateur qui réaffirme clairement ses valeurs et ses engagements. Etoffé et validé par le groupe des Pisteurs d’Imagine _(lire ci-dessous)_, celui-ci viendra compléter la charte fondatrice du magazine de 1996.
 
+<br>
+
 <a class="btn btn--square btn--green" href="/assets/pdf/Manifeste_Imagine2020.pdf" target="_blank" rel="noopener">Lire l’intégralité du manifeste Imagine ici</a>
+
+<br>
 
 **3. Un atelier d’intelligence collective.** Le 13 novembre 2019, lors d’une soirée d’intelligence collective organisée chez Mundo N, à Namur, une vingtaine de personnes proches du magazine et issues d’horizons divers (enseignement, presse, ONG…) participent à l’Atelier Imagine construit en partenariat avec l’Asbl bruxelloise Collectiv-a spécialisée dans l’élaboration et l’animation d’événements participatifs. Plusieurs thématiques sont abordées (_Imagine_ 2.0, l’information constructive, la diffusion du magazine…)
 
