@@ -49,7 +49,7 @@ C’est un magazine de 120 pages, avec un format à la française (205 x 265 mm,
 Ce site a été conçu par le Studio Colibri dans un esprit éco-responsable (code artisanal sur mesure, images et fonctionnalités allégées, peu de data mobile, peu d’affichages rapides…). Il est hébergé chez …. qui a recours aux énergies renouvelables et va évoluer dans le temps. A l’ère du tout-au-numérique, _Imagine_ s’efforce ainsi de rester fidèle à deux fondamentaux : une temporalité lente et une volonté de réduire au maximum son empreinte environnementale.
 
 * **Des livraisons à vélo.** Pour effectuer une partie de nos **livraisons** (librairies spécialisées, magasins bio…), nous travaillons avec la coopérative Rayon 9 (notre Asbl est membre de celle-ci) et leurs collègues du Coursier wallon (Namur et Mons) et Dioxyde de Gambettes (Bruxelles). En dehors de celles-ci, nos magazines sont distribués par Tondeur Diffusion.
-* **Un lexique engaé**
+* **Un lexique engagé**
 
 Derrière les mots, c’est bien connu, il y a la force des idées. Face aux bouleversements environnementaux en cours, la rédaction d’_Imagine_ a décidé d’adopter une ligne directrice lexicale plus claire inspirée de la charte rédigée par nos confrères du journal britannique _The Guardian_.
 
