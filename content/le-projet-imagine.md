@@ -61,16 +61,16 @@ Derrière les mots, c’est bien connu, il y a la force des idées. Face aux bou
 
 A travers ce nouveau lexique, _Imagine_ entend accorder à la crise climatique toute l’attention qu’elle exige.
 
-* **Un baromètre genre & diversité** 
+* **Un baromètre genre & diversité**
 
-  Tous les baromètres effectués par l’Association des Journalistes Professionnels (AJP) débouchent sur le même constat : les femmes, les personnes racisées et les minorités de genre sont sous-représentées dans l’espace médiatique. Si notre rédaction veut penser chaque numéro comme le reflet de la diversité de notre société, nous ne sommes pas exempts de certains biais, profondément ancrés. 
+  Tous les baromètres effectués par l’Association des Journalistes Professionnels (AJP) débouchent sur le même constat : les femmes, les personnes racisées et les minorités de genre sont sous-représentées dans l’espace médiatique. Si notre rédaction veut penser chaque numéro comme le reflet de la diversité de notre société, nous ne sommes pas exempts de certains biais, profondément ancrés.
 
-  A l’occasion de la refonte du magazine, l’équipe a décidé de lancer son propre baromètre, disponible dans chaque numéro. Encore perfectible, cet outil sera amélioré au fil du temps. 
+  A l’occasion de la refonte du magazine, l’équipe a décidé de lancer son propre baromètre, disponible dans chaque numéro. Encore perfectible, cet outil sera amélioré au fil du temps.
 
-  Nous avons décidé de débuter modestement, avec une analyse de notre dossier (21 pages). 
+  Nous avons décidé de débuter modestement, avec une analyse de notre dossier (21 pages).
 
   Ce baromètre est inspiré de ceux de l’AJP et a été conçu avec l’aide précieuse de Florence Le Cam (professeure de journalisme à l’ULB, qui figure aussi parmi le groupe des Pisteurs d’Imagine), Lise Ménalque (assistante-doctorante en sciences de l'information et de la communication à l’ULB) et Sabri Derinöz (chercheur en sciences sociales, qui a notamment été en charge de la première étude de la diversité et de l’égalité portant sur la presse écrite belge francophone au sein de l’AJP).
 
-  Il s’appuie d’un côté sur un volet quantitatif pour objectiver chaque numéro et constater les lacunes. Car nous sommes conscients que compter est insuffisant – les chiffres ne disent rien des stéréotypes que nous pourrions reproduire, consciemment ou inconsciemment –, le second volet est davantage qualitatif. 
+  Il s’appuie d’un côté sur un volet quantitatif pour objectiver chaque numéro et constater les lacunes. Car nous sommes conscients que compter est insuffisant – les chiffres ne disent rien des stéréotypes que nous pourrions reproduire, consciemment ou inconsciemment –, le second volet est davantage qualitatif.
 
   Cet outil est évidemment perfectible et appelé à évoluer avec le regard d’experts, de personnalités de la société civile, de vous, nos lecteurs, avec la ferme intention qu’il puisse nous servir dans nos pratiques rédactionnelles afin d’assurer une meilleure représentation du genre et de la diversité dans nos colonnes.
