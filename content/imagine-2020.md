@@ -21,7 +21,7 @@ section_two:
     Les Confluents et Au large. A chacun d’entre eux correspond un univers thématique,
     journalistique et graphique."
   btn_txt: En savoir plus
-  btn_link: ''
+  btn_link: "/la-cartographie-imagine"
   img: imagine-6-territoires.png
 section_three:
   section_title: Imagine, c’est quoi ?
