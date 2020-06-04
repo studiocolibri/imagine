@@ -1,6 +1,5 @@
 +++
 class = "notre-manifeste single-page"
-draft = true
 title = "Le processus #Imagine 2020"
 
 +++
@@ -27,6 +26,8 @@ lien vers la page manifeste et/ou PDF
 Programmée début mai, la sortie du nouveau projet est reportée début juin sur fond de crise du Covid-19. Malgré le contexte (des reportages annulés, des réunions de rédaction à distance…) Imagine s’adapte, avec agilité et créativité, en sortant un numéro spécial de 156 pages, dont un cahier de 42 pages spécial « Covid-19 : changer d’ère », avec une tribune titrée « Le grand basculement » co-signée par la rédaction et les Pisteurs d’Imagine. lien vers la tribune
 
 ## Les Pisteurs d’Imagine
+
+<br>
 
 **Olivier De Schutter**, juriste, professeur à l’UCL, nouveau rapporteur spécial de l’ONU sur l’extrême pauvreté et les droits de l’homme (co-président)
 
