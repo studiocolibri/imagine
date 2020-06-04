@@ -1,5 +1,5 @@
 ---
-type: e-magine
+type: nos-contenus
 title : Nos contenus
 class: e-magine-list
 ---
