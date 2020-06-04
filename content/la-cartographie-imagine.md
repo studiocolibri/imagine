@@ -5,6 +5,8 @@ title = "La cartographie Imagine"
 +++
 ## _Imagine_ propose à ses lecteurs de _« redevenir terrestres »_ et de voyager, tous les deux mois, à travers sa nouvelle « cartographie » organisée en six territoires : Sur le volcan, Le sixième continent, Zones fertiles, Terra incognita, Les Confluents et Au large. A chacun d’entre eux correspond un univers thématique, journalistique et graphique.
 
+<br>
+
 **Sur le volcan** \[Au fig. _Ce qui est vif, ardent, bouillonnant_\]
 
 luttes – critique sociale – résistances
