@@ -35,7 +35,7 @@ section_three:
 section_four:
   section_title: Le magazine
   title: Notre projet de presse indépendante
-  text: Fondé en 1996, Imagine Demain le monde est un projet de presse alternative
+  text: Fondé en 1996, <em>Imagine Demain le monde</em> est un projet de presse alternative
     et indépendante sans but lucratif. Ce magazine est pensé, réalisé et géré avec
     soin et passion par ceux qui le fabriquent.
   btn_txt: En savoir plus
