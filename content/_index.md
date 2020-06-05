@@ -23,4 +23,4 @@ section_three:
   btn_link: https://kiosque.imagine-magazine.com/pour-les-abonnes-imagine/
 
 ---
-Contenu de la homepage
+# Clarifier les faits, libérer les idées et les esprits
