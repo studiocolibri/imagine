@@ -17,9 +17,7 @@ class: notre-manifeste single-page
 
 « Il est porteur d’une critique sociale et politique (au sens non partisan du terme)  nuancée et assumée.  Il nomme, questionne et dénonce les causes et les responsabilités des catastrophes en cours : dérèglement climatique, extinction des espèces,  pertes d’écosystèmes, accroissement des inégalités sociales, affaiblissement des démocraties... »
 
-« _Imagine_ se range du côté de la poésie et de la beauté du monde (…) C’est un magazine où l’on apprend, découvre, vit et vibre avec gaieté, créativité et fraternité. Le cœur et l’esprit grands ouverts (…) Pour paraphraser l’anthropologue américaine Anna L.Tsing, Imagine apprend, numéro après après numéro, à “cultiver la joie dans les ruines” »
-
-<p><a class="btn btn--square btn--green" href="/assets/pdf/Manifeste_Imagine2020.pdf" target="_blank" rel="noopener">Lire l’intégralité du manifeste Imagine ici</a></p>
+« _Imagine_ se range du côté de la poésie et de la beauté du monde (…) C’est un magazine où l’on apprend, découvre, vit et vibre avec gaieté, créativité et fraternité. Le cœur et l’esprit grands ouverts (…) Pour paraphraser l’anthropologue américaine Anna L.Tsing, _Imagine_ apprend, numéro après après numéro, à “cultiver la joie dans les ruines” »
 
 ## Extraits de la chartre fondatrice du magazine _Imagine_                « Comprendre la société » (rédigée lors de sa création en septembre 1996)
 
