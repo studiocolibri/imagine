@@ -15,7 +15,8 @@ Les vagues de chaleurs répétées et plus intenses vont impacter davantage les 
 
 Les canicules se multiplient et s’intensifient partout dans le monde. En Belgique, durant le seul été 2019, trois vagues de chaleur se sont succédé. Avec les dérèglements climatiques à venir, elles seront de plus en plus longues et de plus en plus violentes.
 
-Dans un rapport inédit publié en février dernier, l’Organisation internationale du travail (OIT) s’inquiète de l’augmentation du _« stress thermique »_ sur la santé des travailleurs. Cela se traduira par l’émergence de pathologies nouvelles, des pertes économiques considérables, un accroissement des inégalités. Les pays pauvres et les travailleurs les plus vulnérables seront les plus durement touchés, avec à la clé, d’importantes catastrophes sociales et sanitaires (dégradations des conditions de travail, migrations forcées…).
+Dans un rapport inédit publié en février dernier, l’Organisation internationale du travail (OIT) s’inquiète de l’augmentation du   
+_« stress thermique »_ sur la santé des travailleurs. Cela se traduira par l’émergence de pathologies nouvelles, des pertes économiques considérables, un accroissement des inégalités. Les pays pauvres et les travailleurs les plus vulnérables seront les plus durement touchés, avec à la clé, d’importantes catastrophes sociales et sanitaires (dégradations des conditions de travail, migrations forcées…).
 
 Selon ces projections de l’OIT réalisées sur base d’une hausse de température de 1,5 degré, ces chaleurs élevées et répétées causeraient, à l’horizon 2030, la perte de près de 80 millions d’emplois dans le monde. Les secteurs les plus touchés seraient la construction, l’agriculture, les transports, le tourisme, les biens et services environnementaux, la collecte des déchets et les sports.
 
@@ -35,7 +36,7 @@ Ce n’est pas l’avis de Salvator Alonso Merino, secrétaire de la CSC bâtime
 
 Pour pallier ce manque, la CSC Liège forme ses délégués syndicaux auprès de l’inspection sociale pour qu’ils soient eux-mêmes habilités à contrôler le bon respect des mesures. _« Nous allons nous équiper aussi d’appareils de mesure de température digitaux, qui seront disponibles en permanence. C’est un souci actuel pour nous. Il y a dix ans, les cas de canicules étaient plus rares, et les employeurs étaient plus souples : leur activité était moins souvent entravée et donc ils acceptaient de diminuer la cadence de temps en temps. La situation s’est compliquée et il faudra être de plus en plus vigilant. »_
 
-### Rotation du personnel et toits végétaux
+## Rotation du personnel et toits végétaux
 
 Dans leur rapport, les experts de l’OIT avancent une série de propositions pour atténuer les effets du dérèglement climatique au travail. Ils prônent notamment la vigilance entre collègues pour repérer les premiers signes de mal-être et prévenir d’éventuels accidents plus graves.
 
@@ -45,7 +46,7 @@ Mais les recommandations s’adressent d’abord aux employeurs. Parmi celles-ci
 
 Sur le long terme, l’OIT préconise d’évaluer au maximum les risques à venir, d’établir des plans de prévention et d’adaptation, de former et sensibiliser l’ensemble du personnel dans les secteurs menacés. Les experts interpellent par ailleurs les gouvernements en leur demandant d’améliorer les normes techniques des bâtiments, d'engager de véritables planifications urbaines, de réduire les coûts financiers et énergétiques des systèmes de climatisation, mais aussi de veiller au respect strict des normes de protection sociale et des normes de travail.
 
-### Prévenir les cancers de la peau
+## Prévenir les cancers de la peau
 
 Avec le soleil vient la chaleur, mais aussi les UV (ultraviolets). En Belgique, le mélanome est le type de cancer le plus courant, avec 39 000 nouveaux patients diagnostiqués chaque année. Entre 2004 et 2016, le nombre de cas a augmenté de près de 350 %, selon la Fondation Registre du cancer. Or, les travailleurs en plein air sont régulièrement soumis aux rayonnements du soleil, et ce tout au long de l’année.
 
@@ -53,7 +54,7 @@ Selon l’Académie européenne de dermatologie et de vénérologie (EADV) ceux-
 
 Aujourd’hui, l’Union européenne et la Belgique ne considèrent pas encore le cancer de la peau comme une maladie professionnelle. L’EADV demande de l’ajouter sur les listes officielles depuis 2016. Elle est rejointe par la Fédération européenne des travailleurs du bois et du bâtiment, dont la CSC, la FGTB et la CGSLB font partie.
 
-### Gérer le stress aussi
+## Gérer le stress aussi
 
 Enfin, même si le rapport de l’OIT ne l’évoque que brièvement, face au stress thermique à venir, la santé mentale ne doit pas non plus être négligée. _« Le stress plus général face aux conséquences des dérèglements climatiques dans l'avenir est un problème pour une grande partie des travailleurs. Or, c’est un fait souvent sous-estimé »,_ déplore Lucie Bondé et ses collègues de Docs for climate.
 

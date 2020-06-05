@@ -1,11 +1,11 @@
 ---
 class: single-e-magine
 title: Le grand basculement
-date: 2020-06-04T00:00:00+02:00
+date: 2020-06-03T22:00:00.000+00:00
 categories:
 - Tribune
-description: Une tribune signée par la rédaction d'Imagine Demain le monde et le comité
-  2020 Les Pisteurs d'Imagine
+description: Une tribune signée par la rédaction d'<em>Imagine Demain le monde</em>
+  et le comité 2020 Les Pisteurs d'Imagine
 img: sans-titre2.jpg
 
 ---
