@@ -1,42 +1,30 @@
+Paginate = 6
 baseURL = "https://www.imagine-magazine.com"
 languageCode = "fr-be"
 title = "Imagine, Demain le monde | Slow press magazine"
-Paginate = 6
-
-[markup]
-
-[markup.goldmark]
-
 [markup.goldmark.renderer]
 unsafe = true
-
-[taxonomies]
-category = "categories"
-
-[params]
-cloudinary_url = "https://res.cloudinary.com/drg3m95yg/image/upload/"
-
 [[menu.main]]
 name = "Numéro en cours"
 url = "/numero-en-cours/"
 weight = 1
-
-[[menu.main]]
-name = "Libre accès"
-url = "/libre-acces/"
-weight = 2
-
-[[menu.main]]
-name = "Le projet Imagine"
-url = "/notre-projet/"
-weight = 3
-
 [[menu.main]]
 name = "Archives"
 url = "https://kiosque.imagine-magazine.com/categorie-produit/numeros/"
 weight = 4
-
 [[menu.main]]
 name = "Contact"
 url = "/nous-contacter"
 weight = 5
+[[menu.main]]
+name = "Libre accès"
+url = "/libre-acces/"
+weight = 2
+[[menu.main]]
+name = "Notre projet"
+url = "/notre-projet/"
+weight = 3
+[params]
+cloudinary_url = "https://res.cloudinary.com/drg3m95yg/image/upload/"
+[taxonomies]
+category = "categories"
