@@ -118,6 +118,8 @@
 
 .single-e-magine__content {
     overflow-x:hidden;
+	max-width: 1000px;
+	margin: 0 auto;
 
     > * {
         max-width: $aw;
