@@ -19,7 +19,8 @@ class: notre-manifeste single-page
 
 « _Imagine_ se range du côté de la poésie et de la beauté du monde (…) C’est un magazine où l’on apprend, découvre, vit et vibre avec gaieté, créativité et fraternité. Le cœur et l’esprit grands ouverts (…) Pour paraphraser l’anthropologue américaine Anna L.Tsing, _Imagine_ apprend, numéro après après numéro, à “cultiver la joie dans les ruines” »
 
-## Extraits de la chartre fondatrice du magazine _Imagine_                « Comprendre la société » (rédigée lors de sa création en septembre 1996)
+## Extraits de la chartre fondatrice du magazine _Imagine  
+_« Comprendre la société » (rédigée lors de sa création en septembre 1996)
 
 « _Imagine_ est un magazine engagé :
 
