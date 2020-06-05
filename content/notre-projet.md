@@ -31,7 +31,7 @@ section_three:
     étapes.'
   btn_txt: En savoir plus
   btn_link: "/le-processus-imagine-2020"
-  img: "/v1591304774/processus2020_hgyw54.jpg"
+  img: "/v1591335613/processusretouch_imj6xp.jpg"
 section_four:
   section_title: Le magazine
   title: Notre projet de presse indépendante
