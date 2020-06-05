@@ -33,7 +33,7 @@ weight = 3
 
 [[menu.main]]
 name = "Archives"
-url = "https://archives.imagine-magazine.com/lire/?page=archive"
+url = "https://kiosque.imagine-magazine.com/categorie-produit/numeros/"
 weight = 4
 
 [[menu.main]]
