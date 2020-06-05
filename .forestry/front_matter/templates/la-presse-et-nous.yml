@@ -1,0 +1,23 @@
+---
+label: La presse et nous
+hide_body: true
+fields:
+- type: field_group_list
+  name: items
+  label: items
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: datetime
+    name: date
+    label: date
+  - type: text
+    name: origin
+    label: origin
+  - type: text
+    name: link
+    label: link
+  - type: file
+    name: img
+    label: img
