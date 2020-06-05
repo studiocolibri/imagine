@@ -17,7 +17,7 @@ category = "categories"
 cloudinary_url = "https://res.cloudinary.com/drg3m95yg/image/upload/"
 
 [[menu.main]]
-name = "N° en cours"
+name = "Numéro en cours"
 url = "/numero-en-cours/"
 weight = 1
 
