@@ -3,12 +3,11 @@ class = "notre-manifeste single-page"
 title = "Le projet Imagine"
 
 +++
-## **Notre Asbl**
+## **Notre organisation**
 
 <br>
 
 * C’est **un magazine belge, bimestriel et alternatif**, qui traite des questions d’**écologie, de société et de relations Nord-Sud.** Il est édité par une Asbl, indépendante de tout groupe de presse et de tout parti politique, et géré par l’équipe qui le réalise.
-
 * _Imagine_ s’inscrit dans le courant _slow press_ et défend **un journalisme d’impact, au long cours, à la fois vivant et critique, apaisé et constructif**. Tous les deux mois, il recherche la qualité plutôt que la quantité. Il ralentit pour offrir à ses lecteurs une information originale, fiable et nuancée.
 * L’Asbl Imagine, c’est **cinq salariés** (4 journalistes, une responsable administrative et financière), un **graphiste et une correctrice indépendants**, une équipe de **collaborateurs réguliers** (journalistes, illustrateurs, photographes, chroniqueurs…), un conseiller régie publicitaire free lance et une équipe d’ambassadeurs Imagine.
 * _Imagine_, c’est aussi **une communauté de 4.108 abonnés** (chiffres arrêtés fin mai 2020), et une moyenne de 1 200 exemplaires vendus par numéro en 2019 (librairies, magasins bio…). C’est **un modèle économique mixte** qui s’appuie sur les abonnements (50%), les ventes au numéro (10 %), des suppléments rédactionnels et des annonces publicitaires éthiques et durables (7 %), un soutien de son partenaire CNCD 11.11.11 et une aide à la presse périodique d’opinion de la Fédération Wallonie-Bruxelles (33 %).
