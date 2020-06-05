@@ -23,4 +23,4 @@ section_three:
   btn_link: https://kiosque.imagine-magazine.com/pour-les-abonnes-imagine/
 
 ---
-# Clarifier les faits, libérer les idées et les esprits
+# Imagine est un magazine d’écologie et de société. Ses traits de caractère : indépendance, non-conformisme, quête de sens, cohérence et recherche (...)
