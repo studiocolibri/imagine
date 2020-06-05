@@ -34,3 +34,5 @@ fields:
   name: description
   label: Description principale du site
   description: Utilisée pour le référencement
+pages:
+- data/infos.toml
