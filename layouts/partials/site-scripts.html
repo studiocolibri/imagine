@@ -3,14 +3,77 @@
 <script src="{{ $navPublic.Permalink }}"></script>
 
 <script src="/assets/js/tinyslider.js"></script>
-{{ $tinySliderOptions := resources.Get "js/tinySliderOptions.js" }}
-{{ $tinySliderOptionsPublic := $tinySliderOptions | resources.Minify | resources.Fingerprint }}
-<script src="{{ $tinySliderOptionsPublic.Permalink }}"></script>
+
+<script>
+    // slider init
+    var sliderControlsContainer = document.querySelector('.slider__controls');
+    var slider = tns({
+        container: '.slider__list',
+        items: 1,
+        gutter: 10,
+        arrowKeys: true,
+        mouseDrag: true,
+        controlsContainer: sliderControlsContainer,
+        responsive: {
+            480: {
+                items: 2,
+                gutter: 20
+            },
+            768: {
+                items: 3
+            },
+            1280: {
+                gutter: 40
+            },
+            1600: {
+                items: 4
+            }
+          }
+    });
+</script>
+
+<script>
+// add target blank to archives link
+var navLinks = document.querySelectorAll('.site-nav__link');
+for (var i=0; i < navLinks.length; i++) {
+    if (navLinks[i].innerText == 'Archives') {
+        navLinks[i].setAttribute('target', '_blank');
+        navLinks[i].setAttribute('rel', 'noopener');
+    }
+}
+</script>
+
 
 {{ if eq .Params.class "numero-en-cours" }}
     {{ $tabs := resources.Get "js/tabs.js" }}
     {{ $tabsPublic := $tabs | resources.Minify | resources.Fingerprint }}
     <script src="{{ $tabsPublic.Permalink }}"></script>
+    <script>
+        // other slider init
+        var numeroSliderControlsContainer = document.querySelector('.slider__controls');
+        var numeroSlider = tns({
+            container: '.numero-slider',
+            items: 1,
+            gutter: 10,
+            arrowKeys: true,
+            mouseDrag: true,
+            controlsContainer: numeroSliderControlsContainer,
+            responsive: {
+                480: {
+                    gutter: 20
+                },
+                768: {
+                    items:2
+                },
+                1280: {
+                    gutter: 40
+                },
+                1600: {
+                    items: 3
+                }
+            }
+        });
+    </script>
 {{ end }}
 
 {{ if or (.IsHome) (eq .Params.class "numero-en-cours") }}
