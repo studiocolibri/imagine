@@ -17,7 +17,7 @@ section_two:
   btn_link: "/libre-acces/"
   btn_txt: Tous nos articles
 section_three:
-  section_title: Espace abonnés numérique
+  section_title: Espace abonnés numériques
   title: Lorem ipsum dolor sit amet y consigner et uy
   btn_text: Découvrir
   btn_link: https://kiosque.imagine-magazine.com/pour-les-abonnes-imagine/
