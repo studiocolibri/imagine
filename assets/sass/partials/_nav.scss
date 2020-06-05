@@ -81,9 +81,13 @@
         display:inline-block;
         font-size: 0.78rem;
         padding:0.5em 0;
-        margin-right: $su*2;
+        margin-right: $su;
         margin-bottom:0;
         text-transform: initial;
+    }
+
+    @media screen and (min-width:1400px) {
+        margin-right: $su*2;
     }
 
     &:hover,
