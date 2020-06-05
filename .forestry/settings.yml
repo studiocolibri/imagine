@@ -12,14 +12,14 @@ sections:
 - type: directory
   path: content/numeros
   label: Numeros
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - numero-en-cours
 - type: directory
   path: content/libre-acces
   label: Nos contenus
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - article
