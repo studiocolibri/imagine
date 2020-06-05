@@ -15,3 +15,5 @@ fields:
 - type: text
   name: link_text
   label: Texte du lien
+pages:
+- data/cta.toml
