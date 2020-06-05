@@ -21,7 +21,7 @@ title = "Le projet Imagine"
 
 **Hugues Dorzée, rédacteur en chef**
 
-Après dix-huit ans au quotidien _Le Soir_, Hugues est devenu rédacteur en chef d’_Imagine_ en 2014. Cycliste du quotidien, féru de littérature anglo-saxonne, joggeur des villes et des campagnes, il défend un journalisme terre-à-terre et apaisé sur les pas du philosophe Uchida Tastsuru (_« Pour que les médias reviennent à la vie, ils n’ont pas d’autre choix que de redevenir des êtres vivants »)._ Il a un petit faible pour l’expresso _ristretto_, les films de Ken Loach et la musique de Chily Gonzales, le Cap Corse et les cabanes perchées.
+Après dix-huit ans au quotidien _Le Soir_, Hugues est devenu rédacteur en chef d’_Imagine_ en 2014. Cycliste du quotidien, féru de littérature anglo-saxonne, joggeur des villes et des campagnes, il défend un journalisme terre-à-terre et apaisé sur les pas du philosophe Uchida Tastsuru (_« Pour que les médias reviennent à la vie, ils n’ont pas d’autre choix que de redevenir des êtres vivants »)._ Il a un petit faible pour l’expresso _ristretto_, les films de Ken Loach et la musique de Chily Gonzales, le Cap Corse et les cabanes perchées. 
 
 **Laure de Hesselle, journaliste**
 
