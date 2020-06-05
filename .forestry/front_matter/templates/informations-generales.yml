@@ -1,0 +1,31 @@
+---
+label: Informations générales
+hide_body: true
+fields:
+- type: text
+  name: address
+  label: address
+- type: text
+  name: email
+  label: email
+- type: text
+  name: facebook_link
+  label: facebook_link
+- type: text
+  name: twitter_link
+  label: twitter_link
+- type: text
+  name: instagram_link
+  label: instagram_link
+- type: text
+  name: tel_for_humans
+  label: tel_for_humans
+- type: text
+  name: tel_for_robots
+  label: tel_for_robots
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: description
+  label: description
