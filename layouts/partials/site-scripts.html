@@ -1,6 +1,10 @@
-{{ $nav := resources.Get "js/nav.js" }}
+<!-- {{ $nav := resources.Get "js/nav.js" }}
 {{ $navPublic := $nav | resources.Minify | resources.Fingerprint }}
-<script src="{{ $navPublic.Permalink }}"></script>
+<script src="{{ $navPublic.Permalink }}"></script> -->
+
+<script>
+    var navBtnOpen=document.querySelector(".site-nav__button"),navCheckbox=document.querySelector(".site-nav__checkbox"),openNav=function(){document.body.classList.add("nav-opened"),navBtnOpen.setAttribute("aria-expanded",!0)},closeNav=function(){document.body.classList.remove("nav-opened"),navBtnOpen.setAttribute("aria-expanded",!1)},toggleNav=function(){0==navCheckbox.checked?(navCheckbox.checked=!0,openNav()):(navCheckbox.checked=!1,closeNav())};navBtnOpen.addEventListener("click",toggleNav),navCheckbox.addEventListener("change",function(){1==navCheckbox.checked?openNav():closeNav()}),document.addEventListener("keydown",function(e){27==e.keyCode&&closeNav()});
+</script>
 
 <script>
 // add target blank to archives link
