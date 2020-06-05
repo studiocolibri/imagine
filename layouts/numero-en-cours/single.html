@@ -93,6 +93,24 @@
             {{ end }}
         {{ end }}
     </ul>
+    <noscript>
+        <style>
+            .slider__controls {
+                display:none;
+            }
+            .slider__list.numero-slider {
+                display:flex;
+                overflow:auto;
+            }
+            .slider__list.numero-slider li {
+                list-style: none;
+                margin:0 20px 20px 0;
+                width:33%;
+                min-width: 280px;
+                max-width: 694px;
+            }
+        </style>
+    </noscript>
 </section>
 
 {{ partial "s-abonner.html" . }}
