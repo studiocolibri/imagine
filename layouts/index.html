@@ -11,7 +11,12 @@
             </div>
             <div class="flex-2-cols__col home-header__right">
                 <a class="home-header__img" href="/numero-en-cours">
-                    <img id="cover" src="{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_673/{{ .Params.cover }}" alt="Couverture du numéro {{ .Params.num }}">
+                    <img 
+                    id="cover"
+                    src="{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_673/{{ .Params.cover }}"
+                    width="673"
+                    height="872"
+                    alt="Couverture du numéro {{ .Params.num }}">
                     <script>var cover = {{ replace .Params.cover "\"" "" }};var backcover = {{ replace .Params.cover_bis "\"" "" }};</script>
                 </a>
             </div>
@@ -26,7 +31,13 @@
     <h2 class="section-title right">{{ .Params.section_one.section_title }}</h2>
     <div class="flex-2-cols cw">
         <div class="flex-2-cols__col">
-            <img src="{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_470/participatf_bpn9lr.jpg" alt="les 6 territoires" loading="lazy">
+            <img
+            src="{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_470/participatf_bpn9lr.jpg"
+            alt=""
+            width="470"
+            height="547"
+            role="presentation"
+            loading="lazy">
         </div>
         <div class="flex-2-cols__col">
             <h3>{{ .Params.section_one.title | safeHTML }}</h3>
@@ -47,7 +58,13 @@
     <h2 class="section-title right margin">{{ .Params.section_three.section_title }}</h2>
     <div class="flex-2-cols cw">
         <div class="flex-2-cols__col">
-            <img src="{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_470/ordiimagine_xf4rmd.png" loading="lazy">
+            <img
+            src="{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_470/ordiimagine_xf4rmd.png"
+            alt=""
+            width="470"
+            height="352"
+            role="presentation"
+            loading="lazy">
         </div>
         <div class="flex-2-cols__col">
 <!--

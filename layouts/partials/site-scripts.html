@@ -4,43 +4,14 @@
 
 <script>
 // add target blank to archives link
-var navLinks = document.querySelectorAll('.site-nav__link');
-for (var i=0; i < navLinks.length; i++) {
-    if (navLinks[i].innerText == 'Archives') {
-        navLinks[i].setAttribute('target', '_blank');
-        navLinks[i].setAttribute('rel', 'noopener');
-    }
-}
+for(var navLinks=document.querySelectorAll(".site-nav__link"),i=0;i<navLinks.length;i++)"Archives"==navLinks[i].innerText&&(navLinks[i].setAttribute("target","_blank"),navLinks[i].setAttribute("rel","noopener"));
 </script>
 
 <script src="/assets/js/tinyslider.js"></script>
 
 <script>
     // slider init
-    var sliderControlsContainer = document.querySelector('.slider__controls');
-    var slider = tns({
-        container: '.slider__list',
-        items: 1,
-        gutter: 10,
-        arrowKeys: true,
-        mouseDrag: true,
-        controlsContainer: sliderControlsContainer,
-        responsive: {
-            480: {
-                items: 2,
-                gutter: 20
-            },
-            768: {
-                items: 3
-            },
-            1280: {
-                gutter: 40
-            },
-            1600: {
-                items: 4
-            }
-          }
-    });
+    var sliderControlsContainer=document.querySelector(".slider__controls"),slider=tns({container:".slider__list",items:1,gutter:10,arrowKeys:!0,mouseDrag:!0,controlsContainer:sliderControlsContainer,responsive:{480:{items:2,gutter:20},768:{items:3},1280:{gutter:40},1600:{items:4}}});
 </script>
 
 {{ if eq .Params.class "numero-en-cours" }}
@@ -49,29 +20,7 @@ for (var i=0; i < navLinks.length; i++) {
     <script src="{{ $tabsPublic.Permalink }}"></script>
     <script>
         // other slider init
-        var numeroSliderControlsContainer = document.querySelector('.slider__controls');
-        var numeroSlider = tns({
-            container: '.numero-slider',
-            items: 1,
-            gutter: 10,
-            arrowKeys: true,
-            mouseDrag: true,
-            controlsContainer: numeroSliderControlsContainer,
-            responsive: {
-                480: {
-                    gutter: 20
-                },
-                768: {
-                    items:2
-                },
-                1280: {
-                    gutter: 40
-                },
-                1600: {
-                    items: 3
-                }
-            }
-        });
+        var numeroSliderControlsContainer=document.querySelector(".slider__controls"),numeroSlider=tns({container:".numero-slider",items:1,gutter:10,arrowKeys:!0,mouseDrag:!0,controlsContainer:numeroSliderControlsContainer,responsive:{480:{gutter:20},768:{items:2},1280:{gutter:40},1600:{items:3}}});
     </script>
 {{ end }}
 
