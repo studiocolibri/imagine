@@ -2,6 +2,17 @@
 {{ $navPublic := $nav | resources.Minify | resources.Fingerprint }}
 <script src="{{ $navPublic.Permalink }}"></script>
 
+<script>
+// add target blank to archives link
+var navLinks = document.querySelectorAll('.site-nav__link');
+for (var i=0; i < navLinks.length; i++) {
+    if (navLinks[i].innerText == 'Archives') {
+        navLinks[i].setAttribute('target', '_blank');
+        navLinks[i].setAttribute('rel', 'noopener');
+    }
+}
+</script>
+
 <script src="/assets/js/tinyslider.js"></script>
 
 <script>
@@ -31,18 +42,6 @@
           }
     });
 </script>
-
-<script>
-// add target blank to archives link
-var navLinks = document.querySelectorAll('.site-nav__link');
-for (var i=0; i < navLinks.length; i++) {
-    if (navLinks[i].innerText == 'Archives') {
-        navLinks[i].setAttribute('target', '_blank');
-        navLinks[i].setAttribute('rel', 'noopener');
-    }
-}
-</script>
-
 
 {{ if eq .Params.class "numero-en-cours" }}
     {{ $tabs := resources.Get "js/tabs.js" }}
