@@ -1,0 +1,13 @@
+---
+label: Call to action
+hide_body: true
+fields:
+- type: textarea
+  name: text
+  label: text
+- type: text
+  name: link
+  label: link
+- type: text
+  name: link_text
+  label: link_text
