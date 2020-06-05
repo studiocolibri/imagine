@@ -18,13 +18,7 @@
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta property="og:site_name" content="{{ .Site.Title }}" />
-    <style>
-      :root{
-        {{- range .Site.Data.colors }}
-          --{{ .name }}: {{ .color }};
-        {{- end }}
-      }
-    </style>
+    <style>:root{ {{- range .Site.Data.colors }}--{{ .name }}: {{ .color }};{{- end }} }</style>
     {{- $style := resources.Get "sass/main.scss" | resources.ToCSS | resources.PostCSS (dict "config" "postcss.config.js") | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet" type="text/css" href="{{ $style.Permalink | relURL }}">
     {{ partial "site-favicon.html" . }}
