@@ -4,10 +4,14 @@ hide_body: true
 fields:
 - type: textarea
   name: text
-  label: text
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Texte
 - type: text
   name: link
-  label: link
+  label: Lien
 - type: text
   name: link_text
-  label: link_text
+  label: Texte du lien
