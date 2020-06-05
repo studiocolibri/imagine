@@ -12,17 +12,29 @@ sections:
 - type: directory
   path: content/numeros
   label: Numeros
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - numero-en-cours
 - type: directory
   path: content/libre-acces
   label: Nos contenus
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - article
+- type: document
+  path: data/infos.toml
+  label: Informations générales
+- type: document
+  path: data/cta.toml
+  label: Call to action
+- type: document
+  path: data/presse.yaml
+  label: La presse et nous
+- type: document
+  path: data/colors.yaml
+  label: Couleurs
 upload_dir: ''
 public_path: https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto
 front_matter_path: ''

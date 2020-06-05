@@ -1,0 +1,19 @@
+---
+label: Call to action
+hide_body: true
+fields:
+- type: textarea
+  name: text
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Texte
+- type: text
+  name: link
+  label: Lien
+- type: text
+  name: link_text
+  label: Texte du lien
+pages:
+- data/cta.toml

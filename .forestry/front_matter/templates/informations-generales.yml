@@ -1,0 +1,38 @@
+---
+label: Informations générales
+hide_body: true
+fields:
+- type: text
+  name: address
+  label: Adresse
+- type: text
+  name: email
+  label: Adresse e-mail
+- type: text
+  name: facebook_link
+  label: Lien Facebook
+- type: text
+  name: twitter_link
+  label: Lien Twitter
+- type: text
+  name: instagram_link
+  label: Lien Instagram
+- type: text
+  name: tel_for_humans
+  label: Numéro de téléphone (pour les humains)
+  description: La forme du numéro n'a pas d'importance
+- type: text
+  name: tel_for_robots
+  label: Numéro de téléphone pour les robots
+  description: 'La forme est importante car le numéro est utilisé pour faciliter le
+    référencement et les liens rapides pour mobile. Ex: 003243801337'
+- type: text
+  name: title
+  label: Titre principal du site
+  description: Utilisé pour le référencement
+- type: textarea
+  name: description
+  label: Description principale du site
+  description: Utilisée pour le référencement
+pages:
+- data/infos.toml

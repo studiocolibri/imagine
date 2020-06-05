@@ -1,0 +1,26 @@
+---
+label: La presse et nous
+hide_body: true
+fields:
+- type: field_group_list
+  name: items
+  label: items
+  fields:
+  - type: text
+    name: title
+    label: Titre de l'article
+  - type: datetime
+    name: date
+    label: Date
+  - type: text
+    name: origin
+    label: Source de l'article
+    description: 'Exemple: Le Soir'
+  - type: text
+    name: link
+    label: Lien vers l'article
+  - type: file
+    name: img
+    label: Image
+pages:
+- data/presse.yaml
