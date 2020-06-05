@@ -4,8 +4,8 @@ title: Qui nous sommes
 class: notre-projet
 section_one:
   section_title: nos valeurs
-  title: Le manifeste et la charte fondatrice d'Imagine
-  text: Pour développer son projet slow press, Imagine s’appuie sur son manifeste
+  title: Le manifeste et la charte fondatrice
+  text: Pour développer son projet slow press, <em>Imagine</em> s’appuie sur son manifeste
     (2020) et sur sa charte fondatrice (1996). Deux documents dans lesquels le magazine
     (ré)affirme ses valeurs, sa ligne éditoriale et ses engagements vis-à-vis des
     lecteurs.
@@ -26,7 +26,7 @@ section_two:
 section_three:
   section_title: Une métamorphose
   title: Le processus<br>#Imagine 2020
-  text: 'Pour réaliser son nouveau projet éditorial lancé début juin 2020, Imagine
+  text: 'Pour réaliser son nouveau projet éditorial lancé début juin 2020, <em>Imagine</em>
     a initié, un an plus tôt, un grand processus créatif baptisé #Imagine2020 en huit
     étapes.'
   btn_txt: En savoir plus
@@ -35,7 +35,7 @@ section_three:
 section_four:
   section_title: Le magazine
   title: Notre projet de presse indépendante
-  text: Fondé en 1996, Imagine Demain le monde est un projet de presse alternative
+  text: Fondé en 1996, <em>Imagine Demain le monde</em> est un projet de presse alternative
     et indépendante sans but lucratif. Ce magazine est pensé, réalisé et géré avec
     soin et passion par ceux qui le fabriquent.
   btn_txt: En savoir plus
