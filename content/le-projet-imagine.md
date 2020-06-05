@@ -41,13 +41,13 @@ Auparavant journaliste indépendante (_La Libre Belgique, La Dernière Heure_), 
 
 **David Cauwe, graphiste**
 
-Imprimeur et graphiste de formation, professeur à l’Académie Royale des Beaux-Arts de Liège, David est l’artisan du magazine. Il a conçu de A à Z la nouvelle maquette (et la précédente), met en page chaque numéro avec talent et minutie et assure la cohérence graphique du projet éditorial. Au 23 rue Sous l’Eau, entre les murs de son atelier cosy, il développe des projets créatifs personnels avec intelligence et poésie (livres d’art, reliures, cartes…). Son pêché mignon : le jazz, le vélo (avec ou sans les mains) et les typographiques à l’ancienne.
+Imprimeur et graphiste de formation, professeur à l’Académie Royale des Beaux-Arts de Liège, David est l’artisan du magazine. Il a conçu de A à Z la nouvelle maquette (et la précédente), met en page chaque numéro avec talent et minutie et assure la cohérence graphique du projet éditorial. Au 23 rue Sous l’Eau, entre les murs de son atelier cosy, il développe des projets créatifs personnels avec intelligence et poésie (livres d’art, reliures, cartes…). Ses péchés mignons : le jazz, le vélo (avec ou sans les mains) et les typographiques à l’ancienne.
 
 **Sophie Weverbergh, correctrice**
 
 Licenciée en langues et littératures romanes, porteuse d'un projet d'accrochage scolaire pour le Fonds Social Européen, Sophie est la première lectrice et correctrice attitrée d’_Imagine_ depuis 2018. Curieuse, méticuleuse et éclectique, humaniste et féministe, elle a des centres d’intérêt riches et variés (l'histoire, le cinéma, l'écologie, le théâtre, le vin rouge, les chats noirs...). Ses premières passions demeurant la littérature et sa famille, Sophie vit entourée de livres et d'enfants.
 
-**Yve Alié, conseiller régie publicitaire**
+**Yves Alié, conseiller régie publicitaire**
 
 Chargé de prospecter et de gérer les annonces publicitaires éthiques et durables dans notre magazine, Yves est un adepte de la communication « à 360 ° ». Imprimeur de formation, entrepreneur engagé et soucieux de contourner les pièges du _greenwashing_, créateur du blog unautremonde.be, il pratique la photo amateur qu’il envisage comme _« un acte de liberté »_ à la manière _« d’un gosse dans son terrain de jeu »._
 
@@ -65,7 +65,7 @@ C’est un magazine de 120 pages, avec un format à la française (205 x 265 mm,
 
 * **Un site web éco-responsable**
 
-Ce site a été conçu par le Studio Colibri dans un esprit éco-responsable (code artisanal sur mesure, images et fonctionnalités allégées, peu de data mobile, peu d’affichages rapides…). Il est hébergé chez …. qui a recours aux énergies renouvelables et va évoluer dans le temps. A l’ère du tout numérique, _Imagine_ s’efforce ainsi de rester fidèle à deux fondamentaux : une temporalité lente et une volonté de réduire au maximum son empreinte environnementale.
+Ce site a été conçu par le Studio Colibri dans un esprit éco-responsable (code artisanal sur mesure, images et fonctionnalités allégées, peu de data mobile, peu d’affichages rapides…). Il est optimisé et va évoluer avec le temps. A l’ère du tout numérique, _Imagine_ s’efforce ainsi de rester fidèle à deux fondamentaux : une temporalité lente et une volonté de réduire au maximum son empreinte environnementale.
 
 * **Des livraisons à vélo**
 
