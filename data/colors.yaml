@@ -1,13 +1,13 @@
 - name : txt-color
   color: "#495050"
 - name: green
-  color: "#60B2AE"
+  color: "#008198"
 - name: lightgreen
   color: "#B0D8D6"
 - name: ultralightgreen
   color: "#9CDE9F"
 - name: turquoise
-  color: "#00839A"
+  color: "#b0d8d6"
 - name: yellow
   color: "#FFE6B5"
 - name: orange
