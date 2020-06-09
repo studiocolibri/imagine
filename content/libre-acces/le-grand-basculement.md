@@ -5,7 +5,7 @@ date: 2020-06-03T22:00:00.000+00:00
 categories:
 - Tribune
 description: Une tribune signée par la rédaction d'<em>Imagine Demain le monde</em>
-  et le comité 2020 Les Pisteurs d'Imagine
+  et le comité 2020 Les Pisteurs d'Imagine.
 img: sans-titre2.jpg
 
 ---
