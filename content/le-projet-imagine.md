@@ -1,6 +1,6 @@
 ---
-class: "notre-manifeste single-page"
-title: "Le projet Imagine"
+class: notre-manifeste single-page
+title: Le projet Imagine
 type: le-projet-imagine
 organization:
   title: Notre organisation
@@ -15,51 +15,97 @@ organization:
 team:
   title: Notre équipe
   members:
-    - name : Hugues Dorzée
-      job: rédacteur en chef
-      photo: "/v1591708260/hugues-dorzee_rufkqe.jpg" 
-      text: |-
-        Après dix-huit ans au quotidien _Le Soir_, Hugues est devenu rédacteur en chef d’_Imagine_ en 2014. Cycliste du quotidien, féru de littérature anglo-saxonne, joggeur des villes et des campagnes, il défend un journalisme terre-à-terre et apaisé sur les pas du philosophe Uchida Tastsuru (_« Pour que les médias reviennent à la vie, ils n’ont pas d’autre choix que de redevenir des êtres vivants »)._ Il a un petit faible pour l’expresso _ristretto_, les films de Ken Loach et la musique de Chily Gonzales, le Cap Corse et les cabanes perchées.
-    - name: Laure de Hesselle
-      job: journaliste
-      photo: "/v1591708260/laure-de-hesselle_dp4gdq.jpg" 
-      text: |-
-        Journaliste chez _Imagine_ depuis 2001 après une carrière comme indépendante (_Le Soir_…), Laure incarne la mémoire vive du magazine. Passionnée par le cinéma, l’Asie, la littérature américaine, amatrice de whisky et de plantes en tous genres, en pleine nature, en pot ou dans les assiettes, elle traite des grands enjeux de société (transition écologique et sociale, mouvements sociaux, urbanisme…) et coordonne par ailleurs les matières culturelles. Sa traque sans pitié des erreurs et autres coquilles lors de chaque bouclage lui vaut le surnom d’« œil de lynx ».
-    - name: Christophe Schoune
-      job: journaliste
-      photo: "/v1591708259/christophe-schoune_uldx8g.jpg"
-      text: |-
-        Ancien du quotidien _Le Soir_ (19 ans), co-fondateur de l’Asbl Climate Voices, de la Fondation Be Planet et de l’association Champs libres, Christophe est revenu, en 2019, à ses premières amours journalistiques après avoir occupé pendant dix ans le rôle de secrétaire général d’Inter-Environnement Wallonie. Spécialisé dans les matières environnementales, il est passionné par le photo-reportage et le cinéma d'auteur. Randonneur, il est inspiré par le désert et le cheminement de Sylvain Tesson.
-    - name: Sarah Freres
-      job: journaliste
-      photo: "/v1591708265/sarah-frere_dlcywu.jpg"
-      text: |-
-        Auparavant journaliste indépendante (_La Libre Belgique, La Dernière Heure_), la dernière recrue de la rédaction, arrivée en février 2020, est en charge des enjeux Nord-Sud. Elle continue également d’écrire sur un sujet qui l’a toujours passionné : les migrations. Amoureuse de l’océan et de tous ses habitants (mais surtout les coraux, les pieuvres, les nudibranches et les requins), fascinée par l’histoire flamande, elle tente d’appliquer au quotidien les consignes du _Feminist Fight Club_ de la journaliste Jessica Benett. En parallèle, elle aussi membre du conseil de direction de l’Association des Journalistes Professionnels (AJP).
-    - name: Pascale Derriks
-      job: responsable administrative & financière
-      photo: "/v1591708258/pascale-derriks_yaqzte.jpg" 
-      text: |-
-        À la rédaction, Pascale est chargée depuis 2001 de gérer l’administration, la comptabilité, les relations avec les lecteurs et les libraires. Elle met également en ligne les contenus du magazine sur notre site internet. Elle a définitivement adopté son vélo à assistance électrique, pratique plusieurs sports de loisir, se nourrit de cinéma aux Grignoux, de littérature historique et de… bonne cuisine. Depuis presque 20 ans, fidèle au poste, elle traverse sans encombre l'évolution du magazine.
-    - name: David Cauwe
-      job: graphiste
-      photo: "/v1591708258/david-cauwe_w6zktb.jpg" 
-      text: |-
-        Imprimeur et graphiste de formation, professeur à l’Académie Royale des Beaux-Arts de Liège, David est l’artisan du magazine. Il a conçu de A à Z la nouvelle maquette (et la précédente), met en page chaque numéro avec talent et minutie et assure la cohérence graphique du projet éditorial. Au 23 rue Sous l’Eau, entre les murs de son atelier cosy, il développe des projets créatifs personnels avec intelligence et poésie (livres d’art, reliures, cartes…). Ses péchés mignons : le jazz, le vélo (avec ou sans les mains) et les typographiques à l’ancienne.
-    - name: Sophie Weverbergh
-      job: correctrice
-      photo: "/v1591708258/sophie-weverbergh_amyoos.jpg" 
-      text: |-
-        Licenciée en langues et littératures romanes, porteuse d'un projet d'accrochage scolaire pour le Fonds Social Européen, Sophie est la première lectrice et correctrice attitrée d’_Imagine_ depuis 2018. Curieuse, méticuleuse et éclectique, humaniste et féministe, elle a des centres d’intérêt riches et variés (l'histoire, le cinéma, l'écologie, le théâtre, le vin rouge, les chats noirs...). Ses premières passions demeurant la littérature et sa famille, Sophie vit entourée de livres et d'enfants.
-    - name: Yves Alié
-      job: conseiller régie publicitaire
-      photo: "/v1591708263/yves-alie_ruw85l.jpg" 
-      text: |-
-        Chargé de prospecter et de gérer les annonces publicitaires éthiques et durables dans notre magazine, Yves est un adepte de la communication « à 360 ° ». Imprimeur de formation, entrepreneur engagé et soucieux de contourner les pièges du _greenwashing_, créateur du blog unautremonde.be, il pratique la photo amateur qu’il envisage comme _« un acte de liberté »_ à la manière _« d’un gosse dans son terrain de jeu »._
-    - name: André Ruwet
-      job: fondateur d’_Imagine_
-      photo: ""
-      text: |-
-        Ex-journaliste chez _Greenpeace Magazine_ et à _La Cité_, co-fondateur d’_Imagine_ en septembre 1996, André est décédé le 9 mai 2018 à l’âge de 67 ans en laissant derrière lui un magazine qu’il a porté à bout de bras, irrigué de son savoir et nourri de ses convictions pendant plus de vingt ans. _Imagine_ lui doit tout : son nom, son histoire, sa ligne éditoriale singulière.
+  - name: Hugues Dorzée
+    job: rédacteur en chef
+    photo: "/v1591708260/hugues-dorzee_rufkqe.jpg"
+    text: Après dix-huit ans au quotidien _Le Soir_, Hugues est devenu rédacteur en
+      chef d’_Imagine_ en 2014. Cycliste du quotidien, féru de littérature anglo-saxonne,
+      joggeur des villes et des campagnes, il défend un journalisme terre-à-terre
+      et apaisé sur les pas du philosophe Uchida Tastsuru (_« Pour que les médias
+      reviennent à la vie, ils n’ont pas d’autre choix que de redevenir des êtres
+      vivants »)._ Il a un petit faible pour l’expresso _ristretto_, les films de
+      Ken Loach et la musique de Chily Gonzales, le Cap Corse et les cabanes perchées.
+  - name: Laure de Hesselle
+    job: journaliste
+    photo: "/v1591708260/laure-de-hesselle_dp4gdq.jpg"
+    text: Journaliste chez _Imagine_ depuis 2001 après une carrière comme indépendante
+      (_Le Soir_…), Laure incarne la mémoire vive du magazine. Passionnée par le cinéma,
+      l’Asie, la littérature américaine, amatrice de whisky et de plantes en tous
+      genres, en pleine nature, en pot ou dans les assiettes, elle traite des grands
+      enjeux de société (transition écologique et sociale, mouvements sociaux, urbanisme…)
+      et coordonne par ailleurs les matières culturelles. Sa traque sans pitié des
+      erreurs et autres coquilles lors de chaque bouclage lui vaut le surnom d’« œil
+      de lynx ».
+  - name: Christophe Schoune
+    job: journaliste
+    photo: "/v1591708259/christophe-schoune_uldx8g.jpg"
+    text: Ancien du quotidien _Le Soir_ (19 ans), co-fondateur de l’Asbl Climate Voices,
+      de la Fondation Be Planet et de l’association Champs libres, Christophe est
+      revenu, en 2019, à ses premières amours journalistiques après avoir occupé pendant
+      dix ans le rôle de secrétaire général d’Inter-Environnement Wallonie. Spécialisé
+      dans les matières environnementales, il est passionné par le photo-reportage
+      et le cinéma d'auteur. Randonneur, il est inspiré par le désert et le cheminement
+      de Sylvain Tesson.
+  - name: Sarah Freres
+    job: journaliste
+    photo: "/v1591708265/sarah-frere_dlcywu.jpg"
+    text: 'Auparavant journaliste indépendante (_La Libre Belgique, La Dernière Heure_),
+      la dernière recrue de la rédaction, arrivée en février 2020, est en charge des
+      enjeux Nord-Sud. Elle continue également d’écrire sur un sujet qui l’a toujours
+      passionné : les migrations. Amoureuse de l’océan et de tous ses habitants (mais
+      surtout les coraux, les pieuvres, les nudibranches et les requins), fascinée
+      par l’histoire flamande, elle tente d’appliquer au quotidien les consignes du
+      _Feminist Fight Club_ de la journaliste Jessica Benett. En parallèle, elle aussi
+      membre du conseil de direction de l’Association des Journalistes Professionnels
+      (AJP).'
+  - name: Pascale Derriks
+    job: responsable administrative & financière
+    photo: "/v1591708258/pascale-derriks_yaqzte.jpg"
+    text: À la rédaction, Pascale est chargée depuis 2001 de gérer l’administration,
+      la comptabilité, les relations avec les lecteurs et les libraires. Elle met
+      également en ligne les contenus du magazine sur notre site internet. Elle a
+      définitivement adopté son vélo à assistance électrique, pratique plusieurs sports
+      de loisir, se nourrit de cinéma aux Grignoux, de littérature historique et de…
+      bonne cuisine. Depuis presque 20 ans, fidèle au poste, elle traverse sans encombre
+      l'évolution du magazine.
+  - name: David Cauwe
+    job: graphiste
+    photo: "/v1591708258/david-cauwe_w6zktb.jpg"
+    text: 'Imprimeur et graphiste de formation, professeur à l’Académie Royale des
+      Beaux-Arts de Liège, David est l’artisan du magazine. Il a conçu de A à Z la
+      nouvelle maquette (et la précédente), met en page chaque numéro avec talent
+      et minutie et assure la cohérence graphique du projet éditorial. Au 23 rue Sous
+      l’Eau, entre les murs de son atelier cosy, il développe des projets créatifs
+      personnels avec intelligence et poésie (livres d’art, reliures, cartes…). Ses
+      péchés mignons : le jazz, le vélo (avec ou sans les mains) et les typographiques
+      à l’ancienne.'
+  - name: Sophie Weverbergh
+    job: correctrice
+    photo: "/v1591708258/sophie-weverbergh_amyoos.jpg"
+    text: Licenciée en langues et littératures romanes, porteuse d'un projet d'accrochage
+      scolaire pour le Fonds Social Européen, Sophie est la première lectrice et correctrice
+      attitrée d’_Imagine_ depuis 2018. Curieuse, méticuleuse et éclectique, humaniste
+      et féministe, elle a des centres d’intérêt riches et variés (l'histoire, le
+      cinéma, l'écologie, le théâtre, le vin rouge, les chats noirs...). Ses premières
+      passions demeurant la littérature et sa famille, Sophie vit entourée de livres
+      et d'enfants.
+  - name: Yves Alié
+    job: conseiller régie publicitaire
+    photo: "/v1591708263/yves-alie_ruw85l.jpg"
+    text: Chargé de prospecter et de gérer les annonces publicitaires éthiques et
+      durables dans notre magazine, Yves est un adepte de la communication « à 360
+      ° ». Imprimeur de formation, entrepreneur engagé et soucieux de contourner les
+      pièges du _greenwashing_, créateur du blog unautremonde.be, il pratique la photo
+      amateur qu’il envisage comme _« un acte de liberté »_ à la manière _« d’un gosse
+      dans son terrain de jeu »._
+  - name: André Ruwet
+    job: fondateur d’_Imagine_
+    photo: ''
+    text: 'Ex-journaliste chez _Greenpeace Magazine_ et à _La Cité_, co-fondateur
+      d’_Imagine_ en septembre 1996, André est décédé le 9 mai 2018 à l’âge de 67
+      ans en laissant derrière lui un magazine qu’il a porté à bout de bras, irrigué
+      de son savoir et nourri de ses convictions pendant plus de vingt ans. _Imagine_
+      lui doit tout : son nom, son histoire, sa ligne éditoriale singulière.'
 differences:
   title: Nos différences
   content: |-
@@ -98,4 +144,5 @@ differences:
       Il s’appuie d’un côté sur un volet quantitatif pour objectiver chaque numéro et constater les lacunes. Car nous sommes conscients que compter est insuffisant – les chiffres ne disent rien des stéréotypes que nous pourrions reproduire, consciemment ou inconsciemment –, le second volet est davantage qualitatif.
 
       Cet outil est évidemment perfectible et appelé à évoluer avec le regard d’experts, de personnalités de la société civile, de vous, nos lecteurs, avec la ferme intention qu’il puisse nous servir dans nos pratiques rédactionnelles afin d’assurer une meilleure représentation du genre et de la diversité dans nos colonnes.
+
 ---
