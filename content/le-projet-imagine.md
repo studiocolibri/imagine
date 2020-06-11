@@ -109,18 +109,19 @@ team:
 differences:
   title: Nos différences
   content: |-
-    * **Un bel objet graphique & éco-friendly**
+    ### Un bel objet graphique & éco-friendly
 
     C’est un magazine de 120 pages, avec un format à la française (205 x 265 mm, dos collé). La maquette est réalisée par l’Atelier David Cauwe (Liège). C’est aussi une publication éco-responsable (papier Lenza Green, 100 % recyclé, label FSC, encres végétales) imprimé au sein d’une entreprise familiale, locale et spécialisée dans l’édition durable (Kliemo, Eupen).
 
-    * **Un site web éco-responsable**
+    ### Un site web éco-responsable
 
     Ce site a été conçu par le Studio Colibri dans un esprit éco-responsable (code artisanal sur mesure, images et fonctionnalités allégées, peu de data mobile, peu d’affichages rapides…). Il est optimisé et va évoluer avec le temps. A l’ère du tout numérique, _Imagine_ s’efforce ainsi de rester fidèle à deux fondamentaux : une temporalité lente et une volonté de réduire au maximum son empreinte environnementale.
 
-    * **Des livraisons à vélo**
+    ### Des livraisons à vélo
 
       Pour effectuer une partie de nos **livraisons** (librairies spécialisées, magasins bio…), nous travaillons avec la coopérative Rayon 9 (notre Asbl est membre de celle-ci) et leurs collègues du Coursier wallon (Namur et Mons) et Dioxyde de Gambettes (Bruxelles). En dehors de celles-ci, nos magazines sont distribués par Tondeur Diffusion.
-    * **Un lexique engagé**
+    
+    ### Un lexique engagé
 
     Derrière les mots, c’est bien connu, il y a la force des idées. Face aux bouleversements environnementaux en cours, la rédaction d’_Imagine_ a décidé d’adopter une ligne directrice lexicale plus claire inspirée de la charte rédigée par nos confrères du journal britannique _The Guardian_.
 
@@ -131,7 +132,7 @@ differences:
 
     A travers ce nouveau lexique, _Imagine_ entend accorder à la crise climatique toute l’attention qu’elle exige.
 
-    * **Un baromètre genre & diversité**
+    ### Un baromètre genre & diversité
 
       Tous les baromètres effectués par l’Association des Journalistes Professionnels (AJP) débouchent sur le même constat : les femmes, les personnes racisées et les minorités de genre sont sous-représentées dans l’espace médiatique. Si notre rédaction veut penser chaque numéro comme le reflet de la diversité de notre société, nous ne sommes pas exempts de certains biais, profondément ancrés.
 
