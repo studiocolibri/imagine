@@ -120,7 +120,7 @@ differences:
     ### Des livraisons à vélo
 
       Pour effectuer une partie de nos **livraisons** (librairies spécialisées, magasins bio…), nous travaillons avec la coopérative Rayon 9 (notre Asbl est membre de celle-ci) et leurs collègues du Coursier wallon (Namur et Mons) et Dioxyde de Gambettes (Bruxelles). En dehors de celles-ci, nos magazines sont distribués par Tondeur Diffusion.
-    
+
     ### Un lexique engagé
 
     Derrière les mots, c’est bien connu, il y a la force des idées. Face aux bouleversements environnementaux en cours, la rédaction d’_Imagine_ a décidé d’adopter une ligne directrice lexicale plus claire inspirée de la charte rédigée par nos confrères du journal britannique _The Guardian_.

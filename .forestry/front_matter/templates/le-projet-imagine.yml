@@ -64,3 +64,5 @@ fields:
       wysiwyg: true
       schema:
         format: markdown
+pages:
+- content/le-projet-imagine.md
