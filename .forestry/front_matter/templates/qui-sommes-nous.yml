@@ -129,3 +129,5 @@ fields:
   - type: text
     name: title
     label: title
+pages:
+- content/notre-projet.md
