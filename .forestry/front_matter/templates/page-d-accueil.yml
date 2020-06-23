@@ -18,10 +18,10 @@ fields:
     label: Titre de section
   - type: text
     name: title
-    label: title
+    label: Titre
   - type: textarea
     name: text
-    label: text
+    label: Texte
   - type: text
     name: btn_text
     label: Texte du bouton
