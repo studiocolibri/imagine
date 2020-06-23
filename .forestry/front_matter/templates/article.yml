@@ -5,20 +5,29 @@ fields:
 - type: text
   name: class
   label: class
+  default: single-e-magine
+  hidden: true
 - type: text
   name: title
-  label: title
+  label: Titre de l'article
 - type: datetime
   name: date
-  label: date
+  label: Date
 - type: list
   name: categories
-  label: categories
+  label: Catégorie
 - type: textarea
   name: description
-  label: description
+  label: Description de l'article
+  description: Texte cours utilisé dans la liste des articles en libre accès ou pour
+    le référencement.
 - type: file
   name: img
-  label: img
+  label: Image d'illustration de l'article
+- name: img_credits
+  type: text
+  config:
+    required: false
+  label: Crédits de l'image d'illustration
 pages:
 - content/libre-acces/le-climat-deregle-affecte-la-sante-des-travailleurs.md
