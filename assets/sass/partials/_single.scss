@@ -144,7 +144,6 @@
 
 .single-e-magine__content {
     overflow-x:hidden;
-	max-width: 1000px;
 	margin: 0 auto;
 
     > * {
@@ -249,9 +248,10 @@
         margin:$su*6 0;
     }
 
-    img {
+    > * {
         width:100%;
         height:auto;
+        margin:0;
         object-fit: contain;
         
         @media screen and (min-width:$bp-m) {
