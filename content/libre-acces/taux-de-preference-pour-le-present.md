@@ -32,4 +32,4 @@ Alors, je décidai de changer de méthode. En quelques mots, j’exposai les lim
 
 L’espace d’un instant, le taux de préférence pour le futur a explosé le présent.
 
-Ce n’était qu’un atelier ; c’était avant. Mais aujourd’hui que le chaos fait vaciller notre présent comme notre futur, j’en retiens trois enseignements. D’abord, qu’il ne faut jamais négliger les coûts à venir de mesures prises dans l’urgence. Ensuite, que rien ne remplace la délibération collective et que, sans la possibilité d’exercer un choix, l’adhésion des individus ne suivra pas. Enfin, qu’aucun être humain ne se projettera jamais dans un projet&nbsp;politique&nbsp;dépourvu&nbsp;de&nbsp;plaisirs.
+Ce n’était qu’un atelier ; c’était avant. Mais aujourd’hui que le chaos fait vaciller notre présent comme notre futur, j’en retiens trois enseignements. D’abord, qu’il ne faut jamais négliger les coûts à venir de mesures prises dans l’urgence. Ensuite, que rien ne remplace la délibération collective et que, sans la possibilité d’exercer un choix, l’adhésion des individus ne suivra pas. Enfin, qu’aucun être humain ne se projettera jamais dans un projet politique dépourvu de plaisirs.
