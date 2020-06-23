@@ -57,3 +57,5 @@ fields:
   - type: text
     name: btn_link
     label: Lien du bouton
+pages:
+- content/_index.md
