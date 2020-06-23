@@ -44,5 +44,21 @@ fields:
   config:
     required: false
   label: Crédits de l'image d'illustration
+- name: categoriess
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Chronique
+    - Editorial
+    - Reportage
+    - Tribune
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Catégorie
 pages:
 - content/libre-acces/le-climat-deregle-affecte-la-sante-des-travailleurs.md
