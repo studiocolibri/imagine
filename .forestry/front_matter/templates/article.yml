@@ -10,6 +10,21 @@ fields:
 - type: text
   name: title
   label: Titre de l'article
+- name: title_alignment
+  type: select
+  default: gauche
+  config:
+    required: false
+    options:
+    - gauche
+    - droite
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Alignement du titre
+  description: Option pour aligner le titre à droite si l'illustration le nécessite
 - type: datetime
   name: date
   label: Date
