@@ -1,6 +1,6 @@
 ---
 label: Page d'accueil
-hide_body: false
+hide_body: true
 fields:
 - type: text
   name: class
