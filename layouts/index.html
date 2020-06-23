@@ -1,13 +1,14 @@
 {{ define "main" }}
 
 <section class="home-header page-header">
+    {{ $header_title := .Params.header_title }}
+    {{ $header_text := .Params.header_text }}
     {{ range first 1 (where $.Site.RegularPages.ByDate.Reverse "Section" "numeros") }}
         <div class="flex-2-cols cw">
             <div class="flex-2-cols__col home-header__left">
                 <p class="home-header__numero"><strong>n°{{ .Params.num }}</strong> / {{ .Params.period }}</p>
-                <h1 class="home-header__title page-header__title">Clarifier les faits, libérer les idées <br>et les esprits</h1>
-                <p class="home-header__short-description">114 pages + un cahier spécial Covid-19 <br>de 42 pages, 
-« Changer d’ère »</p>
+                <h1 class="home-header__title page-header__title">{{ $header_title | markdownify }}</h1>
+                <p class="home-header__short-description">{{ $header_text | markdownify }}</p>
             </div>
             <div class="flex-2-cols__col home-header__right">
                 <a class="home-header__img" href="/numero-en-cours">
@@ -67,10 +68,7 @@
             loading="lazy">
         </div>
         <div class="flex-2-cols__col">
-<!--
-            <h3>{{ .Params.section_three.title | safeHTML }}</h3>
--->
-            <p>Pour les abonnés à notre version numérique (PDF + bonus), découvrez notre carte interactive inédite des luttes environnementales en Belgique, un grand entretien avec l'économiste Geneviève Azam, un reportage à la Ferme La Clarine... et bien d'autres avantages !</p>
+            <p>{{ .Params.section_three.text | markdownify }}</p>
             <a href="{{ .Params.section_three.btn_link }}" class="btn">{{ .Params.section_three.btn_text }}</a>
         </div>
     </div>
