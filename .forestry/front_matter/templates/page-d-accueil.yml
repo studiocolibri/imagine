@@ -1,6 +1,6 @@
 ---
 label: Page d'accueil
-hide_body: false
+hide_body: true
 fields:
 - type: text
   name: class
@@ -9,6 +9,17 @@ fields:
 - type: text
   name: title
   label: Titre de la page
+  hidden: true
+- name: header_title
+  type: text
+  config:
+    required: false
+  label: Titre du numéro en cours
+- name: header_text
+  type: text
+  config:
+    required: false
+  label: Texte du numéro en cours
 - type: field_group
   name: section_one
   label: section_one
@@ -57,3 +68,5 @@ fields:
   - type: text
     name: btn_link
     label: Lien du bouton
+pages:
+- content/_index.md

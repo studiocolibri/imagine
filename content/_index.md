@@ -2,7 +2,8 @@
 class: home
 title: Page d'accueil
 header_title: Clarifier les faits, libérer<br>les idées et les esprits
-header_text: 114 pages + un cahier spécial Covid-19<br>de 42 pages, « Changer d’ère »
+header_text: 114 pages + un cahier spécial Covid-19<br>de 42 pages, « Changer d’ère
+  »
 section_one:
   section_title: "#imagine2020"
   title: "#Imagine2020, un processus créatif et participatif"
@@ -20,7 +21,10 @@ section_two:
   btn_txt: Tous nos articles
 section_three:
   section_title: Espace abonnés numériques
-  text: Pour les abonnés à notre version numérique (PDF + bonus), découvrez notre carte interactive inédite des luttes environnementales en Belgique, un grand entretien avec l'économiste Geneviève Azam, un reportage à la Ferme La Clarine... et bien d'autres avantages !
+  text: Pour les abonnés à notre version numérique (PDF + bonus), découvrez notre
+    carte interactive inédite des luttes environnementales en Belgique, un grand entretien
+    avec l'économiste Geneviève Azam, un reportage à la Ferme La Clarine... et bien
+    d'autres avantages !
   btn_text: Découvrir
   btn_link: https://kiosque.imagine-magazine.com/pour-les-abonnes-imagine/
 
