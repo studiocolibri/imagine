@@ -1,0 +1,56 @@
+---
+label: Le projet Imagine
+hide_body: true
+fields:
+- type: text
+  name: class
+  label: class
+- type: text
+  name: title
+  label: title
+- type: text
+  name: type
+  label: type
+- type: field_group
+  name: organization
+  label: organization
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: content
+    label: content
+- type: field_group
+  name: team
+  label: team
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: members
+    label: members
+    fields:
+    - type: text
+      name: name
+      label: name
+    - type: text
+      name: job
+      label: job
+    - type: file
+      name: photo
+      label: photo
+    - type: textarea
+      name: text
+      label: text
+- type: field_group
+  name: differences
+  label: differences
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: content
+    label: content
