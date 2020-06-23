@@ -17,18 +17,19 @@
         }
     </style>
     <header class="single-e-magine__header">
-        <div class="single-e-magine__category">
+        <div class="single-e-magine__category{{ if eq .Params.title_alignment "droite" }} text-right{{ end }}">
             <p data-color="{{ range first 1 .Params.categories }}{{ . | plainify | lower }}{{ end}}">
                 {{ range first 1 .Params.categories }}{{ . }}{{ end}}
             </p>
         </div>
-        <h1 class="single-e-magine__title">{{ .Title }}</h1>
+        <h1 class="single-e-magine__title{{ if eq .Params.title_alignment "droite" }} text-right{{ end }}">{{ .Title }}</h1>
         <a href="#contenu-de-l-article" class="single-e-magine__more-img">
             <picture>
                 <source srcset="/assets/img/arrow-down.svg" media="(max-width: 1140px)">
                 <img src="/assets/img/arrow-down-long.svg" alt="Faites dérouler pour voir la suite" width="15" height="82">
             </picture>
         </a>
+        {{ if ne .Params.img_credits "" }}<p class="single-e-magine__img-credits"><small>{{ .Params.img_credits }}</small></p>{{ end }}
     </header>
     <time class="single-e-magine__date" id="contenu-de-l-article" datetime="{{ .Date.Format "02-01-06"}}">{{ .Date.Format "02.01.06"}}</time>
     <div class="single-e-magine__content">

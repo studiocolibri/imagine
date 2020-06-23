@@ -75,6 +75,18 @@
     }
 }
 
+.single-e-magine__img-credits {
+    display: block;
+    position: absolute;
+    right: $su*3;
+    bottom: 0;
+    margin-left: auto;
+    font-size: 0.9rem;
+    text-align: right;
+    color: rgba(255,255,255,0.8);
+    z-index: 50;
+}
+
 .single-e-magine__more-img {
     position: relative;
     display:flex;
