@@ -115,11 +115,11 @@ differences:
 
     ### Un site web éco-responsable
 
-    Ce site a été conçu par le Studio Colibri dans un esprit éco-responsable (code artisanal sur mesure, images et fonctionnalités allégées, peu de data mobile, peu d’affichages rapides…). Il est optimisé et va évoluer avec le temps. A l’ère du tout numérique, _Imagine_ s’efforce ainsi de rester fidèle à deux fondamentaux : une temporalité lente et une volonté de réduire au maximum son empreinte environnementale.
+    Ce site a été conçu par le [Studio Colibri](https://www.studiocolibri.be "Studio Colibri") dans un esprit éco-responsable (code artisanal sur mesure, images et fonctionnalités allégées, peu de data mobile, peu d’affichages rapides…). Il est optimisé et va évoluer avec le temps. A l’ère du tout numérique, _Imagine_ s’efforce ainsi de rester fidèle à deux fondamentaux : une temporalité lente et une volonté de réduire au maximum son empreinte environnementale.
 
     ### Des livraisons à vélo
 
-      Pour effectuer une partie de nos **livraisons** (librairies spécialisées, magasins bio…), nous travaillons avec la coopérative Rayon 9 (notre Asbl est membre de celle-ci) et leurs collègues du Coursier wallon (Namur et Mons) et Dioxyde de Gambettes (Bruxelles). En dehors de celles-ci, nos magazines sont distribués par Tondeur Diffusion.
+    Pour effectuer une partie de nos **livraisons** (librairies spécialisées, magasins bio…), nous travaillons avec la coopérative Rayon 9 (notre Asbl est membre de celle-ci) et leurs collègues du Coursier wallon (Namur et Mons) et Dioxyde de Gambettes (Bruxelles). En dehors de celles-ci, nos magazines sont distribués par Tondeur Diffusion.
 
     ### Un lexique engagé
 
@@ -134,16 +134,16 @@ differences:
 
     ### Un baromètre genre & diversité
 
-      Tous les baromètres effectués par l’Association des Journalistes Professionnels (AJP) débouchent sur le même constat : les femmes, les personnes racisées et les minorités de genre sont sous-représentées dans l’espace médiatique. Si notre rédaction veut penser chaque numéro comme le reflet de la diversité de notre société, nous ne sommes pas exempts de certains biais, profondément ancrés.
+    Tous les baromètres effectués par l’Association des Journalistes Professionnels (AJP) débouchent sur le même constat : les femmes, les personnes racisées et les minorités de genre sont sous-représentées dans l’espace médiatique. Si notre rédaction veut penser chaque numéro comme le reflet de la diversité de notre société, nous ne sommes pas exempts de certains biais, profondément ancrés.
 
-      A l’occasion de la refonte du magazine, l’équipe a décidé de lancer son propre baromètre, disponible dans chaque numéro. Encore perfectible, cet outil sera amélioré au fil du temps.
+    A l’occasion de la refonte du magazine, l’équipe a décidé de lancer son propre baromètre, disponible dans chaque numéro. Encore perfectible, cet outil sera amélioré au fil du temps.
 
-      Nous avons décidé de débuter modestement, avec une analyse de notre dossier (21 pages).
+    Nous avons décidé de débuter modestement, avec une analyse de notre dossier (21 pages).
 
-      Ce baromètre est inspiré de ceux de l’AJP et a été conçu avec l’aide précieuse de Florence Le Cam (professeure de journalisme à l’ULB, qui figure aussi parmi le groupe des Pisteurs d’Imagine), Lise Ménalque (assistante-doctorante en sciences de l'information et de la communication à l’ULB) et Sabri Derinöz (chercheur en sciences sociales, qui a notamment été en charge de la première étude de la diversité et de l’égalité portant sur la presse écrite belge francophone au sein de l’AJP).
+    Ce baromètre est inspiré de ceux de l’AJP et a été conçu avec l’aide précieuse de Florence Le Cam (professeure de journalisme à l’ULB, qui figure aussi parmi le groupe des Pisteurs d’Imagine), Lise Ménalque (assistante-doctorante en sciences de l'information et de la communication à l’ULB) et Sabri Derinöz (chercheur en sciences sociales, qui a notamment été en charge de la première étude de la diversité et de l’égalité portant sur la presse écrite belge francophone au sein de l’AJP).
 
-      Il s’appuie d’un côté sur un volet quantitatif pour objectiver chaque numéro et constater les lacunes. Car nous sommes conscients que compter est insuffisant – les chiffres ne disent rien des stéréotypes que nous pourrions reproduire, consciemment ou inconsciemment –, le second volet est davantage qualitatif.
+    Il s’appuie d’un côté sur un volet quantitatif pour objectiver chaque numéro et constater les lacunes. Car nous sommes conscients que compter est insuffisant – les chiffres ne disent rien des stéréotypes que nous pourrions reproduire, consciemment ou inconsciemment –, le second volet est davantage qualitatif.
 
-      Cet outil est évidemment perfectible et appelé à évoluer avec le regard d’experts, de personnalités de la société civile, de vous, nos lecteurs, avec la ferme intention qu’il puisse nous servir dans nos pratiques rédactionnelles afin d’assurer une meilleure représentation du genre et de la diversité dans nos colonnes.
+    Cet outil est évidemment perfectible et appelé à évoluer avec le regard d’experts, de personnalités de la société civile, de vous, nos lecteurs, avec la ferme intention qu’il puisse nous servir dans nos pratiques rédactionnelles afin d’assurer une meilleure représentation du genre et de la diversité dans nos colonnes.
 
 ---
