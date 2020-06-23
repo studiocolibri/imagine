@@ -1,7 +1,6 @@
 ---
 class: single-e-magine
 title: Taux de préférence pour le présent
-title_alignment: "droite"
 date: 2020-06-04T00:00:00.000+02:00
 categories:
 - Chronique
@@ -9,7 +8,6 @@ description: Contre-courants, une chronique de Corinne Morel Darleux, écrivaine
   écosocialiste, autrice de <em>Plutôt couler en beauté que flotter</em> sans grâce
   (Libertalia).
 img: sans-titre.jpg
-img_credits: © Lorem ipsum 2020
 
 ---
 <div class="chapeau">
