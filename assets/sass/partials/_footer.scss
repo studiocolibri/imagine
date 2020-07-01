@@ -22,8 +22,12 @@
     }
 
     * {
-        font-size: 0.9rem;
+        font-size: 0.85rem;
         margin:0;
+
+        @media screen and (min-width:340px) {
+            font-size: 0.9rem;
+        }
     }
 }
 
@@ -76,7 +80,11 @@
             font-weight: bold;
             text-decoration: none;
             color:$txt-color;
-            font-size: 0.8rem;
+            font-size: 0.7rem;
+
+            @media screen and (min-width:340px) {
+                font-size: 0.8rem;
+            }
 
             &:after {
                 content:'';

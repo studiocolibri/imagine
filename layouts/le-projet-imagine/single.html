@@ -1,0 +1,32 @@
+{{ define "main" }}
+
+<section class="page-header">
+    <h1 class="aw">{{ .Title }}</h1>
+</section>
+
+<section class="main-content aw">
+    <h2>{{ .Params.organization.title }}</h2>
+    <br>
+    {{ .Params.organization.content | markdownify }}
+    <h2>{{ .Params.team.title }}</h2>
+    <br>
+    {{ $img_path := .Site.Params.cloudinary_url }}
+    {{ range .Params.team.members }}
+        <div class="team-member">
+            <div class="team-member__photo">
+                {{ if or (.photo) (ne .photo "") }}<img src="{{ $img_path }}f_auto,q_80,w_200/{{ .photo }}" alt="Photo de {{ .name }}" loading="lazy" width="200" height="200">{{ end }}
+            </div>
+            <div class="team-member__text">
+                <p class="team-member__name-job"><strong>{{ .name }}, {{ .job | markdownify }}</strong></p>
+                {{ .text | markdownify }}
+            </div>
+        </div>
+    {{ end }}
+    <h2>{{ .Params.differences.title }}</h2>
+    <br>
+    {{ .Params.differences.content | markdownify }}
+</section>
+
+{{ partial "s-abonner.html" . }}
+
+{{ end }}

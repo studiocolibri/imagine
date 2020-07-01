@@ -20,7 +20,7 @@
         <div class="numero-header__left"></div>
         <div class="numero-header__right">
             <p>{{ .Params.short_description | markdownify }}</p>
-            <a href="#" class="btn" target="_blank" rel="noopener">S'abonner / se procurer</a>
+            <a href="https://kiosque.imagine-magazine.com" class="btn" target="_blank" rel="noopener">S'abonner / se procurer</a>
         </div>
     {{ end }}
 </section>
@@ -65,7 +65,6 @@
             {{ end }}
         </div>
     </div>
-    <noscript><style>.numero-section-two__tab__content {display:block;margin-bottom:60px;}</style></noscript>
 </section>
 
 <section class="numero-section-three">
@@ -89,8 +88,9 @@
             {{ end }}
         {{ end }}
     </ul>
-    <noscript><style>.slider__controls{display:none}.slider__list.numero-slider{display:flex;overflow:auto}.slider__list.numero-slider li{list-style:none;margin:0 20px 20px 0;width:33%;min-width:280px;max-width:694px}</style></noscript>
 </section>
+
+<noscript><style>.numero-section-two__tab__content {display:block;margin-bottom:60px;}.slider__controls{display:none !important}.slider__list.numero-slider{display:flex;overflow:auto}.slider__list.numero-slider li{list-style:none;margin:0 20px 20px 0;max-width: 694px;flex: 0 0 32vw;min-width: 320px;}</style></noscript>
 
 {{ partial "s-abonner.html" . }}
 

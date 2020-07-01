@@ -1,0 +1,26 @@
+.team-member__photo {
+    margin-top:$su*2;
+
+    img {
+        width:100%;
+        height:auto;
+    }
+}
+
+@media screen and (min-width:480px) {
+    
+    .team-member {
+        display:flex;
+        margin-bottom: $su*2;
+    }
+
+    .team-member__name-job {
+        margin-top:0;
+    }
+
+    .team-member__photo {
+        flex:0 0 150px;
+        margin-top:0;
+        margin-right:$su*2;
+    }
+}

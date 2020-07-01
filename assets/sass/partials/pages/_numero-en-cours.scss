@@ -293,7 +293,7 @@
     }
 
     .slider__controls {
-        display:flex !important;
+        display:flex;
         margin-left:$su;
 
         @media screen and (min-width:$bp-l) {

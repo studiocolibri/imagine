@@ -1,0 +1,133 @@
+---
+label: Qui sommes-nous ?
+hide_body: true
+fields:
+- type: text
+  name: type
+  label: type
+- type: text
+  name: title
+  label: title
+- type: text
+  name: class
+  label: class
+- type: field_group
+  name: section_one
+  label: section_one
+  fields:
+  - type: text
+    name: section_title
+    label: section_title
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: text
+    label: text
+  - type: text
+    name: btn_txt
+    label: btn_txt
+  - type: text
+    name: btn_link
+    label: btn_link
+  - type: file
+    name: img
+    label: img
+- type: field_group
+  name: section_two
+  label: section_two
+  fields:
+  - type: text
+    name: section_title
+    label: section_title
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: text
+    label: text
+  - type: text
+    name: btn_txt
+    label: btn_txt
+  - type: text
+    name: btn_link
+    label: btn_link
+  - type: file
+    name: img
+    label: img
+- type: field_group
+  name: section_three
+  label: section_three
+  fields:
+  - type: text
+    name: section_title
+    label: section_title
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: text
+    label: text
+  - type: text
+    name: btn_txt
+    label: btn_txt
+  - type: text
+    name: btn_link
+    label: btn_link
+  - type: file
+    name: img
+    label: img
+- type: field_group
+  name: section_four
+  label: section_four
+  fields:
+  - type: text
+    name: section_title
+    label: section_title
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: text
+    label: text
+  - type: text
+    name: btn_txt
+    label: btn_txt
+  - type: text
+    name: btn_link
+    label: btn_link
+  - type: file
+    name: img
+    label: img
+- type: field_group
+  name: section_five
+  label: section_five
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: text
+    label: text
+  - type: field_group_list
+    name: img_list
+    label: img_list
+    fields:
+    - type: file
+      name: img
+      label: img
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: link
+      label: link
+- type: field_group
+  name: section_six
+  label: section_six
+  fields:
+  - type: text
+    name: title
+    label: title
+pages:
+- content/notre-projet.md

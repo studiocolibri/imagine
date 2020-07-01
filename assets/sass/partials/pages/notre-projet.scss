@@ -112,11 +112,11 @@
     }
 
     .flex-2-cols__col.right {
-        position:relative;
         text-align:right;
         margin-top:0;
-
+        
         .flex-2-cols__img-wrapper {
+            position:relative;
             max-width: 90%;
             margin-left:10%;
             
@@ -144,18 +144,14 @@
         }
     
         .flex-2-cols__col.left {
-            position:absolute;
-            z-index:2;
-            width:100%;
-            min-width: 60vw;
-            max-width: 37%;
+            order:-1;
+            max-width: 45%;
             margin-top:$su;
             padding:0 0 0 $su*2;
         }
     
         .flex-2-cols__col.right {
-            width:60%;
-            min-width: 60vw;
+            width:50%;
             margin-left:auto;
             text-align: left;
 
@@ -175,7 +171,7 @@
     
         .flex-2-cols__col.left {
             min-width: auto;
-            max-width: 620px;
+            max-width: 420px;
             padding:0 0 0 $su*4;
         }
     

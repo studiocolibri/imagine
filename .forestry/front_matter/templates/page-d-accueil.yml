@@ -1,58 +1,72 @@
 ---
 label: Page d'accueil
-hide_body: false
+hide_body: true
 fields:
 - type: text
   name: class
   label: class
+  hidden: true
 - type: text
   name: title
-  label: title
+  label: Titre de la page
+  hidden: true
+- name: header_title
+  type: text
+  config:
+    required: false
+  label: Titre du numéro en cours
+- name: header_text
+  type: text
+  config:
+    required: false
+  label: Texte du numéro en cours
 - type: field_group
   name: section_one
   label: section_one
   fields:
   - type: text
     name: section_title
-    label: section_title
+    label: Titre de section
   - type: text
     name: title
-    label: title
+    label: Titre
   - type: textarea
     name: text
-    label: text
+    label: Texte
   - type: text
     name: btn_text
-    label: btn_text
+    label: Texte du bouton
   - type: text
     name: btn_link
-    label: btn_link
+    label: Lien du bouton
 - type: field_group
   name: section_two
   label: section_two
   fields:
   - type: text
     name: section_title
-    label: section_title
-  - type: text
-    name: btn_link
-    label: btn_link
+    label: Titre de section
   - type: text
     name: btn_txt
-    label: btn_txt
+    label: Texte du bouton
+  - type: text
+    name: btn_link
+    label: Lien du bouton
 - type: field_group
   name: section_three
   label: section_three
   fields:
   - type: text
     name: section_title
-    label: section_title
+    label: Titre de section
   - type: text
-    name: title
-    label: title
+    name: text
+    label: Texte
   - type: text
     name: btn_text
-    label: btn_text
+    label: Texte du bouton
   - type: text
     name: btn_link
-    label: btn_link
+    label: Lien du bouton
+pages:
+- content/_index.md
