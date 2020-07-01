@@ -21,6 +21,10 @@ name = "Libre accès"
 url = "/libre-acces/"
 weight = 2
 [[menu.main]]
+name = "Mon compte"
+url = "https://kiosque.imagine-magazine.com/mon-compte/"
+weight = 6
+[[menu.main]]
 name = "Notre projet"
 url = "/notre-projet/"
 weight = 3
