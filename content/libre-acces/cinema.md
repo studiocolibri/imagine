@@ -3,7 +3,6 @@ categories = []
 class = "single-e-magine"
 date = 2020-05-31T22:00:00Z
 description = "Les salles de cinéma ouvrent à nouveau. Retrouvez nos critiques des films qui ont été reportés. "
-draft = true
 img = "/v1593683121/7841-un-fils-still-05_gzxzvr.jpg"
 img_credits = ""
 title = "Cinéma"
