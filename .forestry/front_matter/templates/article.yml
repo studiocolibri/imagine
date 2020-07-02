@@ -46,4 +46,5 @@ fields:
     required: false
   label: Crédits de l'image d'illustration
 pages:
+- content/libre-acces/cinema.md
 - content/libre-acces/le-climat-deregle-affecte-la-sante-des-travailleurs.md
