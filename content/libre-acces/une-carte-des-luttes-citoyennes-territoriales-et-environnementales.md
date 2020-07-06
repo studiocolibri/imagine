@@ -36,7 +36,7 @@ Avant une quelconque revendication environnementale ou démocratique, l’origin
 
 Il n’y a pas de raison pour Geoffrey Pleyers de rejeter cette _« dimension NIMBY_ », Not in my backyards (pas dans mon jardin), cet aspect de défense d’intérêts locaux. Ainsi, parmi ceux qui font vivre ces collectifs figurent beaucoup d’habitants, « _des habitants historiques, des riverains ou des agriculteurs »_ explique Sébastien Kennes, mais ces derniers sont rejoints par _« des habitants temporaires, des activistes ou des personnes extérieures qui investissent les lieux suite au projet »._ Autour de ce noyau dur de participants se forme ensuite, à coup de communication et d’événements, une communauté de soutien beaucoup plus large.
 
-> _"Les agriculteurs de collectif de Perwez sont arrivés à un point tel de politisation qu'ils prenaient les rendez-vous eux-mêmes avec les ministres, en se rendant parfois directement à leur cabinet."_
+> _"Les agriculteurs du collectif de Perwez sont arrivés à un point tel de politisation qu'ils prenaient les rendez-vous eux-mêmes avec les ministres, en se rendant parfois directement à leur cabinet."_
 
 S’il n’existe pas un profil unique de membre, il n’y a pas non plus un seul moyen d’action. L’échange et la créativité semblent guider cette force citoyenne. Marie-Hélène Lefèvres, représentante du réseau d’action pour le droit à une alimentation adéquate (FIAN) pour _Occupons le terrain_, confirme : « _c’est le propre des batailles de territoires : il faut réinventer tout à partir de rien !_ ». Quant aux compétences, elles s’acquièrent souvent en chemin.
 
