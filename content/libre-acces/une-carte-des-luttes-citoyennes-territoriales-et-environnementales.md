@@ -26,9 +26,9 @@ En résultent davantage d’affrontements autour d’aménagements, qu’ils soi
 
 > _"Nous sommes de plus en plus nombreux, les entreprises sont de plus en plus voraces, quand les ressources, elles, restent limitées."_
 
-Ces batailles qualifiées « d’historiques » s’avèrent aussi très actuelles. On y retrouve des questions environnementales « _au sens large, du climat à la biodiversité en passant par l’agriculture »,_ développe l’animateur_,_ ainsi qu’une critique de nos démocraties occidentales _« défaillantes »_. Trop de riverains découvrent ainsi par hasard la nouvelle affectation de terrains voisins de leur domicile, et les outils de consultation existants (enquêtes publiques, réunions d’information) ne semblent plus suffisants. 
+Ces batailles qualifiées « d’historiques » s’avèrent aussi très actuelles. On y retrouve des questions environnementales « _au sens large, du climat à la biodiversité en passant par l’agriculture »,_ développe l’animateur, ainsi qu’une critique de nos démocraties occidentales _« défaillantes »_. Trop de riverains découvrent ainsi par hasard la nouvelle affectation de terrains voisins de leur domicile, et les outils de consultation existants (enquêtes publiques, réunions d’information) ne semblent plus suffisants. 
 
-« _On a l’impression qu’on ne souhaite pas nous dire grand-chose et qu’on n’est pas armé pour se défendre »,_ résume Anne Mergelsberg, présidente de [l’Asbl _le Bois_ _du Val._](https://kiosque.imagine-magazine.com/?p=222) En ville, [_Bas les Pad_](https://kiosque.imagine-magazine.com/?p=224), ou à la campagne, les habitants veulent avoir leur mot à dire. _« Chaque petit bout de territoire menacé par une logique capitaliste est potentiellement une ZAD, une zone à défendre !_ » soutient Sébastien Kennes, qui est aussi le cofondateur du réseau _Occupons le terrain_ qui coordonne ces collectifs en Wallonie.
+« _On a l’impression qu’on ne souhaite pas nous dire grand-chose et qu’on n’est pas armé pour se défendre »,_ résume Anne Mergelsberg, présidente de [l’Asbl _le Bois_ _du Val._](https://kiosque.imagine-magazine.com/?p=222) En ville, [_Bas les Pad_](https://kiosque.imagine-magazine.com/?p=224), ou à la campagne, les habitants veulent avoir leur mot à dire. _« Chaque petit bout de territoire menacé par une logique capitaliste est potentiellement une ZAD, une zone à défendre !_ », soutient Sébastien Kennes, également cofondateur du réseau _Occupons le terrain_ qui coordonne ces collectifs en Wallonie.
 
 ### **Une dimension locale plutôt qu’un syndrome NIMBY**
 
@@ -38,7 +38,7 @@ Il n’y a pas de raison pour Geoffrey Pleyers de rejeter cette _« dimension NI
 
 > _"Les agriculteurs de collectif de Perwez sont arrivés à un point tel de politisation qu'ils prenaient les rendez-vous eux-mêmes avec les ministres, en se rendant parfois directement à leur cabinet."_
 
-S’il n’existe pas un profil unique de membre, il n’y a pas non plus un seul moyen d’action. L’échange et la créativité semblent guider cette force citoyenne. Marie-Hélène Lefèvres, représentante du réseau d’action pour le droit à une alimentation adéquate (FIAN) pour _Occupons le terrain_, confirme : « _c’est le propre des batailles de territoires : il faut réinventer tout à partir de rien !_ » Quant aux compétences, elles s’acquièrent souvent en chemin. 
+S’il n’existe pas un profil unique de membre, il n’y a pas non plus un seul moyen d’action. L’échange et la créativité semblent guider cette force citoyenne. Marie-Hélène Lefèvres, représentante du réseau d’action pour le droit à une alimentation adéquate (FIAN) pour _Occupons le terrain_, confirme : « _c’est le propre des batailles de territoires : il faut réinventer tout à partir de rien !_ ». Quant aux compétences, elles s’acquièrent souvent en chemin. 
 
 **Lire aussi >** [**Eveiller les consciences**]()
 
