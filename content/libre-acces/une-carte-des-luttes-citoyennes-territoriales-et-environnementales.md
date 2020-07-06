@@ -2,9 +2,9 @@
 categories = ["Reportage"]
 class = "single-e-magine"
 date = 2020-07-05T22:00:00Z
-description = "Aux quatre coins de la Belgique, des collectifs citoyens se mobilisent contre des projets qu’ils jugent inutiles et destructeurs pour l’environnement. Imagine Demain le monde a réalisé une carte interactive inédite regroupant une soixantaine de ces collectifs."
+description = "Imagine Demain le monde a réalisé une carte interactive inédite regroupant une soixantaine des collectifs qui se mobilisent contre des projets qu’ils jugent inutiles et destructeurs pour l’environnement."
 draft = true
-img = ""
+img = "/v1594039320/Capture-d_u2019e%CC%81cran-2020-06-05-a%CC%80-12.18.33-1536x1210_mtk1gl.png"
 img_credits = ""
 title = "La carte des luttes citoyennes, territoriales et environnementales"
 title_alignment = "gauche"
