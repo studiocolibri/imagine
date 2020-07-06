@@ -29,9 +29,7 @@ En résultent davantage d’affrontements autour d’aménagements, qu’ils soi
 Ces batailles qualifiées « d’historiques » s’avèrent aussi très actuelles. On y retrouve des questions environnementales « _au sens large, du climat à la biodiversité en passant par l’agriculture »,_ développe l’animateur, ainsi qu’une critique de nos démocraties occidentales   
 _« défaillantes »_. Trop de riverains découvrent ainsi par hasard la nouvelle affectation de terrains voisins de leur domicile, et les outils de consultation existants (enquêtes publiques, réunions d’information) ne semblent plus suffisants. 
 
-« _On a l’impression qu’on ne souhaite pas nous dire grand-chose et qu’on n’est pas armé pour se défendre »,_ résume Anne Mergelsberg, présidente de [l’Asbl _le Bois_ _du Val._](https://kiosque.imagine-magazine.com/?p=222) En ville, [_Bas les Pad_](https://kiosque.imagine-magazine.com/?p=224), ou à la campagne, les habitants veulent avoir leur mot à dire. _« Chaque petit bout de territoire menacé par une logique capitaliste est potentiellement une ZAD, une zone à défendre  
-!  
-_», soutient Sébastien Kennes, également cofondateur du réseau _Occupons le terrain_ qui coordonne ces collectifs en Wallonie.
+« _On a l’impression qu’on ne souhaite pas nous dire grand-chose et qu’on n’est pas armé pour se défendre »,_ résume Anne Mergelsberg, présidente de [l’Asbl _le Bois_ _du Val._](https://kiosque.imagine-magazine.com/?p=222) En ville, [_Bas les Pad_](https://kiosque.imagine-magazine.com/?p=224), ou à la campagne, les habitants veulent avoir leur mot à dire. _« Chaque petit bout de territoire menacé par une logique capitaliste est potentiellement une ZAD, une zone à défendre !_ », soutient Sébastien Kennes, également cofondateur du réseau _Occupons le terrain_ qui coordonne ces collectifs en Wallonie.
 
 ### **Une dimension locale plutôt qu’un syndrome NIMBY**
 
