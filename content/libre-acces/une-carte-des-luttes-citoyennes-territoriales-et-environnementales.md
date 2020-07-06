@@ -12,7 +12,9 @@ title_alignment = "gauche"
 +++
 <div class="chapeau">
 
-**Aux quatre coins de la Belgique, des collectifs citoyens se mobilisent contre des projets qu’ils jugent inutiles et destructeurs pour l’environnement. Imagine Demain le monde a réalisé une carte interactive inédite regroupant une soixantaine de ces collectifs.**</div>
+**Aux quatre coins de la Belgique, des collectifs citoyens se mobilisent contre des projets qu’ils jugent inutiles et destructeurs pour l’environnement. Imagine Demain le monde a réalisé une carte interactive inédite regroupant une soixantaine de ces collectifs.**
+
+</div>
 
 <iframe allowfullscreen="" src="//umap.openstreetmap.fr/fr/map/collectifs-en-lutte-de-territoires_432157?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false" width="100%" height="300px" frameborder="0"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/collectifs-en-lutte-de-territoires_432157">Voir en plein écran</a></p>
 
