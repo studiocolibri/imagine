@@ -1,9 +1,8 @@
 +++
 categories = []
 class = "single-e-magine"
-date = 2020-03-04T23:00:00Z
+date = 2020-08-18T22:00:00Z
 description = "Petit voyage dans le monde merveilleux de la 5G et de l'univers numérique qui l'accompagne."
-draft = true
 img = "/v1597830713/umberto-jXd2FSvcRr8-unsplash_vadx4c.jpg"
 img_credits = "Umberto / Unsplash"
 title = "5G : vers une course folle"
