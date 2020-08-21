@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Reportage"]
 class = "single-e-magine"
 date = 2020-08-18T22:00:00Z
 description = "Petit voyage dans le monde merveilleux de la 5G et de l'univers numérique qui l'accompagne."
