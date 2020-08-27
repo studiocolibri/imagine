@@ -1,7 +1,7 @@
 +++
 categories = ["Analyse"]
 class = "single-e-magine"
-date = ""
+date = 2020-09-08T22:00:00Z
 description = "Quelles protections existent pour les personnes qui quittent leur région, voire leur pays, en raison des dégradations environnementales et climatiques ? Le débat est complexe et les réponses pressent. Imagine les analyse."
 draft = true
 img = "/v1598523225/Displaced_people_fleeing_Sindh_streamed_into_Balochistan_Pakistan_PHOTO__Abdul_Majeed_Goraya___IRIN._zpplim.jpg"
