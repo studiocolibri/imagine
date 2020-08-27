@@ -1,7 +1,7 @@
 +++
 categories = ["Editorial"]
 class = "single-e-magine"
-date = 2020-09-03T08:00:00Z
+date = 2020-09-08T08:00:00Z
 description = ""
 draft = true
 img = "/v1598010911/Dessin_Julie_tmhz2s.jpg"
