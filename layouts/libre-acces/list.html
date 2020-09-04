@@ -18,7 +18,7 @@
 </section>
 
 <section class="e-magine__articles cw">
-<!--    <p class="e-magine__articles__page-number">Page {{ .Paginator.PageNumber }}/{{ .Paginator.TotalPages }}</h1></p>-->
+    <p class="e-magine__articles__page-number">Page {{ .Paginator.PageNumber }}/{{ .Paginator.TotalPages }}</h1></p>
 
     <ul class="e-magine__articles__list">
         {{ $paginator := .Paginate .Pages.ByDate.Reverse 6 }}
@@ -27,7 +27,7 @@
         {{ end }}
     </ul>
 
-<!--    {{ template "_internal/pagination.html" . }}-->
+    {{ template "_internal/pagination.html" . }}
 </section>  
 
 {{ partial "s-abonner.html" . }}
