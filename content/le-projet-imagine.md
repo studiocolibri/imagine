@@ -1,5 +1,5 @@
 ---
-class: notre-manifeste single-page
+class: le-projet-imagine single-page
 title: Le projet Imagine
 type: le-projet-imagine
 organization:
