@@ -14,7 +14,7 @@ _« Le modèle vers lequel nous nous dirigeons au pas de charge, tandis que l’
 
 Enseignement à distance, généralisation de la 5G, recours à la télémédecine, justice en visio-conférence, intensification du commerce en ligne... Au coeur de la pandémie, l’essayiste canadienne met en garde contre cette _« dystopie high-tech »_ qui, sournoisement, s’accélère sous nos yeux.
 
-Le temps du « coconfinement », des rues silencieuses, de l’air moins chargé en CO2, des magnifiques élans de solidarité informels, de l’attention portée aux plus vulnérables, des grandes ambitions politiques pour rebâtir ce fameux « monde d’après », tout cela semble si loin.
+Le temps du « coconfinement », des rues silencieuses, de l’air moins chargé en CO<sub>2</sub>, des magnifiques élans de solidarité informels, de l’attention portée aux plus vulnérables, des grandes ambitions politiques pour rebâtir ce fameux « monde d’après », tout cela semble si loin.
 
 Comme englouti dans les profondeurs d’un été marqué par les soubresauts de la pandémie. Forcés, à nouveau, de redoubler d’efforts pour stopper la propagation de cet étrange virus dont on se croyait débarrassés mais qui, en réalité, n’a jamais disparu. Avec une seule certitude : rien n’est acquis, rien n’est prévisible, tout est à construire collectivement.
 
@@ -27,7 +27,7 @@ Pour s’en convaincre, penchons-nous un instant sur ce qui se dessine dans un s
 
 Le Covid-19 a bon dos et Naomi Klein dans sa « stratégie du choc version pandémie » a cent fois raison : les tenants d’un capitalisme prédateur et destructeur profitent de la crise en cours pour accélérer leurs réformes néolibérales et nous imposer une « e-société » numérique, artificielle et terriblement déshumanisante, qui laisse les plus faibles sur le carreau et rend la Terre de moins en moins habitable.
 
-Croire que l’on va sauver l’humanité en nous repliant dans le cloud, en confiant nos achats à Alibaba et Delivroo, en généralisant le télétravail, en laissant Google nous surveiller 24h/24, en confiant aux ordinateurs le soin de nous soigner, en vivant de web culture et de streaming, est un leurre.
+Croire que l’on va sauver l’humanité en nous repliant dans le _cloud_, en confiant nos achats à Alibaba et Delivroo, en généralisant le télétravail, en laissant Google nous surveiller 24h/24, en confiant aux ordinateurs le soin de nous soigner, en vivant de web culture et de streaming, est un leurre.
 
 Pour affronter l’imprévisible, nous n’avons pas besoin de machines qui pensent et décident à notre place, mais bien d’intelligences vigoureusement humaines. De scientifiques, d’économistes, de philosophes, d’entrepreneurs, d’artistes... éclairés, créatifs, indépendants, capables d’allier le cœur et la raison, l’intérêt général et la critique sociale, l’espoir et la lucidité. Pour surmonter, ou plutôt s’arranger avec les catastrophes en cours et à venir.
 
