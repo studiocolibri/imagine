@@ -170,7 +170,7 @@ $bp-cover : 1363px;
         text-transform: uppercase;
         font-weight: bold;
         font-size: 0.9rem;
-        color: $green;
+        color: $main;
     
         &:after {
             background-image:url('../assets/img/arrow-right-turquoise.svg');
@@ -193,7 +193,7 @@ $bp-cover : 1363px;
     }
 
     .section-title {
-        color:$green;
+        color:$main;
     }
 }
 

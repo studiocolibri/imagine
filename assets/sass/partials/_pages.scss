@@ -1,7 +1,7 @@
 .page-header {
     position: relative;
     padding-top: $su*7;
-    background-color: $green;
+    background-color: $main;
     background-repeat: no-repeat;
     overflow: hidden;
     z-index:40;
@@ -11,8 +11,8 @@
         background-image: /*url(../assets/img/round.png),*/
         linear-gradient(
             90deg,
-            $green 0%,
-            $green 80%,
+            $main 0%,
+            $main 80%,
             white 80%,
             white 100%
         ),;
@@ -24,8 +24,8 @@
         background-image: /*url(../assets/img/round.png),*/
         linear-gradient(
             90deg,
-            $green 0%,
-            $green 75%,
+            $main 0%,
+            $main 75%,
             white 75%,
             white 100%
         );

@@ -9,9 +9,9 @@ Error: File to import not found or unreadable: partials/partials/slider.
 
 1: 
 2: $txt-color: var(--txt-color);
-3: $green: var(--green);
-4: $lightgreen: var(--lightgreen);
-5: $ultralightgreen: var(--ultralightgreen);
+3: $main: var(--green);
+4: $lightmain: var(--lightmain);
+5: $ultralightmain: var(--ultralightmain);
 6: $turquoise: var(--turquoise);
 7: $yellow: var(--yellow);
 
@@ -67,4 +67,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: File to import not found or unreadable: partials/partials/slider.\A        Load paths:\A          /Applications/Adobe Dreamweaver 2020/Configuration/SassFrameworks/bourbon\A          /Applications/Adobe Dreamweaver 2020/Configuration/SassFrameworks/neat\A          /Applications/Adobe Dreamweaver 2020/Configuration/SassFrameworks/base\A         on line 2 of /Users/anthonybarbarich/Documents/imagine/Hugo/assets/sass/partials/_partials.scss\A         from line 65 of /Users/anthonybarbarich/Documents/imagine/Hugo/assets/sass/main.scss\A \A 1: \A 2: $txt-color: var(--txt-color);\A 3: $green: var(--green);\A 4: $lightgreen: var(--lightgreen);\A 5: $ultralightgreen: var(--ultralightgreen);\A 6: $turquoise: var(--turquoise);\A 7: $yellow: var(--yellow);"; }
+  content: "Error: File to import not found or unreadable: partials/partials/slider.\A        Load paths:\A          /Applications/Adobe Dreamweaver 2020/Configuration/SassFrameworks/bourbon\A          /Applications/Adobe Dreamweaver 2020/Configuration/SassFrameworks/neat\A          /Applications/Adobe Dreamweaver 2020/Configuration/SassFrameworks/base\A         on line 2 of /Users/anthonybarbarich/Documents/imagine/Hugo/assets/sass/partials/_partials.scss\A         from line 65 of /Users/anthonybarbarich/Documents/imagine/Hugo/assets/sass/main.scss\A \A 1: \A 2: $txt-color: var(--txt-color);\A 3: $main: var(--green);\A 4: $lightmain: var(--lightmain);\A 5: $ultralightmain: var(--ultralightmain);\A 6: $turquoise: var(--turquoise);\A 7: $yellow: var(--yellow);"; }

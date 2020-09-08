@@ -32,7 +32,7 @@
     }
 
     .section-title {
-        color:$green;
+        color:$main;
 
         @media screen and (max-width:($bp-s - 1)) {
             display: none;
@@ -84,7 +84,7 @@
     padding: 0 $su $su*2 $su;
 
     .section-title {
-        color:$green;
+        color:$main;
     }
 }
 
@@ -98,7 +98,7 @@
     }
 
     .section-title {
-        color:$green;
+        color:$main;
 
         @media screen and (max-width:($bp-l - 1)) {
             margin-left:$su*2;
@@ -198,7 +198,7 @@
     }
 
     .section-title {
-        color:$green;
+        color:$main;
     }
 
     .flex-2-cols {

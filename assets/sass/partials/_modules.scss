@@ -11,11 +11,15 @@ picture {
     display:block;
 }
 
+*[data-color] {
+    background-color:silver;
+}
+
 *[data-color="chronique"] {
     background-color:$yellow;
 }
 *[data-color="editorial"] {
-    background-color:$lightgreen;
+    background-color:$lightmain;
 }
 *[data-color="reportage"] {
     background-color:$pink;
@@ -25,7 +29,7 @@ picture {
 }
 
 a {
-	color: $green;
+	color: $main;
 }
 
 .btn {
@@ -78,7 +82,7 @@ a {
     }
     
     &--green {
-        background-color:$green;
+        background-color:$main;
         
         &:hover, &:focus {
             background-color: $turquoise;
@@ -88,7 +92,7 @@ a {
 
         &:active {
             color:white;
-            background-color:$green !important;
+            background-color:$main !important;
         }
     }
 

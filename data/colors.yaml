@@ -1,10 +1,10 @@
 - name : txt-color
   color: "#495050"
-- name: green
+- name: main
   color: "#008198"
-- name: lightgreen
+- name: lightmain
   color: "#B0D8D6"
-- name: ultralightgreen
+- name: ultralightmain
   color: "#9CDE9F"
 - name: turquoise
   color: "#b0d8d6"

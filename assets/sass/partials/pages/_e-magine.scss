@@ -116,7 +116,7 @@
     transition:border-color 150ms ease-out;
 
     &:hover, &:focus {
-        border-color:$green;
+        border-color:$main;
     }
 
     &:active {
@@ -138,7 +138,7 @@
     transition:color 150ms ease-out;
 
     &:hover, &:focus {
-        color:$green;
+        color:$main;
     }
 
     &:active {

@@ -13,10 +13,10 @@
     "since 2012"
   ],
   "dependencies": {
-    "autoprefixer": "^9.7.6",
+    "autoprefixer": "^9.8.6",
     "gulp": "^4.0.2",
-    "gulp-cli": "^2.2.0",
+    "gulp-cli": "^2.3.0",
     "gulp-htmlmin": "^5.0.1",
-    "postcss-cli": "^7.1.0"
+    "postcss-cli": "^7.1.2"
   }
 }
