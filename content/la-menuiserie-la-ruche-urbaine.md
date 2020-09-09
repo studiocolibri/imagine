@@ -3,7 +3,7 @@ class = "notre-manifeste single-page"
 title = "La Menuiserie, future ruche urbaine"
 
 +++
-### En mars 2022, le premier centre d’entreprises 100 % dédié à la transition en Wallonie ouvrira ses portes à Liège dans un ancien bâtiment communal de 2000 m². La Menuiserie, c’est son nom, sera aussi un lieu partagé et innovant développé par la coopérative Novacitis. _Imagine_ est partenaire de ce projet citoyen et collaboratif et y installera sa rédaction. 
+### En mars 2022, le premier centre d’entreprises 100 % dédié à la transition en Wallonie ouvrira ses portes à Liège dans un ancien bâtiment communal de 2000 m². La Menuiserie, c’est son nom, sera aussi un lieu partagé et innovant développé par la coopérative Novacitis. _Imagine_ est partenaire de ce projet citoyen et collaboratif et y installera sa rédaction.
 
 <br>
 
@@ -15,7 +15,7 @@ Situé à la croisée du quartier Sainte-Marguerite et du Cadran, à cinq minute
 
 > **« _L’idée est de réunir à La Menuisierie des travailleurs résidents et nomades, des entrepreneurs et des starters, des étudiants actifs, des citoyens impliqués dans la transition... »,_ Catherine Hansoul, cofondatrice de Novacitis.**
 
-Avant que les travaux de réaménagement ne débutent activement, La Menuiserie accueille jusqu’au 25 octobre, la 12<sup>e</sup> édition de la [Biennale de l’Image Possible](https://bip-liege.org/fr/) (BIP 2020), organisée par le centre culturel des Chiroux. _« Le lieu est magnifique, avec de l’espace et du dégagement&nbsp;»,_ se réjouit la commissaire de l’exposition, Anne-France Lesuisse. De quoi «&nbsp;_réinscrire l’art et la création visuelle dans le mouvement urbain, son dynamisme et son architecture »._
+Avant que les travaux de réaménagement ne débutent activement, La Menuiserie accueille jusqu’au 25 octobre, la 12<sup>e</sup> édition de la [Biennale de l’Image Possible](https://bip-liege.org/fr/) (BIP 2020), organisée par le centre culturel des Chiroux. _« Le lieu est magnifique, avec de l’espace et du dégagement »,_ se réjouit la commissaire de l’exposition, Anne-France Lesuisse. De quoi « _réinscrire l’art et la création visuelle dans le mouvement urbain, son dynamisme et son architecture »._
 
 Pour l’heure, deux peintres s’activent sur le toit du petit immeuble. Ils travaillent en collaboration avec l’artiste et architecte Jean-Luc Petit qui va proposer une installation inédite que l’on pourra apprécier du haut de la Basilique Saint-Martin. A l’intérieur, les visiteurs déambuleront dans ce bâtiment brut, fait de briques et de béton, qui va être entièrement transformé par le bureau d’architecture Hellium3 en une _« petite ruche dans la ville »_, comme on peut le découvrir sur les différentes esquisses ci-dessous.
 
@@ -33,7 +33,7 @@ Une attention particulière sera également accordée à la mobilité douce avec
 
 Malgré la crise du Covid et les inévitables retards d’un projet de cette envergure, au n°53 de la rue de l’Académie, la petite équipe de Novacitis (2,8 équivalents temps plein) et ses différents partenaires s’affairent avec un objectif précis : réunir un million d’euros dans le cadre d’un processus de financement participatif et citoyen pour, d’une part, acquérir le bâtiment et, d’autre part, lancer les travaux fin de cette année.
 
-Appel public à l’épargne, participation au capital et à l’investissement via des obligations, partenariat financier avec W.Alter (anciennement Sowecsom) dans le cadre du Fonds Kyoto… La coopérative Novacitis créée en 2017 avec un capital social de 431 900 euros, 221 coopérateurs (dont 41 entreprises, parmi lesquelles l’Asbl _Imagine_ qui édite notre magazine et installera à terme sa rédaction au 1er étage de La Menuiserie) et dix entreprises fondatrices* est désormais engagée dans une campagne de communication et de fonds ouverte jusqu’à la fin novembre.
+Appel public à l’épargne, participation au capital et à l’investissement via des obligations, partenariat financier avec W.Alter (anciennement Sowecsom) dans le cadre du Fonds Kyoto… La coopérative Novacitis créée en 2017 avec un capital social de 431 900 euros, 221 coopérateurs (dont 41 entreprises, parmi lesquelles l’Asbl _Imagine_ qui édite notre magazine et installera à terme sa rédaction au 1<sup>er</sup> étage de La Menuiserie) et dix entreprises fondatrices* est désormais engagée dans une campagne de communication et de fonds ouverte jusqu’à la fin novembre.
 
 Pour ce faire, Novacitis mise sur les différents atouts de la future Menuiserie : le lieu inspirant, les valeurs sous-jacentes, le projet transformateur de société, l’esprit coopératif… _« Nous sommes dans un financement mixte,_ ajoute Catherine Hansoul. _Les investisseurs, de toute nature, peuvent souscrire au capital en devenant coopérateur ou en achetant des obligations. La part de coopérateur est fixée à 100 euros. Le montant d’une obligation subordonnée est de 1 000 euros, pour une durée de 10 ans au taux brut annuel de 1,8 % »_.
 
