@@ -1,7 +1,8 @@
-- name : txt-color
+---
+- name: txt-color
   color: "#495050"
 - name: main
-  color: "#008198"
+  color: "#7e1a1c"
 - name: lightmain
   color: "#B0D8D6"
 - name: ultralightmain
