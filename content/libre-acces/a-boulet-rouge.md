@@ -3,7 +3,6 @@ categories = ["Chronique"]
 class = "single-e-magine"
 date = 2020-09-07T22:00:00Z
 description = "Métal croquant, une chronique de Lisette Lombé, autrice, slameuse, collagiste, militante pour les droits des femmes."
-draft = true
 img = "/v1598522129/004_2_gtxpew.jpg"
 img_credits = "Collage de Lisette Lombé"
 title = "A boulet rouge"
