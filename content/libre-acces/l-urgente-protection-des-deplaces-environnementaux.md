@@ -2,7 +2,7 @@
 categories = ["Analyse"]
 class = "single-e-magine"
 date = 2020-09-08T22:00:00Z
-description = "Quelles protections existent pour les personnes qui quittent leur région, voire leur pays, en raison des dégradations environnementales \net climatiques ? Imagine décrypte ce débat complexe."
+description = "Quelles protections existent pour les personnes qui migrent en raison des dégradations environnementales \net climatiques ? Imagine décrypte ce débat complexe."
 img = "/v1598603090/Sans_titre_l8kpnq.jpg"
 img_credits = "Abdul Majeed Goraya / IRIN / Flickr"
 title = "L'urgente protection des déplacés environnementaux"
