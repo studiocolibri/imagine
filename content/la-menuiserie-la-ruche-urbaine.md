@@ -3,7 +3,7 @@ class = "notre-manifeste single-page"
 title = "La Menuiserie, la ruche urbaine"
 
 +++
-##### En mars 2022, le premier centre d’entreprises 100 % dédié à la transition en Wallonie ouvrira ses portes à Liège dans un ancien bâtiment communal de 2000 m2. La Menuiserie, c’est son nom, sera aussi un lieu partagé et innovant développé par la coopérative Novacitis. _Imagine_ est partenaire de ce projet citoyen et collaboratif et y installera sa rédaction. Pour réaliser son nouveau projet éditorial lancé début juin 2020, _Imagine_ a initié, un an plus tôt, un grand processus créatif baptisé #Imagine2020 en huit étapes.
+## En mars 2022, le premier centre d’entreprises 100 % dédié à la transition en Wallonie ouvrira ses portes à Liège dans un ancien bâtiment communal de 2000 m2. La Menuiserie, c’est son nom, sera aussi un lieu partagé et innovant développé par la coopérative Novacitis. _Imagine_ est partenaire de ce projet citoyen et collaboratif et y installera sa rédaction. Pour réaliser son nouveau projet éditorial lancé début juin 2020, _Imagine_ a initié, un an plus tôt, un grand processus créatif baptisé #Imagine2020 en huit étapes.
 
 <br>
 
@@ -37,7 +37,7 @@ Appel public à l’épargne, participation au capital et à l’investissement 
 
 Pour ce faire, Novacitis mise sur les différents atouts de la future Menuiserie : le lieu inspirant, les valeurs sous-jacentes, le projet transformateur de société, l’esprit coopératif… _« Nous sommes dans un financement mixte,_ ajoute Catherine Hansoul. _Les investisseurs, de toute nature, peuvent souscrire au capital en devenant coopérateur ou en achetant des obligations. La part de coopérateur est fixée à 100 euros. Le montant d’une obligation subordonnée est de 1 000 euros, pour une durée de 10 ans au taux brut annuel de 1,8 % »_.
 
-Un défi financier avec, en parallèle, la mise en location des futurs espaces, l’organisation d’événements pour faire connaître le lieu, le projet porté par le Groupement d’intérêt économique (GIE) autour de la transformation alimentaire locale et durable, les relations à construire avec les acteurs du quartier (riverains, association, Ville…) : _« Nous souhaitons rassembler un maximum d’énergies, d’opportunités, de volontés et d’intelligences dans un esprit réellement ouvert et inclusif,_ conclut Pierre Steenbergh. _Les constats sont connus concernant l’état de la planète. Nous n’avons plus le temps d’attendre, il faut accélérer la transition. Modestement, La Menuiserie entend être un moteur de cette économie souhaitable en plus d’être un espace de vie et de travail innovant, collaboratif et convivial. »_ 
+Un défi financier avec, en parallèle, la mise en location des futurs espaces, l’organisation d’événements pour faire connaître le lieu, le projet porté par le Groupement d’intérêt économique (GIE) autour de la transformation alimentaire locale et durable, les relations à construire avec les acteurs du quartier (riverains, association, Ville…) : _« Nous souhaitons rassembler un maximum d’énergies, d’opportunités, de volontés et d’intelligences dans un esprit réellement ouvert et inclusif,_ conclut Pierre Steenbergh. _Les constats sont connus concernant l’état de la planète. Nous n’avons plus le temps d’attendre, il faut accélérer la transition. Modestement, La Menuiserie entend être un moteur de cette économie souhaitable en plus d’être un espace de vie et de travail innovant, collaboratif et convivial. »_
 
 **H.Do.**
 
