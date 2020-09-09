@@ -14,7 +14,7 @@ section_one:
     et y installera sa rédaction.
   img: "/v1599655943/NOVACITIS-LAMENUISERIE-ECOSYSTEME_spp356.jpg"
   btn_text: En savoir plus
-  btn_link: "/notre-projet/"
+  btn_link: "/la-menuiserie-la-ruche-urbaine/"
 section_two:
   section_title: Accès libre
   btn_link: "/libre-acces/"
