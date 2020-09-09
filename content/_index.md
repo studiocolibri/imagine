@@ -13,6 +13,7 @@ section_one:
     avec la co-rédaction d’un manifeste et le soutien de notre comité d’accompagnement
     Les Pisteurs d’Imagine composé d’une quinzaine de personnalités de la société
     civile. Bienvenue dans notre projet #Imagine2020.'
+  img: "participatf_bpn9lr.jpg"
   btn_text: En savoir plus
   btn_link: "/notre-projet/"
 section_two:
