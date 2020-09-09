@@ -2,8 +2,7 @@
 class: home
 title: Page d'accueil
 header_title: Clarifier les faits, libérer<br>les idées et les esprits
-header_text: 114 pages + un cahier spécial Covid-19<br>de 42 pages, « Changer d’ère
-  »
+header_text: ''
 section_one:
   section_title: "#imagine2020"
   title: "#Imagine2020, un processus créatif et participatif"
