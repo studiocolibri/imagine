@@ -2,7 +2,7 @@
 class: home
 title: Page d'accueil
 header_title: Clarifier les faits, libérer<br>les idées et les esprits
-header_text: Un magazine slow press. 120 pages. Un éditeur indépendant depuis 1996.
+header_text: Un magazine slow press de 120 pages. Un éditeur indépendant depuis 1996.
 section_one:
   section_title: "#imagine2020"
   title: "#Imagine2020, un processus créatif et participatif"
