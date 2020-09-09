@@ -6,7 +6,7 @@ header_text: Imagine est un bimestriel de 120 pages et un éditeur indépendant 
   1996.
 section_one:
   section_title: "#imagine2020"
-  title: Une réforme participative
+  title: La Menuiserie, la ruche urbaine
   text: En mars 2022, le premier centre d’entreprises 100 % dédié à la transition
     en Wallonie ouvrira ses portes à Liège dans un ancien bâtiment communal de 2000
     m2. La Menuiserie, c’est son nom, sera aussi un lieu partagé et innovant développé
