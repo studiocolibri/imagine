@@ -3,7 +3,6 @@ categories = ["Analyse"]
 class = "single-e-magine"
 date = 2020-09-08T22:00:00Z
 description = "Quelles protections existent pour les personnes qui quittent leur région, voire leur pays, en raison des dégradations environnementales et climatiques ? Le débat est complexe et les réponses pressent. Imagine les analyse."
-draft = true
 img = "/v1598603090/Sans_titre_l8kpnq.jpg"
 img_credits = "Abdul Majeed Goraya / IRIN / Flickr"
 title = "L'urgente protection des déplacés environnementaux"
