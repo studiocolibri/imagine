@@ -31,7 +31,7 @@ Une attention particulière sera également accordée à la mobilité douce avec
 
 > **_« Nous souhaitons rassembler un maximum d’énergies, d’opportunités, de volontés et d’intelligences dans un esprit réellement ouvert et inclusif »,_ Pierre Steenbergh, conseiller « transition ».**
 
-Malgré la crise du Covid et les inévitables retard d’un projet de cette envergure, au n°53 de la rue de l’Académie, la petite équipe de Novacitis (2,8 équivalents temps plein) et ses différents partenaires s’affairent avec un objectif précis : réunir un million d’euros dans le cadre d’un processus de financement participatif et citoyen pour, d’une part, acquérir le bâtiment et, d’autre part, lancer les travaux fin de cette année.
+Malgré la crise du Covid et les inévitables retards d’un projet de cette envergure, au n°53 de la rue de l’Académie, la petite équipe de Novacitis (2,8 équivalents temps plein) et ses différents partenaires s’affairent avec un objectif précis : réunir un million d’euros dans le cadre d’un processus de financement participatif et citoyen pour, d’une part, acquérir le bâtiment et, d’autre part, lancer les travaux fin de cette année.
 
 Appel public à l’épargne, participation au capital et à l’investissement via des obligations, partenariat financier avec W.Alter (anciennement Sowecsom) dans le cadre du Fonds Kyoto… La coopérative Novacitis créée en 2017 avec un capital social de 431 900 euros, 221 coopérateurs (dont 41 entreprises, parmi lesquelles l’Asbl _Imagine_ qui édite notre magazine et installera à terme sa rédaction au 1er étage de La Menuiserie) et dix entreprises fondatrices* est désormais engagée dans une campagne de communication et de fonds ouverte jusqu’à la fin novembre.
 
