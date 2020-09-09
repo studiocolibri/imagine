@@ -2,7 +2,7 @@
 categories = ["Editorial"]
 class = "single-e-magine"
 date = 2020-09-08T08:00:00Z
-description = ""
+description = "L'édito d'Hugues Dorzée, rédacteur en chef."
 img = "/v1598010911/Dessin_Julie_tmhz2s.jpg"
 img_credits = "Julie Graux"
 title = "Machines à penser"
