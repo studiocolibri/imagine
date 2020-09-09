@@ -1,6 +1,5 @@
 +++
 class = "notre-manifeste single-page"
-draft = true
 title = "La Menuiserie, la ruche urbaine"
 
 +++
