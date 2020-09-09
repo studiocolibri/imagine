@@ -26,6 +26,7 @@ section_three:
     carte interactive inédite des luttes environnementales en Belgique, un grand entretien
     avec l'économiste Geneviève Azam, un reportage à la Ferme La Clarine... et bien
     d'autres avantages !
+  img: "ordiimagine_xf4rmd.png"
   btn_text: Découvrir
   btn_link: https://kiosque.imagine-magazine.com/pour-les-abonnes-imagine/
 
