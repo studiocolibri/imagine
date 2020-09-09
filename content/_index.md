@@ -6,13 +6,12 @@ header_text: Imagine est un bimestriel de 120 pages et un éditeur indépendant 
   1996.
 section_one:
   section_title: "#imagine2020"
-  title: "#Imagine2020, un processus créatif et participatif"
-  text: 'Ce numéro spécial et notre nouveau site (slow)web et éco-responsable sont
-    le résultat d’un long processus créatif et participatif (workshops, questionnaire
-    aux lecteurs, ateliers d’intelligence collective…), avec la co-rédaction d’un
-    manifeste et le soutien de notre comité d’accompagnement Les Pisteurs d’Imagine
-    composé d’une quinzaine de personnalités de la société civile. Bienvenue dans
-    notre projet #Imagine2020.'
+  title: La Menuiserie, la ruche urbaine
+  text: En mars 2022, le premier centre d’entreprises 100 % dédié à la transition
+    en Wallonie ouvrira ses portes à Liège dans un ancien bâtiment communal de 2000
+    m2. La Menuiserie, c’est son nom, sera aussi un lieu partagé et innovant développé
+    par la coopérative Novacitis. Imagine est partenaire de ce projet citoyen et collaboratif
+    et y installera sa rédaction.
   btn_text: En savoir plus
   btn_link: "/notre-projet/"
 section_two:
