@@ -3,7 +3,7 @@ type: notre-projet
 title: Qui nous sommes
 class: notre-projet
 section_one:
-  section_title: nos valeurs
+  section_title: Nos valeurs
   title: Le manifeste et la charte fondatrice
   text: Pour développer son projet slow press, <em>Imagine</em> s’appuie sur son manifeste
     (2020) et sur sa charte fondatrice (1996). Deux documents dans lesquels le magazine
