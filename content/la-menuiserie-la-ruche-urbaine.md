@@ -29,7 +29,7 @@ Dans ce même esprit, la future Menuiserie va être entièrement réaménagée d
 
 Une attention particulière sera également accordée à la mobilité douce avec les gares SNCB et TEC voisines, la station de covoiturage Cambio toute proche, la liaison piétonne, des infrastructures conçues pour les cyclistes (parking vélo, casiers, douches et vestiaires) et pour les personnes à mobilité réduite. _« On va limiter au maximum le stationnement de véhicules sur le site, mais on réfléchit à un système de stationnement partagé à proximité »,_ précise Catherine Hansoul.
 
-> **_« Nous souhaitons rassembler un maximum d’énergies, d’opportunités, de volontés et d’intelligences dans un esprit réellement ouvert et inclusif »,_ conclut Pierre Steenbergh, conseiller « transition ».**
+> **_« Nous souhaitons rassembler un maximum d’énergies, d’opportunités, de volontés et d’intelligences dans un esprit réellement ouvert et inclusif »,_ Pierre Steenbergh, conseiller « transition ».**
 
 Malgré la crise du Covid et les inévitables retard d’un projet de cette envergure, au n°53 de la rue de l’Académie, la petite équipe de Novacitis (2,8 équivalents temps plein) et ses différents partenaires s’affairent avec un objectif précis : réunir un million d’euros dans le cadre d’un processus de financement participatif et citoyen pour, d’une part, acquérir le bâtiment et, d’autre part, lancer les travaux fin de cette année.
 
