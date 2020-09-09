@@ -22,7 +22,7 @@ _« l’humain représente un risque biologique. Pas la machine. »_
 
 Pour s’en convaincre, penchons-nous un instant sur ce qui se dessine dans un secteur de premier plan : l’enseignement. Des lycées aux universités, les pouvoirs organisateurs tantôt contraints ou forcés, tantôt aveuglés par le mythe de l’e-learning – si pratique et tellement moderne ! –, se sont engouffrés avec une déconcertante rapidité dans l’achat, la location ou le leasing de matériel informatique sophistiqué et coûteux, plongeant nombre d’enseignants et d’étudiants dans la solitude, la perplexité ou le désarroi, renforçant les inégalités de classes et d’apprentissages, offrant aux multinationales un gigantesque boulevard pour participer davantage encore à la marchandisation des savoirs et des pratiques pédagogiques.
 
-## Repliés dans le cloud
+### Repliés dans le cloud
 
 Le Covid-19 a bon dos et Naomi Klein dans sa « stratégie du choc version pandémie » a cent fois raison : les tenants d’un capitalisme prédateur et destructeur profitent de la crise en cours pour accélérer leurs réformes néolibérales et nous imposer une « e-société » numérique, artificielle et terriblement déshumanisante, qui laisse les plus faibles sur le carreau et rend la Terre de moins en moins habitable.
 
