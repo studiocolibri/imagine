@@ -4,7 +4,7 @@ class = "single-e-magine"
 date = 2020-09-08T22:00:00Z
 description = "Quelles protections existent pour les personnes qui migrent en raison des dégradations environnementales \net climatiques ? Imagine décrypte ce débat complexe."
 img = "/v1598603090/Sans_titre_l8kpnq.jpg"
-img_credits = "Abdul Majeed Goraya / IRIN / Flickr"
+img_credits = "En 2010, les autorités pakistanaises évacuaient des milliers de personnes après l'inondation de districts entiers dans la province du Balouchistan. Tous n'avaient pas pu revenir chez eux, faute d'argent. Abdul Majeed Goraya / IRIN / Flickr"
 title = "L'urgente protection des déplacés environnementaux"
 title_alignment = "gauche"
 
