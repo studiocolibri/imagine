@@ -21,7 +21,7 @@ section_two:
   btn_txt: Tous nos articles
 section_three:
   section_title: Espace abonnés numériques
-  text: Pour les abonnés à notre version numérique (PDF + bonus), découvrez l'interview
+  text: Pour les abonnés à notre version numérique (PDF + bonus), découvrez une interview
     d'Olivia U. Rutazibwa en version longue, le portfolio d'un projet de cartograhie
     des pandémies, notre baromètre de l'égalité et la diversité, une carte interactive
     inédite des luttes environnementales en Belgique... Et bien d'autres avantages
