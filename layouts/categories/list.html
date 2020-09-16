@@ -7,7 +7,7 @@
 </section>
 
 <section class="list-taxonomy cw">
-    <p class="e-magine__articles__page-number"><!--Page {{ .Paginator.PageNumber }}/{{ .Paginator.TotalPages }}--></p>
+    <p class="e-magine__articles__page-number"><a href="/libre-acces" class="btn btn--reverse">Retour vers tous les articles</a></p>
     
     <ul class="e-magine__articles__list">
         {{ $paginator := .Paginate .Pages.ByDate.Reverse 6 }}
