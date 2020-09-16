@@ -3,10 +3,10 @@ categories = ["Chronique"]
 class = "single-e-magine"
 date = 2020-09-07T22:00:00Z
 description = "Métal croquant, une chronique de Lisette Lombé, autrice, slameuse, collagiste, militante pour les droits des femmes."
-img = "/v1598522129/004_2_gtxpew.jpg"
+img = "/v1600245833/Lisette_jjwxvq.jpg"
 img_credits = "Collage de Lisette Lombé"
 title = "A boulet rouge"
-title_alignment = "gauche"
+title_alignment = "droite"
 
 +++
 **Une chronique de Lisette Lombé, autrice, slameuse, collagiste, militante pour les droits des femmes.**
@@ -19,4 +19,4 @@ Le 12 juin 2020, je lis : _« Il ne s'agit pas de réécrire l'Histoire de la Be
 
 > _« Comment dialoguer avec des personnes que la couleur de nos peaux fait gerber ? »_
 
-Le 12 juin, c’est cinq jours après le grand rassemblement, à Bruxelles, pour honorer la mémoire de Georges Floyd et dénoncer les violences policières. Cinq jours de radicalités qui s’affrontent. Cinq jours qui annoncent un été de secousses. Sur les réseaux sociaux, ça tire à boulets rouges, ça balance de la rage, ça canarde, ça snipe de partout. Dans mes calepins, dans mes brouillons, c’est une écriture de bourgeon qui peine à retrouver le chemin de la lumière. C’est une écriture de soutien à distance, un « Qui m’aime me suive ! ». C’est une écriture de guet, de passages métisses, de zones grises. C’est une écriture qui questionne les possibilités réelles de rencontres et d’échanges. Comment dialoguer avec des personnes que la couleur de nos peaux fait gerber ? Comment dialoguer avec des personnes dont les cœurs sont emplis d'une caillasse toute prête à être jetée sur la tête de nos enfants, sur l’IVG, sur les voiles et sur les marches des fiertés ? Comment ne point basculer du comment dialoguer au pourquoi dialoguer ? Comment protéger âtre et âme contre la violence des discours haineux ? Comment empêcher la multiplication des micro-agressions quotidiennes de dézinguer notre capacité de résistance ? Comment respecter nos limites avant que ne s’installe la lassitude ? Comment oser demander de l’aide à nos camarades de lutte ? Comment prendre soin de nous comme nous prenons soin des autres ?
+Le 12 juin, c’est cinq jours après le grand rassemblement, à Bruxelles, pour honorer la mémoire de Georges Floyd et dénoncer les violences policières. Cinq jours de radicalités qui s’affrontent. Cinq jours qui annoncent un été de secousses. Sur les réseaux sociaux, ça tire à boulets rouges, ça balance de la rage, ça canarde, ça snipe de partout. Dans mes calepins, dans mes brouillons, c’est une écriture de bourgeon qui peine à retrouver le chemin de la lumière. C’est une écriture de soutien à distance, un « Qui m’aime me suive ! ». C’est une écriture de guet, de passages métisses, de zones grises. C’est une écriture qui questionne les possibilités réelles de rencontres et d’échanges. Comment dialoguer avec des personnes que la couleur de nos peaux fait gerber ? Comment dialoguer avec des personnes dont les coeurs sont emplis d'une caillasse toute prête à être jetée sur la tête de nos enfants, sur l’IVG, sur les voiles et sur les marches des fiertés ? Comment ne point basculer du comment dialoguer au pourquoi dialoguer ? Comment protéger âtre et âme contre la violence des discours haineux ? Comment empêcher la multiplication des micro-agressions quotidiennes de dézinguer notre capacité de résistance ? Comment respecter nos limites avant que ne s’installe la lassitude ? Comment oser demander de l’aide à nos camarades de lutte ? Comment prendre soin de nous comme nous prenons soin des autres ?
