@@ -315,6 +315,13 @@
         padding-top:$su*2;
         padding-right: $su*3;
         padding-bottom:$su*2;
+
+        @media screen and (min-width:$bp-l) {
+            padding-right: $su*10;
+        }
+        @media screen and (min-width:1400px) {
+            padding-right: $su*6;
+        }
     }
 
     .main-content {
