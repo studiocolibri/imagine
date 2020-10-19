@@ -2,7 +2,7 @@
 categories = ["Analyse"]
 class = "single-e-magine"
 date = 2020-10-17T22:00:00Z
-description = "Dans le cadre de la semaine, ..."
+description = "Dans le cadre de la semaine de l'info constructive, organisée par New6s, Imagine met en avant un article qui fait état des mutations en cours dans le monde du travail. "
 img = "/v1603099388/DSC_1350_h5kkqn.jpg"
 img_credits = ""
 title = "Les insoumis du marché"
