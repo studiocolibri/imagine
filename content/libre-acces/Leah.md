@@ -28,32 +28,6 @@ L’affaire débute en 2016 quand le roi de l’ancien royaume de Bunyoro-Kitara
 
 Selon des experts forestiers, sa destruction – même partielle – se répercuterait sur le niveau des eaux du Nil Blanc : comme toute forêt tropicale, Bugoma « transpire » et favorise les précipitations qui alimentent l’adjacent lac Albert, traversé par le fleuve. Les activistes rappellent quant à eux la richesse de ce trésor de biodiversité, corridor migratoire important et habitat de près de 600 chimpanzés, 225 espèces d’oiseaux, 260 espèces d’arbres ainsi que d’une population endémique de primates mangabeys. « Il y a d’autres terres, d’autres endroits, d’autres alternatives pour la canne à sucre, que l’on exploite déjà en suffisance. Mais il n’y a pas d’alternative pour notre oxygène ! C’est comme si on allait respirer du sucre plutôt que de l’air ! », tempête-telle, de l’autre côté de l’écran, pointant son t-shirt vert flanqué d’un #SaveBugomaForest.
 
-Les vendredis de Leah sont désormais consacrés à la sauvegarde de Bugoma. Fin septembre, une campagne sur Twitter était lancée par une coalition de jeunes activistes. Dans leur viseur : le président ougandais, Hoima Sugar et l’instance gouvernementale National Environment Management Authority (NEMA), qui a délivré une licence au producteur de cannes à sucre. Ce qui ne semble pas plaire : l’accès de plusieurs comptes Twitter, dont celui de Leah, a été restreint. Dans le même temps, deux journalistes considérés comme « les têtes pensantes de la campagne pour la sauvegarde de Bugoma » ont été placés en détention à Hoima, en marge d’une action pacifique. Quelques jours plus tard, le 25 septembre, des manifestants – dont cette jeune activiste - étaient arrêtés lors d’une marche à Kampala. Une tentative de restreindre
+Les vendredis de Leah sont désormais consacrés à la sauvegarde de Bugoma. Fin septembre, une campagne sur Twitter était lancée par une coalition de jeunes activistes. Dans leur viseur : le président ougandais, Hoima Sugar et l’instance gouvernementale National Environment Management Authority (NEMA), qui a délivré une licence au producteur de cannes à sucre. Ce qui ne semble pas plaire : l’accès de plusieurs comptes Twitter, dont celui de Leah, a été restreint. Dans le même temps, deux journalistes considérés comme « les têtes pensantes de la campagne pour la sauvegarde de Bugoma » ont été placés en détention à Hoima, en marge d’une action pacifique. Quelques jours plus tard, le 25 septembre, des manifestants – dont cette jeune activiste - étaient arrêtés lors d’une marche à Kampala. Une tentative de restreindre leur liberté d’expression ? « Tout ça est bizarre, non ? Ça n’était jamais arrivé avant, tique-t-elle, plusieurs jours après son arrestation. Et je ne me sens pas en sécurité parce que j’attaque l’industrie du profit. Je pense que nous dérangeons, que nous sommes surveillés. Mais cela nous rend plus forts. Pourquoi devrions-nous arrêter ? Ceux qui détruisent notre environnement et notre futur ne prennent pas de congés. Mon futur, notre futur, est plus important que ma sécurité immédiate. Les voix des jeunes Ougandais pèsent lourd. Nous sommes les plus nombreux. Nous pouvons faire une différence. Il faut juste que nous parvenions à nous connecter, à nous rassembler pour faire basculer ce monde de profit vers un monde d’amour. J’ai confiance en nous. » 
 
-leur liberté d’expression ? « Tout ça est bizarre, non ? Ça
-
-n’était jamais arrivé avant, tique-t-elle, plusieurs jours
-
-après son arrestation. Et je ne me sens pas en sécurité
-
-parce que j’attaque l’industrie du profit. Je pense que nous
-
-dérangeons, que nous sommes surveillés. Mais cela nous
-
-rend plus forts. Pourquoi devrions-nous arrêter ? Ceux qui
-
-détruisent notre environnement et notre futur ne prennent
-
-pas de congés. Mon futur, notre futur, est plus important
-
-que ma sécurité immédiate. Les voix des jeunes ugandais
-
-pèsent lourd. Nous sommes les plus nombreux. Nous pouvons
-
-faire une différence. Il faut juste que nous parvenions
-
-à nous connecter, à nous rassembler pour faire basculer ce
-
-monde de profit vers un monde d’amour. J’ai confiance en
-
-nous. » .Sarah Freres
+**Sarah Freres**
