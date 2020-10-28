@@ -1,7 +1,7 @@
 +++
 categories = ["Editorial"]
 class = "single-e-magine"
-date = ""
+date = 2020-11-03T23:00:00Z
 description = "L'édito d'Hugues Dorzée, rédacteur en chef"
 draft = true
 img = ""
