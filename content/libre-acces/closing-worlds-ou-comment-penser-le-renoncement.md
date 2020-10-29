@@ -4,8 +4,8 @@ class = "single-e-magine"
 date = ""
 description = "Le projet Closing Worlds propose aux organisations, entreprises et pouvoirs publics, d’enquêter sur la véritable durabilité de leurs activités et de réfléchir à leur arrêt pur et simple ou à leur redirection écologique."
 draft = true
-img = ""
-img_credits = ""
+img = "/v1603991249/chuttersnap-9cCeS9Sg6nU-unsplash_zizpqx.jpg"
+img_credits = "Chuttersnap / Unsplash"
 title = "Closing Worlds ou comment penser le renoncement"
 title_alignment = "gauche"
 
