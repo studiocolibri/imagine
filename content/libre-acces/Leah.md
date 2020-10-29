@@ -1,13 +1,13 @@
 +++
-categories = []
+categories = ["Entretien"]
 class = "single-e-magine"
 date = 2020-11-03T23:00:00Z
 description = "De jeunes activistes ougandais se mobilisent contre la crise climatique et pour la défense d’un\npatrimoine naturel emblématique : la forêt\nde Bugoma. Rencontre virtuelle avec la figure phare du mouvement, âgée de seize ans."
 draft = true
-img = "/v1603979882/Sans_titre_n0gsoh.jpg"
+img = "/v1603980113/Sans-titre-ConvertImage_rhehbc.jpg"
 img_credits = "Leah Namugerwa"
 title = "Leah Namugerwa, une sentinelle climatique en Ouganda"
-title_alignment = "gauche"
+title_alignment = "droite"
 
 +++
 **De jeunes activistes ougandais se mobilisent contre la crise climatique et pour la défense d’un patrimoine naturel emblématique : la forêt de Bugoma. Rencontre virtuelle avec la figure phare du mouvement, âgée de seize ans.**
