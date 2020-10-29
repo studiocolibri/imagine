@@ -25,7 +25,7 @@ chose »_, si ce n’est que le gouvernement ougandais respecte ses propres lois
 
 Sa deuxième revendication vise l’abattage des arbres. _« Selon la législation, si tu coupes deux arbres, tu dois en replanter quatre. Or, cette loi n’a jamais été appliquée, nulle part, dans mon pays. »_ Et à sa manière, elle montre l’exemple. Pour son anniversaire et celui des autres, elle plante des arbres indigènes pour lutter contre la déforestation : 200 pour ses quinze ans, 500 l’année suivante, 6 000 au total. _« J’aimerais que les arbres d’anniversaire deviennent une pratique culturelle. Partout dans le monde mais surtout ici, dans mon pays. D’ici 2040, nous pourrions ne plus avoir de forêts du tout. »_
 
-![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1603978229/EkjdC3zXUAUhKy4_oxen6g.jpg)
+![Leah Namugerwa](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1603978229/EkjdC3zXUAUhKy4_oxen6g.jpg "Leah Namugerwa")
 
 Les chiffres ont tendance à lui donner raison : d’après le département de l’énergie et du développement minier, le patrimoine forestier est passé de 24 % en 1990 à 8 % en 2019. Un patrimoine que Leah entend défendre : elle ambitionne de devenir avocate spécialiste de l’environnement. Et espère voir naître une cour de justice dédiée à ces questions. _« Si ça existait, on pourrait peut-être sauver la forêt de Bugoma. »_ A l’ouest du pays, cette zone protégée de 900 km² est menacée par une entreprise de production de cannes à sucre.
 
