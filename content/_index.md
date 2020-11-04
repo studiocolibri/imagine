@@ -21,11 +21,11 @@ section_two:
   btn_txt: Tous nos articles
 section_three:
   section_title: Espace abonnés numériques
-  text: Pour les abonnés à notre version numérique (PDF + bonus), découvrez une interview
-    d'Olivia U. Rutazibwa en version longue, le portfolio d'un projet de cartograhie
-    des pandémies, notre baromètre de l'égalité et la diversité, une carte interactive
-    inédite des luttes environnementales en Belgique... Et bien d'autres avantages
-    !
+  text: Pour les abonnés à notre version numérique (PDF + bonus), découvrez une un
+    texte inédit (en anglais) écrit par l'écrivain américain Rick Bass, nos baromètres
+    égalité-diversité, une interview d'Olivia U. Rutazibwa en version longue, le portfolio
+    d'un projet de cartograhie des pandémies, une carte interactive inédite des luttes
+    environnementales en Belgique... Et bien d'autres avantages !
   img: ordiimagine_xf4rmd.png
   btn_text: Découvrir
   btn_link: https://kiosque.imagine-magazine.com/pour-les-abonnes-imagine/
