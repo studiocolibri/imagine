@@ -2,7 +2,7 @@
 categories = ["Interview"]
 class = "single-e-magine"
 date = 2020-11-03T23:00:00Z
-description = "Le projet Closing Worlds propose à différentes organisations d’enquêter sur la durabilité de leurs activités et de réfléchir à leur arrêt pur et simple ou à leur redirection écologique."
+description = "Le projet Closing Worlds propose à différentes organisations d’enquêter sur la durabilité de leurs activités et de réfléchir à leur arrêt ou à leur redirection écologique."
 img = "/v1603991249/chuttersnap-9cCeS9Sg6nU-unsplash_zizpqx.jpg"
 img_credits = "Chuttersnap / Unsplash"
 title = "Closing Worlds ou comment penser le renoncement"
