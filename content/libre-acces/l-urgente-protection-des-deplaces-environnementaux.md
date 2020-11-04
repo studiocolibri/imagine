@@ -62,7 +62,6 @@ Le Comité pourrait-il établir un lien entre l’inaction des gouvernements fac
 
 Le coeur de la réflexion sur les protections de ces personnes déplacées est peut-être celui-ci : en se focalisant sur les mouvements qui seraient attribués aux seuls dérèglements climatiques, le droit international risquerait de passer à côté d’une multitude de réalités. Entre une femme déplacée en raison d’une catastrophe soudaine comme les incendies en Australie, une famille chassée par les entreprises responsables de la déforestation à Bornéo, des Hollandais ou des Bangladeshis qui migrent de manière anticipative avant que leur situation ne se dégrade face à la montée des eaux, des Américains touchés par des ouragans répétés…
 
-Un statut juridique, et donc cadenassé, ne pourrait rendre compte d’une telle mosaïque. A écouter François Gemenne, ce serait donc  
-« une fausse bonne idée ». Les politiques d’adaptation et de protection devront, en outre, englober deux aspects : l’immobilité forcée et les dimensions de genre. La crise climatique et les politiques de lutte contre celle-ci accentuent déjà les inégalités entre les classes, les régions, les hommes et les femmes. Sans changement de trajectoire, elles se renforceront encore. 
+Un statut juridique, et donc cadenassé, ne pourrait rendre compte d’une telle mosaïque. A écouter François Gemenne, ce serait donc « une fausse bonne idée ». Les politiques d’adaptation et de protection devront, en outre, englober deux aspects : l’immobilité forcée et les dimensions de genre. La crise climatique et les politiques de lutte contre celle-ci accentuent déjà les inégalités entre les classes, les régions, les hommes et les femmes. Sans changement de trajectoire, elles se renforceront encore.
 
 **Sarah Freres**
