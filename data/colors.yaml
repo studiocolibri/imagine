@@ -1,4 +1,6 @@
 ---
+- name: purple
+  color: "#ac91d5"
 - name: txt-color
   color: "#495050"
 - name: main
