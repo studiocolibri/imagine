@@ -14,7 +14,7 @@ section_one:
     la surpopulation, la dette, l’Etat, le patriarcat, l’invention de l’agriculture,
     l’économisme, le colonialisme, la séparation nature/culture, les mythes, la complexité
     croissante… Pour former in fine un livre-arborescence qui se range du côté de
-    la complexité, de la diversité et des métamorphoses. , sous le regard du sociologue
+    la complexité, de la diversité et des métamorphoses, sous le regard du sociologue
     Edgar Morin, avec un tissage final et collectif entre toutes ces causes nous permettant
     de découvrir, au fil des pages, comment ouvrir de nouveaux horizons.'
   img: "/v1606728388/AuxOrigines_Cover_page-0001_lzcza2.jpg"
