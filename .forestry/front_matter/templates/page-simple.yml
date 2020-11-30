@@ -11,7 +11,7 @@ fields:
   hidden: true
   default: notre-manifeste single-page
 pages:
+- content/aux-origines-de-la-catastrophe.md
 - content/la-cartographie-imagine.md
-- content/la-menuiserie-la-ruche-urbaine.md
 - content/le-processus-imagine-2020.md
 - content/nous-contacter.md
