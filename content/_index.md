@@ -11,7 +11,7 @@ section_one:
     auteurs de renom pour comprendre la catastrophe planétaire.
   img: "/v1606728388/AuxOrigines_Cover_page-0001_lzcza2.jpg"
   btn_text: En savoir plus
-  btn_link: ''
+  btn_link: "/aux-origines-de-la-catastrophe"
 section_two:
   section_title: Accès libre
   btn_link: "/libre-acces/"
