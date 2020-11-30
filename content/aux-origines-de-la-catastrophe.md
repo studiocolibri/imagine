@@ -23,7 +23,7 @@ Le premier réflexe, après avoir pris conscience des menaces globales qui pèse
 
 Au fil des ans, en discutant avec le public et les chercheurs sur les causes évidentes ou plus lointaines des catastrophes en cours ou même de la possible catastrophe globale à venir, nous avons constaté que chacun y allait de son explication, de sa connaissance du monde, de son angle de vue ou de ses convictions profondes. Nous étions loin d’un consensus.
 
-![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1606727498/AuxOrigines_Acceleration_page-0001_mwpvyd.jpg)
+![Jo Delannoy](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1606727498/AuxOrigines_Acceleration_page-0001_mwpvyd.jpg "Jo Delannoy")
 
 **A qui la faute ?**
 
@@ -41,7 +41,7 @@ Par exemple, le \[capitalisme\] (chaque mot entre crochets fait référence à u
 
 Sans doute, le capitalisme est au centre de nos maux. Mais l’humain a montré depuis bien plus longtemps sa capacité à nuire, à être autant _sapiens_ que _demens_. On ne peut donc pas faire d’anachronismes : des populations humaines ont déclenché des fléaux bien avant le capitalisme (et même en parallèle, comme le communisme autoritaire). Il est donc bien coupable, mais il ne peut être désigné comme seul responsable. La mise en évidence de cet entrelacement de boucles de rétroactions illustre bien notre époque d’emballement, de grande accélération... que l’on pourrait appeler _multicène,_ pour désigner la multiplicité irréductible des causes.
 
-![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1606727621/AuxOrigines_Bifurcation_page-0001_agzw7v.jpg)
+![Jo Delannoy](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1606727621/AuxOrigines_Bifurcation_page-0001_agzw7v.jpg "Jo Delannoy")
 
 **Des chemins d’action complémentaires**
 
@@ -51,7 +51,7 @@ Cependant, le paysage entrelacé des causes montre aussi clairement que nous ne 
 
 Nous insistons donc sur le fait de réunir de manière complémentaire les actions individuelles et collectives, « intérieures » et politiques, bref, de ne pas opposer les « méditants » et les « militants ». Plus une lutte est radicale (ciblée sur une cause profonde et ancienne), plus elle nécessite de ressources intérieures et spirituelles pour être menée à bien. Et c’est ici qu’il faut encore une fois lever le malentendu : un chemin intérieur et spirituel n’est pas individuel et dépolitisé, comme on veut nous le faire croire. Il est forcément collectif. Croire ensemble à d’autres récits, créer de nouveaux rituels, inventer des horizons et des utopies, vivre autrement avec les non-humains, etc. Tout cela nourrit le politique, tout cela _est_ politique.
 
-![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1606727646/AuxOrigines_Evolution_page-0001_hzbdxg.jpg)
+![Jo Delannoy](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1606727646/AuxOrigines_Evolution_page-0001_hzbdxg.jpg "Jo Delannoy")
 
 Les sentiers de la métamorphose sont incertains, divers, pluriels, sinueux, arborescents. Ils sont parfois contradictoires. Ainsi en est-il des causes examinées dans cet ouvrage. Plonger dans ces questions abyssales nous heurte forcément à des paradoxes. Et lorsque ces derniers pointent leur nez, nous dit Edgar Morin, il faut non seulement apprendre à vivre avec, mais il faut aller faire un tour du côté de la complexité : penser horizontal, dialogique (en forme de dialogue), changer d’optique, tisser des liens, déceler les structures et les patterns, comprendre les boucles de rétroaction et apprendre à naviguer dans le brouillard.
 
