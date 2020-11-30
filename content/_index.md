@@ -6,13 +6,13 @@ header_text: Imagine est un bimestriel de 120 pages et un éditeur indépendant 
   1996.
 section_one:
   section_title: "#imagine2020"
-  title: La Menuiserie, future ruche urbaine
+  title: Aux origines de la catastrophe
   text: En mars 2022, le premier centre d’entreprises 100 % dédié à la transition
     en Wallonie ouvrira ses portes à Liège dans un ancien bâtiment communal de 2000
     m². La Menuiserie, c’est son nom, sera aussi un lieu partagé et innovant développé
     par la coopérative Novacitis. Imagine est partenaire de ce projet citoyen et collaboratif
     et y installera sa rédaction.
-  img: "/v1599655943/NOVACITIS-LAMENUISERIE-ECOSYSTEME_spp356.jpg"
+  img: "/v1606728388/AuxOrigines_Cover_page-0001_lzcza2.jpg"
   btn_text: En savoir plus
   btn_link: "/la-menuiserie-la-ruche-urbaine/"
 section_two:
