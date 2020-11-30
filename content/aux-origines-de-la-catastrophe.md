@@ -7,19 +7,19 @@ title = "Aux origines de la catastrophe "
 
 <br>
 
-Climat déréglé, pandémies à répétition, écosystèmes détruits, sécurité alimentaire menacée, pénurie de ressources, système financier instable…
+**Climat déréglé, pandémies à répétition, écosystèmes détruits, sécurité alimentaire menacée, pénurie de ressources, système financier instable…**
 
-Notre Terre est gravement en péril, c’est un état de fait. Mais au-delà des constats, il est indispensable de comprendre pourquoi nous en sommes arrivés là. En revenant aux origines d'un ensemble de catastrophes, à l'aide d'une pensée systémique. En sortant d’une réflexion monolithique et manichéenne. Pour poser ensuite les bases d’une action collective et d’un changement de conscience.
+**Notre Terre est gravement en péril, c’est un état de fait. Mais au-delà des constats, il est indispensable de comprendre pourquoi nous en sommes arrivés là. En revenant aux origines d'un ensemble de catastrophes, à l'aide d'une pensée systémique. En sortant d’une réflexion monolithique et manichéenne. Pour poser ensuite les bases d’une action collective et d’un changement de conscience.**
 
-Cet ouvrage inédit réunit vingt-cinq auteur(e)s de renom (anthropologue, biologiste, économiste, sociologue, philosophe, historien…) dans une approche pluridisciplinaire et accessible à un large public.
+**Cet ouvrage inédit réunit vingt-cinq auteur(e)s de renom (anthropologue, biologiste, économiste, sociologue, philosophe, historien…) dans une approche pluridisciplinaire et accessible à un large public.**
 
-Des causes modernes aux « bifurcations » de nos origines, chaque contributeur porte un regard singulier sur une cause spécifique : la finance débridée, le technococon, le capitalisme, la surpopulation, la dette, l’Etat, le patriarcat, l’invention de l’agriculture, l’économisme, le colonialisme, la séparation nature/culture, les mythes, la complexité croissante…
+**Des causes modernes aux « bifurcations » de nos origines, chaque contributeur porte un regard singulier sur une cause spécifique : la finance débridée, le technococon, le capitalisme, la surpopulation, la dette, l’Etat, le patriarcat, l’invention de l’agriculture, l’économisme, le colonialisme, la séparation nature/culture, les mythes, la complexité croissante…**
 
-Pour former in fine un _livre-arborescence_ qui se range du côté de la complexité, de la diversité et des métamorphoses, sous le regard du sociologue Edgar Morin, avec un tissage final et collectif entre toutes ces causes nous permettant de découvrir, au fil des pages, comment ouvrir de nouveaux horizons.
+**Pour former in fine un _livre-arborescence_ qui se range du côté de la complexité, de la diversité et des métamorphoses, sous le regard du sociologue Edgar Morin, avec un tissage final et collectif entre toutes ces causes nous permettant de découvrir, au fil des pages, comment ouvrir de nouveaux horizons.**
 
-_Aux origines de la catastrophe. Pourquoi en sommes-nous arrivés là ?_ Un livre collectif co-édité par Les Editions _Les Liens qui libèrent_ et le magazine _Imagine Demain le monde,_ 202 p., 17 euros.
+**_Aux origines de la catastrophe. Pourquoi en sommes-nous arrivés là ?_ Un livre collectif co-édité par Les Editions _Les Liens qui libèrent_ et le magazine _Imagine Demain le monde,_ 202 p., 17 euros.**
 
-Avec notamment Geneviève Azam, Abdennour Bidar, Dominique Bourg, Gauthier Chapelle, Cédric Chevalier, Alain Damasio, Jean-Paul Demoule, Malcom Ferdinand, Stephan Harding, Nancy Huston, François Jarrige, Paul Jorion, Corinne Maier, etc.
+**Avec notamment Geneviève Azam, Abdennour Bidar, Dominique Bourg, Gauthier Chapelle, Cédric Chevalier, Alain Damasio, Jean-Paul Demoule, Malcom Ferdinand, Stephan Harding, Nancy Huston, François Jarrige, Paul Jorion, Corinne Maier, etc.**
 
 ***
 
