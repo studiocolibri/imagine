@@ -57,4 +57,6 @@ Les sentiers de la métamorphose sont incertains, divers, pluriels, sinueux, arb
 
 Nous sommes persuadés que nous avons besoin d’une pensée riche, complexe, systémique, réflexive pour agir, ensemble, dans ce monde. Une culture de la permanence de la vie sur Terre, une permaculture politique !
 
+Pour vous procurer ce livre, rendez-vous chez votre libraire ou cliquez ici : [http://www.editionslesliensquiliberent.fr/livre-Aux_origines_de_la_catastrophe-9791020908346-1-1-0-1.html](http://www.editionslesliensquiliberent.fr/livre-Aux_origines_de_la_catastrophe-9791020908346-1-1-0-1.html "http://www.editionslesliensquiliberent.fr/livre-Aux_origines_de_la_catastrophe-9791020908346-1-1-0-1.html")
+
 **Pablo Servigne & Raphaël Stevens**
