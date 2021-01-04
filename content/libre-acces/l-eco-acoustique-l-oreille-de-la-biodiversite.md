@@ -2,7 +2,7 @@
 categories = []
 class = "single-e-magine"
 date = 2021-01-05T23:00:00Z
-description = "La Terre est un orchestre et la crise climatique modifie son tissu acoustique naturel. C’est l’hypothèse de base de l’éco-acoustique, une jeune discipline scientifique. Des chercheurs écoutent ainsi forêts et mers pour la vérifier. Une certitude : si l’orchestre est en sourdine, la biodiversité est déjà en ruine."
+description = "Focus sur l’éco-acoustique, une jeune discipline scientifique qui vise à écouter la biodiversité pour mesurer son déclin ou sa modification face à la crise climatique."
 draft = true
 img = "/v1609784227/lucian-dachman-N3wu_iOX0jw-unsplash_fwdqgc.jpg"
 img_credits = "Les milieux forestiers sont plus étudiés car ils sont \"fermés\" aux vents, lesquels brouillent les prises de son. © Vlad Hilitanu / Unsplash"
@@ -10,6 +10,8 @@ title = "L'éco-acoustique, l'oreille de la biodiversité"
 title_alignment = "gauche"
 
 +++
+**La Terre est un orchestre et la crise climatique modifie son tissu acoustique naturel. C’est l’hypothèse de base de l’éco-acoustique, une jeune discipline scientifique. Des chercheurs écoutent ainsi forêts et mers pour la vérifier. Une certitude : si l’orchestre est en sourdine, la biodiversité est déjà en ruine.**
+
 _« Voici l’espace. Voici l’air pur. Voici le silence. Le royaume des aurores intactes et des bêtes naïves. Tout ce qui vous manque dans les villes est ici réservé pour votre joie. Eaux libres : hommes libres. Ici commence le pays de la liberté. La liberté de bien se conduire. Les inconscients ne respectent pas la nature. Ils croient se grandir en la polluant et ne savent même pas qu’elle se venge. Puisez dans le trésor des hauteurs mais qu’il brille après vous pour tous les autres. La faiblesse a peur des grands espaces. La sottise a peur du silence. Ouvrez vos yeux et vos oreilles. Fermez vos transistors. Pas de bruit. Pas de cris. Pas de moteurs. Pas de klaxons. Ecoutez les musiques de la montagne. »_
 
 Près d’une grange à l’embouchure d’un sentier du Parc national italien Gran Paradiso, à cheval entre le Piémont et le Val d’Aoste, ces quelques vers d’un poème signé par un certain Samivel séduisent le lecteur. Une fois dévorés, ils le poussent à bloquer un de ses sens, la vue, pour se concentrer sur un autre, l’ouïe. Qu’entend-on en s’enfonçant dans la vallée ? Le lointain son des cloches des vaches et celui du vent dans les sapins, dominés par une tonitruante rivière s’échappant d’un glacier. A la croisée de deux chemins, un autre panneau signale le début d’une zone de quiétude. Défense de s’y aventurer. L’être humain en est banni. Sa curiosité aussi : l’interdiction de survoler cet endroit avec un drone est inscrite rouge sur blanc.
@@ -42,7 +44,7 @@ Surnommés à tort _« les chercheurs de silence »_, les acousticiens honnissen
 
 Un milieu naturel vierge ou pauvre en sons dépérit. Outre les dérèglements environnementaux, l’un de ses requiem est la saturation en bruits d’origine non-animale. Quand l’anthropophonie ou la technophonie étouffent la biophonie. _« La forêt du Risoux est complètement polluée en raison de sa proximité avec Genève et des couloirs aériens. Acoustiquement, c’est une catastrophe. 75 % de nos enregistrements ont un bruit d’avion dedans. Alors, on pourrait inclure l’homme dans la biophonie puisqu’il est un animal qui communique autant que des oiseaux chantent_, suggère Jérôme Sueur. _Mais… Les autres animaux n’ont pas besoin de nous, de notre communication, du brouhaha généré par nos activités. Par défaut, on peut donc considérer que nous sommes une source de bruit et que nous les perturbons. C’est une forme de pollution, au même titre que celle de l’air, des sols, de l’eau. Pendant le confinement, beaucoup ont dit que la nature se réveillait, qu’elle parlait plus. L’absence de fond sonore a peut-être donné cette impression. Mais les oiseaux n’ont pas chanté plus fort. C’est en fait l’exact contraire. Ils ne devaient plus faire d’efforts pour surpasser le bruit ambiant. »_
 
-> En tant que scientifique, pour mesurer et vérifier la perte de la biodiversité, j’ai besoin de données sonores.
+> "En tant que scientifique, pour mesurer et vérifier la perte de la biodiversité, j’ai besoin de données sonores."
 
 Sans aucun doute, les zones de quiétude, à l’instar de celle du Grand Paradiso, sont une nécessité. Tant pour le bienêtre des humains que celui du vivant. La grande différence étant que les premiers, plus tolérants face à au bruit, peuvent s’en protéger aisément. _« On construit des murs le long des autoroutes, on place du double-vitrage dans les maisons… On met même des casques sur nos oreilles pour écouter quelque chose afin d’oublier le son des autres. On s’en prémunit mais on ne travaille pas sur la source. Pour les milieux naturels, ça commence, timidement, à être pris en compte, surtout en mer. Et il est temps !_, s’exclame-t-il. _Les espèces sont en interaction et en perturbant un maillon, on peut impacter toute la chaîne. Par exemple, un bruit dérange un oiseau prédateur d’un insecte. L’oiseau, stressé et fatigué, s’en va. Il est alors possible que cet insecte prolifère et déséquilibre un milieu naturel. »_
 
