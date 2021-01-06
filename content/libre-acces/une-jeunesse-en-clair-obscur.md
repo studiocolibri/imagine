@@ -2,7 +2,7 @@
 categories = ["Editorial"]
 class = "single-e-magine"
 date = 2021-01-05T23:00:00Z
-description = ""
+description = "L'édito d’Hugues Dorzée, rédacteur en chef"
 img = "/v1609771526/jeunes_masqu%C3%A9s_jnuhsk.jpg"
 img_credits = "Julie Graux"
 title = "Une jeunesse en clair-obscur"
