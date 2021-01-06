@@ -1,7 +1,7 @@
 +++
 categories = ["Dossier"]
 class = "single-e-magine"
-date = 2021-01-05T23:00:00Z
+date = 2021-01-04T23:00:00Z
 description = "Dans son numéro 142, Imagine ouvre ses colonnes aux jeunes, fortement impactés par la crise. Un dossier de 26 pages réalisé grâce à un exercice de journalisme participatif. "
 img = "/v1609929289/gianquinto_gloria10_uizjc8.jpg"
 img_credits = "Cette photographie a été sélectionnée par la rédaction dans le cadre d'un concours photo. © Gloria Gianquinto"
