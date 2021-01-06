@@ -5,7 +5,7 @@ date = 2021-01-05T23:00:00Z
 description = "Dans son numéro 142, Imagine ouvre ses colonnes aux jeunes, fortement impactés par la crise. Un processus de journalisme participatif"
 draft = true
 img = "/v1609929289/gianquinto_gloria10_uizjc8.jpg"
-img_credits = "Cette photographie a été sélectionnée par la rédaction dans le cadre d'un concours photo. © Aurélien Goubeau, 24 ans, étudiant en photographie à l’ESA le 75, à Bruxelles."
+img_credits = "Cette photographie a été sélectionnée par la rédaction dans le cadre d'un concours photo. © Gloria Gianquinto"
 title = "2021 : le futur leur échappe"
 title_alignment = "gauche"
 
