@@ -46,6 +46,7 @@ fields:
     required: false
   label: Crédits de l'image d'illustration
 pages:
+- content/libre-acces/2021-le-futur-leur-echappe.md
 - content/libre-acces/5g-vers-une-course-folle.md
 - content/libre-acces/Leah.md
 - content/libre-acces/a-boulet-rouge.md
