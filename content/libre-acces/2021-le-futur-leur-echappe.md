@@ -1,11 +1,11 @@
 +++
-categories = []
+categories = ["Dossier"]
 class = "single-e-magine"
 date = ""
 description = "Dans son numéro 142, Imagine ouvre ses colonnes aux jeunes, fortement impactés par la crise. Un processus de journalisme participatif"
 draft = true
-img = ""
-img_credits = ""
+img = "/v1609929124/voyage4_hskyv8.jpg"
+img_credits = "Cette photographie a été sélectionnée par la rédaction dans le cadre d'un concours photo. © Aurélien Goubeau, 24 ans, étudiant en photographie à l’ESA le 75, à Bruxelles."
 title = "2021 : le futur leur échappe"
 title_alignment = "gauche"
 
