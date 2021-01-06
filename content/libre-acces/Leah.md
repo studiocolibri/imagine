@@ -1,5 +1,5 @@
 +++
-categories = ["Entretien"]
+categories = ["Rencontre"]
 class = "single-e-magine"
 date = 2020-11-03T23:00:00Z
 description = "De jeunes activistes ougandais se mobilisent contre la crise climatique. Rencontre virtuelle avec la figure phare du mouvement, âgée de seize ans."
