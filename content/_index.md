@@ -5,7 +5,7 @@ header_title: Clarifier les faits, libérer<br>les idées et les esprits
 header_text: Imagine est un bimestriel de 120 pages et un éditeur indépendant depuis
   1996.
 section_one:
-  section_title: "#imagine2020"
+  section_title: ''
   title: Aux origines de la catastrophe
   text: 'Un livre inédit, coédité par Imagine et les Liens qui libèrent, réunit 25
     auteurs de renom pour comprendre la catastrophe planétaire. Des causes modernes
