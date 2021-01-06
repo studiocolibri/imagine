@@ -2,7 +2,7 @@
 categories = ["Dossier"]
 class = "single-e-magine"
 date = 2021-01-05T23:00:00Z
-description = "Dans son numéro 142, Imagine ouvre ses colonnes aux jeunes, fortement impactés par la crise. Un processus de journalisme participatif"
+description = "Dans son numéro 142, Imagine ouvre ses colonnes aux jeunes, fortement impactés par la crise. Au coeur de cet exercice de journalisme participatif : leurs colères, leurs inspirations, leurs luttes."
 img = "/v1609929289/gianquinto_gloria10_uizjc8.jpg"
 img_credits = "Cette photographie a été sélectionnée par la rédaction dans le cadre d'un concours photo. © Gloria Gianquinto"
 title = "2021 : le monde tel qu'ils l'imaginent"
