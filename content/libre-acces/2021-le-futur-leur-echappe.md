@@ -1,13 +1,13 @@
 +++
 categories = ["Dossier"]
 class = "single-e-magine"
-date = ""
+date = 2021-01-05T23:00:00Z
 description = "Dans son numéro 142, Imagine ouvre ses colonnes aux jeunes, fortement impactés par la crise. Un processus de journalisme participatif"
 draft = true
 img = "/v1609929124/voyage4_hskyv8.jpg"
 img_credits = "Cette photographie a été sélectionnée par la rédaction dans le cadre d'un concours photo. © Aurélien Goubeau, 24 ans, étudiant en photographie à l’ESA le 75, à Bruxelles."
 title = "2021 : le futur leur échappe"
-title_alignment = "gauche"
+title_alignment = "droite"
 
 +++
 **Ils ont entre 18 et 25 ans, sont à l’aube de leurs études supérieures, au chômage, en apprentissage ou en quête d’un emploi. Comment traversent-ils cette époque si troublée ? Quels sont leurs espoirs pour l’année à venir ? Dans son premier numéro de l’année 2021, Imagine a choisi d’ouvrir ses colonnes à cette génération « M » – comme « mutations » – au travers d’un processus de journalisme collectif et participatif. Un dossier de 26 pages à lire dans** [**notre numéro de janvier-février 2021**](https://kiosque.imagine-magazine.com/categorie-produit/numeros/)**.**
