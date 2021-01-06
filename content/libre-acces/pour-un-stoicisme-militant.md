@@ -3,7 +3,6 @@ categories = ["Chronique"]
 class = "single-e-magine"
 date = 2021-01-05T23:00:00Z
 description = "Contre-courants, une chronique de Corinne Morel Darleux, écrivaine, militante écosocialiste, autrice de Plutôt couler en beauté que flotter sans grâce (Libertalia)."
-draft = true
 img = "/v1609786504/amanda-lins-aVKUVLIsl1o-unsplash_yxybab.jpg"
 img_credits = ""
 title = "Pour un stoïcisme militant"
