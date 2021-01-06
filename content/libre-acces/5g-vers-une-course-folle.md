@@ -1,5 +1,5 @@
 +++
-categories = ["Analyse"]
+categories = ["Dossier"]
 class = "single-e-magine"
 date = 2020-08-18T22:00:00Z
 description = "Petit voyage dans le monde merveilleux de la 5G et de l'univers numérique qui l'accompagne."
@@ -13,4 +13,4 @@ Un monde qui va encore plus vite. C'est en substance ce que nous promettent les 
 
 Des données traitées à une vitesse dix à cent fois supérieure à celle de la 4G, jusqu'à cent fois plus d'appareils connectés en un même point, le saut quantitatif promis est gigantesque. Et l'aller-retour d'une information sera de l'ordre de la milliseconde, imperceptible par l'humain. Petit voyage dans le monde merveilleux de la 5G et de l'univers numérique qui l'accompagne.
 
-Pour lire l'entièreté de ce dossier de 18 pages, paru dans le numéro 138 d'_Imagine_, cliquez [ici](https://kiosque.imagine-magazine.com/wp-content/uploads/2020/08/138_dossier5G.pdf)
+**Pour lire l'entièreté de ce dossier de 18 pages, paru dans le numéro 138 d'_Imagine_, cliquez** [**ici**](https://kiosque.imagine-magazine.com/wp-content/uploads/2020/08/138_dossier5G.pdf)**.**
