@@ -3,7 +3,6 @@ categories = ["Entretien"]
 class = "single-e-magine"
 date = 2021-01-05T23:00:00Z
 description = "Focus sur l’éco-acoustique, une jeune discipline scientifique qui vise à écouter la biodiversité pour mesurer son déclin ou sa modification face à la crise climatique."
-draft = true
 img = "/v1609784227/lucian-dachman-N3wu_iOX0jw-unsplash_fwdqgc.jpg"
 img_credits = "Les milieux forestiers sont plus étudiés car ils sont \"fermés\" aux vents, lesquels brouillent les prises de son. © Vlad Hilitanu / Unsplash"
 title = "L'éco-acoustique, l'oreille de la biodiversité"
