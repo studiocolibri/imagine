@@ -9,7 +9,7 @@ title = "Une jeunesse en clair-obscur"
 title_alignment = "gauche"
 
 +++
-_« C'est très compliqué d’avoir vingt ans aujourd’hui. Ils doivent se débattre dans un monde bouché, sans perspectives, sans récit commun ni exaltation. Je trouve cette génération très lucide et courageuse. Elle fait preuve de beaucoup d’inventivité et d’insolence. »_ 
+_« C'est très compliqué d’avoir vingt ans aujourd’hui. Ils doivent se débattre dans un monde bouché, sans perspectives, sans récit commun ni exaltation. Je trouve cette génération très lucide et courageuse. Elle fait preuve de beaucoup d’inventivité et d’insolence. »_
 
 Dans le grand entretien qu’elle nous accorde dans ce numéro, l’actrice française Ariane Ascaride résume, avec sa délicieuse faconde méridionale, une idée qui nous taraude également : diable, qu’il est difficile pour ces 18-25 ans de se construire un présent enviable et un avenir désirable face aux catastrophes qui se succèdent et s’intensifient. 
 
