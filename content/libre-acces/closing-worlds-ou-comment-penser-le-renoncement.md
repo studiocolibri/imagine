@@ -11,7 +11,7 @@ title_alignment = "gauche"
 +++
 **Comment regarder en face les limites planétaires ? Renoncer à nos activités non durables et polluantes ? Gérer l’héritage transmis aux générations futures (usines, routes, constructions…) ? Ces questions figurent au coeur de Closing Worlds, une initiative originale et prospective qui nous emmène sur les voies du renoncement.**
 
-Diego Landivar est économiste du développement, Alexandre Monnin, philosophe. Tous deux font partie de l’Origens Media Lab, un laboratoire de recherche interdisciplinaire dont certains chercheurs travaillent au sein de l’ESC Clermont Business School. 
+Diego Landivar est économiste du développement, Alexandre Monnin, philosophe. Tous deux font partie de l’Origens Media Lab, un laboratoire de recherche interdisciplinaire dont certains chercheurs travaillent au sein de l’ESC Clermont Business School.
 
 Leur domaine de prédilection ? L’Anthropocène et les limites planétaires. Leur projet Closing Worlds propose aux organisations, entreprises et pouvoirs publics, d’enquêter sur la véritable durabilité de leurs activités et de réfléchir à leur arrêt pur et simple ou à leur redirection écologique.
 
