@@ -1,5 +1,5 @@
 +++
-categories = ["Interview"]
+categories = ["Découverte"]
 class = "single-e-magine"
 date = 2020-11-03T23:00:00Z
 description = "Le projet Closing Worlds propose à différentes organisations d’enquêter sur la durabilité de leurs activités et de réfléchir à leur arrêt ou à leur redirection écologique."
