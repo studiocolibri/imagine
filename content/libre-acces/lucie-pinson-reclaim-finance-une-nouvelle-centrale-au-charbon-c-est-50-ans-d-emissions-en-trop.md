@@ -6,7 +6,7 @@ description = ""
 draft = true
 img = "/v1614253021/Lucie_Photo_1_c_St%C3%A9phane_Cojot-Goldberg_t1z7ak.jpg"
 img_credits = "Stéphane Cojot-Goldberg"
-title = "Lucie Pinson, Reclaim Finance : « Une nouvelle centrale au charbon, c’est 50 ans d’émissions en trop »"
+title = "Lucie Pinson, la voix de Reclaim Finance"
 title_alignment = "gauche"
 
 +++
