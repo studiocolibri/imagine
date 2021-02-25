@@ -50,7 +50,7 @@ Mais Lucie Pinson veille à ne pas se satisfaire trop vite des pas réalisés. _
 
 Après ce long travail centré sur le charbon (_« c’est la première source d’émission de gaz à effet de serre, et les mines d’aujourd’hui ne sont pas mieux que celles d’hier »_), Reclaim Finance s’attaque aux pétrole et gaz non-conventionnels – pétrole et gaz de schiste, sables bitumineux, extraction en Arctique. _« Et il faut le faire tout de suite, ne pas attendre encore sept ans ! Ce chapitre impose aux institutions financières de ne plus faire de chèque en blanc aux entreprises du secteur énergétique. Et de ne pas croire qu’il suffit de dire qu’on va atteindre le zéro carbone pour qu’on y arrive, sans rien changer, magiquement. »_
 
-A présent auréolée de son prix Goldman, Lucie Pinson continue la lutte, sans découragement. _« Il ne faut pas se laisser piéger par le ‘‘on va dans le mur’’. +1,6 degré, c’est mieux que +1,7, chaque victoire est à prendre, et je suis convaincue qu’il est possible de faire bouger les lignes. »_ Ne jamais renoncer.
+A présent auréolée de son prix Goldman, Lucie Pinson continue la lutte, sans découragement. _« Il ne faut pas se laisser piéger par le ‘‘on va dans le mur’’. +1,6 degré, c’est mieux que +1,7, chaque victoire est à prendre, et je suis convaincue qu’il est possible de faire bouger les lignes. »_ Ne jamais renoncer. 
 
 **Laure de Hesselle**
 
