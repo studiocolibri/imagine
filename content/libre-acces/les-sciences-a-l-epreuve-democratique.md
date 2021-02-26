@@ -2,7 +2,7 @@
 categories = ["Editorial"]
 class = "single-e-magine"
 date = 2021-03-03T23:00:00Z
-description = ""
+description = "L'édito d'Hugues Dorzée, rédacteur en chef d'Imagine."
 draft = true
 img = "/v1614332828/%C3%A9dito-alliance_lzjvqj.jpg"
 img_credits = "Julie Graux"
@@ -20,7 +20,7 @@ Or, dans notre époque dominée par le diktat des réseaux sociaux, nous évoluo
 
 Il n’y a plus beaucoup de place pour la nuance et le doute constructif, le débat argumenté et la controverse sereine. L’heure est au rejet de la raison, à l’anti-intellectualisme et à celui qui crie le plus fort pour exprimer des avis tranchés et définitifs.
 
-A mesure que le temps passe, la société se fragmente petit à petit : entre « croyants » et « incroyants » (face au port du masque, à la vaccination, à la légalité et à la justesse des mesures adoptées…), rationalistes acharnés et adepte de l’anti-science, experts institutionnels et alternatifs… 
+A mesure que le temps passe, la société se fragmente petit à petit : entre « croyants » et « incroyants » (face au port du masque, à la vaccination, à la légalité et à la justesse des mesures adoptées…), rationalistes acharnés et adepte de l’anti-science, experts institutionnels et alternatifs…
 
 Cette défiance à l’égard des scientifiques ne cesse de grandir. Avec un étrange paradoxe : alors que nous avons plus que jamais besoin de la science pour répondre à tant de menaces (prévenir les épidémies, lutter contre le dérèglement climatique, limiter l’impact du numérique sur le monde du travail, réduire les inégalités sociales et intercontinentales…), elle est décriée voire dénigrée.
 
@@ -34,6 +34,6 @@ La défiance qui gronde doit nous inquiéter. Car cette vague de fond charrie de
 
 La science est porteuse de certitudes : la Terre est ronde, elle tourne sur elle-même et se réchauffe gravement, c’est aujourd’hui incontestable. Mais l’épidémie... Cette crise nous rappelle combien il est grand temps de démocratiser davantage la connaissance et les usages scientifiques. En la rendant accessible au plus grand nombre d’une part, et en créant des lieux où les citoyens sont réellement parties prenantes des choix scientifiques et techniques qui sont pris à travers des focus groupes, des jurys citoyens, des conférences de consensus…
 
-« Il est vain de vouloir présenter une science toute-puissante, incontestable et croire ensuite que le public va adhérer massivement, les yeux fermés » rappelle à dessein la philosophe des sciences Laurence Bouquiaux. Or, à mesure que l’on s’enfonce dans la crise, force est de constater qu’on a globalement manqué ce grand rendez-vous démocratique, cette fameuse alliance entre experts et citoyens. Il n’est pas trop tard pour corriger le tir. Et tenter de mettre fin à cette infernale spirale du soupçon.
+_« Il est vain de vouloir présenter une science toute-puissante, incontestable et croire ensuite que le public va adhérer massivement, les yeux fermés »,_ rappelle à dessein la philosophe des sciences Laurence Bouquiaux, dans l'entretien qu'elle accorde à Imagine dans ce [numéro 143](https://kiosque.imagine-magazine.com/). Or, à mesure que l’on s’enfonce dans la crise, force est de constater qu’on a globalement manqué ce grand rendez-vous démocratique, cette fameuse alliance entre experts et citoyens. Il n’est pas trop tard pour corriger le tir. Et tenter de mettre fin à cette infernale spirale du soupçon.
 
 **Hugues Dorzée, rédacteur en chef**
