@@ -13,4 +13,4 @@ Dans ce petit opus de seize pages, on y parle de la science du futur, au service
 
 Une manière de se plonger de manière vivante et accessible dans différentes disciplines scientifiques porteuses de sens et d’avenir.
 
-**Pour lire l’entièreté de ce supplément, paru avec le numéro 143 d'_Imagine_, cliquez** [**ici**](https://kiosque.imagine-magazine.com/wp-content/uploads/2021/03/Sciences_pour-PDF.pdf)**.** 
+**Pour lire l’entièreté de ce supplément, paru avec le numéro 143 d'_Imagine_, cliquez** [**ici**](https://kiosque.imagine-magazine.com/wp-content/uploads/2021/03/Sciences_pour-PDF.pdf)**.**
