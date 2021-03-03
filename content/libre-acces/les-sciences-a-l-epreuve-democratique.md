@@ -2,7 +2,7 @@
 categories = ["Editorial"]
 class = "single-e-magine"
 date = 2021-03-03T23:00:00Z
-description = "Dans cet édito, Hugues Dorzée, rédacteur en chef d'Imagine, plaide pour une alliance entre experts et citoyens pour mettre fin à l'inquiétante vague de soupçon anti-scientifique. "
+description = "Hugues Dorzée, rédacteur en chef d'Imagine, plaide pour une alliance entre experts et citoyens pour mettre fin à l'inquiétante vague de soupçon anti-scientifique. "
 img = "/v1614332828/%C3%A9dito-alliance_lzjvqj.jpg"
 img_credits = "Julie Graux"
 title = "Les sciences à l'épreuve démocratique"
