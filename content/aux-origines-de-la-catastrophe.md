@@ -1,5 +1,6 @@
 +++
 class = "notre-manifeste single-page"
+draft = true
 title = "Quelle science pour demain ? "
 
 +++
