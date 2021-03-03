@@ -2,7 +2,7 @@
 categories = ["Rencontre"]
 class = "single-e-magine"
 date = 2021-03-03T23:00:00Z
-description = ""
+description = "Elle se bat pour que les banques, les assurances et autres investisseurs cessent de financer les énergies fossiles toxiques pour la planète. Rencontre avec la militante-née Lucie Pinson, à la tête de Reclaim Finance récompensée par le prix Goldman (le “prix Nobel” de l’environnement)."
 draft = true
 img = "/v1614253021/Lucie_Photo_1_c_St%C3%A9phane_Cojot-Goldberg_t1z7ak.jpg"
 img_credits = "Stéphane Cojot-Goldberg"
