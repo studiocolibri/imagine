@@ -6,20 +6,20 @@ header_text: Imagine est un bimestriel de 120 pages et un éditeur indépendant 
   1996.
 section_one:
   section_title: ''
-  title: Aux origines de la catastrophe
-  text: 'Un livre inédit, coédité par Imagine et les Liens qui libèrent, réunit 25
-    auteurs de renom pour comprendre la catastrophe planétaire. Des causes modernes
-    aux « bifurcations » de nos origines, chaque contributeur porte un regard singulier
-    sur une cause spécifique : la finance débridée, le technococon, le capitalisme,
-    la surpopulation, la dette, l’Etat, le patriarcat, l’invention de l’agriculture,
-    l’économisme, le colonialisme, la séparation nature/culture, les mythes, la complexité
-    croissante… Pour former in fine un livre-arborescence qui se range du côté de
-    la complexité, de la diversité et des métamorphoses, sous le regard du sociologue
-    Edgar Morin, avec un tissage final et collectif entre toutes ces causes nous permettant
-    de découvrir, au fil des pages, comment ouvrir de nouveaux horizons.'
-  img: "/v1606728388/AuxOrigines_Cover_page-0001_lzcza2.jpg"
+  title: 'Quelle science pour demain ? '
+  text: "Du 22 au 28 mars se tiendra le Printemps des Sciences partout en Wallonie
+    et à Bruxelles. Imagine est partenaire de cet événement co-organisé par Sciences.be,
+    l’UCLouvain, l’ULB, l’ULiège, l’UMons et l’ULiège. A cette occasion, notre magazine
+    a co-édité un petit supplément (20 x 14 cm), avec la collaboration de Marie Thieffry,
+    journaliste, et de l’artiste-illustrateur Jo Delannoy. \nDans ce petit opus de
+    seize pages, on y parle de la science du futur, au service de l’intérêt général
+    et d’un monde plus juste et plus durable.  Il est question de trandisciplinarité,
+    de géologie appliquée, de micro-architecture, d’ingénierie électrique, de biorobotique,
+    de sciences de la vie…\nUne manière de se plonger de manière vivante et accessible
+    dans différentes disciplines scientifiques porteuses de sens et d’avenir. "
+  img: "/v1614780908/Sciences_pour_PDF_page-0001_o7u7rk.jpg"
   btn_text: En savoir plus
-  btn_link: "/aux-origines-de-la-catastrophe"
+  btn_link: "/printemps-des-sciences"
 section_two:
   section_title: Accès libre
   btn_link: "/libre-acces/"
