@@ -3,7 +3,6 @@ categories = ["Chronique"]
 class = "single-e-magine"
 date = 2021-03-03T23:00:00Z
 description = "Et si on apprenait, par un petit exercice de la pensée, à changer notre regard sur le monde végétal ? C'est ce que propose Gaëlle Jeanmart, de Philocité, dans cette chronique."
-draft = true
 img = "/v1614252776/jossuha-theophile-B_yb2JCUFUI-unsplash_jnswgn.jpg"
 img_credits = "Jossuha Theophile / Unsplash"
 title = "A la vitesse des plantes"
