@@ -19,7 +19,7 @@ Or, dans notre époque dominée par le diktat des réseaux sociaux, nous évoluo
 
 Il n’y a plus beaucoup de place pour la nuance et le doute constructif, le débat argumenté et la controverse sereine. L’heure est au rejet de la raison, à l’anti-intellectualisme et à celui qui crie le plus fort pour exprimer des avis tranchés et définitifs.
 
-A mesure que le temps passe, la société se fragmente petit à petit : entre « croyants » et « incroyants » (face au port du masque, à la vaccination, à la légalité et à la justesse des mesures adoptées…), rationalistes acharnés et adepte de l’anti-science, experts institutionnels et alternatifs…
+A mesure que le temps passe, la société se fragmente petit à petit : entre « croyants » et « incroyants » (face au port du masque, à la vaccination, à la légalité et à la justesse des mesures adoptées…), rationalistes acharnés et adeptes de l’anti-science, experts institutionnels et alternatifs…
 
 Cette défiance à l’égard des scientifiques ne cesse de grandir. Avec un étrange paradoxe : alors que nous avons plus que jamais besoin de la science pour répondre à tant de menaces (prévenir les épidémies, lutter contre le dérèglement climatique, limiter l’impact du numérique sur le monde du travail, réduire les inégalités sociales et intercontinentales…), elle est décriée voire dénigrée.
 
