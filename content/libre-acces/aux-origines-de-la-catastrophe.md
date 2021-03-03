@@ -4,7 +4,7 @@ class = "single-e-magine"
 date = 2021-01-03T23:00:00Z
 description = "Un livre inédit, coédité par Imagine et les Liens qui libèrent, réunit 25 auteurs de renom pour comprendre la catastrophe planétaire."
 draft = true
-img = "/v1606728388/AuxOrigines_Cover_page-0001_lzcza2.jpg"
+img = "/v1606727646/AuxOrigines_Evolution_page-0001_hzbdxg.jpg"
 img_credits = ""
 title = "Aux origines de la catastrophe"
 title_alignment = "gauche"
@@ -15,6 +15,8 @@ title_alignment = "gauche"
 **Cet ouvrage inédit réunit vingt-cinq auteur(e)s de renom (anthropologue, biologiste, économiste, sociologue, philosophe, historien…) dans une approche pluridisciplinaire et accessible à un large public. Des causes modernes aux « bifurcations » de nos origines, chaque contributeur porte un regard singulier sur une cause spécifique : la finance débridée, le technococon, le capitalisme, la surpopulation, la dette, l’Etat, le patriarcat, l’invention de l’agriculture, l’économisme, le colonialisme, la séparation nature/culture, les mythes, la complexité croissante… Pour former in fine un _livre-arborescence_ qui se range du côté de la complexité, de la diversité et des métamorphoses, sous le regard du sociologue Edgar Morin, avec un tissage final et collectif entre toutes ces causes nous permettant de découvrir, au fil des pages, comment ouvrir de nouveaux horizons.**
 
 **_Aux origines de la catastrophe. Pourquoi en sommes-nous arrivés là ?_ Un livre collectif co-édité par Les Editions _Les Liens qui libèrent_ et le magazine _Imagine Demain le monde,_ 202 p., 17 euros. Avec notamment Geneviève Azam, Abdennour Bidar, Dominique Bourg, Gauthier Chapelle, Cédric Chevalier, Alain Damasio, Jean-Paul Demoule, Malcom Ferdinand, Stephan Harding, Nancy Huston, François Jarrige, Paul Jorion, Corinne Maier, etc.**
+
+![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1606728388/AuxOrigines_Cover_page-0001_lzcza2.jpg)
 
 ***
 
