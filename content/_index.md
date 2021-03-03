@@ -19,7 +19,7 @@ section_one:
     dans différentes disciplines scientifiques porteuses de sens et d’avenir. "
   img: "/v1614780908/Sciences_pour_PDF_page-0001_o7u7rk.jpg"
   btn_text: En savoir plus
-  btn_link: "/printemps-des-sciences"
+  btn_link: "/quelle-science-pour-demain"
 section_two:
   section_title: Accès libre
   btn_link: "/libre-acces/"
