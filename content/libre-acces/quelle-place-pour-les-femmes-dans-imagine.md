@@ -4,7 +4,7 @@ class = "single-e-magine"
 date = 2021-03-08T08:00:00Z
 description = "A l’occasion du 8 mars, journée internationale des droits des femmes, la rédaction raconte ce que ces statistiques ont changé en interne."
 draft = true
-img = "/v1615072792/IMG_4358_ueaz4d.jpg"
+img = "/v1615073612/IMG_4363_blocgd.jpg"
 img_credits = ""
 title = "Quelle place occupent les femmes dans Imagine ? "
 title_alignment = "gauche"
@@ -48,7 +48,7 @@ Nous l’avions signalé en créant cet outil : il n’est pas parfait est amen�
 
 **Lire aussi >** [**Leah Namugerwa, une sentinelle climatique en Ouganda**](https://www.imagine-magazine.com/libre-acces/leah/)
 
-Chroniquant notre troisième baromètre, Fatima Zibouh, politologue, responsable du service anti-discrimination d’Actiris et co-présidente du groupe « Les Pisteurs d’_Imagine_ » fournissait ainsi quelques pistes. _« Pour pousser sa réflexion plus loin, la rédaction aurait tout intérêt à inclure, dans ce baromètre, d'autres indicateurs de diversité comme, par exemple, la question des thématiques abordées et les lieux de reportages. En effet, la diversité* n'est pas qu'une question d'origines »_, soulignait-elle, rappelant que la diversité des thématiques revêt une importance particulière _« parce qu'ils traduisent des biais journalistiques »_. 
+Chroniquant notre troisième baromètre, Fatima Zibouh, politologue, responsable du service anti-discrimination d’Actiris et co-présidente du groupe « Les Pisteurs d’_Imagine_ » fournissait ainsi quelques pistes. « Pour pousser sa réflexion plus loin, la rédaction aurait tout intérêt à inclure, dans ce baromètre, d'autres indicateurs de diversité comme, par exemple, la question des thématiques abordées et les lieux de reportages. En effet, la diversité* n'est pas qu'une question d'origines », soulignait-elle, rappelant que la diversité des thématiques revêt une importance particulière « parce qu'ils traduisent des biais journalistiques ». 
 
 Et de nous inviter à prendre ces paramètres en compte dans nos baromètres, tout en précisant que _« tout ne peut pas reposer sur les épaules des journalistes. Les hommes devraient aussi être capables de se mettre en arrière pour laisser la place aux femmes »._
 
