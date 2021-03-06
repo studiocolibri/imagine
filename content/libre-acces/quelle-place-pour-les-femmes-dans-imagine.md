@@ -22,7 +22,9 @@ En revanche, cette démarche ne semble guère séduire les différents types de 
 
 Sur les cinq numéros analysés en un an, une caractéristique revient systématiquement : les femmes sont moins nombreuses mais ont davantage de place pour s’exprimer. Cela s’explique en partie par les grands entretiens : après l’anthropologue Philippe Descola, se sont succédé la politologue Olivia Umurerwa Rutazibwa, la philosophe du soin Claire Marin, l’actrice Ariane Ascaride et la philosophe des sciences Laurence Bouquiaux.
 
-![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1615066909/Unes_1_lipe8y.jpg)Au même titre que les hommes, les femmes sont majoritairement citées en tant qu’expertes, de manière directe et sont rarement désignées par leur seul prénom. Contrairement à ce que montrent les baromètres de l’AJP, nos chiffres ne témoignent ainsi pas d’inégalités de traitement dans la manière de nommer nos sources.
+![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1615072187/Sans_titre_yvfv7r.png)
+
+Au même titre que les hommes, les femmes sont majoritairement citées en tant qu’expertes, de manière directe et sont rarement désignées par leur seul prénom. Contrairement à ce que montrent les baromètres de l’AJP, nos chiffres ne témoignent ainsi pas d’inégalités de traitement dans la manière de nommer nos sources.
 
 **Lire aussi >** [**Lucie Pinson, la voix de Reclaim Finance**](https://www.imagine-magazine.com/libre-acces/lucie-pinson-reclaim-finance-une-nouvelle-centrale-au-charbon-c-est-50-ans-d-emissions-en-trop/)
 
