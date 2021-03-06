@@ -2,7 +2,7 @@
 categories = ["Chronique"]
 class = "single-e-magine"
 date = 2021-03-08T08:00:00Z
-description = "A l’occasion du 8 mars, journée internationale des droits des femmes, la rédaction analyse la place des femmes dans ses pages, grâce à notre baromètre égalité-diversité."
+description = "A l’occasion du 8 mars, journée internationale des droits des femmes, Imagine analyse la place des femmes dans ses pages et revient sur la conception de son baromètre égalité-diversité."
 img = "/v1615073612/IMG_4363_blocgd.jpg"
 img_credits = ""
 title = "Quelle place occupent les femmes dans Imagine ? "
