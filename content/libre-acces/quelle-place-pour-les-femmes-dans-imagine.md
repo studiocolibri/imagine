@@ -1,12 +1,12 @@
 +++
-categories = []
+categories = ["Chronique"]
 class = "single-e-magine"
 date = 2021-03-08T08:00:00Z
 description = "A l’occasion du 8 mars, journée internationale des droits des femmes, la rédaction raconte ce que ces statistiques ont changé en interne."
 draft = true
 img = ""
 img_credits = ""
-title = "Quelle place pour les femmes dans Imagine ? "
+title = "Quelle place occupent les femmes dans Imagine ? "
 title_alignment = "gauche"
 
 +++
@@ -34,20 +34,18 @@ Une des particularités de notre baromètre est sa « fabrication maison » : il
 
 Alors, concrètement, qu’ont-ils changé dans nos pratiques ? _Primo_, lorsqu’il s’agit de penser un sujet collectivement, la question de l’égalité hommes-femmes et de la diversité est toujours sur la table. _« Attention, ici, il y a un déséquilibre »_. Par exemple : pour le dossier _« 2021, le futur leur échappe »_ (janvier-février 2021), la rédaction à veiller à ce que le groupe des « Espoirs d’Imagine » regroupe autant de jeunes hommes que de jeunes femmes, de milieux différents et avec des origines différentes. _Secundo_, de l’avis général, les baromètres ont apporté une forme de conscience de l’inclusion et de la diversité : en construisant un sujet, nous pensons aux résultats du baromètre, ce qui nous pousse (parfois pas suffisamment) à élargir nos horizons. _Tertio_… Quand on cherche, on trouve.
 
-INFOGRAPHIE AVEC LES CHIFFRES DES DEUX DERNIERS BAROMETRES
-
 #### De quoi parlent-elles ?
 
 Reste à savoir… De quoi parlent les femmes dans _Imagine_ ? Tentons l’exercice avec le numéro 143, actuellement en librairie. Les thèmes où elles interviennent en majorité : la grève de la faim, les investissements des banques dans les énergies fossiles, l’accès à l’interruption volontaire de grossesse, les sciences océaniques, l’inclusion dans la société belge, l’ethnofiction, les luttes organisées en non-mixité. Les thèmes où elles interviennent le moins : la politique (sur les liens entre l’écologie et l’extrême-droite), l’électrification du parc automobile belge, le nomadisme des ruchers.
 
 Nous l’avions signalé en créant cet outil : il n’est pas parfait est amené à évoluer. C’est d’ailleurs ce que nous avons fait : le premier ne portait qu’un dossier principal de seize pages, les suivants sur un tiers du magazine. Aujourd’hui, nous analysons l’entièreté d’un numéro (à l’exception des chroniques), ce nous permet d’avoir une photographie bien plus complète. Pouvons-nous encore l’améliorer ? Sans doute.
 
-Chroniquant notre troisième baromètre, Fatima Zibouh, politologue, responsable du service anti-discrimination d’Actiris et co-présidente du groupe « Les Pisteurs d’Imagine » fournissait ainsi quelques pistes. _« Pour pousser sa réflexion plus loin, la rédaction aurait tout intérêt à inclure, dans ce baromètre, d’autres indicateurs de diversité comme, par exemple, la question des thématiques abordées et les lieux de reportages. En effet, la diversité* n’est pas qu’une question d’origines »_, soulignait-elle, rappelant que la diversité des thématiques revêt une importance particulière _« parce qu’ils traduisent des biais journalistiques »._ Et de nous inviter à prendre ces paramètres en compte dans nos baromètres, tout en précisant que _« tout ne peut pas reposer sur les épaules des journalistes. Les hommes devraient aussi être capables de se mettre en arrière pour laisser la place aux femmes »._
+Chroniquant notre troisième baromètre, Fatima Zibouh, politologue, responsable du service anti-discrimination d’Actiris et co-présidente du groupe « Les Pisteurs d’_Imagine_ » fournissait ainsi quelques pistes. _« Pour pousser sa réflexion plus loin, la rédaction aurait tout intérêt à inclure, dans ce baromètre, d’autres indicateurs de diversité comme, par exemple, la question des thématiques abordées et les lieux de reportages. En effet, la diversité* n’est pas qu’une question d’origines »_, soulignait-elle, rappelant que la diversité des thématiques revêt une importance particulière _« parce qu’ils traduisent des biais journalistiques »._ Et de nous inviter à prendre ces paramètres en compte dans nos baromètres, tout en précisant que _« tout ne peut pas reposer sur les épaules des journalistes. Les hommes devraient aussi être capables de se mettre en arrière pour laisser la place aux femmes »._
 
-Depuis quelques jours, plusieurs médias commentent les résultats du dernier baromètre du CSA ou s’attardent sur la nouvelle campagne de l’AJP, contre le sexisme dans les rédactions. Ce 8 mars sera, sans doute, rempli d’articles sur les femmes et leur place dans la société. Et après ? Les baromètres se succèderont-ils encore dix ans, étalant perpétuellement les mêmes constats ? Pour une meilleure représentation des femmes dans les médias, il faudra un sursaut collectif de la part de l’ensemble du secteur. Et si le travail introspectif de la presse indépendante, des magazines comme Imagine et Médor, inspirait d’autres médias ? Compter, à l’évidence, n’est pas suffisant. Mais pour changer les mentalités et les représentations, c’est un début.
+Depuis quelques jours, plusieurs médias commentent les résultats du dernier baromètre du CSA ou s’attardent sur la nouvelle campagne de l’AJP, contre le sexisme dans les rédactions. Ce 8 mars sera, sans doute, rempli d’articles sur les femmes et leur place dans la société. Et après ? Les baromètres se succèderont-ils encore dix ans, étalant perpétuellement les mêmes constats ? Pour une meilleure représentation des femmes dans les médias, il faudra un sursaut collectif de la part de l’ensemble du secteur. Et si le travail introspectif de la presse indépendante, des magazines comme _Imagine_ et _Médor_, inspirait d’autres médias ? Compter, à l’évidence, n’est pas suffisant. Mais pour changer les mentalités et les représentations, c’est un début.
 
 **Sarah Freres**
 
-____________________
+***
 
 ###### *La diversité, en termes d’origines, se démarque dans nos chiffres comme notre point faible : environ 25 % de nos intervenants et intervenantes sont perçus comme issus de la diversité. Dès le départ, nous avons pris le pari de mesurer ce qui se « lit », ce qui est perceptible. Comme dans les différents baromètres en presse écrite, il s’agit de compter la part d’intervenants _« perçus comme issus de la diversité »._ En effet, en presse écrite, la diversité se « voit » moins qu’en télévision : en l’absence de photos, elle ne peut se deviner qu’au détour de la consonnance d’un prénom et d’un nom… Ou ne pas se deviner du tout.
