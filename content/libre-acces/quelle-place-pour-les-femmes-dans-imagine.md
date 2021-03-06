@@ -26,7 +26,7 @@ Sur les cinq numéros analysés en un an, une caractéristique revient systémat
 
 Par ailleurs, conformément aux valeurs défendues par _Imagine_, nous veillons toujours à donner la parole aux premières concernées – en tant que témoins et en tant qu’expertes - par les thématiques que nous couvrons. A titre d’exemple, citons notre dossier sur les stéréotypes racistes véhiculés par la communication des ONG ([Imagine 142](https://kiosque.imagine-magazine.com/)), celui sur les squats collectifs comme lieux de luttes politiques ([Imagine 140](https://kiosque.imagine-magazine.com/)), celui sur les luttes organisées en non-mixité ([Imagine 143](https://www.imagine-magazine.com/numero-en-cours/)).
 
-    https://infogram.com/pie-chart-1h0r6rp0ekqjw2e?live
+<iframe src="https://e.infogram.com/b9f3b89b-2bc4-4e36-8987-dd0518de112f?src=embed" title="Pie Chart" width="700" height="681" scrolling="no" frameborder="0" style="border:none;" allowfullscreen="allowfullscreen"></iframe><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px;width: 640px"><a href="https://infogram.com/b9f3b89b-2bc4-4e36-8987-dd0518de112f" style="color:#989898!important;text-decoration:none!important;" target="_blank">Pie Chart</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
 #### Nos baromètres ont-ils changé nos pratiques journalistiques ?
 
