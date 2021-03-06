@@ -6,7 +6,7 @@ description = "A l’occasion du 8 mars, journée internationale des droits des 
 draft = true
 img = "/v1615072792/IMG_4358_ueaz4d.jpg"
 img_credits = ""
-title = "Quelle place les femmes occupent-elles dans Imagine ? "
+title = "Quelle place occupent les femmes dans Imagine ? "
 title_alignment = "gauche"
 
 +++
