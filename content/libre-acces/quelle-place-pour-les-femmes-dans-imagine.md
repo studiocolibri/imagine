@@ -6,7 +6,7 @@ description = "A l’occasion du 8 mars, journée internationale des droits des 
 draft = true
 img = ""
 img_credits = ""
-title = "Quelle place occupent les femmes dans Imagine ? "
+title = "Quelle place les femmes occupent-elles dans Imagine ? "
 title_alignment = "gauche"
 
 +++
@@ -18,7 +18,7 @@ Et chez _Imagine_, qu’en est-il ? Puisqu’aucun baromètre ne mesure l’éga
 
 En revanche, cette démarche ne semble guère séduire les différents types de médias en Belgique : _Imagine_ et _Médor_ sont les deux seuls à éplucher, chacun à leur manière, leurs propres contenus. Ailleurs, d’après Martine Simonis, secrétaire générale de l’AJP, _« l’intérêt est là mais pas les moyens. Or, les chiffres ne s’amélioreront pas sans engagements de la part rédactions. Le changement doit venir de l’intérieur, des médias eux-mêmes »._
 
-#### Quelle est la place des femmes ?
+#### **Quelle est la place des femmes ?**
 
 Sur les cinq numéros analysés en un an, une caractéristique revient systématiquement : les femmes sont moins nombreuses mais ont davantage de place pour s’exprimer. Cela s’explique en partie par les grands entretiens : après l’anthropologue Philippe Descola, se sont succédé la politologue Olivia Umurerwa Rutazibwa, la philosophe du soin Claire Marin, l’actrice Ariane Ascaride et la philosophe des sciences Laurence Bouquiaux.
 
@@ -30,7 +30,7 @@ Par ailleurs, conformément aux valeurs défendues par _Imagine_, nous veillons 
 
 <align center> <script id="infogram_0_b9f3b89b-2bc4-4e36-8987-dd0518de112f" title="Baromètre Imagine" src="https://e.infogram.com/js/dist/embed.js?5ON" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/b9f3b89b-2bc4-4e36-8987-dd0518de112f" style="color:#989898!important;text-decoration:none!important;" target="_blank">Baromètre Imagine</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
-#### Nos baromètres ont-ils changé nos pratiques journalistiques ?
+#### **Nos baromètres ont-ils changé nos pratiques journalistiques ?**
 
 Une des particularités de notre baromètre est sa « fabrication maison » : il n’est pas externalisé. L’inconvénient de cette démarche : le recensement des intervenants et intervenantes selon différents critères (type de discours, mode de désignation, verbes utilisés, etc.) est un investissement énergivore et chronophage qui empiète sur notre temps de travail journalistique. Par exemple, pour mesurer le temps de parole des uns et des autres, il faut sélectionner, une à une, les citations pour connaître le nombre de mots. Son avantage : plus on compte soi-même, plus on pense à diversifier ses sources et élargir notre horizon en amont.
 
@@ -38,7 +38,7 @@ Une des particularités de notre baromètre est sa « fabrication maison » : il
 
 Alors, concrètement, qu’ont-ils changé dans nos pratiques ? _Primo_, lorsqu’il s’agit de penser un sujet collectivement, la question de l’égalité hommes-femmes et de la diversité est toujours sur la table. _« Attention, ici, il y a un déséquilibre »_. Par exemple : pour le dossier _« 2021, le futur leur échappe »_ (janvier-février 2021), la rédaction à veiller à ce que le groupe des « Espoirs d’Imagine » regroupe autant de jeunes hommes que de jeunes femmes, de milieux différents et avec des origines différentes. _Secundo_, de l’avis général, les baromètres ont apporté une forme de conscience de l’inclusion et de la diversité : en construisant un sujet, nous pensons aux résultats du baromètre, ce qui nous pousse (parfois pas suffisamment) à élargir nos horizons. _Tertio_… Quand on cherche, on trouve.
 
-#### De quoi parlent-elles ?
+#### **De quoi parlent-elles ?**
 
 Reste à savoir… De quoi parlent les femmes dans _Imagine_ ? Tentons l’exercice avec le numéro 143, actuellement en librairie. Les thèmes où elles interviennent en majorité : la grève de la faim, les investissements des banques dans les énergies fossiles, l’accès à l’interruption volontaire de grossesse, les sciences océaniques, l’inclusion dans la société belge, l’ethnofiction, les luttes organisées en non-mixité. Les thèmes où elles interviennent le moins : la politique (sur les liens entre l’écologie et l’extrême-droite), l’électrification du parc automobile belge, le nomadisme des ruchers.
 
