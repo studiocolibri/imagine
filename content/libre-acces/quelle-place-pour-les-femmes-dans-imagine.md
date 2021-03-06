@@ -7,7 +7,7 @@ draft = true
 img = "/v1615073612/IMG_4363_blocgd.jpg"
 img_credits = ""
 title = "Quelle place occupent les femmes dans Imagine ? "
-title_alignment = "gauche"
+title_alignment = "droite"
 
 +++
 **Il y a un an, _Imagine_ concevait son propre baromètre égalité-diversité. Depuis, cinq numéros ont été analysés. A l’occasion du 8 mars, journée internationale des droits des femmes, la rédaction raconte ce que ces statistiques ont changé en interne.**
