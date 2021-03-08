@@ -1,4 +1,5 @@
 ---
-title: Éditorial   
+title: Éditorial
 class: categories-list
+
 ---
