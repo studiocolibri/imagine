@@ -30,6 +30,7 @@ sections:
   match: "**/*"
   templates:
   - article
+  - titre-de-categorie
 - type: document
   path: data/infos.toml
   label: Informations générales
