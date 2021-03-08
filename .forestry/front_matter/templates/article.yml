@@ -7,6 +7,18 @@ fields:
   label: class
   default: single-e-magine
   hidden: true
+- name: cat
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: categories
+      file: 
+      path: 
+  label: Catégorie
 - type: text
   name: title
   label: Titre de l'article
@@ -28,10 +40,6 @@ fields:
 - type: datetime
   name: date
   label: Date
-- type: list
-  name: categories
-  label: Catégorie
-  description: A choisir entre Chronique, Editorial, Reportage ou Tribune
 - type: textarea
   name: description
   label: Description de l'article

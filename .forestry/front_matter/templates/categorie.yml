@@ -1,0 +1,25 @@
+---
+label: Catégorie
+hide_body: true
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Titre pour les URL
+  description: 'Titre à écrire sans espace, sans accent, sans caractère spéciaux,
+    uniquement utilisé pour les adresses web (URL). Ex: "Éditorial" =&gt; "editorial",
+    ou "À vous de jouer !" =&gt; "a-vous-de-jouer"'
+- name: title_humans
+  type: text
+  config:
+    required: false
+  label: 'Titre '
+  description: Titre qui sera affiché sur le site, sans restriction sur la manière
+    de l'écrire.
+- name: color
+  type: text
+  config:
+    required: false
+  label: Code couleur
+  description: 'Format hexadécimal, ex : #f5d771'
