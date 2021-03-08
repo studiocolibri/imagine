@@ -5,13 +5,6 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: content/categories
-  label: Catégories
-  create: all
-  match: "**/*"
-  templates:
-  - categorie
-- type: directory
   path: content
   label: Pages
   create: all
@@ -31,6 +24,13 @@ sections:
   templates:
   - article
   - titre-de-categorie
+- type: directory
+  path: content/categories
+  label: Catégories
+  create: all
+  match: "**/*"
+  templates:
+  - categorie
 - type: document
   path: data/infos.toml
   label: Informations générales
