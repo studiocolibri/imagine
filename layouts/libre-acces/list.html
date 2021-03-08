@@ -9,7 +9,7 @@
             </div>
             <ul class="e-magine__list-taxo">
                 {{ $catBundle := .Site.GetPage "/categories" }}
-                {{ range ( $catBundle.Resources.ByType "page" ) }}
+                {{ range ($catBundle.Resources.ByType "page") }}
                     <li>
                         <a class="btn btn--square" href="/libre-acces/{{ .Params.title }}" style="background-color:{{ .Params.color }};">{{ .Params.title_humans }}</a>
                     </li>
@@ -19,14 +19,12 @@
     </section>
     
     <section class="e-magine__articles cw">
-
         <ul class="e-magine__articles__list">
-            {{ $paginator := .Paginate .RegularPages.ByDate.Reverse 6 }}
+            {{ $paginator := .Paginate (where $.Site.RegularPages "Section" "libre-acces") }}
             {{ range $paginator.Pages }}
                 <li>{{ .Render "article" }}</li>
             {{ end }}
         </ul>
-
         {{ template "_internal/pagination.html" . }}
     </section>  
 {{ else }}
