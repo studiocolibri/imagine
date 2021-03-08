@@ -8,17 +8,12 @@ fields:
   default: single-e-magine
   hidden: true
 - name: cat
-  type: select
-  default: []
+  type: text
   config:
     required: false
-    options: []
-    source:
-      type: pages
-      section: categories
-      file: 
-      path: 
   label: Catégorie
+  description: 'Inscrire le nom "url" de la catégorie suivi de ".md". Ex: pour ajouter
+    la catégorie "Éditorial", il faut écrire "editorial.md"'
 - type: text
   name: title
   label: Titre de l'article
