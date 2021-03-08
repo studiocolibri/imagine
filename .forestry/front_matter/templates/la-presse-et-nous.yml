@@ -22,5 +22,3 @@ fields:
   - type: file
     name: img
     label: Image
-pages:
-- data/presse.yaml

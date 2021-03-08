@@ -38,9 +38,6 @@ sections:
   path: data/cta.toml
   label: Call to action
 - type: document
-  path: data/presse.yaml
-  label: La presse et nous
-- type: document
   path: data/colors.yaml
   label: Couleurs
 upload_dir: ''
