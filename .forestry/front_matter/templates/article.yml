@@ -53,23 +53,3 @@ fields:
   config:
     required: false
   label: Crédits de l'image d'illustration
-pages:
-- content/libre-acces/2021-le-futur-leur-echappe.md
-- content/libre-acces/5g-vers-une-course-folle.md
-- content/libre-acces/Leah.md
-- content/libre-acces/a-boulet-rouge.md
-- content/libre-acces/a-la-vitesse-des-plantes.md
-- content/libre-acces/aux-origines-de-la-catastrophe.md
-- content/libre-acces/closing-worlds-ou-comment-penser-le-renoncement.md
-- content/libre-acces/l-eco-acoustique-l-oreille-de-la-biodiversite.md
-- content/libre-acces/l-urgente-protection-des-deplaces-environnementaux.md
-- content/libre-acces/le-climat-deregle-affecte-la-sante-des-travailleurs.md
-- content/libre-acces/les-insoumis-du-marche.md
-- content/libre-acces/les-sciences-a-l-epreuve-democratique.md
-- content/libre-acces/lucie-pinson-reclaim-finance-une-nouvelle-centrale-au-charbon-c-est-50-ans-d-emissions-en-trop.md
-- content/libre-acces/machines-a-penser.md
-- content/libre-acces/nos-emotions-democratiques.md
-- content/libre-acces/pour-un-stoicisme-militant.md
-- content/libre-acces/quelle-place-pour-les-femmes-dans-imagine.md
-- content/libre-acces/une-carte-des-luttes-citoyennes-territoriales-et-environnementales.md
-- content/libre-acces/une-jeunesse-en-clair-obscur.md
