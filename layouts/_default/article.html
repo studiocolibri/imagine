@@ -1,8 +1,13 @@
 <article class="e-magine__article">
     <a class="e-magine__article__col left" href="{{ .Permalink }}">
-        <span class="e-magine__article__category" data-color="{{ range .Params.categories }}{{ . | plainify | lower }}{{ end}}">
-            {{ range .Params.categories }}{{ . }}{{ end}}
-        </span>
+        {{ $cat := .Params.cat }}
+        {{ with $.Site.GetPage "categories" }}
+            {{ with (index (.Resources.Match $cat) 0) }}
+                <span class="e-magine__article__category" style="background-color:{{ .Params.color }}">
+                    {{ .Params.title_humans }}
+                </span>
+            {{ end }}
+        {{ end }}
         <img class="e-magine__article__img" src="{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_427,c_fill,ar_1.548/{{ .Params.img }}" loading="lazy">
     </a>
     <div class="e-magine__article__col right">

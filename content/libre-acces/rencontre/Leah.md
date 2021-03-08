@@ -1,0 +1,41 @@
++++
+cat = "rencontre.md"
+class = "single-e-magine"
+date = 2020-11-03T23:00:00Z
+description = "De jeunes activistes ougandais se mobilisent contre la crise climatique. Rencontre virtuelle avec la figure phare du mouvement, âgée de seize ans."
+img = "/v1603979882/Sans_titre_n0gsoh.jpg"
+img_credits = "Leah Namugerwa"
+title = "Leah Namugerwa, une sentinelle climatique en Ouganda"
+title_alignment = "gauche"
+
++++
+**De jeunes activistes ougandais se mobilisent contre la crise climatique et pour la défense d’un patrimoine naturel emblématique : la forêt de Bugoma. Rencontre virtuelle avec la figure phare du mouvement, âgée de seize ans.**
+
+_« On n’a jamais rien appris à l’école concernant les changements climatiques et environnementaux. J’ai grandi en pensant que les difficultés auxquelles nous faisions face étaient imposées par Dieu, que les drames dont nous étions les témoins faisaient partie de son projet. Que c’était comme ça, qu’on ne pouvait rien y faire, qu’il n’y a pas de solutions. C’est toujours ce que pensent beaucoup d’Ougandais. Et c’est encore ce que les professeurs racontent à l’école. »_
+
+Leah Namugerwa se range, à seize ans, dans la catégorie des jeunes Ougandais « chanceux ». Peu d’adolescents ont accès aux informations télévisées, aux réseaux sociaux, à l’éducation dans la nation la plus jeune du monde – 40 millions d’habitants, dont 78 % ont moins de trente ans. A l’automne 2018, sur une chaîne locale, elle voit des coulées de boue tapisser le district de Bududa. Quarante morts au bas mot, deux cents enfants recherchés. L’annuelle et mortelle saison des glissements de terrain est devenue un marronnier médiatique. _« Les écoles des enfants étaient emportées par la boue, leurs parents mourraient, des cultures entières étaient détruites… Ces images étaient très perturbantes. Elles m’ont hanté pendant plusieurs mois »_, se souvient-elle.
+
+Ce même automne, elle entend parler d’une certaine Greta Thunberg et de sa pancarte « Skolstrejk för klimatet ». De fil en aiguille, l’adolescente fait le lien : ce dont on parle en Suède, on le vit en Ouganda. _« Les conséquences du changement climatique que Greta Thunberg décrivait sont des choses que je connais. Les inondations sur mon chemin pour aller à l’école, les cours interrompus parce que l’eau entre dans nos salles de classe… J’ai réalisé que les enfants étaient particulièrement touchés par tous ces phénomènes menaçant leur futur. Et que si nous ne faisions rien, nous allions continuer à souffrir. »_
+
+Alors, Leah devient gréviste du climat. En 2019, un vendredi de février, elle organise sa première marche dans la banlieue de Kampala, la capitale. Elle a quatorze ans et est toute seule. _« C’était très bizarre, personne ne me comprenait. »_ Deux ans plus tard, elle manifeste toujours chaque vendredi, gère 20 000 followers sur Twitter et apparaît comme la figure phare du mouvement Fridays for Future Uganda.
+
+A ceux qui la taxent d’idéaliste, cette activiste rétorque qu’elle ne demande _« pas grand-  
+chose »_, si ce n’est que le gouvernement ougandais respecte ses propres lois environnementales. Comme l’interdiction de l’utilisation, la vente et la production de sacs en plastique, déjà décrétée par le président (en 2015 et 2018) Yoweri Museveni. « _Au sein de la communauté est-africaine, le Rwanda l’a fait il y a des années, le Kenya en 2017 et la Tanzanie en 2019. En Ouganda, la loi a été votée mais n’a jamais été appliquée. Or, le plastique pollue nos forêts, nous empêche de nager dans les rivières, tue la faune aquatique… »_
+
+Sa deuxième revendication vise l’abattage des arbres. _« Selon la législation, si tu coupes deux arbres, tu dois en replanter quatre. Or, cette loi n’a jamais été appliquée, nulle part, dans mon pays. »_ Et à sa manière, elle montre l’exemple. Pour son anniversaire et celui des autres, elle plante des arbres indigènes pour lutter contre la déforestation : 200 pour ses quinze ans, 500 l’année suivante, 6 000 au total. _« J’aimerais que les arbres d’anniversaire deviennent une pratique culturelle. Partout dans le monde mais surtout ici, dans mon pays. D’ici 2040, nous pourrions ne plus avoir de forêts du tout. »_
+
+![Leah Namugerwa](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1603978229/EkjdC3zXUAUhKy4_oxen6g.jpg "Leah Namugerwa")
+
+Les chiffres ont tendance à lui donner raison : d’après le département de l’énergie et du développement minier, le patrimoine forestier est passé de 24 % en 1990 à 8 % en 2019. Un patrimoine que Leah entend défendre : elle ambitionne de devenir avocate spécialiste de l’environnement. Et espère voir naître une cour de justice dédiée à ces questions. _« Si ça existait, on pourrait peut-être sauver la forêt de Bugoma. »_ A l’ouest du pays, cette zone protégée de 900 km² est menacée par une entreprise de production de cannes à sucre.
+
+> _« Si le changement climatique était traité comme une urgence par les médias comme c’est le cas pour le Covid-19, je pense que les citoyens se mobiliseraient aussi pour contenir cette crise »_
+
+L’affaire débute en 2016 quand le roi de l’ancien royaume de Bunyoro-Kitara loue 900 hectares à Hoima Sugar Limited pour nonante-neuf ans. La National Forestry Authority (NFA) proteste, argumentant que cette zone est sous sa protection depuis 1932, porte l’affaire devant la Haute Cour… Et perd. En appel, la NFA essuie un nouvel échec. Ses gardes-forestiers sont contraints de quitter les lieux. Hoima Sugar, qui n’est pas autorisée à défricher la totalité des hectares acquis, avance la création d’emplois, l’amélioration des conditions de vie des habitants de la région et la création d’un pôle dédié à l’écotourisme… Sans convaincre.
+
+Selon des experts forestiers, sa destruction – même partielle – se répercuterait sur le niveau des eaux du Nil Blanc : comme toute forêt tropicale, Bugoma « transpire » et favorise les précipitations qui alimentent l’adjacent lac Albert, traversé par le fleuve. Les activistes rappellent quant à eux la richesse de ce trésor de biodiversité, corridor migratoire important et habitat de près de 600 chimpanzés, 225 espèces d’oiseaux, 260 espèces d’arbres ainsi que d’une population endémique de primates mangabeys. _« Il y a d’autres terres, d’autres endroits, d’autres alternatives pour la canne à sucre, que l’on exploite déjà en suffisance. Mais il n’y a pas d’alternative pour notre oxygène ! C’est comme si on allait respirer du sucre plutôt que de l’air ! »_, tempête-telle, de l’autre côté de l’écran, pointant son t-shirt vert flanqué d’un #SaveBugomaForest.
+
+Les vendredis de Leah sont désormais consacrés à la sauvegarde de Bugoma. Fin septembre, une campagne sur Twitter était lancée par une coalition de jeunes activistes. Dans leur viseur : le président ougandais, Hoima Sugar et l’instance gouvernementale National Environment Management Authority (NEMA), qui a délivré une licence au producteur de cannes à sucre. Ce qui ne semble pas plaire : l’accès de plusieurs comptes Twitter, dont celui de Leah, a été restreint. Dans le même temps, deux journalistes considérés comme _« les têtes pensantes de la campagne pour la sauvegarde de Bugoma »_ ont été placés en détention à Hoima, en marge d’une action pacifique.
+
+Quelques jours plus tard, le 25 septembre, des manifestants – dont cette jeune activiste - étaient arrêtés lors d’une marche à Kampala. Une tentative de restreindre leur liberté d’expression ? _« Tout ça est bizarre, non ? Ça n’était jamais arrivé avant,_ tique-t-elle, plusieurs jours après son arrestation. _Et je ne me sens pas en sécurité parce que j’attaque l’industrie du profit. Je pense que nous dérangeons, que nous sommes surveillés. Mais cela nous rend plus forts. Pourquoi devrions-nous arrêter ? Ceux qui détruisent notre environnement et notre futur ne prennent pas de congés. Mon futur, notre futur, est plus important que ma sécurité immédiate. Les voix des jeunes Ougandais pèsent lourd. Nous sommes les plus nombreux. Nous pouvons faire une différence. Il faut juste que nous parvenions à nous connecter, à nous rassembler pour faire basculer ce monde de profit vers un monde d’amour. J’ai confiance en nous. »_
+
+**Sarah Freres**

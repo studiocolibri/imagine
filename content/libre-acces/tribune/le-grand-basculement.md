@@ -1,0 +1,35 @@
+---
+cat: "tribune.md"
+class: single-e-magine
+title: Le grand basculement
+date: 2020-06-03T22:00:00.000+00:00
+description: Une tribune signée par la rédaction d'<em>Imagine Demain le monde</em>
+  et le comité 2020 Les Pisteurs d'Imagine.
+img: sans-titre2.jpg
+
+---
+En 2050, les livres d'histoire contemporaine raconteront peut-être que l'année 2020 fut celle d'un grand basculement. Où l'anticipation des crises permit à la communauté internationale de financer la transformation de l'économie fossile pour limiter l'élévation du thermomètre sous le seuil fatidique exigé par la science. Où la coopération finança les pays du Sud pour s'adapter aux conséquences désastreuses du dérèglement climatique. Où la logique effrénée de l'urgence, de l'hyper-mobilité et des marchés financiers ont progressivement laissé place au ralentissement de la société mondialisée, à la relocalisation des chaînes de production essentielles à l'humanité et à une redistribution équitable des richesses autour des biens communs. Où l'écosystème Terre, sous pression de toutes parts, entama sa lente régénération.
+
+Six mois après le déclenchement de la première pandémie du 21<sup>e</sup> siècle, il est difficile de présager que 2020 amorcera ce nouveau récit. Prise dans les nasses d'une impréparation coupable face aux nombreux avertissements adressés par différents acteurs scientifiques et institutionnels depuis quinze ans, les gouvernements occidentaux, à de rares exceptions près, ont fait la démonstration flagrante de la faillite d'un modèle de diminution des investissements publics. Une doctrine d'inspiration néolibérale sur laquelle l'Europe et nos Etats se sont reposés en grande partie ces trente dernières années et qui a accru notre dépendance et notre vulnérabilité.
+
+Incapables d'outiller de manière appropriée le personnel médical et de protéger la population autrement qu'en la confinant de manière infantilisante, comme au temps des grandes pestes du Moyen-Âge, les pouvoirs publics européens auront des comptes à rendre aux familles des centaines de milliers de victimes du coronavirus et à un personnel soignant héroïque. Les commissions d'enquête parlementaires et les procès qui suivront vraisemblablement sont des conditions importantes pour renouer la confiance du citoyen vis-à-vis des Etats garants de la sécurité collective. Mais ces actes de réparation seront loin d'être suffisants pour pouvoir reconstruire le monde d'après.
+
+## L'Etat au centre du jeu
+
+Catastrophe économique et sociale mondiale, la pandémie du coronavirus engendre une explosion de l'extrême pauvreté dans les pays du Sud et des millions de familles se retrouvent sans emploi dans les pays occidentaux, avec des couvertures sociales très variables. L'_homo economicus_ a une fâcheuse tendance à oublier qu'il fait partie intégrante du vivant. Les fondements de cette crise sanitaire se situent avec quasi certitude à cet endroit précis où les écosystèmes ont été détruits et où les espèces animales sont braconnées au mépris du principe de précaution, des règles de commerce international et de protection du travail.
+
+Comme nous l'écrivions dans notre tribune collective en mars, cette crise, pourvu qu'on veuille bien s'en saisir, offre l'opportunité à la communauté internationale de changer de cap face aux menaces systémiques du dérèglement climatique, de la raréfaction des ressources et des inégalités planétaires. Elle renvoie l'ensemble des décideurs politiques et de leurs partenaires sociétaux à l'impératif de refonder l'économie autant que la démocratie en conciliant justice sociale, fiscale et environnementale.
+
+**Lire aussi notre tribune collective >** [**Après la pandémie**](https://www.cncd.be/Apres-la-pandemie)
+
+Pour piloter ce chantier titanesque, l'Union européenne ne manque pas d'outils, à commencer par le pacte pour le climat, dont on attend qu'il soit financé enfin à la hauteur de son ambition. Osons rêver ! En trois mois, les pays de l'Union ont fait voler en éclat les dogmes de l'austérité assénés depuis plusieurs décennies au nom de croyances quasi-mystiques. Exit l'orthodoxie budgétaire des déficits limités, oubliées les condamnations de la concurrence déloyale liées aux aides d'Etat, envolé le credo de la main invisible du marché…
+
+L'Etat est revenu au centre du jeu et les milliers de milliards coulent à flots pour limiter la casse sociale et renflouer les entreprises au bord de la faillite.  Reste-t-il à mutualiser les dettes ? Les pays les plus réfractaires à ces options essentielles, à commencer par l'Allemagne, ne peuvent oublier que l'Europe s'est constituée sur un défi pacifique, économique et social. L'effort collectif fut proportionnel à la capacité contributive des six pays fondateurs.
+
+Malheureusement, les  plans de sauvetage publics s'apparentent à autant de chèques en blanc pour la vieille économie. Fondées sur une réelle urgence sociale, ces aides octroyées sans conditions ne modifieront pas l'ADN d'un modèle économique insoutenable pour la planète et les travailleurs. C'est pourtant à ce chantier-là que nos gouvernements devront s'attaquer sans délai, dans les prochains mois, pour concilier urgences sociale et environnementale afin de renforcer, maintenir ou recréer de la cohésion sociale là où elle est menacée. Il s'agira non seulement de protéger certains secteurs des seules lois d'un marché non régulé, mais de renforcer la démocratie dans les entreprises, d'assurer à chacun une dignité d'existence, d'approfondir la justice fiscale et environnementale, de limiter la consommation des ressources et de stimuler l'émergence d'une économie décarbonée. Autant de principes qui, mis en place de manière concertée, pourraient couper les ailes à la vague populiste et souverainiste qui s'appuie sur la fermeture des frontières pour dissiper les vertus pacifiques de la coopération et la richesse de la diversité culturelle.
+
+Que nos gouvernements se rassurent, ils ne sont pas sans ressources pour reconstruire le monde d'après. Les propositions multiples pour transformer notre modèle de société ont fleuri dans le confinement de ce mortel printemps 2020. Les nombreux éclaireurs de l'avenir de la société civile nous indiquent que ce futur souhaitable requiert notamment de mettre en place de nouvelles pratiques démocratiques, institutionnelles et participatives.
+
+Nourris par cette expérience douloureuse, sidérante et transformatrice de la pandémie, une grande partie des citoyens ont compris qu'il fallait sans doute changer le logiciel du système. Puisse l'Etat entendre cette attente pour être l'aiguillon visionnaire d'une transformation culturelle qui conduirait notre civilisation, en 2050, à revoir les anciennes tables des lois du Marché. Où la compétitivité, les cadences infernales et la domination de la nature auraient laissé place, dans les livres d'histoire, aux valeurs de coopération, d'équité et de soutenabilité.
+
+**Une tribune signée par la rédaction d'_Imagine Demain le monde_ (Laure de Hesselle, Sarah Freres, Christophe Schoune, Hugues Dorzée) et le comité 2020 Les Pisteurs d'_Imagine_**

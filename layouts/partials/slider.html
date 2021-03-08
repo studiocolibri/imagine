@@ -1,5 +1,5 @@
-{{ $type := .type }}
 {{ $items := .items }}
+{{ $ctx := .ctx }}
 
 <div class="slider__controls">
     <button>
@@ -9,42 +9,34 @@
         <svg xmlns="http://www.w3.org/2000/svg" width="8.334" height="16.159" viewBox="0 0 8.334 16.159"><path d="M937,1438.5l6.254,7.246L937,1453.371" transform="translate(-936.227 -1437.847)" fill="none" stroke="#9D9D9D" stroke-width="2"></path></svg>
     </button>
 </div>
+
 <ul class="slider__list">
-    {{ if eq $type "libre-acces" }}
-        {{ range $items }}
-            <li class="slider__item--e-magine">
-                <a href="{{ .Permalink }}">
-                    <article>
-                        <span class="slider__category" data-color="{{ range first 1 .Params.categories }}{{ . | plainify | lower }}{{ end}}">
-                            {{ range first 1 .Params.categories }}{{ . }}{{ end}}
-                        </span>
-                        <img
-                            class="slider__img"
-                            src="{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_435,c_fill,ar_1.548/{{ .Params.img }}"
-                            width="435"
-                            height="281"
-                            role="presentation"
-                            alt=""
-                            loading="lazy">
-                        <time class="slider__date" datetime="{{ .Date.Format "02-01-06"}}">{{ .Date.Format "02.01.06"}}</time>
-                        <h4 class="slider__title">{{ .Title }}</h4>
-                        <p class="slider__description">{{ .Params.description | markdownify | truncate 180 }}</p>
-                    </article>
-                </a>
-            </li>
-        {{ end }}
-    {{ else }}
-        {{ range $items }}
-            <li class="slider__item--presse">
-                <a href="{{ .link }}">
-                    <article>
-                        <img class="slider__img" src="{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_700/{{ .img }}" role="presentation">
-                        <time class="slider__date" datetime="{{ dateFormat "02-01-06" .date }}">{{ dateFormat "02.01.06" .date }}</time> - <span class="slider__origin">{{ .origin }}</span>
-                        <h4 class="slider__title">{{ .title }}</h4>
-                    </article>
-                </a>
-            </li>
-        {{ end }}
+    {{ range $items }}
+        <li class="slider__item--e-magine">
+            <a href="{{ .Permalink }}">
+                <article>
+                    {{ $cat := .Params.cat }}
+                    {{ with .Site.GetPage "categories" }}
+                        {{ with (index (.Resources.Match $cat) 0) }}
+                            <span class="slider__category" style="background-color:{{ .Params.color }}">
+                                {{ .Params.title_humans }}
+                            </span>
+                        {{ end }}
+                    {{ end }}
+                    <img
+                        class="slider__img"
+                        src="{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_435,c_fill,ar_1.548/{{ .Params.img }}"
+                        width="435"
+                        height="281"
+                        role="presentation"
+                        alt=""
+                        loading="lazy">
+                    <time class="slider__date" datetime="{{ .Date.Format "02-01-06"}}">{{ .Date.Format "02.01.06"}}</time>
+                    <h4 class="slider__title">{{ .Title }}</h4>
+                    <p class="slider__description">{{ .Params.description | markdownify | truncate 180 }}</p>
+                </article>
+            </a>
+        </li>
     {{ end }}
 </ul>
 <noscript><style>.slider__controls{display:none}.slider__list{display:flex;overflow:auto}.slider__list li{list-style:none;margin:0 20px 20px 0;width:33%;min-width:280px;max-width:480px}</style></noscript>

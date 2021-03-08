@@ -11,23 +11,6 @@ picture {
     display:block;
 }
 
-*[data-color] {
-    background-color:silver;
-}
-
-*[data-color="chronique"] {
-    background-color:$yellow;
-}
-*[data-color="editorial"] {
-    background-color:$lightmain;
-}
-*[data-color="reportage"] {
-    background-color:$pink;
-}
-*[data-color="tribune"] {
-    background-color:#66bece;
-}
-
 a {
 	color: $main;
 }

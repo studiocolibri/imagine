@@ -1,33 +1,54 @@
 {{ define "main" }}
 
-<section class="e-magine__header page-header">
-    <div class="e-magine__header__inner cw">
-        <div class="page-header__title">
-            <h1>{{ .Title}}</h1>
-        </div>
-        <ul class="e-magine__list-taxo">
-            {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
-                {{ range $key, $value := $taxonomy }}
+{{ $sectionPage := .Site.GetPage "section" "libre-acces" }}
+{{ if .IsAncestor $sectionPage }}
+    <section class="e-magine__header page-header">
+        <div class="e-magine__header__inner cw">
+            <div class="page-header__title">
+                <h1>{{ .Title}}</h1>
+            </div>
+            <ul class="e-magine__list-taxo">
+                {{ $catBundle := .Site.GetPage "/categories" }}
+                {{ range ( $catBundle.Resources.ByType "page" ) }}
                     <li>
-                        <a class="btn btn--square" href="/{{ $taxonomyname }}/{{ $key | urlize }}" data-color="{{ $key | plainify | lower }}">{{ trim $key "[]" }}</a>
+                        <a class="btn btn--square" href="/libre-acces/{{ .Params.title }}" style="background-color:{{ .Params.color }};">{{ .Params.title_humans }}</a>
                     </li>
                 {{ end }}
+            </ul>
+        </div>
+    </section>
+    
+    <section class="e-magine__articles cw">
+
+        <ul class="e-magine__articles__list">
+            {{ $paginator := .Paginate .RegularPages.ByDate.Reverse 6 }}
+            {{ range $paginator.Pages }}
+                <li>{{ .Render "article" }}</li>
             {{ end }}
         </ul>
-    </div>
-</section>
 
-<section class="e-magine__articles cw">
+        {{ template "_internal/pagination.html" . }}
+    </section>  
+{{ else }}
+    <section class="page-header">
+        <div class="page-header__title cw">
+            <h1>{{ .Title }}</h1>
+        </div>
+    </section>
 
-    <ul class="e-magine__articles__list">
-        {{ $paginator := .Paginate .Pages.ByDate.Reverse 6 }}
-        {{ range $paginator.Pages }}
-            <li>{{ .Render "article" }}</li>
-        {{ end }}
-    </ul>
+    <section class="list-taxonomy cw">
+        <p class="e-magine__articles__page-number"><a href="/libre-acces" class="btn btn--reverse">Retour vers tous les articles</a></p>
+        
+        <ul class="e-magine__articles__list">
+            {{ $paginator := .Paginate .Pages.ByDate.Reverse 6 }}
+            {{ range $paginator.Pages }}
+                <li>{{ .Render "article" }}</li>
+            {{ end }}
+        </ul>
 
-    {{ template "_internal/pagination.html" . }}
-</section>  
+        {{/*  {{ template "_internal/pagination.html" . }}  */}}
+    </section>
+{{ end }}
 
 {{ partial "s-abonner.html" . }}
 

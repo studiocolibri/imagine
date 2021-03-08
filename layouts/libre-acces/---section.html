@@ -1,0 +1,25 @@
+{{ define "main" }}
+
+<section class="page-header">
+    <div class="page-header__title cw">
+        <h1>{{ .Title }}</h1>
+    </div>
+</section>
+
+<section class="list-taxonomy cw">
+    <p class="e-magine__articles__page-number"><a href="/libre-acces" class="btn btn--reverse">Retour vers tous les articles</a></p>
+    
+    <ul class="e-magine__articles__list">
+        {{ $paginator := .Paginate .Pages.ByDate.Reverse 6 }}
+        {{ range $paginator.Pages }}
+            {{ .Title}} 
+            <!-- <li>{{/* .Render "article" */}}</li> -->
+        {{ end }}
+    </ul>
+
+    {{/*  {{ template "_internal/pagination.html" . }}  */}}
+</section>
+
+{{ partial "s-abonner.html" . }}
+
+{{ end }}

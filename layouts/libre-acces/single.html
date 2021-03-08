@@ -18,9 +18,13 @@
     </style>
     <header class="single-e-magine__header">
         <div class="single-e-magine__category{{ if eq .Params.title_alignment "droite" }} text-right{{ end }}">
-            <p data-color="{{ range first 1 .Params.categories }}{{ . | plainify | lower }}{{ end}}">
-                {{ range first 1 .Params.categories }}{{ . }}{{ end}}
-            </p>
+            {{ with .Site.GetPage "categories" }}
+                {{ with (index (.Resources.Match $.Params.cat) 0) }}
+                    <p style="background-color:{{ .Params.color }}">
+                        {{ .Params.title_humans }}
+                    </p>
+                {{ end }}
+            {{ end }}
         </div>
         <h1 class="single-e-magine__title{{ if eq .Params.title_alignment "droite" }} text-right{{ end }}">{{ .Title }}</h1>
         <a href="#contenu-de-l-article" class="single-e-magine__more-img">
@@ -37,7 +41,6 @@
 		<p>
             <a href="https://www.facebook.com/sharer.php?u={{ .Permalink }}" target="_blank" rel="noopener noreferrer" style="text-decoration: none; padding-right:0">Partager sur Facebook</a>
         </p>
-        <!--<a href="http:/twitter.com/share?text={{.Title}};url={{.Permalink}}" target="_blank" style="text-decoration: none; padding-left:20px">Partager sur Twitter</a>-->
         <p class="single-e-magine__back-to-list">
             <a class="single-e-magine__back-to-list__btn btn btn--reverse" href="/libre-acces">Retour</a>
         </p>
