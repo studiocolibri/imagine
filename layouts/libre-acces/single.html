@@ -18,6 +18,7 @@
     </style>
     <header class="single-e-magine__header">
         <div class="single-e-magine__category{{ if eq .Params.title_alignment "droite" }} text-right{{ end }}">
+            {{ $cat := .Params.cat }}
             {{ with .Site.GetPage "categories" }}
                 {{ with (index (.Resources.Match $.Params.cat) 0) }}
                     <p style="background-color:{{ .Params.color }}">
