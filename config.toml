@@ -30,3 +30,4 @@ url = "/notre-projet/"
 weight = 3
 [params]
 cloudinary_url = "https://res.cloudinary.com/drg3m95yg/image/upload/"
+disableKinds = ["categories", "tags"]
