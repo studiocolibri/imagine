@@ -1,5 +1,5 @@
 +++
-cat = "reportage.md"
+cat = "categories/reportage.md"
 class = "single-e-magine"
 date = 2020-06-03T22:00:00Z
 description = "Les vagues de chaleurs répétées vont impacter davantage les travailleurs les plus exposés (construction, agriculture, transports…). Comment s'y prépare-t-on en Belgique ?"
