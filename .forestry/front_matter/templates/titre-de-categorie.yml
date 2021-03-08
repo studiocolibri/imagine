@@ -16,6 +16,7 @@ fields:
   default: categories-list
   hidden: true
 pages:
+- content/libre-acces/chronique/_index.md
 - content/libre-acces/decouverte/_index.md
 - content/libre-acces/dossier/_index.md
 - content/libre-acces/editorial/_index.md

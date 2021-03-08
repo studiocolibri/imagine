@@ -1,4 +1,5 @@
 ---
-title: Chronique    
+title: Chronique
 class: categories-list
+
 ---
