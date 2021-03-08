@@ -1,4 +1,17 @@
 ---
 label: Titre de catégorie
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Titre de la catégorie
+  description: Aucune restriction sur la manière de l'écrire
+- name: class
+  type: text
+  config:
+    required: false
+  label: class
+  default: categories-list
+  hidden: true
