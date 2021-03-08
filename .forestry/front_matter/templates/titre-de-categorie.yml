@@ -15,3 +15,5 @@ fields:
   label: class
   default: categories-list
   hidden: true
+pages:
+- content/libre-acces/tribune/_index.md

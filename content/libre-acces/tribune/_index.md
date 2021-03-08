@@ -1,4 +1,5 @@
 ---
-title: Tribune   
+title: Tribune
 class: categories-list
+
 ---
