@@ -1,5 +1,6 @@
 ---
 title: analyse
-title_humans : Analyse
-color: "#c0c0c0"
+title_humans: Analyse
+color: "#f78585"
+
 ---
