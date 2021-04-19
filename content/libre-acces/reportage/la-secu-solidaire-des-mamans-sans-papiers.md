@@ -7,7 +7,7 @@ draft = true
 img = "/v1618866857/Mamans_hvczjg.jpg"
 img_credits = "Sarah Freres"
 title = "La sécu solidaire des mamans sans-papiers"
-title_alignment = "gauche"
+title_alignment = "droite"
 
 +++
 _"Les enfants sont appelés à utiliser uniquement le jardin mis à leur disposition pour jouer ou se divertir"._ Au lendemain de la réouverture des commerces, lors de la phase 1B du déconfinement, ce point de la charte de vie communautaire de l’Ostal, une occupation de la Voix des Sans-Papiers (VSP) de Liège, nous renvoie à nos privilèges. En attendant qu’arrivent Nadine et Nenette, les deux portes-voix des habitantes, l’excitation ressentie pour ce premier reportage après huit semaines vierges de terrain se heurte à une réalité effacée : la perpétuelle vie sous cloche des personnes sans titre de séjour et installées de longue date sur le sol belge. _"Nous sommes les oubliés de ce monde, confirme Nadine, une heure et demie plus tard. On parle des demandeurs d’asile, des migrants. Jamais des sans-papiers. Etre sans-papier, c’est comme être rien du tout. Notre situation nous écrase, nous tue à petit feu. On a peut-être bonne mine comme ça mais, vous savez, on ne va vraiment pas bien."_
