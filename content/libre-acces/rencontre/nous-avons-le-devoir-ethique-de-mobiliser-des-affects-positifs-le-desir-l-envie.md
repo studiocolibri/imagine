@@ -2,15 +2,15 @@
 cat = "Rencontre"
 class = "single-e-magine"
 date = 2019-05-07T22:00:00Z
-description = ""
+description = "Alain Damasio est l’un des écrivains de science-fiction français les plus reconnus. Militant, engagé, ses livres sont à la fois des cris d’alerte et des appels à la résistance. Entretien."
 draft = true
 img = "/v1618868666/133_AlainDamasio1_v8cfz8.jpg"
 img_credits = "Yohanne Lamoulère"
 title = "Nous avons le devoir éthique de mobiliser des affects positifs,  le désir, l’envie"
-title_alignment = "gauche"
+title_alignment = "droite"
 
 +++
-##### Bien que rare – il a écrit trois romans en vingt-cinq ans – Alain Damasio est l’un des écrivains de science-fiction français les plus reconnus. Militant, engagé, ses livres sont à la fois des cris d’alerte et des appels à la résistance. Il publie aujourd’hui Les Furtifs, où il nous entraîne à la découverte de ces êtres extraordinaires, dans un monde ultra libéral (les villes sont privatisées, découpées en secteurs accessibles en fonction des revenus), ultra connecté, ultra contrôlé.
+##### Bien que rare – il a écrit trois romans en vingt-cinq ans – Alain Damasio est l’un des écrivains de science-fiction français les plus reconnus. Militant, engagé, ses livres sont à la fois des cris d’alerte et des appels à la résistance. Il publie aujourd’hui _Les Furtifs_, où il nous entraîne à la découverte de ces êtres extraordinaires, dans un monde ultra libéral (les villes sont privatisées, découpées en secteurs accessibles en fonction des revenus), ultra connecté, ultra contrôlé.
 
 **Est-ce qu’un écrivain, particulièrement un écrivain de science-fiction, peut être un lanceur d’alerte ?**
 
