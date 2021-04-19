@@ -4,8 +4,8 @@ class = "single-e-magine"
 date = 2020-06-04T22:00:00Z
 description = "Sur les hauteurs de Liège, des mamans sans titre de séjour légal, réunies au sein d’une occupation, ont créé leur propre sécurité sociale. Pour sortir de la charité et se soutenir collectivement."
 draft = true
-img = "/v1618866857/Mamans_hvczjg.jpg"
-img_credits = "Sarah Freres"
+img = "/v1618869011/IMG_3463_ylrgam.jpg"
+img_credits = "Les femmes sans-papiers ont été parmi les premières à coudre des masques au début de la crise sanitaire. Sarah Freres"
 title = "La sécu solidaire des mamans sans-papiers"
 title_alignment = "droite"
 
@@ -17,6 +17,8 @@ Dans le hall d’entrée, deux vieilles machines à coudre côtoient le planning
 Nadine vient de République démocratique du Congo et Nenette d’Angola. Il y a plus de cinq ans, toutes deux ont demandé, à deux reprises, la protection internationale. La première a été rejetée faute de preuves convaincantes, la seconde faute de preuves supplémentaires. L’une a séjourné dans un centre Fedasil, puis une Initiative Locale d’Accueil (ILA), l’autre est passée par un centre de retour. Leur rapatriement étant impossible, toutes deux ont fini à la rue avec leurs enfants. Inaccueillables ici, inexpulsables là-bas, elles sont donc condamnées – jusqu’à une éventuelle régularisation – à vivoter dans la zone grise de la clandestinité. Selon les estimations, entre 100 000 à 150 000 personnes, soit 1 % de la population belge, pataugent dans une situation plus ou moins similaire.
 
 Epaulées par des citoyennes, les huit mamans de l’Ostal ont lancé, en mars 2018, leur propre de sécurité sociale : la sécu solidaire. _"Recréer la philosophie de la sécurité sociale, telle qu’elle a été pensée après la Seconde Guerre mondiale, n’a pas été si compliqué. Les mamans avaient déjà toutes intégré les notions de coopération et d’entraide. Par contre, on a dû introduire l’idée que l’aide varie en fonction de la taille de la famille, de l’importance des besoins. Au début, ça a pu créer quelques tensions mais à présent, une sorte d’équilibre s’est créé",_  explique Isabelle Ponet, l’une des initiatrices du projet.
+
+![Pour Nadine et Nenette, leur système de sécu solidaire est une façon de récupérer un peu d’autonomie.](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1618869116/IMG_3468_ukpwca.jpg "Pour Nadine et Nenette, leur système de sécu solidaire est une façon de récupérer un peu d’autonomie.")
 
 Les conditions d’accès à la sécu solidaire reposent sur le militantisme : être membre de la VSP, se rendre aux assemblées générales et aux manifestations. Il y a quelques mois, les personnes sans-papiers d’une autre occupation à Burenville leur ont emboîté le pas et ont ouvert ce système à ceux qui n’y habitent pas. _« Nous sommes des citoyens comme tout le monde, nous avons quelque chose à apporter à la société, nous devons travailler pour nous-mêmes et pour les autres. Cotiser pour que les richesses soient redistribuées en fonction des besoins est un système juste »_, souligne Nenette, qui se sent obligée de rappeler que les sans-papiers sont des êtres humains qui _« ne viennent pas ici pour voler le travail des Belges »_. A sa manière, la sécu solidaire semble damer le pion aux stéréotypes sur les sans-papiers, dont l’image de _« profiteurs »_ a été martelée – notamment dans les médias – tout au long de l’histoire de l’immigration.
 
