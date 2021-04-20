@@ -1,5 +1,5 @@
 +++
-cat = "Reportage"
+cat = "reportage.md"
 class = "single-e-magine"
 date = 2020-06-04T22:00:00Z
 description = "Sur les hauteurs de Liège, des mamans sans titre de séjour légal, réunies au sein d’une occupation, ont créé leur propre sécurité sociale. Pour sortir de la charité et se soutenir collectivement."
