@@ -3,8 +3,8 @@ cat = "rencontre.md"
 class = "single-e-magine"
 date = 2019-05-07T22:00:00Z
 description = "Alain Damasio est l’un des écrivains de science-fiction français les plus reconnus. Militant, engagé, ses livres sont à la fois des cris d’alerte et des appels à la résistance. Entretien."
-img = "/v1618868666/133_AlainDamasio1_v8cfz8.jpg"
-img_credits = "Yohanne Lamoulère"
+img = "/v1618911014/15533330161_6f5512e8a5_o_ulgmhl.jpg"
+img_credits = "Olivier Ezratty"
 title = "\"Nous avons le devoir éthique de mobiliser des affects positifs,  le désir, l’envie\""
 title_alignment = "droite"
 
@@ -22,6 +22,8 @@ _Ce qui me touche, c’est le techno-capitalisme, ce couplage entre la société
 **Est-ce que la résistance n’est pas encore plus compliquée du coup : l’ennemi, c’est nous-mêmes ?**
 
 _C’est à la fois plus facile parce que nous avons le sentiment que nous pouvons mener la révolution nous-mêmes, et sans rencontrer beaucoup d’opposition – ce n’est pas un système qui est très contraignant, n’importe qui peut faire comme moi, ne pas avoir de portable, ou décider de ne se connecter qu’une heure par jour, de ne pas être sur les réseaux sociaux. C’est en même temps extrêmement difficile, parce qu’il y a un tissage global, collectif autour de nous, nous sommes dans un monde où il y a beaucoup de mimétisme, et c’est difficile d’en sortir. Pour mobiliser autour d’une cause, tu vas essayer d’utiliser la viralité des réseaux, faire signer des pétitions en ligne, ramener les gens sur un lieu, mais tu n’auras jamais de garantie. Si on veut mobiliser, il faut jouer davantage encore sur la corde du désir. Ou alors sur la peur, mais c’est un vecteur qu’on doit absolument s’interdire si on est vraiment à gauche. Mobiliser les peurs, c’est extrêmement efficace, ça marche, mais c’est le vecteur de pouvoir de la droite. Nous avons le devoir éthique de mobiliser des affects positifs, le désir et l’envie. Donc c’est plus compliqué._
+
+![Yohanne Lamoulère](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1618868413/133_AlainDamasio_ui1ibw.jpg "Yohanne Lamoulère")
 
 **Dans la SF justement il y a beaucoup de recours à la peur, beaucoup de récits catastrophistes. Est-ce qu’il n’y a pas un risque d’accoutumance : on avait prévu quelque chose de pire, donc la situation n’est pas si grave…**
 
