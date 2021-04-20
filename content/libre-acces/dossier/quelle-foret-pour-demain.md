@@ -4,8 +4,8 @@ class = "single-e-magine"
 date = 2017-07-05T22:00:00Z
 description = "A quoi ressembleront nos forêts dans 100 ans ? Imagine dresse le portrait de la forêt wallonne du 21e siècle, au travers de cinq grandes urgences. "
 draft = true
-img = "/v1618905381/Capture_d_%C3%A9cran_2021-04-20_095600_wsgqqv.jpg"
-img_credits = "Pour être durable et résistante aux changements climatiques, la forêt du 21e siècle, devra être irrégulière et diversifiée. Ici, le massif de Saint-Miche-Freyr, en Ardenne.. Eric Huybrechts"
+img = "/v1618905486/andrew-coelho-aL7SA1ASVdQ-unsplash_g92i0p.jpg"
+img_credits = "Andrew Coelho / Unsplash"
 title = "Quelle forêt pour demain ? "
 title_alignment = "gauche"
 
