@@ -3,7 +3,6 @@ cat = "Reportage"
 class = "single-e-magine"
 date = 2020-06-04T22:00:00Z
 description = "Sur les hauteurs de Liège, des mamans sans titre de séjour légal, réunies au sein d’une occupation, ont créé leur propre sécurité sociale. Pour sortir de la charité et se soutenir collectivement."
-draft = true
 img = "/v1618869011/IMG_3463_ylrgam.jpg"
 img_credits = "Les femmes sans-papiers ont été parmi les premières à coudre des masques au début de la crise sanitaire. Sarah Freres"
 title = "La sécu solidaire des mamans sans-papiers"
