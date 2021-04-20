@@ -3,7 +3,6 @@ cat = "Rencontre"
 class = "single-e-magine"
 date = 2019-05-07T22:00:00Z
 description = "Alain Damasio est l’un des écrivains de science-fiction français les plus reconnus. Militant, engagé, ses livres sont à la fois des cris d’alerte et des appels à la résistance. Entretien."
-draft = true
 img = "/v1618868666/133_AlainDamasio1_v8cfz8.jpg"
 img_credits = "Yohanne Lamoulère"
 title = "Nous avons le devoir éthique de mobiliser des affects positifs,  le désir, l’envie"
