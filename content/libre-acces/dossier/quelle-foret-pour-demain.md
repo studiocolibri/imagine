@@ -1,5 +1,5 @@
 +++
-cat = "Dossier"
+cat = "dossier.md"
 class = "single-e-magine"
 date = 2017-07-05T22:00:00Z
 description = "A quoi ressembleront nos forêts dans 100 ans ? Imagine dresse le portrait de la forêt wallonne du 21e siècle, au travers de cinq grandes urgences. "
