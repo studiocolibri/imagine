@@ -49,5 +49,6 @@ fields:
     required: false
   label: Crédits de l'image d'illustration
 pages:
+- content/libre-acces/dossier/quelle-foret-pour-demain.md
 - content/libre-acces/rencontre/nous-avons-le-devoir-ethique-de-mobiliser-des-affects-positifs-le-desir-l-envie.md
 - content/libre-acces/reportage/la-secu-solidaire-des-mamans-sans-papiers.md
