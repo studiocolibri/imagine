@@ -1,7 +1,7 @@
 +++
 cat = "editorial.md"
 class = "single-e-magine"
-date = ""
+date = 2021-05-05T22:00:00Z
 description = "Dans son édito, Hugues Dorzée, rédacteur en chef d’Imagine, rappelle que l'accès à la culture est un droit fondamental de la Déclaration universelle des droits de l'homme."
 draft = true
 img = ""
