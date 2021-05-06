@@ -2,14 +2,14 @@
 cat = "chronique.md"
 class = "single-e-magine"
 date = 2021-05-05T22:00:00Z
-description = "\"Métal chroquant\" est une chronique proposée par le collectif L-Slam. Dans notre numéro 144, elle est signée Catherine Barsics, poétesse et performeuse."
+description = "\"Métal croquant\" est une chronique proposée par le collectif L-Slam. Dans notre numéro 144, elle est signée Catherine Barsics, poétesse et performeuse."
 img = "/v1619101123/damir-yakupov-hGCEVA4pLDs-unsplash_fcaerq.jpg"
 img_credits = "Damir Yakupov / Unsplash"
 title = "En cellule"
 title_alignment = "gauche"
 
 +++
-**"Métal chroquant" est une chronique proposée par le collectif L-Slam. Dans notre** [**numéro 144**](https://kiosque.imagine-magazine.com/)**, elle est signée Catherine Barsics, poétesse et performeuse.**
+**"Métal croquant" est une chronique proposée par le collectif L-Slam. Dans notre** [**numéro 144**](https://kiosque.imagine-magazine.com/)**, elle est signée Catherine Barsics, poétesse et performeuse.**
 
 Lorsqu’elles sont soumises à des contraintes environnementales, les espèces vivantes évoluent sous l’effet de ces contraintes. Cette « pression de sélection » est parfois utilisée par l’Homme. En cultivant des plantes dans des milieux particuliers (par exemple enrichis en herbicides ou en CO2 de manière croissante), il est possible de sélectionner progressivement les plantes les plus résistantes ou les plus productives.
 
