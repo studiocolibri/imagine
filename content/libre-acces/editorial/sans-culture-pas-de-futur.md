@@ -2,9 +2,9 @@
 cat = "editorial.md"
 class = "single-e-magine"
 date = 2021-05-05T22:00:00Z
-description = "Dans son édito, Hugues Dorzée, rédacteur en chef d’Imagine, rappelle que l'accès à la culture est un droit fondamental de la Déclaration universelle des droits de l'homme."
+description = "Dans son édito, Hugues Dorzée, rédacteur en chef d’Imagine, rappelle que l'accès à la culture est un droit fondamental."
 img = "/v1620293425/Editoculture_mmwpgx.jpg"
-img_credits = ""
+img_credits = "Julie Graux"
 title = "Sans culture, pas de futur"
 title_alignment = "gauche"
 
