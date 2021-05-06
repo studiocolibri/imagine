@@ -3,7 +3,6 @@ cat = ""
 class = "single-e-magine"
 date = 2021-05-05T22:00:00Z
 description = "\"Métal chroquant\" est une chronique proposée par le collectif L-Slam. Dans notre numéro 144, elle est signée Catherine Barsics, poétesse et performeuse."
-draft = true
 img = "/v1619101123/damir-yakupov-hGCEVA4pLDs-unsplash_fcaerq.jpg"
 img_credits = "Damir Yakupov / Unsplash"
 title = "En cellule"
