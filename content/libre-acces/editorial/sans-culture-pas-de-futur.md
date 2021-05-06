@@ -6,7 +6,7 @@ description = "Dans son édito, Hugues Dorzée, rédacteur en chef d’Imagine, 
 img = "/v1620293425/Editoculture_mmwpgx.jpg"
 img_credits = "Julie Graux"
 title = "Sans culture, pas de futur"
-title_alignment = "gauche"
+title_alignment = "droite"
 
 +++
 _« Artistes à vendre : trois comédiennes, un metteur en scène, une régisseuse, un costumier. Etat : un peu rouillé(e)s. Raison de la vente : ne sert plus. Faire une offre pour le lot. »_
