@@ -13,8 +13,8 @@ section_one:
     marquer joyeusement le coup.\n\nD’ici là, vous avez la possibilité de vous abonner
     à l’intégralité de nos archives (144 numéros, plus de 3 000 articles, des dossiers
     thématiques…) à prix démocratique (abonnement papier + digital + pass archives
-    pour 70 euros) en passant par notre kiosque. Ou de voyager à travers toutes les
-    couvertures qui ont marqué l'histoire d'Imagine. \n"
+    pour 70 euros) en passant par notre kiosque. Ou voyagez à travers toutes les couvertures
+    qui ont marqué l'histoire d'Imagine. \n"
   img: "/v1620385363/Site_mn5nbz.png"
   btn_text: En savoir plus
   btn_link: "/imagine-un-jeune-magazine-de-25-ans"
