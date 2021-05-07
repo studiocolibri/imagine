@@ -2,7 +2,7 @@
 cat = "analyse.md"
 class = "single-e-magine"
 date = 2021-05-05T22:00:00Z
-description = "Quelle est l'impact environnemental de \nnos objets ? Imagine s'est penché sur cette question et a mesuré... Son propre impact. "
+description = "Quel est l'impact environnemental de \nnos objets ? Imagine s'est penché sur cette question et a mesuré... Son propre impact. "
 img = "/v1620380230/duy-hoang-ojZ4wJNUM5w-unsplash_ujoxdi.jpg"
 img_credits = "Duy Hoang / Unsplash "
 title = "L'impact environnemental de nos objets"
