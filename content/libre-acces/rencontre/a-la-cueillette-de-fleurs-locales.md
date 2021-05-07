@@ -2,7 +2,7 @@
 cat = "rencontre.md"
 class = "single-e-magine"
 date = 2021-05-06T22:00:00Z
-description = "En Belgique, la culture de fleurs locales, éco-responsables et bio se répand. Rencontre avec Elodie Gernay, fleuriste liégeoise dont les bouquets zéro-déchets respectent la nature et les rythmes saisonniers. "
+description = "La culture de fleurs locales, éco-responsables et bio se répand. Rencontre avec Elodie Gernay, fleuriste dont les bouquets zéro-déchets respectent la nature et les rythmes saisonniers. "
 img = "/v1620382999/IMG_4726_f0qmwr.jpg"
 img_credits = "Sarah Freres"
 title = "A la cueillette de fleurs locales"
