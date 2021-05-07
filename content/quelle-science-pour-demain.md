@@ -1,6 +1,5 @@
 +++
 class = "notre-manifeste single-page"
-draft = true
 title = "Imagine, un jeune magazine de 25 ans"
 
 +++
