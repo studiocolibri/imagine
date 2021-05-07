@@ -1,16 +1,13 @@
 +++
 class = "notre-manifeste single-page"
-title = "Quelle science pour demain ? "
+draft = true
+title = "Imagine, un jeune magazine de 25 ans"
 
 +++
-### Notre supplément édité pour le Printemps des Sciences 2021. Un voyage du côté de la science vivante et prospective.
-
 <br>
 
-Du 22 au 28 mars se tiendra le Printemps des Sciences partout en Wallonie et à Bruxelles. Imagine est partenaire de cet événement co-organisé par Sciences.be, l’UCLouvain, l’ULB, l’ULiège, l’UMons et l’ULiège. A cette occasion, notre magazine a co-édité un petit supplément (20 x 14 cm), avec la collaboration de Marie Thieffry, journaliste, et de l’artiste-illustrateur Jo Delannoy.
+Notre numéro de printemps est le 144ème dans la petite histoire de notre magazine. En septembre, celui-ci fêtera ses vingt-cinq ans d’existence. Pour cet anniversaire inédit dans la presse alternative belge francophone, nous espérons marquer joyeusement le coup.
 
-Dans ce petit opus de seize pages, on y parle de la science du futur, au service de l’intérêt général et d’un monde plus juste et plus durable. Il est question de trandisciplinarité, de géologie appliquée, de micro-architecture, d’ingénierie électrique, de biorobotique, de sciences de la vie…
+D’ici là, vous avez la possibilité de vous abonner à l’intégralité de nos archives (144 numéros, plus de 3 000 articles, des dossiers thématiques…) à prix démocratique (abonnement papier + digital + pass archives pour 70 euros) en passant par [notre kiosque](https://kiosque.imagine-magazine.com/boutique/abonnement-papier-digital/).
 
-Une manière de se plonger de manière vivante et accessible dans différentes disciplines scientifiques porteuses de sens et d’avenir.
-
-**Pour lire l’entièreté de ce supplément, paru avec le numéro 143 d'_Imagine_, cliquez** [**ici**](https://kiosque.imagine-magazine.com/wp-content/uploads/2021/03/Sciences_pour-PDF.pdf)**.**
+D’ici là, voyagez à travers [toutes les couvertures](https://kiosque.imagine-magazine.com/categorie-produit/numeros) qui ont marqué l’histoire d’_Imagine._ 
