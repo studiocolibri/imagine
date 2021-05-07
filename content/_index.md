@@ -17,7 +17,7 @@ section_one:
     de géologie appliquée, de micro-architecture, d’ingénierie électrique, de biorobotique,
     de sciences de la vie…\nUne manière de se plonger de manière vivante et accessible
     dans différentes disciplines scientifiques porteuses de sens et d’avenir. "
-  img: "/v1614780908/Sciences_pour_PDF_page-0001_o7u7rk.jpg"
+  img: "/v1620381364/Couverture_site_2_ecnlpn.png"
   btn_text: En savoir plus
   btn_link: "/quelle-science-pour-demain"
 section_two:
