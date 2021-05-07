@@ -18,6 +18,6 @@ Dans le cadre d'un article paru dans notre numéro de mai-juin 2021, le bureau d
 
 Le score obtenu pour _Imagine_, dans la limite des données fournies - pas d'analyse du processus d'emballage et de l'utilisation du magazine - est de 4,58 micro-points (µPt) par magazine. L'impact sur la crise climatique (36 %), l'utilisation des ressources fossiles (28 %) et l'occupation des terres (18 %) constituent à elles seules 82 % de l'impact environnemental total du magazine.
 
-La performance environnementale d'_Imagine_ est environ trois fois meilleure qu'un magazine réalisé à partir d'une pulpe moyenne européenne et dont le score PEF est de 12,8 micro-points (µPt) selon les données fournies par l'industrie papetière à la Commission européenne.
+La performance environnementale d'_Imagine_ est environ trois fois meilleure qu'un magazine réalisé à partir d'une pulpe moyenne européenne et dont le score PEF est de 12,8 micro-points (µPt) selon les données fournies par l'industrie papetière à la Commission européenne. 
 
 **Christophe Schoune**
