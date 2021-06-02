@@ -2,7 +2,7 @@
 cat = "dossier.md"
 class = "single-e-magine"
 date = 2020-09-03T22:00:00Z
-description = "Avec la crise, les échanges de monnaie physique ont diminué. Et les banques en profitent pour nous inciter encore un peu plus à renoncer progressivement au bon vieux papier-monnaie. Mais à quel prix ?"
+description = "Avec la crise, les échanges de monnaie physique ont diminué. Et les banques en profitent pour nous pousser encore à renoncer au bon vieux papier-monnaie. Mais à quel prix ?"
 img = "/v1622672680/clay-banks-tgquMvhNLc4-unsplash_lxfijs.jpg"
 img_credits = "Clay Banks / Unsplash"
 title = "Vers une société sans cash ?"
