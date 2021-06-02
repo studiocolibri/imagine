@@ -4,8 +4,8 @@ class = "single-e-magine"
 date = ""
 description = ""
 draft = true
-img = "/v1622672443/clay-banks-tgquMvhNLc4-unsplash_n7gzyt.jpg"
-img_credits = ""
+img = "/v1622672680/clay-banks-tgquMvhNLc4-unsplash_lxfijs.jpg"
+img_credits = "Clay Banks / Unsplash"
 title = "Vers une société sans cash ?"
 title_alignment = "gauche"
 
