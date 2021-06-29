@@ -1,8 +1,8 @@
 +++
 cat = "rencontre.md"
 class = "single-e-magine"
-date = ""
-description = ""
+date = 2021-07-01T22:00:00Z
+description = "Le groupe de rock français Feu! Chatterton s'exprime, pour la première fois, sur la question écologique. "
 draft = true
 img = "/v1624964812/Sans_titre_hw3ztt.jpg"
 img_credits = "Antoine Henault"
@@ -10,7 +10,7 @@ title = "\"La musique, et la chanson encore plus, est un art politique, au sens 
 title_alignment = "gauche"
 
 +++
-Avec le magistral Palais d’argile, leur troisième opus sorti au printemps, le groupe de rock français Feu! Chatterton dresse un portrait clair-obscur d’un Monde nouveau à réinventer. Métaphore de la société virtualisée évoquée dans cet album, l’entretien inédit accordé à _Imagine_ par le chanteur du groupe Arthur Teboul et le guitariste-claviériste Sébastien Wolf se déroule en visioconférence. En adeptes de la lenteur poétique, nos interlocuteurs prennent le temps d’aborder la question écologique et le rôle des artistes dans un monde sans boussole.
+Avec le magistral Palais d’argile, leur troisième opus sorti au printemps, le groupe de rock français Feu! Chatterton dresse un portrait clair-obscur d’un _Monde nouveau_ à réinventer. Métaphore de la société virtualisée évoquée dans cet album, l’entretien inédit accordé à _Imagine_ par le chanteur du groupe Arthur Teboul et le guitariste-claviériste Sébastien Wolf se déroule en visioconférence. En adeptes de la lenteur poétique, nos interlocuteurs prennent le temps d’aborder la question écologique et le rôle des artistes dans un monde sans boussole.
 
 **On ne vous a pas entendus vous exprimer sur l’enjeu écologique alors qu’il traverse de bout en bout Palais d’argile, qui a été écrit et composé avant la pandémie...**
 
@@ -40,7 +40,7 @@ Avec le magistral Palais d’argile, leur troisième opus sorti au printemps, le
 
 **— A. T :** Peut-être que naïvement, nous croyons qu’une chanson en soi a une noblesse particulière. La chanson a une souplesse, une sauvagerie, une liberté. On ne veut pas l’enfermer. Accoler quelque chose aux chansons, c’est comme accoler une image, c’est pour ça qu’on aime pas faire des clips. Chaque moment d’une chanson est travaillé de telle sorte que celle-ci procure simultanément plusieurs émotions, ambivalentes, au cours d’une même journée. En fonction des humeurs, on voit émerger une image, une autre image avec la même phrase. Nos chansons ne sont pas des idées mises en musique, c’est autre chose. C’est comme une sorte de formule magique qui essaye de caresser le cœur. A grande échelle, nous nous sentons assez démunis. Donc, on se dit qu'on peut agir, localement. Nous avons l’espoir qu’à travers nos chansons, la politique commence à petite échelle, à travers une idée qui passe, à travers nos yeux. Moi, j’ai l’impression d’avoir été éduqué par Brassens sans qu’il me le demande. Dans sa manière de raconter des histoires surgit une façon de voir le monde, et je m’en suis imprégné. J’ai un peu vu le monde comme lui, avec de l’humour, avec de la malice, avec du jeu. Mais Brassens ne nous a jamais dit : voilà, vous devez penser comme cela.
 
-**— S. W :** La musique, et la chanson encore plus, est un art politique, au sens où l’on propose une autre vision du monde. Mais est-ce que les artistes francophones ou européens doivent avoir un rôle comme on peut le voir aux Etats-Unis où certains artistes soutiennent ouvertement tel ou tel candidat à une élection présidentielle ? Je ne le crois pas. 
+**— S. W :** La musique, et la chanson encore plus, est un art politique, au sens où l’on propose une autre vision du monde. Mais est-ce que les artistes francophones ou européens doivent avoir un rôle comme on peut le voir aux Etats-Unis où certains artistes soutiennent ouvertement tel ou tel candidat à une élection présidentielle ? Je ne le crois pas.
 
 **Il y a deux ans le groupe Coldplay décidait d’arrêter sa tournée pour réfléchir et mettre en place des solutions en vue de limiter son impact carbone. En France, le groupe de réflexion The Shift vient de formuler des propositions pour organiser le secteur culturel différemment, pour qu’il soit plus en phase avec la question de la transition écologique. Vous avez réfléchi à cette question-là ?**
 
@@ -60,13 +60,13 @@ Avec le magistral Palais d’argile, leur troisième opus sorti au printemps, le
 
 **— A. T :** Pour ne pas se coucher désespéré, on se dit juste qu’à petite échelle on peut y arriver. On croit fort en la démocratie parce que notre groupe en est une. Mais pour qu’une démocratie fonctionne, il faut qu’elle ait un idéal commun. Sans idéal commun, on a du mal à faire des efforts pour le groupe, pour l’ensemble. Ce qui nous pousse à faire tous ces efforts, à discuter, à essayer de comprendre l’autre, c’est qu’on a cette conviction, cet optimisme lié au fait que ce que nous réalisons ensemble, ça vaudra toujours mieux que ce nous faisons séparément. Mais si, à plus grande échelle, on n’est pas guidé par une sorte d’idéal, comment accepter de faire les efforts, d’échanger avec notre prochain qui ne nous ressemble pas ?
 
-**Vous placez la question littéraire au cœur de votre démarche artistique. Dans votre dernier album, vous reprenez des textes de Jacques Prévert ou du poète irlandais William Butler Yeats...** 
+**Vous placez la question littéraire au cœur de votre démarche artistique. Dans votre dernier album, vous reprenez des textes de Jacques Prévert ou du poète irlandais William Butler Yeats...**
 
 **— A. T :** Pour nous, la musique, la poésie, ce sont des véhicules parmi d’autres pour exprimer une manière de sentir le monde, de voir le monde. Et cette façon, elle peut se partager avec plein d’autres. Il n’y a pas tant de différences entre cet artisanat-là et l’artisanat du sculpteur ou l’artisanat du faiseur de films. Mais avec ce même partage, on essaye de construire une vision détournée du monde. Les mots du poète, ce sont ceux de tous les jours. Simplement, ils sont subvertis pour nous faire sentir une réalité qu’on vit tous, mais qu’on n’aurait pas eu l’idée de dire avec ces mots-là. Comment capturer des sentiments, des frissons de la vie avec les mots du quotidien ? Il faut les agencer d’une manière un peu magique. Nous adorons ces rencontres parce qu’elles nous nourrissent beaucoup et nous allons continuer comme ça à tisser des liens, jeter des ponts entre les arts. C’est une grande joie.
 
 **Pour reprendre la métaphore que vous utilisez dans L’homme qui vient, quelles seraient les conditions pour espérer que cet humain « qui se donne tant de mal pour se faire du bien » puisse davantage se donner du mal pour faire « le bien » ?**
 
-**— S. W :** Il y a beaucoup de choses à changer mais la vie pourrait davantage reposer sur des principes et des critères simples, comme l’attention aux autres et l’entraide, auxquels nous tenons beaucoup. Si on trouvait bien d’aider les autres, de coopérer, peut-être que le monde irait un peu mieux. Habiter poétiquement le monde consiste à être capable de regarder le monde qui nous entoure, regarder les autres, regarder la nature et sentir qu’elle fait partie de nous. Cela paraît simpliste comme cela, mais quand on y réfléchit, ces dimensions sont absentes d’une grande partie de nos vies, pas parce nous ne le voulons pas, mais parce que nous n’avons pas le temps. Nous vivons dans un monde tellement accéléré que nous sommes obligés de ne pas faire attention aux autres pour avancer. En appliquant ces principes simples, peut-être que le bien reviendrait. 
+**— S. W :** Il y a beaucoup de choses à changer mais la vie pourrait davantage reposer sur des principes et des critères simples, comme l’attention aux autres et l’entraide, auxquels nous tenons beaucoup. Si on trouvait bien d’aider les autres, de coopérer, peut-être que le monde irait un peu mieux. Habiter poétiquement le monde consiste à être capable de regarder le monde qui nous entoure, regarder les autres, regarder la nature et sentir qu’elle fait partie de nous. Cela paraît simpliste comme cela, mais quand on y réfléchit, ces dimensions sont absentes d’une grande partie de nos vies, pas parce nous ne le voulons pas, mais parce que nous n’avons pas le temps. Nous vivons dans un monde tellement accéléré que nous sommes obligés de ne pas faire attention aux autres pour avancer. En appliquant ces principes simples, peut-être que le bien reviendrait.
 
 **Propos recueillis par Christophe Schoune**
 
