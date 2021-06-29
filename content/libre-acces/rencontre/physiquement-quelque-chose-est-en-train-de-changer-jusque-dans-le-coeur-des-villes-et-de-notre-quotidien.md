@@ -4,8 +4,8 @@ class = "single-e-magine"
 date = ""
 description = ""
 draft = true
-img = "/v1624964617/FEU_HD4_pdvsup.jpg"
-img_credits = ""
+img = "/v1624964812/Sans_titre_hw3ztt.jpg"
+img_credits = "Antoine Henault"
 title = "Physiquement, quelque chose est en train de changer, jusque dans le cœur des villes et de notre quotidien"
 title_alignment = "gauche"
 
