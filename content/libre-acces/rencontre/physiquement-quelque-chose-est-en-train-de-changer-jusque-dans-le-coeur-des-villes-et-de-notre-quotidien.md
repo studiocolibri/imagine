@@ -2,7 +2,7 @@
 cat = "rencontre.md"
 class = "single-e-magine"
 date = 2021-07-01T22:00:00Z
-description = "Le groupe de rock français Feu! Chatterton s'exprime, pour la première fois, sur la question écologique. "
+description = "Le groupe de rock français Feu! Chatterton s'exprime, pour la première fois, sur la question écologique."
 draft = true
 img = "/v1624964812/Sans_titre_hw3ztt.jpg"
 img_credits = "Antoine Henault"
