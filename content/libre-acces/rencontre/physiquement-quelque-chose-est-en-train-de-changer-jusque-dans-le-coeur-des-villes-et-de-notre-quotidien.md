@@ -6,7 +6,7 @@ description = ""
 draft = true
 img = "/v1624964812/Sans_titre_hw3ztt.jpg"
 img_credits = "Antoine Henault"
-title = "Physiquement, quelque chose est en train de changer, jusque dans le cœur des villes et de notre quotidien"
+title = "\"La musique, et la chanson encore plus, est un art politique, au sens où l’on propose une autre vision du monde\""
 title_alignment = "gauche"
 
 +++
