@@ -1,5 +1,5 @@
 +++
-cat = ""
+cat = "chronique.md"
 class = "single-e-magine"
 date = 2021-06-30T22:00:00Z
 description = "Une branche de la recherche s’intéresse aux « points de bascule sociaux », des seuils au-delà desquels les changements s’emballent, pour le meilleur ou pour le pire."
