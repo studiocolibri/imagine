@@ -4,7 +4,7 @@
 - name: txt-color
   color: "#495050"
 - name: main
-  color: "#0a9747"
+  color: "#e3d82e"
 - name: lightmain
   color: "#75CAC6"
 - name: ultralightmain
