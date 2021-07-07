@@ -9,6 +9,8 @@ title = "\"La musique, et la chanson encore plus, est un art politique, au sens 
 title_alignment = "gauche"
 
 +++
+**Concours : Cinq exemplaires du nouvel album de Feu! Chatterton Palais d’argile à sont remporter pour les abonnés à Imagine. Ecrire à la rédaction : info@imagine-magazine.**
+
 Avec le magistral Palais d’argile, leur troisième opus sorti au printemps, le groupe de rock français Feu! Chatterton dresse un portrait clair-obscur d’un _Monde nouveau_ à réinventer. Métaphore de la société virtualisée évoquée dans cet album, l’entretien inédit accordé à _Imagine_ par le chanteur du groupe Arthur Teboul et le guitariste-claviériste Sébastien Wolf se déroule en visioconférence. En adeptes de la lenteur poétique, nos interlocuteurs prennent le temps d’aborder la question écologique et le rôle des artistes dans un monde sans boussole.
 
 **On ne vous a pas entendus vous exprimer sur l’enjeu écologique alors qu’il traverse de bout en bout Palais d’argile, qui a été écrit et composé avant la pandémie...**
@@ -68,7 +70,3 @@ Avec le magistral Palais d’argile, leur troisième opus sorti au printemps, le
 **— S. W :** Il y a beaucoup de choses à changer mais la vie pourrait davantage reposer sur des principes et des critères simples, comme l’attention aux autres et l’entraide, auxquels nous tenons beaucoup. Si on trouvait bien d’aider les autres, de coopérer, peut-être que le monde irait un peu mieux. Habiter poétiquement le monde consiste à être capable de regarder le monde qui nous entoure, regarder les autres, regarder la nature et sentir qu’elle fait partie de nous. Cela paraît simpliste comme cela, mais quand on y réfléchit, ces dimensions sont absentes d’une grande partie de nos vies, pas parce nous ne le voulons pas, mais parce que nous n’avons pas le temps. Nous vivons dans un monde tellement accéléré que nous sommes obligés de ne pas faire attention aux autres pour avancer. En appliquant ces principes simples, peut-être que le bien reviendrait.
 
 **Propos recueillis par Christophe Schoune**
-
-***
-
-Concours : Cinq exemplaires du nouvel album de Feu! Chatterton Palais d’argile à sont remporter pour les abonnés à Imagine. Ecrire à la rédaction : info@imagine-magazine.
