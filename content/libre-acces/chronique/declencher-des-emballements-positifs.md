@@ -9,7 +9,7 @@ title = "Déclencher des emballements… positifs"
 title_alignment = "gauche"
 
 +++
-**La "chronique sciences", par Pablo Servigne et Raphaël Stevens chercheurs indépendants, experts en études prospectives et co-auteurs notamment de Comment tout peut s’effondrer.**
+**La "chronique sciences", par Pablo Servigne et Raphaël Stevens. Chercheurs indépendants, experts en études prospectives et co-auteurs notamment de Comment tout peut s’effondrer.**
 
 Les points de bascule, tout le monde commence à les connaître. Ils constituent le coeur de la collapsologie. Ce sont des seuils au-delà desquels les dérèglements du climat et des écosystèmes deviendraient rapides et incontrôlables. Ce sont des frontières, des zones rouges, qu’il ne faut surtout pas transgresser. S’il fallait illustrer cette notion avec une métaphore, on utiliserait celle de l’incendie : lorsqu’une maison brûle, le point de basculement est atteint au moment où la charpente se mettrait à craquer. Les biologistes et les mathématiciens ont donc commencé à les repérer et à les quantifier, nous alertant ainsi sur l’urgence de changer notre mode de vie et notre organisation politique. Les sciences humaines aussi ont repéré ce genre de dynamiques non linéaires (hautement imprévisibles) dans nos comportements sociaux : il existe des seuils au-delà desquels des comportements se répandent très rapidement dans une population. On les appelle « points de bascule sociaux » (social tipping point).
 
