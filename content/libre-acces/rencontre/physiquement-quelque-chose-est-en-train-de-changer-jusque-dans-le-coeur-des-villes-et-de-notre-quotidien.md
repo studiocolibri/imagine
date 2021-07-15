@@ -9,8 +9,6 @@ title = "\"La musique, et la chanson encore plus, est un art politique, au sens 
 title_alignment = "gauche"
 
 +++
-**Concours : Cinq exemplaires du nouvel album de Feu! Chatterton Palais d’argile à sont remporter pour les abonnés à Imagine. Ecrire à la rédaction : info@imagine-magazine.**
-
 Avec le magistral Palais d’argile, leur troisième opus sorti au printemps, le groupe de rock français Feu! Chatterton dresse un portrait clair-obscur d’un _Monde nouveau_ à réinventer. Métaphore de la société virtualisée évoquée dans cet album, l’entretien inédit accordé à _Imagine_ par le chanteur du groupe Arthur Teboul et le guitariste-claviériste Sébastien Wolf se déroule en visioconférence. En adeptes de la lenteur poétique, nos interlocuteurs prennent le temps d’aborder la question écologique et le rôle des artistes dans un monde sans boussole.
 
 **On ne vous a pas entendus vous exprimer sur l’enjeu écologique alors qu’il traverse de bout en bout Palais d’argile, qui a été écrit et composé avant la pandémie...**
