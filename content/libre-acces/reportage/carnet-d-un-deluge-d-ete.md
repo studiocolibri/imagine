@@ -12,7 +12,7 @@ title_alignment = "gauche"
 +++
 Comment raconter un cataclysme qui, la semaine du 12 juillet dernier, a ruiné des quartiers entiers de votre région, frappé de plein fouet des proches, des amis, des collègues, la totalité de l’imprimerie qui édite _Imagine_… ? Comment rapporter avec justesse ce que vous avez vu, lu et entendu, alors que vous avez été personnellement plongé dans la torpeur, la boue et les larmes et que vous avez été au cœur d’un splendide réseau de solidarité informelle ? Comment témoigner, non pas de manière « objective », mais avec soin, honnêteté et humilité, de ce désastre à ciel ouvert ? L’exercice était compliqué, mais nous avons finalement choisi de nous lancer. En assumant notre statut hybride de « bénévole actif » et de « journaliste observateur ». En rédigeant ce récit subjectif nourri de toutes parts, mais conjuguant des faits, des impressions et des expériences vécues. Car ce sinistre majeur est, par ailleurs, un étrange condensé des valeurs et du combat qu’_Imagine_ mène depuis vingt-cinq ans.
 
-Un récit à lire dans notre numéro 146, disponible en librairie ou via [notre kiosque](https://kiosque.imagine-magazine.com/).
+Un récit d'Hugues Dorzée, rédacteur en chef, accompagné des photos de Dominique Houcmant (Goldo) à lire dans notre numéro 146, disponible en librairie ou via [notre kiosque](https://kiosque.imagine-magazine.com/).
 
 ![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1630082721/529A0861_fh0uda.jpg)
 
