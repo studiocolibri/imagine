@@ -1,7 +1,7 @@
 +++
 cat = "reportage.md"
 class = "single-e-magine"
-date = 2021-09-02T22:00:00Z
+date = 2021-09-01T22:00:00Z
 description = "Place à l'image pour raconter le déluge tombé sur la Belgique cet été. Un reportage photo de Dominique Houcmant, alias Goldo. "
 draft = true
 img = "/v1630082171/529A2643_qb9kv7.jpg"
@@ -16,8 +16,6 @@ Ce récit d'Hugues Dorzée, rédacteur en chef, accompagné des photos de Domini
 
 ![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1630082721/529A0861_fh0uda.jpg)
 
-![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1630229217/529A3308_cwddnz.jpg)
-
 ![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1630229209/529A3349_sesobz.jpg)
 
 ![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1630229220/529A3229_oztwhk.jpg)
@@ -28,18 +26,10 @@ Ce récit d'Hugues Dorzée, rédacteur en chef, accompagné des photos de Domini
 
 ![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1630082664/529A2597_isbwkq.jpg)
 
-![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1630082716/529A2350_eg7gow.jpg)
-
 ![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1630082653/529A2449_ixex56.jpg)
 
 ![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1630249632/529A2994_rzxfrp.jpg)
 
-![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1630249809/529A2809_wo6rdb.jpg)
-
 ![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1630249898/529A2999_op0ezr.jpg)
 
-![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1630249991/529A3271_ywdhjo.jpg)
-
 ![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1630249431/529A2883_jkkhgi.jpg)
-
-![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1630082451/529A2875_f8blm0.jpg)
