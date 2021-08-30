@@ -10,7 +10,7 @@ title = "Blandine Sankara : \"l'agroécologie est un acte décolonial\""
 title_alignment = "gauche"
 
 +++
-**Son nom est étroitement lié à celui de son frère, Thomas Sankara, premier président du Burkina Faso libre, rebaptisé le « Che Guevara africain » et assassiné en 1987. Mais la révolution de Blandine, elle, s’est faite de manière non-violente, les mains dans la terre. Rencontre avec une agroécologiste militante, fondatrice de l’association Yelemani, invitée d’honneur du Festival Alimenterre cet automne.**
+**Son nom est étroitement lié à celui de son frère, Thomas Sankara, premier président du Burkina Faso libre, rebaptisé le « Che Guevara africain » et assassiné en 1987. Mais la révolution de Blandine, elle, s’est faite de manière non-violente, les mains dans la terre. Rencontre avec une agroécologiste militante, fondatrice de l’association Yelemani, invitée d’honneur du Festival Alimenterre cet automne.** 
 
 Quand elle parle de « souveraineté alimentaire », ce ne sont pas des paroles en l’air. A 53 ans, Blandine Sankara, sociologue de formation, est passée depuis longtemps de la théorie à la pratique. A Loumbila, près de Ouagadougou, elle a créé en 2012 l’association Yelemani (« Changement », en langue Dioula). Dans cette ferme de deux hectares, elle a développé avec d’autres femmes un projet inédit d’agroécologie. Elles cultivent des légumes locaux et de qualité (betterave, oignon, carotte, oseille, piment de Turin…), travaillent en circuit court, s’inscrivent dans l’économie non marchande et veillent à préserver, d’un bout à l’autre de leur chaîne de production, la santé des consommateurs et de leur environnement. Avec des formations, des ateliers, de la sensibilisation dans les écoles…
 
