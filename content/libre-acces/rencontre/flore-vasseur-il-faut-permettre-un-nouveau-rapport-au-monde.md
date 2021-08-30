@@ -1,16 +1,16 @@
 +++
 cat = "rencontre.md"
 class = "single-e-magine"
-date = ""
+date = 2021-09-01T22:00:00Z
 description = ""
 draft = true
-img = "/v1630336960/Capture_d_%C3%A9cran_2021-08-30_172135_mpwch8.png"
+img = "/v1630338212/afficheBigger_hadgip.jpg"
 img_credits = ""
 title = "Flore Vasseur : \"Il faut permettre un nouveau rapport au monde\""
 title_alignment = "gauche"
 
 +++
-Romancière, réalisatrice et enquêtrice, Flore Vasseur explore depuis plus de vingt ans notre rapport au pouvoir, à l’engagement et au courage. Dans s[on premier long métrage documentaire](https://www.youtube.com/watch?v=QbTJiAKvww0), elle dresse un portrait tout en puissance de la jeune génération qui se lève pour enrayer le déclin de l’humanité.
+Romancière, réalisatrice et enquêtrice, Flore Vasseur explore depuis plus de vingt ans notre rapport au pouvoir, à l’engagement et au courage. Dans [son premier long métrage documentaire](https://www.youtube.com/watch?v=QbTJiAKvww0), elle dresse un portrait tout en puissance de la jeune génération qui se lève pour enrayer le déclin de l’humanité.
 
 **En 2016, votre fils de 7 ans vous demande à table « ça veut dire quoi maman, la planète va mourir » ? Ce sera l’un des moteurs de votre film. Les enfants nous montrent-ils la voie à suivre ?**
 
@@ -26,7 +26,11 @@ Romancière, réalisatrice et enquêtrice, Flore Vasseur explore depuis plus de 
 
 **C’est parfaitement réussi. Ils ont chacun leur cause bien chevillée au corps avec, comme dénominateur commun, une forme d’état d’urgence à agir.**
 
-— Dans la plupart des cas, ils évoluent dans des sociétés qui se sont déjà effondrées et, dans ce sens, ils ont tous quelque chose à nous enseigner en Occident. C’est une forme d’activisme par fatalité : ils n’avaient guère le choix, pour (sur)vivre, il fallait qu’ils bougent. Ils sont à l’avant-poste de ce qui nous attend et nous montrent comment vivre, agir, lutter face à ce qui nous arrive. Mais ce film parle aussi de leur dignité, des freins et des résistances face à l’absurde, la bêtise et l’indignité de ce monde. Ce film arrive en pleine crise sanitaire, avec un propos qui nous rappelle combien les enjeux sont interconnectés. — J’ai commencé l’écriture en 2018, avant la pandémie. Mais vous avez raison, le film nous rappelle que le Covid-19, c’est l’arbre qui cache la forêt. Avec cette guerre contre le virus, on en oublie les crises qui se superposent : l’injustice sociale, le dérèglement climatique, le sort des migrants… Les événements extrêmes survenus pendant l’été en Belgique, en Allemagne, en Californie et ailleurs nous éclatent une nouvelle fois à la figure. En faisant ce film, j’avais profondément envie de montrer qu’on ne peut pas vivre et gouverner par la peur. Le changement de paradigme que ces activistes et notre équipe proposent, c’est un choix de l’amour. Je ne parle d’amour bêbête ou simplet, je parle de liens puissants à (re)créer, un moyen bien plus subversif qu’il n’y parait. Si vous grandissez hors de la peur, vous êtes moins contrôlable, vous récupérez votre pensée, vous devenez plus libre, vous êtes en capacité de changer les choses.
+— Dans la plupart des cas, ils évoluent dans des sociétés qui se sont déjà effondrées et, dans ce sens, ils ont tous quelque chose à nous enseigner en Occident. C’est une forme d’activisme par fatalité : ils n’avaient guère le choix, pour (sur)vivre, il fallait qu’ils bougent. Ils sont à l’avant-poste de ce qui nous attend et nous montrent comment vivre, agir, lutter face à ce qui nous arrive. Mais ce film parle aussi de leur dignité, des freins et des résistances face à l’absurde, la bêtise et l’indignité de ce monde. 
+
+**Ce film arrive en pleine crise sanitaire, avec un propos qui nous rappelle combien les enjeux sont interconnectés.** 
+
+— J’ai commencé l’écriture en 2018, avant la pandémie. Mais vous avez raison, le film nous rappelle que le Covid-19, c’est l’arbre qui cache la forêt. Avec cette guerre contre le virus, on en oublie les crises qui se superposent : l’injustice sociale, le dérèglement climatique, le sort des migrants… Les événements extrêmes survenus pendant l’été en Belgique, en Allemagne, en Californie et ailleurs nous éclatent une nouvelle fois à la figure. En faisant ce film, j’avais profondément envie de montrer qu’on ne peut pas vivre et gouverner par la peur. Le changement de paradigme que ces activistes et notre équipe proposent, c’est un choix de l’amour. Je ne parle d’amour bêbête ou simplet, je parle de liens puissants à (re)créer, un moyen bien plus subversif qu’il n’y parait. Si vous grandissez hors de la peur, vous êtes moins contrôlable, vous récupérez votre pensée, vous devenez plus libre, vous êtes en capacité de changer les choses.
 
 **D’où l’idée de combat « plus grand que soi ».**
 
