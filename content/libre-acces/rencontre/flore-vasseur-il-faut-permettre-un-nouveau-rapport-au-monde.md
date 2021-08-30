@@ -10,7 +10,7 @@ title = "Flore Vasseur : \"Il faut permettre un nouveau rapport au monde\""
 title_alignment = "gauche"
 
 +++
-Romancière, réalisatrice et enquêtrice, Flore Vasseur explore depuis plus de vingt ans notre rapport au pouvoir, à l’engagement et au courage. Dans son premier long métrage documentaire, elle dresse un portrait tout en puissance de la jeune génération qui se lève pour enrayer le déclin de l’humanité.
+Romancière, réalisatrice et enquêtrice, Flore Vasseur explore depuis plus de vingt ans notre rapport au pouvoir, à l’engagement et au courage. Dans s[on premier long métrage documentaire](https://www.youtube.com/watch?v=QbTJiAKvww0), elle dresse un portrait tout en puissance de la jeune génération qui se lève pour enrayer le déclin de l’humanité.
 
 **En 2016, votre fils de 7 ans vous demande à table « ça veut dire quoi maman, la planète va mourir » ? Ce sera l’un des moteurs de votre film. Les enfants nous montrent-ils la voie à suivre ?**
 
@@ -45,5 +45,3 @@ Romancière, réalisatrice et enquêtrice, Flore Vasseur explore depuis plus de 
 Le film sort en salle fin septembre, en partenariat avec l’Asbl Rizosphère (rhizosphere.be) et le magazine _Imagine Demain le monde_.
 
 Plusieurs avant-premières sont prévues le 4 septembre à Bruxelles dans le cadre du [BRIFF](https://briff.be/briff-2021/), le 22 septembre à Liège ([Cinéma Sauvenière](www.lesgrignoux.be)), le 23/09 à Namur ([Cinéma Caméo](www.lesgrignoux.be)), le 24/09 à Louvain-la-Neuve (dans le cadre du [Festival Maintenant](https://www.festivalmaintenant.be/))
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/QbTJiAKvww0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
