@@ -6,7 +6,7 @@ description = "Dans l'édito du 146ème numéro d'Imagine, le rédacteur en chef
 draft = true
 img = "/v1630079854/PommeOGM_zdlqoc.jpg"
 img_credits = ""
-title = "Vivement  ! "
+title = "Vivement 2050 !"
 title_alignment = "droite"
 
 +++
