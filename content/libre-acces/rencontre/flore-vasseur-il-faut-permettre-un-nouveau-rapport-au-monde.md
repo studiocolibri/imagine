@@ -2,7 +2,7 @@
 cat = ""
 class = "single-e-magine"
 date = 2021-09-01T22:00:00Z
-description = "Le film Bigger than us, présenté au festival de Cannes sort en salle début septembre. Imagine, partenaire du film, a rencontré sa réalisatrice."
+description = "En salle dès le 22 septembre, le documentaire Bigger than us, de Flore Vasseur, raconte le combat de sept jeunes au chevet de leur Terre. Imagine est partenaire de ce puissant film-choral. "
 img = "/v1630338212/afficheBigger_hadgip.jpg"
 img_credits = ""
 title = "Flore Vasseur : \"Il faut permettre un nouveau rapport au monde\""
