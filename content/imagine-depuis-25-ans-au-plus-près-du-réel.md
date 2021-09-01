@@ -23,10 +23,10 @@ Infos : [www.theatrenational.com]()
 
 * 15 km, 3h30 de balade environ
 * un guide pour +/- 20 personnes
-* départ à Tour et Taxis à 14 h, retour à 17 h 30
+* départ à Tour et Taxis à 14 h, retour à 17 h30
 * Possibilité de louer un vélo chez Provélo (contact : 02 502 73 55)
 
-Boisson et tapas végé offerts pour les participants chez Parckfarm (Tour & Taxis, de 17 h à 19 h).
+Boisson et tapas végé offerts pour les participants chez Parckfarm (Tour & Taxis, de 17h à 19h).
 
 Nombre de participants limité. Réservation : info@imagine-magazine.com ou 04 380.13.37.
 
@@ -36,9 +36,9 @@ Nombre de participants limité. Réservation : info@imagine-magazine.com ou 04 3
 
 **Rando _Imagine_ autour de la Boucle noire (Charleroi)**
 
-* départ à 10 h devant la gare de Charleroi, retour estimé à 17 h
-* 20 km avec dénivelés, environ 6 h de marche
-* Une parcours « poético-punk » (sites industriels, terrils boisés, friches, jardins…). Infos : www.cheminsdesterrils.be
+* départ à 10h devant la gare de Charleroi, retour estimé à 17h
+* 20 km avec dénivelés, environ 6h de marche
+* Une parcours « poético-punk » (sites industriels, terrils boisés, friches, jardins…). Infos : [https://cheminsdesterrils.be/](https://cheminsdesterrils.be/ "https://cheminsdesterrils.be/")
 * accompagnement d’un guide
 * **prévoir son pique-nique et boissons**
 
