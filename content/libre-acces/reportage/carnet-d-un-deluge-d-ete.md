@@ -1,7 +1,7 @@
 +++
 cat = "reportage.md"
 class = "single-e-magine"
-date = 2021-09-01T22:00:00Z
+date = 2021-09-02T08:00:00Z
 description = "Place à l'image pour raconter le déluge tombé sur la Belgique cet été. Un reportage photo de Dominique Houcmant, alias Goldo. "
 img = "/v1630082171/529A2643_qb9kv7.jpg"
 img_credits = "Dominique Houcmant (Goldo)"
