@@ -6,18 +6,19 @@ header_text: Imagine est un bimestriel de 120 pages et un éditeur indépendant 
   1996.
 section_one:
   section_title: ''
-  title: Imagine, un jeune magazine de 25 ans
-  text: "Notre numéro de printemps est le 144ème dans la petite histoire de notre
-    magazine. En septembre, celui-ci fêtera ses vingt-cinq ans d’existence. Pour cet
-    anniversaire inédit dans la presse alternative belge francophone, nous espérons
-    marquer joyeusement le coup.\n\nD’ici là, vous avez la possibilité de vous abonner
-    à l’intégralité de nos archives (144 numéros, plus de 3 000 articles, des dossiers
-    thématiques…) à prix démocratique (abonnement papier + digital + pass archives
-    pour 70 euros) en passant par notre kiosque. Ou voyagez à travers toutes les couvertures
-    qui ont marqué l'histoire d'Imagine. \n"
-  img: "/v1620385363/Site_mn5nbz.png"
+  title: Imagine, depuis 25 ans au plus près du réel
+  text: 'Après cet été de tous les dangers (méga-feux, intempéries, rapport du Giec,
+    pandémie…), Imagine vous invite à vous plonger dans son histoire : 25 ans d’existence,
+    146 numéros, des milliers d’articles en archive… L’occasion aussi de rappeler
+    l’importance, l’originalité et la longévité de notre média alternatif sans équivalent
+    en Belgique qui, depuis 1996, ne cesse d’alerter, dénoncer, explorer, raconter…
+    les métamorphoses écologique, économique, sociale, politique… avec rigueur et
+    cohérence.  Pour marquer le coup de cet anniversaire, soyez des nôtres durant
+    tout le mois de septembre et octobre en participant à plusieurs événements culturels
+    et citoyens !'
+  img: "/v1630506922/Imagine_146_Cover02_frv63o.jpg"
   btn_text: En savoir plus
-  btn_link: "/imagine-un-jeune-magazine-de-25-ans"
+  btn_link: "/imagine-depuis-25-ans-au-plus-près-du-réel"
 section_two:
   section_title: Accès libre
   btn_link: "/libre-acces/"
