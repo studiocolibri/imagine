@@ -2,13 +2,17 @@
 cat = ""
 class = "single-e-magine"
 date = 2021-09-01T22:00:00Z
-description = "La réalisatrice Flore Vasseur nous parle de son premier long-métrage documentaire, qui sort en salle début septembre. "
+description = "Le film Bigger than us, présenté au festival de Cannes sort en salle début septembre. Imagine, partenaire du film, a rencontré sa réalisatrice."
 img = "/v1630338212/afficheBigger_hadgip.jpg"
 img_credits = ""
 title = "Flore Vasseur : \"Il faut permettre un nouveau rapport au monde\""
 title_alignment = "gauche"
 
 +++
+Melati a dix-huit ans. Elle se bat depuis l’âge de douze ans contre la pollution de plastique qui ravage son pays, l’Indonésie. Avec Flore Vasseur, la réalisatrice du long métrage documentaire Bigger than us, présenté au dernier Festival de Cannes et qui sort en salle le 22 septembre, elle est partie à la rencontre de cette génération qui se lève pour « réparer le monde ». Une rencontre « de pair à pair » avec six autres jeunes âgés de 18 à 25 ans, tous immensément justes et formidables, qui luttent pour défendre les droits humains, le climat déréglé, les migrants échoués en mer, la liberté d’expression, l’accès à l’éducation et à une agriculture saine... Rene, Mary, Xiu, Memory, Mohamad, Winnie et Melati sont déterminés, courageux, enjoués. Ils foncent, dénoncent, agissent avec un puissant sentiment d’urgence. Pour empêcher les ravages de l’industrie du gaz de schiste au Colorado, la politique migratoire européenne, le patriarcat et le viol institutionnalisé au Malawi, la déforestation en Ouganda... Ils sont les visages d’une jeunesse au chevet des moins nantis et de la Terre maltraitée. _« On coule, on a peur pour nos vies (...) Jusqu’où nous devrons nous aller pour changer ? »_ s’interroge Melati. Rien ne semble les arrêter. Car ils se battent pour « quelque chose de plus grand qu’eux ». Parce qu’ils veulent « faire partie de la grande Histoire ». Bigger than us raconte leur odyssée avec un rythme soutenu, beaucoup de finesse et une grande empathie. Un film-choral, chargé de convictions et d’émotions, qui se range du côté de l’espoir et de la transformation.
+
+***
+
 Romancière, réalisatrice et enquêtrice, Flore Vasseur explore depuis plus de vingt ans notre rapport au pouvoir, à l’engagement et au courage. Dans [son premier long métrage documentaire](https://www.youtube.com/watch?v=QbTJiAKvww0), elle dresse un portrait tout en puissance de la jeune génération qui se lève pour enrayer le déclin de l’humanité.
 
 **En 2016, votre fils de 7 ans vous demande à table « ça veut dire quoi maman, la planète va mourir » ? Ce sera l’un des moteurs de votre film. Les enfants nous montrent-ils la voie à suivre ?**
@@ -25,9 +29,9 @@ Romancière, réalisatrice et enquêtrice, Flore Vasseur explore depuis plus de 
 
 **C’est parfaitement réussi. Ils ont chacun leur cause bien chevillée au corps avec, comme dénominateur commun, une forme d’état d’urgence à agir.**
 
-— Dans la plupart des cas, ils évoluent dans des sociétés qui se sont déjà effondrées et, dans ce sens, ils ont tous quelque chose à nous enseigner en Occident. C’est une forme d’activisme par fatalité : ils n’avaient guère le choix, pour (sur)vivre, il fallait qu’ils bougent. Ils sont à l’avant-poste de ce qui nous attend et nous montrent comment vivre, agir, lutter face à ce qui nous arrive. Mais ce film parle aussi de leur dignité, des freins et des résistances face à l’absurde, la bêtise et l’indignité de ce monde. 
+— Dans la plupart des cas, ils évoluent dans des sociétés qui se sont déjà effondrées et, dans ce sens, ils ont tous quelque chose à nous enseigner en Occident. C’est une forme d’activisme par fatalité : ils n’avaient guère le choix, pour (sur)vivre, il fallait qu’ils bougent. Ils sont à l’avant-poste de ce qui nous attend et nous montrent comment vivre, agir, lutter face à ce qui nous arrive. Mais ce film parle aussi de leur dignité, des freins et des résistances face à l’absurde, la bêtise et l’indignité de ce monde.
 
-**Ce film arrive en pleine crise sanitaire, avec un propos qui nous rappelle combien les enjeux sont interconnectés.** 
+**Ce film arrive en pleine crise sanitaire, avec un propos qui nous rappelle combien les enjeux sont interconnectés.**
 
 — J’ai commencé l’écriture en 2018, avant la pandémie. Mais vous avez raison, le film nous rappelle que le Covid-19, c’est l’arbre qui cache la forêt. Avec cette guerre contre le virus, on en oublie les crises qui se superposent : l’injustice sociale, le dérèglement climatique, le sort des migrants… Les événements extrêmes survenus pendant l’été en Belgique, en Allemagne, en Californie et ailleurs nous éclatent une nouvelle fois à la figure. En faisant ce film, j’avais profondément envie de montrer qu’on ne peut pas vivre et gouverner par la peur. Le changement de paradigme que ces activistes et notre équipe proposent, c’est un choix de l’amour. Je ne parle d’amour bêbête ou simplet, je parle de liens puissants à (re)créer, un moyen bien plus subversif qu’il n’y parait. Si vous grandissez hors de la peur, vous êtes moins contrôlable, vous récupérez votre pensée, vous devenez plus libre, vous êtes en capacité de changer les choses.
 
