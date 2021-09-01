@@ -2,10 +2,10 @@
 cat = ""
 class = "single-e-magine"
 date = 2021-09-01T22:00:00Z
-description = "En salle dès le 22 septembre, le documentaire Bigger than us, de Flore Vasseur, raconte le combat de sept jeunes au chevet de leur Terre. Imagine est partenaire de ce puissant film-choral. "
+description = "En salle dès le 22 septembre, le documentaire Bigger than us, de Flore Vasseur, raconte le combat de sept jeunes au chevet de leur Terre. Imagine est partenaire de ce film. "
 img = "/v1630338212/afficheBigger_hadgip.jpg"
 img_credits = ""
-title = "Flore Vasseur : \"Il faut permettre un nouveau rapport au monde\""
+title = "Bigger than us, ça commence avec toi"
 title_alignment = "gauche"
 
 +++
