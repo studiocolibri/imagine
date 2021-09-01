@@ -30,7 +30,7 @@ Boisson et tapas végé offerts pour les participants chez Parckfarm (Tour & Tax
 
 Nombre de participants limité. Réservation : info@imagine-magazine.com ou 04 380.13.37.
 
-![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1630507421/terrils2_ucfit4.jpg)
+![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1630507393/emran-yousof-t8q7ozdHQlk-unsplash_nyvssw.jpg)
 
 **Le dimanche 17 octobre**
 
@@ -90,4 +90,4 @@ Du 9 au 16 octobre, en Wallonie et à Bruxelles : projections de treize films do
 
 Les 21 et 22 octobre, à La Menuiserie (Novacitis), à Liège : conférence-débat, présentation d’entreprises inspirantes… Avec SAWB, Financité, Novacitis et _Imagine._
 
-Programme à suivre en septembre sur [https://novacitis.be/](https://novacitis.be/ "https://novacitis.be/") 
+Programme à suivre en septembre sur [https://novacitis.be/](https://novacitis.be/ "https://novacitis.be/")
