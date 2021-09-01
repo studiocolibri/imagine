@@ -2,8 +2,8 @@
 cat = "editorial.md"
 class = "single-e-magine"
 date = 2021-09-02T07:00:00Z
-description = "Dans l'édito du 146ème numéro d'Imagine, le rédacteur en chef d'Imagine se projette dans un futur que l'on aurait rendu crédible, attractif et durable. "
-img = "/v1630079854/PommeOGM_zdlqoc.jpg"
+description = "Dans l'édito du 146ème numéro d'Imagine, notre rédacteur en chef se projette dans un futur que l'on aurait rendu crédible, attractif et durable. "
+img = "/v1630506560/unnamed_pcm1f2.jpg"
 img_credits = ""
 title = "Vivement 2050 !"
 title_alignment = "droite"
