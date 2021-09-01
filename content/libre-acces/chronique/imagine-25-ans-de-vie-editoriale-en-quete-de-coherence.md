@@ -3,7 +3,6 @@ cat = "chronique.md"
 class = "single-e-magine"
 date = 2021-09-01T22:00:00Z
 description = "A l’occasion de notre 25ème anniversaire, nous nous sommes plongés dans les archives d’Imagine. Florilège. "
-draft = true
 img = "/v1630506754/Capture_d_%C3%A9cran_2021-09-01_163210_m7w9w7.png"
 img_credits = ""
 title = "Imagine, 25 ans de vie éditoriale en quête de cohérence"
