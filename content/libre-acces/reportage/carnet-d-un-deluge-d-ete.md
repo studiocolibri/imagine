@@ -17,7 +17,7 @@ Ce récit d'Hugues Dorzée, accompagné des photos de Dominique Houcmant (Goldo)
 
 ![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1630229209/529A3349_sesobz.jpg)Sur les trottoirs s’entassent des vies entières. Tout est flanqué là, jeté, empilé, fracassé, abandonné au regard de tous et appelé à rejoindre l’indescriptible décharge à ciel ouvert sur la bretelle d’autoroute désaffectée A601, sur les hauteurs de Liège.
 
-![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1630229220/529A3229_oztwhk.jpg)Sur les bords de l’Ourthe, l’incompréhension, la sidération, le désespoir. Cet été, les rivières sont sorties de leurs lits avec une puissance inouïe et les rives bétonnées ont accueilli des montages de débris venus de partout.
+![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1630229220/529A3229_oztwhk.jpg)Sur les bords de l’Ourthe, l’incompréhension, la sidération, le désespoir. Cet été, les rivières sont sorties de leurs lits avec une puissance inouïe et les rives bétonnées ont accueilli des montagnes de débris venus de partout.
 
 ![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1630229267/529A3635_rx15fi.jpg)La semaine du 12 juillet, au cœur de la catastrophe, un pain saucisse bien mérité pour ces hommes du feu venus en renfort dans les quartiers dévastés.
 
