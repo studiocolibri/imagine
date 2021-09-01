@@ -1,10 +1,10 @@
 +++
 class = "notre-manifeste single-page"
-title = "Imagine, un jeune magazine de 25 ans"
+title = "Imagine, depuis 25 ans au plus près du réel"
 
 +++
 <br>
 
-Notre numéro de printemps est le 144ème dans la petite histoire de notre magazine. En septembre, celui-ci fêtera ses vingt-cinq ans d’existence. Pour cet anniversaire inédit dans la presse alternative belge francophone, nous espérons marquer joyeusement le coup.
+Après cet été de tous les dangers (méga-feux, intempéries, rapport du Giec, pandémie…), _Imagine_ vous invite à vous plonger dans son histoire : 25 ans d’existence, 146 numéros, des milliers d’articles en archive… 
 
-D’ici là, vous avez la possibilité de vous abonner à l’intégralité de nos archives (144 numéros, plus de 3 000 articles, des dossiers thématiques…) à prix démocratique (abonnement papier + digital + pass archives pour 70 euros) en passant par [notre kiosque](https://kiosque.imagine-magazine.com/boutique/abonnement-papier-digital/). Ou voyagez à travers [toutes les couvertures](https://kiosque.imagine-magazine.com/categorie-produit/numeros) qui ont marqué l’histoire d’_Imagine._
+L’occasion aussi de rappeler l’importance, l’originalité et la longévité de notre média alternatif sans équivalent en Belgique qui, depuis 1996, ne cesse d’alerter, dénoncer, explorer, raconter les métamorphoses écologique, économique, sociale, politique… avec rigueur et cohérence. Pour marquer le coup de cet anniversaire, soyez des nôtres durant tout le mois de septembre et octobre en participant à plusieurs événements culturels et citoyens !
