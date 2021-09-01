@@ -90,4 +90,4 @@ Du 9 au 16 octobre, en Wallonie et à Bruxelles : projections de treize films do
 
 Les 21 et 22 octobre, à La Menuiserie (Novacitis), à Liège : conférence-débat, présentation d’entreprises inspirantes… Avec SAWB, Financité, Novacitis et _Imagine._
 
-Programme à suivre en septembre sur [https://novacitis.be/](https://novacitis.be/ "https://novacitis.be/")
+Programme à suivre en septembre sur [https://novacitis.be/](https://novacitis.be/ "https://novacitis.be/") 
