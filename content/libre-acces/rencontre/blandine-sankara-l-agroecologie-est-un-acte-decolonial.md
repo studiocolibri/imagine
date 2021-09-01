@@ -3,7 +3,6 @@ cat = "rencontre.md"
 class = "single-e-magine"
 date = 2021-09-02T08:00:00Z
 description = "Invitée d'honneur du festival Alimenterre cet automne, Blandine Sankara plaide pour l'agroécologie. Une pratique agricole qui pourrait assurer la souveraineté alimentaire de son pays, le Burkina Faso. "
-draft = true
 img = "/v1630080434/annie-spratt-2INKkSrEmc8-unsplash_mip8db.jpg"
 img_credits = "Annie Spratt / Unsplash"
 title = "Blandine Sankara : \"l'agroécologie est un acte décolonial\""

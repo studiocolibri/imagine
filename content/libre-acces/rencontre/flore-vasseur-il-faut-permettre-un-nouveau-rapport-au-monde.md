@@ -3,7 +3,6 @@ cat = "rencontre.md"
 class = "single-e-magine"
 date = 2021-09-01T22:00:00Z
 description = ""
-draft = true
 img = "/v1630338212/afficheBigger_hadgip.jpg"
 img_credits = ""
 title = "Flore Vasseur : \"Il faut permettre un nouveau rapport au monde\""
