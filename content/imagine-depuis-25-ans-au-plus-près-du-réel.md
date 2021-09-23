@@ -13,7 +13,7 @@ Pour fêter notre anniversaire, bloquez les trois dates ci-dessous. Rencontrez l
 
 A 20h, spectacle _La Bombe humaine_, d’Eline Schumacher et Vincent Hennebicq, autour des urgences environnementales, suivi d’une rencontre avec ses créateurs et l’anthropologue des affects Véronique Servais (ULiège) animée par Hugues Dorzée, rédacteur en chef d’_Imagine_.
 
-Infos : [www.theatrenational.com]()
+Infos : [www.theatrenational.]()be
 
 ![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1630507475/bombehumaine_srq4je.jpg)
 
