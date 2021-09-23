@@ -13,7 +13,7 @@ Pour fêter notre anniversaire, bloquez les trois dates ci-dessous. Rencontrez l
 
 A 20h, spectacle _La Bombe humaine_, d’Eline Schumacher et Vincent Hennebicq, autour des urgences environnementales, suivi d’une rencontre avec ses créateurs et l’anthropologue des affects Véronique Servais (ULiège) animée par Hugues Dorzée, rédacteur en chef d’_Imagine_.
 
-Infos : [www.theatrenational.]()be
+Infos : [www.theatrenational.](www.theatrenational.be)be
 
 ![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1630507475/bombehumaine_srq4je.jpg)
 
@@ -38,7 +38,7 @@ Nombre de participants limité. Réservation : info@imagine-magazine.com ou 04 3
 
 * départ à 10h devant la gare de Charleroi, retour estimé à 17h
 * 20 km avec dénivelés, environ 6h de marche
-* Une parcours « poético-punk » (sites industriels, terrils boisés, friches, jardins…). Infos : [https://cheminsdesterrils.be/](https://cheminsdesterrils.be/ "https://cheminsdesterrils.be/")
+* Un parcours « poético-punk » (sites industriels, terrils boisés, friches, jardins…). Infos : [https://cheminsdesterrils.be/](https://cheminsdesterrils.be/ "https://cheminsdesterrils.be/")
 * accompagnement d’un guide
 * **prévoir son pique-nique et boissons**
 
@@ -48,7 +48,7 @@ Nombre de participants limité. Réservation : [info@imagine-magazine.com](mailt
 
 ![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1630507421/terrils2_ucfit4.jpg)
 
-**Imagine sera aussi, en septembre et en octobre...**
+**Imagine y sera aussi, en septembre et en octobre :**
 
 * **Le festival Maintenant !**
 
