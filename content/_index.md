@@ -19,7 +19,7 @@ section_one:
     de son hub européen… A Liège Airport. '
   img: "/v1636035996/Capture_d_%C3%A9cran_2021-11-04_152612_q5na1d.png"
   btn_text: En savoir plus
-  btn_link: "/alibaba-a-liege-airport-une-enquete-en-deux-temps"
+  btn_link: "/alibaba-a-liege-une-enquete-en-deux-temps"
 section_two:
   section_title: Accès libre
   btn_link: "/libre-acces/"
