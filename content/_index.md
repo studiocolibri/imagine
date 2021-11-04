@@ -13,9 +13,9 @@ section_one:
     monté de toutes pièces par la multinationale Alibaba et devenu le baromètre de
     l’économie chinoise, ainsi que le symbole de la puissance du groupe. En 2020,
     cette journée a engrangé 74 milliards de dollars de ventes de marchandises en
-    24 heures. Soit le double de l’année précédente. En 2021, ce 11/11 prend une autre
-    tournure : Cainiao, filiale logistique d’Alibaba Group et désormais sponsor du
-    Standard de Liège, en profitera pour inaugurer le premier entrepôt de son hub
+    24 heures. Soit le double de l’année précédente. En 2021, cette fête prend une
+    autre tournure : Cainiao, filiale logistique d’Alibaba Group et désormais sponsor
+    du Standard de Liège, en profitera pour inaugurer le premier entrepôt de son hub
     européen… A Liège Airport. '
   img: "/v1636035996/Capture_d_%C3%A9cran_2021-11-04_152612_q5na1d.png"
   btn_text: En savoir plus
