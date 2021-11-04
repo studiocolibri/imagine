@@ -9,7 +9,7 @@ title = "Amitav Ghosh : \"Les écrivains doivent redonner une voix aux non-humai
 title_alignment = "gauche"
 
 +++
-Alors que le temps parisien défile à toute vitesse, celui passé aux côtés d’Amitav Ghosh semble s’être arrêté. De passage à Paris, l’écrivain new-yorkais nous accorde une rencontre intimiste et suspendue, faisant presque oublier le tumulte de la capitale. Du changement climatique à la crise migratoire, les sujets sont graves. Mais la paix et la sagesse qui se dégagent de cet anthropologue indien ont quelque chose de rassurant. Pour faire face à ce qu’il appelle la « crise planétaire », Amitav Ghosh nous propose un chemin : celui des récits non-modernes, qui nous invitent à repenser le monde.
+Alors que le temps parisien défile à toute vitesse, celui passé aux côtés d’Amitav Ghosh semble s’être arrêté. De passage à Paris, l’écrivain new-yorkais nous accorde une rencontre intimiste et suspendue, faisant presque oublier le tumulte de la capitale. Du changement climatique à la crise migratoire, les sujets sont graves. Mais la paix et la sagesse qui se dégagent de cet anthropologue indien ont quelque chose de rassurant. Pour faire face à ce qu’il appelle la « crise planétaire », Amitav Ghosh nous propose un chemin : celui des récits non-modernes, qui nous invitent à repenser le monde. 
 
 **En 2015 vous avez publié votre premier essai traitant de la question climatique, Le Grand Dérangement. Avec votre dernier roman La déesse et le marchand, vous revenez de nouveau sur ce thème, mais cette fois-ci sous le prisme de la fiction. Pourquoi ce choix ?**
 
