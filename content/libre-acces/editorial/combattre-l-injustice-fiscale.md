@@ -2,7 +2,7 @@
 cat = "editorial.md"
 class = "single-e-magine"
 date = 2021-11-03T23:00:00Z
-description = ""
+description = "Comment justifier que des milliards de dollars échappent aux impôts alors que nous en avons cruellement besoin pour financer la transition écologique et sociale ? "
 img = "/v1636036990/Capture_d_%C3%A9cran_2021-11-04_154252_x1csew.png"
 img_credits = "Julie Graux"
 title = "Combattre l’injustice fiscale"
@@ -27,4 +27,6 @@ Comment justifier ces milliers de milliards de dollars non prélevés alors que 
 
 Mais il faut du courage politique et des moyens en suffisance. Or, on en manque cruellement. Avec un trop grand nombre de dirigeants qui sont tantôt dans le déni, tantôt dans la fuite en avant. A la botte des intérêts particuliers et des lobbies, retranchés derrière le sacrosaint « secret des affaires ». 
 
-_« Contrairement à ce qui est parfois avancé, aucun indicateur fiable ne permet de dire que la situation se soit améliorée au cours des dix dernières années »_, dénonce l’économiste Thomas Piketty, dans une tribune publiée dans _Le Monde_. Une taxe mondiale « d’au moins 15 % » appliquée sur les grandes entreprises a bien été avalisée en juillet par cent trente pays dans le cadre de l’OCDE. C’est un pas en avant, mais bien trop faible. Car les dernières révélations nous rappellent que les profondeurs de la boîte de Pandore sont abyssales et que la justice fiscale n’a plus le temps d’attendre
+_« Contrairement à ce qui est parfois avancé, aucun indicateur fiable ne permet de dire que la situation se soit améliorée au cours des dix dernières années »_, dénonce l’économiste Thomas Piketty, dans une tribune publiée dans _Le Monde_. Une taxe mondiale « d’au moins 15 % » appliquée sur les grandes entreprises a bien été avalisée en juillet par cent trente pays dans le cadre de l’OCDE. C’est un pas en avant, mais bien trop faible. Car les dernières révélations nous rappellent que les profondeurs de la boîte de Pandore sont abyssales et que la justice fiscale n’a plus le temps d’attendre. 
+
+**Hugues Dorzée, rédacteur en chef d'_Imagine_**
