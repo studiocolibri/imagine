@@ -3,6 +3,12 @@ class = "notre-manifeste single-page"
 title = "Alibaba à Liège Airport : une enquête en deux temps"
 
 +++
+La Cité ardente accueillera ainsi une plateforme logistique atteinte par la folie des grandeurs : concurrence Amazon, conquérir le marché continental et écouler par centaines de millions des produits made in China. Une présence qui traduit l’influence grandissante de la Chine dans les affaires du monde et wallonnes en particulier. 
+
+A cette occasion, Imagine a mené une enquête en deux épisodes : « Alibaba’s dream » et « Bierset en basse altitude ». Comment la multinationale chinoise a-t-elle atterri en Wallonie ? Avec quels soutiens politiques ? A quel prix ? Quel impact sur l’emploi local, et qu’en pensent les syndicats ? Que contiennent les contrats ? Quels sont les avantages réels ou fantasmés de cet investissement (emplois, retombées économiques et sociales…) ? Quelle mainmise possible de la Chine sur la Wallonie ?
+
+Voilà autant de questions auxquelles Imagine, soutenu dans cette démarche par le Fonds pour le journalisme de la Fédération Wallonie-Bruxelles, a tenté de répondre à travers cette enquête qui a confronté l’ensemble des acteurs directs et indirects de ce dossier. Difficile à mener, avec beaucoup de portes fermées, de silences évocateurs ou de coups de gueule anonymes, cette enquête rassemble pour la première fois l’essentiel des pièces d’une success story controversée.
+
 **Episode 1**, à lire dans le numéro 147 (novembre-décembre) _d’Imagine_ :
 
 * **Le coq wallon et la poule chinoise aux oeufs d’or.** Alibaba à Liège Airport, c’est huit ans de lobbying intense, de négociations et de marchandages divers. Pièce après pièce, _Imagine_ retrace cette saga politico-financière. Et lève un coin du voile sur ces tractations.
