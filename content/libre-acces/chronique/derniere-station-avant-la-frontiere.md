@@ -3,7 +3,6 @@ cat = "chronique.md"
 class = "single-e-magine"
 date = 2021-11-03T23:00:00Z
 description = "La ritournelle, une chronique de Philippe Marczewski, auteur. "
-draft = true
 img = "/v1636037613/DSCF8989_1_pxlwa7.jpg"
 img_credits = "Philippe Marczewski"
 title = "Dernière station avant la frontière"
