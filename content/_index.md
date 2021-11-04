@@ -33,7 +33,7 @@ section_one:
     de ce dossier. Difficile à mener, avec beaucoup de portes fermées, de silences
     évocateurs ou de coups de gueule anonymes, cette enquête rassemble pour la première
     fois l’essentiel des pièces d’une success story controversée. \n"
-  img: "/v1636033948/Imagine_147_DP-13_page-0001_jpat6m.jpg"
+  img: "/v1636035996/Capture_d_%C3%A9cran_2021-11-04_152612_q5na1d.png"
   btn_text: En savoir plus
   btn_link: "/alibaba-a-liege-airport-une-enquete-en-deux-temps"
 section_two:
