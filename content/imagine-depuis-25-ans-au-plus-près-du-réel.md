@@ -1,6 +1,6 @@
 +++
 class = "notre-manifeste single-page"
-title = "Alibaba à Liège Airport : une enquête en deux temps"
+title = "Alibaba à Liège : une enquête en deux temps"
 
 +++
 La Cité ardente accueillera ainsi une plateforme logistique atteinte par la folie des grandeurs : concurrence Amazon, conquérir le marché continental et écouler par centaines de millions des produits made in China. Une présence qui traduit l’influence grandissante de la Chine dans les affaires du monde et wallonnes en particulier. 
