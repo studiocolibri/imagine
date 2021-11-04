@@ -6,19 +6,36 @@ header_text: Imagine est un bimestriel de 120 pages et un éditeur indépendant 
   1996.
 section_one:
   section_title: ''
-  title: Imagine, depuis 25 ans au plus près du réel
-  text: 'Après cet été de tous les dangers (méga-feux, intempéries, rapport du Giec,
-    pandémie…), Imagine vous invite à vous plonger dans son histoire : 25 ans d’existence,
-    146 numéros, des milliers d’articles en archive… L’occasion aussi de rappeler
-    l’importance, l’originalité et la longévité de notre média alternatif sans équivalent
-    en Belgique qui, depuis 1996, ne cesse d’alerter, dénoncer, explorer, raconter…
-    les métamorphoses écologique, économique, sociale, politique… avec rigueur et
-    cohérence.  Pour marquer le coup de cet anniversaire, soyez des nôtres durant
-    tout le mois de septembre et octobre en participant à plusieurs événements culturels
-    et citoyens !'
-  img: "/v1630506922/Imagine_146_Cover02_frv63o.jpg"
+  title: Alibaba à Liège Airport, une enquête en deux temps
+  text: "Le 11 novembre, en Chine, on ne commémore pas la fin de la Grande Guerre,
+    on ne fleurit pas la tombe du Soldat Inconnu. L’heure est à la grande consommation
+    pour la “fête des célibataires”, à l’instar du Black Friday américain. Un événement
+    monté de toutes pièces par la multinationale Alibaba et devenu le baromètre de
+    l’économie chinoise, ainsi que le symbole de la puissance du groupe. En 2020,
+    cette journée de méga solde a engrangé 74 milliards de dollars de ventes de marchandises
+    en 24 heures. Soit le double de l’année précédente. En 2021, cette fête prend
+    une autre tournure : Cainiao, filiale logistique d’Alibaba Group et désormais
+    nouveau sponsor du Standard de Liège, en profitera pour inaugurer le premier entrepôt
+    de son hub européen… A Liège Airport. La Cité ardente accueillera ainsi une plateforme
+    logistique atteinte par la folie des grandeurs : concurrence Amazon, conquérir
+    le marché continental et écouler par centaines de millions des produits made in
+    China. Une présence qui traduit l’influence grandissante de la Chine dans les
+    affaires du monde et wallonnes en particulier. \n\nA cette occasion, Imagine a
+    mené une enquête en deux épisodes : « Alibaba’s dream » et « Bierset en basse
+    altitude ». Comment la multinationale chinoise a-t-elle atterri en Wallonie ?
+    Avec quels soutiens politiques ? A quel prix ? Quel impact sur l’emploi local,
+    et qu’en pensent les syndicats ? Que contiennent les contrats ? Quels sont les
+    avantages réels ou fantasmés de cet investissement (emplois, retombées économiques
+    et sociales…) ? Quelle mainmise possible de la Chine sur la Wallonie ?\n\nVoilà
+    autant de questions auxquelles Imagine, soutenu dans cette démarche par le Fonds
+    pour le journalisme de la Fédération Wallonie-Bruxelles, a tenté de répondre à
+    travers cette enquête qui a confronté l’ensemble des acteurs directs et indirects
+    de ce dossier. Difficile à mener, avec beaucoup de portes fermées, de silences
+    évocateurs ou de coups de gueule anonymes, cette enquête rassemble pour la première
+    fois l’essentiel des pièces d’une success story controversée. \n"
+  img: "/v1636033948/Imagine_147_DP-13_page-0001_jpat6m.jpg"
   btn_text: En savoir plus
-  btn_link: "/imagine-depuis-25-ans-au-plus-près-du-réel"
+  btn_link: "/alibaba-a-liege-airport-une-enquete-en-deux-temps"
 section_two:
   section_title: Accès libre
   btn_link: "/libre-acces/"
