@@ -2,7 +2,7 @@
 cat = "rencontre.md"
 class = "single-e-magine"
 date = 2021-11-03T23:00:00Z
-description = "Pour faire face à ce qu’il appelle la \"crise planétaire\", Amitav Ghosh nous propose un chemin : celui des récits non-modernes, qui nous invitent à repenser le monde. Rencontre."
+description = "Pour faire face à la \"crise planétaire\", Amitav Ghosh nous propose un chemin : celui des récits non-modernes, qui nous invitent à repenser le monde. Rencontre."
 img = "/v1636038762/33426398642_d35837ddea_o_uxxiyr.jpg"
 img_credits = "Gage Skidmore"
 title = "Amitav Ghosh : \"Les écrivains doivent redonner une voix aux non-humains\""
