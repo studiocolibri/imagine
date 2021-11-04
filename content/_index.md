@@ -8,14 +8,14 @@ section_one:
   section_title: ''
   title: Alibaba à Liège, une enquête en deux temps
   text: 'Le 11 novembre, en Chine, on ne commémore pas la fin de la Grande Guerre,
-    on ne fleurit pas la tombe du Soldat Inconnu. L’heure est à la grande consommation
-    pour la “fête des célibataires”, à l’instar du Black Friday. Un événement monté
-    de toutes pièces par la multinationale Alibaba et devenu le baromètre de l’économie
-    chinoise, ainsi que le symbole de la puissance du groupe. En 2020, cette journée
-    de méga solde a engrangé 74 milliards de dollars de ventes de marchandises en
-    24 heures. Soit le double de l’année précédente. En 2021, cette fête prend une
-    autre tournure : Cainiao, filiale logistique d’Alibaba Group et désormais sponsor
-    du Standard de Liège, en profitera pour inaugurer le premier entrepôt de son hub
+    on ne fleurit pas la tombe du Soldat Inconnu. L’heure est à la consommation de
+    masse pour la “fête des célibataires”, à l’instar du Black Friday. Un événement
+    monté de toutes pièces par la multinationale Alibaba et devenu le baromètre de
+    l’économie chinoise, ainsi que le symbole de la puissance du groupe. En 2020,
+    cette journée a engrangé 74 milliards de dollars de ventes de marchandises en
+    24 heures. Soit le double de l’année précédente. En 2021, ce 11/11 prend une autre
+    tournure : Cainiao, filiale logistique d’Alibaba Group et désormais sponsor du
+    Standard de Liège, en profitera pour inaugurer le premier entrepôt de son hub
     européen… A Liège Airport. '
   img: "/v1636035996/Capture_d_%C3%A9cran_2021-11-04_152612_q5na1d.png"
   btn_text: En savoir plus
