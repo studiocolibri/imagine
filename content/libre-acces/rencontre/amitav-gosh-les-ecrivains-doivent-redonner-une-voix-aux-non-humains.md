@@ -3,7 +3,6 @@ cat = "rencontre.md"
 class = "single-e-magine"
 date = 2021-11-03T23:00:00Z
 description = ""
-draft = true
 img = "/v1636038498/Amitav_Ghosh_by_Gage_Skidmore_n1fcvg.jpg"
 img_credits = "Gage Skidmore"
 title = "Amitav Ghosh : \"Les écrivains doivent redonner une voix aux non-humains\""
