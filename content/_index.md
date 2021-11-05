@@ -14,9 +14,9 @@ section_one:
     l’économie chinoise, ainsi que le symbole de la puissance du groupe. En 2020,
     cette journée a engrangé 74 milliards de dollars de ventes de marchandises en
     24 heures. Soit le double de l’année précédente. En 2021, cette fête prend une
-    autre tournure : Cainiao, filiale logistique d’Alibaba Group et désormais sponsor
-    du Standard de Liège, en profitera pour inaugurer le premier entrepôt de son hub
-    européen… A Liège Airport. '
+    autre tournure : elle marque notamment la montée en puissance de Cainiao, filiale
+    logistique d’Alibaba Group et désormais sponsor du Standard de Liège, dont le
+    premier entrepôt de son hub européen sera installé… A Liège Airport. '
   img: "/v1636035996/Capture_d_%C3%A9cran_2021-11-04_152612_q5na1d.png"
   btn_text: En savoir plus
   btn_link: "/alibaba-a-liege-une-enquete-en-deux-temps"
