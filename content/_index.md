@@ -6,20 +6,13 @@ header_text: Imagine est un bimestriel de 120 pages et un éditeur indépendant 
   1996.
 section_one:
   section_title: ''
-  title: Alibaba à Liège, une enquête en deux temps
-  text: 'Le 11 novembre, en Chine, on ne commémore pas la fin de la Grande Guerre,
-    on ne fleurit pas la tombe du Soldat Inconnu. L’heure est à la consommation de
-    masse pour la “fête des célibataires”, à l’instar du Black Friday. Un événement
-    monté de toutes pièces par la multinationale Alibaba et devenu le baromètre de
-    l’économie chinoise, ainsi que le symbole de la puissance du groupe. En 2020,
-    cette journée a engrangé 74 milliards de dollars de ventes de marchandises en
-    24 heures. Soit le double de l’année précédente. En 2021, cette fête prend une
-    autre tournure : elle marque notamment la montée en puissance de Cainiao, filiale
-    logistique d’Alibaba Group et désormais sponsor du Standard de Liège, dont le
-    premier entrepôt de son hub européen sera installé… A Liège Airport. '
-  img: "/v1636035996/Capture_d_%C3%A9cran_2021-11-04_152612_q5na1d.png"
+  title: Penser, agir, transformer
+  text: |-
+    Pour fêter ses vingt-ans, Imagine publie un hors-série inédit de 148 pages et explore six grandes thématiques : la Terre, les inégalités, la démocratie, le monde, les soins et les utopies. A découvrir pas à pas, conserver à portée de main dans sa bibliothèque ou offrir autour de soi.
+    Avec vingt-cinq grands témoins de notre temps : Nancy Huston, Bruno Latour, Malcom Ferdinand, Emmanuel Todd, Emilie Hache, Geneviève Azam, Alain Damasio, Philippe Descola, David Van Reybrouck, Claire Marin, Olivia Umurerwa Rutazibwa, Philippe Van Parijs, Russell Banks, Dominique Bourg, Cynthia Fleury, Jacques Testart, Paul De Grauw, Monique Pinçon-Charlot, Jean Malaurie, Gilles Clément, Thomas d’Amsembourg, Axel Kahn, Jean-Claude Guillebaud, Satish Kumar et Nastassja Martin.
+  img: "/v1638438013/simulation-cover-imagine-HS01_xcklww.jpg"
   btn_text: En savoir plus
-  btn_link: "/alibaba-a-liege-une-enquete-en-deux-temps"
+  btn_link: "/penser-agir-transformer"
 section_two:
   section_title: Accès libre
   btn_link: "/libre-acces/"
