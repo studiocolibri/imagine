@@ -3,7 +3,6 @@ cat = "dossier.md"
 class = "single-e-magine"
 date = 2021-12-01T23:00:00Z
 description = ""
-draft = true
 img = "/v1638438468/Imagine_147_DP-13_page-0001_bcaer0.jpg"
 img_credits = ""
 title = "Alibaba à Liège : une enquête en deux temps"
