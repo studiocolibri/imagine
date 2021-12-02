@@ -7,9 +7,16 @@ header_text: Imagine est un bimestriel de 120 pages et un éditeur indépendant 
 section_one:
   section_title: ''
   title: Penser, agir, transformer
-  text: |-
-    Pour fêter ses vingt-ans, Imagine publie un hors-série inédit de 148 pages et explore six grandes thématiques : la Terre, les inégalités, la démocratie, le monde, les soins et les utopies. A découvrir pas à pas, conserver à portée de main dans sa bibliothèque ou offrir autour de soi.
-    Avec vingt-cinq grands témoins de notre temps : Nancy Huston, Bruno Latour, Malcom Ferdinand, Emmanuel Todd, Emilie Hache, Geneviève Azam, Alain Damasio, Philippe Descola, David Van Reybrouck, Claire Marin, Olivia Umurerwa Rutazibwa, Philippe Van Parijs, Russell Banks, Dominique Bourg, Cynthia Fleury, Jacques Testart, Paul De Grauw, Monique Pinçon-Charlot, Jean Malaurie, Gilles Clément, Thomas d’Amsembourg, Axel Kahn, Jean-Claude Guillebaud, Satish Kumar et Nastassja Martin.
+  text: 'En décembre 2021, Imagine publie un hors-série inédit de 148 pages et explore
+    six grandes thématiques : la Terre, les inégalités, la démocratie, le monde, les
+    soins et les utopies. A découvrir pas à pas, conserver à portée de main dans sa
+    bibliothèque ou offrir autour de soi. Avec vingt-cinq grands témoins de notre
+    temps : Nancy Huston, Bruno Latour, Malcom Ferdinand, Emmanuel Todd, Emilie Hache,
+    Geneviève Azam, Alain Damasio, Philippe Descola, David Van Reybrouck, Claire Marin,
+    Olivia Umurerwa Rutazibwa, Philippe Van Parijs, Russell Banks, Dominique Bourg,
+    Cynthia Fleury, Jacques Testart, Paul De Grauw, Monique Pinçon-Charlot, Jean Malaurie,
+    Gilles Clément, Thomas d’Amsembourg, Axel Kahn, Jean-Claude Guillebaud, Satish
+    Kumar et Nastassja Martin.'
   img: "/v1638438013/simulation-cover-imagine-HS01_xcklww.jpg"
   btn_text: En savoir plus
   btn_link: "/penser-agir-transformer"
