@@ -7,7 +7,7 @@ title = "Penser, agir, transformer"
 * Vingt-cinq grands témoins de notre temps
 * Six territoires à explorer : Terre, inégalités, démocratie, Monde, soins et utopies
 
-Avec : Nancy Huston, Bruno Latour, Malcom Ferdinand, Emmanuel Todd, Emilie Hache, Geneviève Azam, Alain Damasio, Philippe Descola, David Van Reybrouck, Claire Marin, Olivia Umurerwa Rutazibwa, Philippe Van Parijs, Russel Banks, Dominique Bourg, Cynthia Fleury, Jacques Testart, Paul De Grauw, Monique Pinçon-Charlot, Jean Malaurie, Gilles Clément, Thomas d’Amsembourg, Axel Kahn, Jean-Claude Guillebaud, Satish Kumar et Nastassja Martin.
+Avec : Nancy Huston, Bruno Latour, Malcom Ferdinand, Emmanuel Todd, Emilie Hache, Geneviève Azam, Alain Damasio, Philippe Descola, David Van Reybrouck, Claire Marin, Olivia Umurerwa Rutazibwa, Philippe Van Parijs, Russell Banks, Dominique Bourg, Cynthia Fleury, Jacques Testart, Paul De Grauw, Monique Pinçon-Charlot, Jean Malaurie, Gilles Clément, Thomas d’Amsembourg, Axel Kahn, Jean-Claude Guillebaud, Satish Kumar et Nastassja Martin.
 
 Pour vous procurer ce hors-série :
 
