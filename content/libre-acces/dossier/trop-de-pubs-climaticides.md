@@ -3,14 +3,13 @@ cat = "dossier.md"
 class = "single-e-magine"
 date = 2021-12-06T23:00:00Z
 description = "Notre modèle de consommation épuise la planète. La faute, notamment, à la publicité qui en fait la promotion. Des voix s’élèvent pour réguler, interdire ou taxer les annonces en faveur de produits nocifs. "
-draft = true
 img = "/v1638802295/Brandalism-Cars-Climate-Installation-Team-05_London2020_WEB_oxcopc.jpg"
 img_credits = ""
 title = "Trop de pubs climaticides"
 title_alignment = "gauche"
 
 +++
-**Notre modèle de consommation épuise la planète. La faute, notamment, à la publicité qui en fait la promotion. Des voix s’élèvent pour réguler, interdire ou taxer les annonces en faveur de produits nocifs. Cet article a été publié dans** [**le numéro 144 d’_Imagine_ (mai-juin 2021)**](https://kiosque.imagine-magazine.com/boutique/144-mi-juin-2021/)**.**
+**Notre modèle de consommation épuise la planète. La faute, notamment, à la publicité qui en fait la promotion. Des voix s’élèvent pour réguler, interdire ou taxer les annonces en faveur de produits nocifs. Cet article a été publié dans le** [**numéro 144 d’_Imagine_ (mai-juin 2021)**](https://kiosque.imagine-magazine.com/boutique/144-mi-juin-2021/)**.**
 
 Bannir les banderoles publicitaires tractées par des avions. Interdire la distribution forcée d’échantillons. Supprimer la publicité pour les énergies fossiles qui pèse 15 millions d’euros sur un chiffre d’affaires total de… 15 milliards pour l’ensemble du marché publicitaire français. Voilà tout ce qu’il reste des différentes propositions formulées par la Convention citoyenne et retenues dans le projet de loi « climat et résilience » en débat au Parlement français. Dès l’annonce de ces dernières, le monde de la publicité s’était mobilisé rapidement et efficacement, avec une seule ligne directrice : maintenir l’autorégulation et laisser aux annonceurs et publicitaires le soin de contrôler eux-mêmes leurs pratiques. Mais à l’heure où le moindre retard pris dans la course à la baisse des émissions et à la protection de la biodiversité se payera cash, d’aucuns réclament une législation plus forte pour aider à orienter notre consommation et nos comportements dans le bon sens.
 
