@@ -2,7 +2,7 @@
 cat = "dossier.md"
 class = "single-e-magine"
 date = 2021-12-06T23:00:00Z
-description = "Notre modèle de consommation épuise la planète. La faute, notamment, à la publicité qui en fait la promotion. Des voix s’élèvent pour réguler, interdire ou taxer les annonces en faveur de produits nocifs. "
+description = "Notre modèle de consommation, et la pub qui en fait la promotion, épuise la planète. Des voix s’élèvent pour réguler, interdire ou taxer les annonces en faveur de produits nocifs. "
 img = "/v1638802295/Brandalism-Cars-Climate-Installation-Team-05_London2020_WEB_oxcopc.jpg"
 img_credits = ""
 title = "Trop de pubs climaticides"
