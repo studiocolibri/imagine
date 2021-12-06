@@ -4,8 +4,8 @@ class = "single-e-magine"
 date = 2021-12-13T23:00:00Z
 description = "Le mouvement de désobéissance civile Ende Gelände rejette tout compromis face aux nouvelles infrastructures d’énergie fossile. Chaque année, la mobilisation grandit. Reportage."
 draft = true
-img = "/v1638819454/Capture_d_%C3%A9cran_2021-12-06_203704_rg7zyy.png"
-img_credits = "Le 31 juillet 2021, deux mille jeunes militants du mouvement Ende Gelände, venus d’Allemagne et de plusieurs pays européens, manifestaient contre un projet de terminal gazier sur le site industriel de Brunbüttel, à l’embouchure de l’Elbe, dans le Nord de l’Allemagne. © Christophe Schoune"
+img = "/v1638820914/Capture_d_%C3%A9cran_2021-12-06_203704_wtdmpr.png"
+img_credits = "Le 31 juillet 2021, 2000 militants du mouvement Ende Gelände manifestaient contre un projet de terminal gazier sur le site industriel de Brunbüttel, à l’embouchure de l’Elbe, dans le Nord de l’Allemagne. © Christophe Schoune"
 title = "La désobéissance  face au « colonialisme climatique »"
 title_alignment = "gauche"
 
