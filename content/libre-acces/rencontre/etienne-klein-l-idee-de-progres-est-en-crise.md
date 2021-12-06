@@ -2,7 +2,7 @@
 cat = "rencontre.md"
 class = "single-e-magine"
 date = 2021-12-06T23:00:00Z
-description = "Dans un grand entretien accordé à Imagine, Etienne Klein, philosophe des sciences et physicien, s'interroge sur notre capacité à construire un horizon puissant. "
+description = "Pour Etienne Klein, philosophe des sciences et physicien, « notre futur n’est pas entièrement déterminé, nous devons l’investir ». Rencontre."
 img = "/v1638804213/e455f1ab-8c90-4649-b232-df3f3b4dab7e_1_as6zpv.jpg"
 img_credits = ""
 title = "Etienne Klein : \"L'idée de progrès est en crise\""
