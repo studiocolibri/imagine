@@ -4,7 +4,7 @@ class = "single-e-magine"
 date = 2021-12-06T23:00:00Z
 description = "Pour Etienne Klein, philosophe des sciences et physicien, « notre futur n’est pas entièrement déterminé, nous devons l’investir ». Rencontre."
 img = "/v1638804213/e455f1ab-8c90-4649-b232-df3f3b4dab7e_1_as6zpv.jpg"
-img_credits = ""
+img_credits = "© Virginie Bonnefon"
 title = "Etienne Klein : \"L'idée de progrès est en crise\""
 title_alignment = "gauche"
 
@@ -27,7 +27,7 @@ Après un colloque transdisciplinaire autour des « autres noms du temps » et s
 
 — C’est clair. Là, je suis à Chamonix où je viens depuis au moins trente ans et je découvre à nouveau combien un glacier que je connais bien, la Mer de Glace, a rétréci. J’ai éprouvé à mon tour un peu de cette solastalgie dont parle bien le philosophe australien Glenn Albrecht, une détresse profonde face à un changement perçu comme irréversible. Si je reviens dans dix ans, ce sera pire. Quant à mes petits enfants qui ne sont pas encore nés, ils ne verront sans doute jamais cette Mer de Glace. On me dira, ce n’est pas grave, le monde change, les paysages du passé ne sont pas ceux du futur. Mais là, ce n’est pas une variation liée à des fluctuations cosmologiques, c’est l’activité humaine qui est la cause de cette disparition. Au cours de l’histoire, de nombreuses prédictions se sont avérées fausses. Ici, nous connaissons mieux ce qui nous attend. Concernant le dérèglement climatique, on ne peut plus se raconter d’histoires. N’en déplaise aux climatosceptiques, qui n’ont d’ailleurs rien de « sceptique », car ce sont des gens tout à fait sûrs d’eux, en plein déni (dans la [charte lexicale d’_Imagine_](), nous avons opté pour le terme « climato-négationnistes »). _« Mal nommer les choses c’est ajouter au malheur du monde »,_ comme disait Camus. Avec le climat, nous sommes engagés pour les prochaines décennies dans une forme de régime balistique, pour reprendre un terme scientifique. Quoi que l’on fasse, même si l’on décide de changer complètement nos modes de vie pour réduire l’émission des gaz à effets de serre pour les trente ans à venir, l’état de la planète va continuer à se dégrader. Donc, il y a là un test pour l’humanité : serons-nous capables ou pas d’intelligence collective afin de dépasser nos erreurs, nos caprices et nos aveuglements ?
 
-###### ![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1638804711/e455f1ab-8c90-4649-b232-df3f3b4dab7e_1_yakaud.jpg)Physicien, professeur à l'Ecole centrale à Paris et directeur du laboratoire de recherche sur les sciences de la matière au CEA (Commissariat à l'Energie Atomique), Etienne Klein est docteur en philosophie des sciences et spécialiste du temps.
+###### ![© Virginie Bonnefon](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1638804711/e455f1ab-8c90-4649-b232-df3f3b4dab7e_1_yakaud.jpg)Physicien, professeur à l'Ecole centrale à Paris et directeur du laboratoire de recherche sur les sciences de la matière au CEA (Commissariat à l'Energie Atomique), Etienne Klein est docteur en philosophie des sciences et spécialiste du temps.
 
 **_« Déconnecté de ce présent devenu omniprésent, le monde de demain est laissé en jachère intellectuelle, en déshérence libidinale_, écriviez-vous dans une tribune publiée dans _Le Monde_ en 2019. _Or, ainsi qu’on avait pu le dire de la nature elle-même, le futur a horreur du vide. Il se laisse donc investir par toutes sortes de hantises. »_ Comment faire pour labourer un nouveau monde ?**
 
