@@ -9,7 +9,7 @@ title = "La désobéissance  face au « colonialisme climatique »"
 title_alignment = "gauche"
 
 +++
-**Au cœur de l’été, deux mille jeunes militants ont pris pour cible, pacifiquement, un projet de terminal gazier dans le nord de l’Allemagne. Le mouvement de désobéissance civile Ende Gelände rejette tout compromis face aux nouvelles infrastructures d’énergie fossile. La transition passe par la solidarité avec les populations victimes du gaz de schiste. Reportage.**
+**Au cœur de l’été, deux mille jeunes militants ont pris pour cible, pacifiquement, un projet de terminal gazier dans le nord de l’Allemagne. Le mouvement de désobéissance civile Ende Gelände rejette tout compromis face aux nouvelles infrastructures d’énergie fossile. La transition passe par la solidarité avec les populations victimes du gaz de schiste. Ce reportage est paru dans notre** [**numéro 146 (septembre-octobre)**](https://kiosque.imagine-magazine.com/boutique/146-septembre-octobre-2021-numero-en-cours/)**.**
 
 Au sommet du grand pont de Brunsbüttel, le nouveau monde décarboné et l’ancien monde fossile se confondent dans la grisaille tempétueuse de ce début août. A perte de vue, les cheminées et les installations de l’industrie pétrolière se confondent aux centaines d’éoliennes qui tournent à plein régime à l’embouchure de l’Elbe. C’est dans ce vaste paysage chaotique, tout en contrastes, que le mouvement de justice climatique et anti-capitaliste Ende Gelände a jeté, cet été, les bases de son camp annuel de désobéissance civile. Et c’est aux pieds de ce pont aérien que deux groupes de plusieurs centaines d’activistes bloquent, ce samedi soir-là, les accès ferroviaire et routier du ChemCoast park.
 
