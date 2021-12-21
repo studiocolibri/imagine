@@ -5,7 +5,7 @@ date = 2021-12-20T23:00:00Z
 description = "La crise de la biodiversité ne bénéficie pas encore d'une prise de conscience générale, au contraire de l'urgence climatique. Pourquoi ? Et comment visibiliser cet enjeu ? Retour sur l’histoire d’un oubli collectif."
 img = "/v1638957749/destroy-nature-destroying-life-01_hdhhob.jpg"
 img_credits = ""
-title = "Crise de la biodiversité : l'autre urgence environnementale"
+title = "La crise de la biodiversité : l'autre urgence environnementale"
 title_alignment = "gauche"
 
 +++
