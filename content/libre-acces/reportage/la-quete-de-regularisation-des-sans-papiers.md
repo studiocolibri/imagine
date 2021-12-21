@@ -3,9 +3,8 @@ cat = ""
 class = "single-e-magine"
 date = 2021-12-20T23:00:00Z
 description = "Précaires, invisibles, oubliées… Les personnes en séjour irrégulier\nse mobilisent depuis quelques mois pour faire ressurgir la question de leur régularisation. Et obtenir le soutien des citoyens. "
-draft = true
 img = "/v1640026630/Sans-papiers_wjqzr1.png"
-img_credits = ""
+img_credits = "Sarah Freres"
 title = "La quête de régularisation des sans-papiers"
 title_alignment = "gauche"
 
