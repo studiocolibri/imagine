@@ -1,5 +1,5 @@
 +++
-cat = ""
+cat = "reportage.md"
 class = "single-e-magine"
 date = 2021-12-20T23:00:00Z
 description = "Précaires, invisibles, oubliées… Les personnes en séjour irrégulier\nse mobilisent depuis quelques mois pour faire ressurgir la question de leur régularisation. Et obtenir le soutien des citoyens. "
