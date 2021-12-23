@@ -6,7 +6,7 @@ description = "Les demandes de compensations des \"pertes et préjudices\" dans 
 draft = true
 img = "/v1640170537/Capture_d_%C3%A9cran_2021-12-22_115453_izbjdr.png"
 img_credits = "Sarah Freres"
-title = "Rebecca Thissen : \"La demande de financement des pertes et préjudices liés aux dérèglements climatiques ne peut plus être ignorée\""
+title = "\"La demande de financement des pertes et préjudices liés aux dérèglements climatiques ne peut plus être ignorée\""
 title_alignment = "gauche"
 
 +++
