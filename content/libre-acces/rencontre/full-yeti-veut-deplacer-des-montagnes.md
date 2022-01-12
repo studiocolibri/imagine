@@ -6,7 +6,7 @@ description = ""
 draft = true
 img = "/v1642010638/BRD_8004_ojhnol.jpg"
 img_credits = "Christophe Schoune"
-title = "Full Yéti veut déplacer des montagnes"
+title = "Full Yéti                                                                      veut déplacer des montagnes"
 title_alignment = "droite"
 
 +++
