@@ -7,7 +7,7 @@ draft = true
 img = "/v1642010638/BRD_8004_ojhnol.jpg"
 img_credits = "Christophe Schoune"
 title = "Full Yéti veut déplacer des montagnes"
-title_alignment = "gauche"
+title_alignment = "droite"
 
 +++
 **Tête pensante belge d’Extinction Rebellion Belgique, Boris Libois trace la voie étroite d’une révolution citoyenne. L’oligarchie économique est au coeur des cibles potentielles du mouvement de désobéissance civile en 2022. Face à l’ampleur de la tâche, « Full Yéti » est prêt à devenir « prisonnier climatique ».**
