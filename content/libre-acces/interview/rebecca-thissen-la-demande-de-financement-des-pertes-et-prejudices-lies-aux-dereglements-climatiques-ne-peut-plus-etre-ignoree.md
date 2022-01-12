@@ -14,7 +14,7 @@ title_alignment = "gauche"
 
 **A l'heure où la Wallonie et l'Ecosse sont les premières régions du monde à avoir déclaré qu'elles dédieront des fonds spécifiques pour combler les pertes et les préjudices, ces questions sont plus que jamais d'actualité. Le premier de ces reportages, à lire dans** [**le numéro 148**](https://kiosque.imagine-magazine.com/) **d'_Imagine_ (janvier-février), porte sur la Gambie. Pour bien comprendre l’enjeu derrière les « pertes et préjudices », _Imagine_ a sollicité Rebecca Thissen, chargée de recherche en justice climatique au CNCD-11.11.11.**
 
-![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1642005960/IMG_6036_w30ta0.jpg)
+###### ![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1642005960/IMG_6036_w30ta0.jpg)Rebecca Thissen faisait partie de la délégation belge à la COP26. © Sarah Freres
 
 **Il est de plus en plus question, dans les discussions climatiques, de « pertes et préjudices » (« loss and damage »). Que recouvrent ces termes ?**
 
