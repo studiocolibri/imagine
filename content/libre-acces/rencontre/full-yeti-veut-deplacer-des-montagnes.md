@@ -10,7 +10,7 @@ title = "Full Yéti veut déplacer des montagnes"
 title_alignment = "droite"
 
 +++
-**Tête pensante belge d’Extinction Rebellion Belgique, Boris Libois trace la voie étroite d’une révolution citoyenne. L’oligarchie économique est au coeur des cibles potentielles du mouvement de désobéissance civile en 2022. Face à l’ampleur de la tâche, « Full Yéti » est prêt à devenir « prisonnier climatique ».**
+**Tête pensante d’Extinction Rebellion Belgique, Boris Libois trace la voie étroite d’une révolution citoyenne. L’oligarchie économique est au coeur des cibles potentielles du mouvement de désobéissance civile en 2022. Face à l’ampleur de la tâche, « Full Yéti » est prêt à devenir « prisonnier climatique ».**
 
 Le rouge, le vert et le noir pour seul nom. Sur la sonnette de son « refuge » schaerbeekois, le sablier, symbole du mouvement Extinction Rebellion (XR en abrégé), donne la mesure du temps qu’il reste pour combattre l’urgence climatique. Du temps, du café et des croissants, Boris Libois en a tant et plus à partager, ce matin-là, dans son appartement minimaliste. L’essentiel – un lit, un salon épuré, son vélo pliable, quelques rangées de livres et vêtements, un peu de vaisselle et des idées à revendre – a chassé le superflu de sa vie. Comme si le nomadisme de la rébellion pouvait à tout moment surgir et l’inciter à replanter sa tente ailleurs. « Full Yéti », son nouveau nom de code après « Flying brain », aime observer la ville depuis son nid d’aigle.
 
