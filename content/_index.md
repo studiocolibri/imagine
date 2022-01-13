@@ -2,7 +2,7 @@
 class: home
 title: Page d'accueil
 header_title: Clarifier les faits, libérer<br>les idées et les esprits
-header_text: Imagine est un bimestriel de 120 pages et un éditeur indépendant depuis
+header_text: Imagine est un bimestriel écoresponsable et un éditeur indépendant depuis
   1996.
 section_one:
   section_title: ''
