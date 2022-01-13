@@ -23,3 +23,5 @@ fields:
     required: false
   label: Code couleur
   description: 'Format hexadécimal, ex : #f5d771'
+pages:
+- content/categories/interview.md
