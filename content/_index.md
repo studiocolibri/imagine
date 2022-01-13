@@ -6,20 +6,19 @@ header_text: Imagine est un bimestriel écoresponsable et un éditeur indépenda
   1996.
 section_one:
   section_title: ''
-  title: Penser, agir, transformer
-  text: 'En décembre 2021, Imagine publie un hors-série inédit de 148 pages et explore
-    six grandes thématiques : la Terre, les inégalités, la démocratie, le monde, les
-    soins et les utopies. A découvrir pas à pas, conserver à portée de main dans sa
-    bibliothèque ou offrir autour de soi. Avec vingt-cinq grands témoins de notre
-    temps : Nancy Huston, Bruno Latour, Malcom Ferdinand, Emmanuel Todd, Emilie Hache,
-    Geneviève Azam, Alain Damasio, Philippe Descola, David Van Reybrouck, Claire Marin,
-    Olivia Umurerwa Rutazibwa, Philippe Van Parijs, Russell Banks, Dominique Bourg,
-    Cynthia Fleury, Jacques Testart, Paul De Grauw, Monique Pinçon-Charlot, Jean Malaurie,
-    Gilles Clément, Thomas d’Amsembourg, Axel Kahn, Jean-Claude Guillebaud, Satish
-    Kumar et Nastassja Martin.'
+  title: Le prix de l'information
+  text: 'Plus nous avançons, plus notre conviction se renforce : l’information gratuite
+    n’existe pas. Depuis l’arrivée d’internet, on a habitué l’opinion publique à cette
+    idée – fallacieuse –  selon laquelle la presse est à portée de clics, accessible
+    24h/24 aux quatre coins du globe, sans contrepartie pécuniaire. C’est évidemment
+    un leurre ! Pour produire de l’information libre, de qualité, approfondie, nuancée
+    et audacieuse, il faut trois fondamentaux : du temps, de l’intelligence et des
+    moyens humains et financiers. Dans le premier numéro de l’année 2022, notre rédaction
+    a rédigé une lettre collective à ses lecteurs actuels et à venir. Un courrier
+    à découvrir ici.'
   img: "/v1638438013/simulation-cover-imagine-HS01_xcklww.jpg"
   btn_text: En savoir plus
-  btn_link: "/penser-agir-transformer"
+  btn_link: "/le-prix-de-linformation"
 section_two:
   section_title: Accès libre
   btn_link: "/libre-acces/"
