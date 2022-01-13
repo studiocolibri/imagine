@@ -3,9 +3,8 @@ cat = "editorial.md"
 class = "single-e-magine"
 date = 2022-01-12T23:00:00Z
 description = "Après deux ans de pandémie, la cohésion sociale et la patience s'érodent. Mais il nous faut retrouver une conscience collective pour \"faire société\". "
-draft = true
-img = ""
-img_credits = ""
+img = "/v1642062569/liza-pooor-XmRQ179zCLI-unsplash_iexixm.jpg"
+img_credits = "Liza Pooor / Unsplash"
 title = "Faire société"
 title_alignment = "gauche"
 
