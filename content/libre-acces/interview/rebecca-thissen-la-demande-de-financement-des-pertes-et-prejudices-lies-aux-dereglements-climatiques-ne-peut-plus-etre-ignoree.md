@@ -2,7 +2,7 @@
 cat = "interview.md"
 class = "single-e-magine"
 date = 2021-12-27T23:00:00Z
-description = "Les demandes de compensations des \"pertes et préjudices\" dans les pays en développement étaient au coeur de la COP26. De quoi s'agit-il ? Qui doit indemniser qui ? Réponses avec Rebecca Thissen, du CNCD-11.11.11."
+description = "Les demandes de compensations des \"pertes et préjudices\" dans les pays en développement étaient au coeur de la COP26. Décryptage avec Rebecca Thissen, du CNCD-11.11.11."
 img = "/v1642006226/harrison-moore-zBG29d6Z98I-unsplash_isv24e.jpg"
 img_credits = "Unsplash / Harrison Moore"
 title = "\"Le financement des pertes et préjudices liés au dérèglement climatique ne peut plus être ignoré\""
