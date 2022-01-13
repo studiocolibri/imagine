@@ -15,7 +15,7 @@ section_one:
     moyens humains et financiers. Dans le premier numéro de l’année 2022, notre rédaction
     a rédigé une lettre collective à ses lecteurs actuels et à venir. Un courrier
     à découvrir ici.'
-  img: "/v1638438013/simulation-cover-imagine-HS01_xcklww.jpg"
+  img: "/v1642071227/IMG_7452_jrfzwa.jpg"
   btn_text: En savoir plus
   btn_link: "/le-prix-de-linformation"
 section_two:
