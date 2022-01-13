@@ -3,7 +3,6 @@ cat = "dossier.md"
 class = "single-e-magine"
 date = 2022-01-12T23:00:00Z
 description = "Dans une enquête inédite, Imagine déconstruit le mythe de l'aéroport de Liège, présenté par toutes les forces vives wallonnes comme un modèle de réussite économique et sociale. "
-draft = true
 img = "/v1641829009/avion_q7zwnf.jpg"
 img_credits = "Liège Airport"
 title = "Liège Airport : la fuite en avant"
