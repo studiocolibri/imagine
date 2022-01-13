@@ -3,7 +3,6 @@ cat = "chronique.md"
 class = "single-e-magine"
 date = 2022-01-12T23:00:00Z
 description = "Contre-courants, une chronique de Corinne Morel Darleux, écrivaine et militante écosocialiste. "
-draft = true
 img = "/v1641832007/axville-5WrxWltrCTg-unsplash_z6jihq.jpg"
 img_credits = "D.R."
 title = "Carpe that fucking diem"
