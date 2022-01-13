@@ -3,7 +3,6 @@ cat = "rencontre.md"
 class = "single-e-magine"
 date = 2022-01-12T23:00:00Z
 description = "En 2022, l'oligarchie économique sera au coeur des cibles du mouvement Extinction Rebellion. Boris Libois, tête pensante de \nson antenne belge, est prêt à devenir un \"prisonnier climatique\"."
-draft = true
 img = "/v1642010638/BRD_8004_ojhnol.jpg"
 img_credits = "Christophe Schoune"
 title = "Full Yéti veut déplacer des montagnes"
