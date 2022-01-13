@@ -5,7 +5,7 @@ title = "Le prix de l'information"
 +++
 La page 2021 est tournée et plutôt que de se lamenter, s’insurger ou se morfondre nous avons choisi, une fois n’est pas coutume, de parler de « nous ». Un « nous » proche et inclusif – vous qui, numéro après numéro, suivez l’aventure Imagine, et nous, la rédaction, qui produisons avec énergie et passion ce magazine. Pour vous dire tout d’abord merci.
 
-Merci d’être là, fidèles et exigeants, curieux et mobilisés. Si _Imagine_ existe depuis vingt-cinq ans, c’est grâce à votre soutien, notamment financier, par vos abonnements et vos achats en librairie. Sans vous, notre travail n’aurait ni sens ni finalité. Merci aussi pour vos retours encourageants, vos critiques constructives et vos propositions régulières, ils nous aident à avancer, évoluer, nous remettre en question. 
+Merci d’être là, fidèles et exigeants, curieux et mobilisés. Si _Imagine_ existe depuis vingt-cinq ans, c’est grâce à votre soutien, notamment financier, par vos abonnements et vos achats en librairie. Sans vous, notre travail n’aurait ni sens ni finalité. Merci aussi pour vos retours encourageants, vos critiques constructives et vos propositions régulières, ils nous aident à avancer, évoluer, nous remettre en question.
 
 #### « Optimistes par la volonté »
 
@@ -25,6 +25,7 @@ Chaque geste en faveur d’_Imagine_ est un « plus » pour notre petite entrepr
 
 #### Comment nous aider ?
 
+* En vous abonnant à notre magazine via [notre kiosque](https://kiosque.imagine-magazine.com/) : 55 euros pour six numéros par an
 * En achetant [notre hors-série](https://kiosque.imagine-magazine.com/boutique/hors-serie-les-grands-entretiens/) Penser, agir, transformer disponible en librairie (14 euros) ou sur commande (+ 2,31 euros de frais de port) avec vingt-cinq grands témoins de notre temps (lire au dos de ce magazine).
 * En relayant nos contenus (newsletters, réseaux sociaux…) dans votre entourage pour faire connaître plus largement _Imagine_.
 * En recourant à la Régie publicitaire _Imagine_ pour valoriser vos biens et vos services (regie@imaginemagazine.com, 0477 203 682).
