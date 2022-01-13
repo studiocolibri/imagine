@@ -111,7 +111,7 @@ differences:
   content: |-
     ### Un bel objet graphique & éco-friendly
 
-    C’est un magazine de 120 pages, avec un format à la française (205 x 265 mm, dos collé). La maquette est réalisée par l’Atelier David Cauwe (Liège). C’est aussi une publication éco-responsable (papier Lenza Green, 100 % recyclé, label FSC, encres végétales) imprimé au sein d’une entreprise familiale, locale et spécialisée dans l’édition durable (Kliemo, Eupen).
+    C’est un magazine dans un format à la française (205 x 265 mm, dos collé). La maquette est réalisée par l’Atelier David Cauwe (Liège). C’est aussi une publication éco-responsable (papier Lenza Green, 100 % recyclé, label FSC, encres végétales) imprimé au sein d’une entreprise familiale, locale et spécialisée dans l’édition durable (Kliemo, Eupen).
 
     ### Un site web éco-responsable
 
