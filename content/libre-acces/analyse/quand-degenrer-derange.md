@@ -7,7 +7,7 @@ draft = true
 img = "/v1646737049/katie-rainbow-90bg59HzXxE-unsplash_l3lcmu.jpg"
 img_credits = "Unsplash / Sharon McCutcheon"
 title = "Quand dégenrer dérange"
-title_alignment = "gauche"
+title_alignment = "droite"
 
 +++
 **Depuis quelques années, les questions de genre bousculent le débat public, portées par une génération ne craignant pas d’explorer les différentes identités et dessinant un monde où les stéréotypes de genre volent en éclats. Ils, elles et iels cassent les codes et remettent en question le cadre de référence d’une société binaire, encore réticente à leur accorder une place.**
