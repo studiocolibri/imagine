@@ -4,8 +4,8 @@ class = "single-e-magine"
 date = 2022-03-09T23:00:00Z
 description = ""
 draft = true
-img = "/v1646736261/imagine-mars2022-genre-hd_cf7gsq.jpg"
-img_credits = ""
+img = "/v1646735991/imagine-mars2022-genre-hd_xzykuy.jpg"
+img_credits = "Yasmine Gateau"
 title = "Quand dégenrer dérange"
 title_alignment = "gauche"
 
