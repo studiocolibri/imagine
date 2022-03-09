@@ -16,8 +16,8 @@ La crise environnementale a de nombreux impacts sur la santé publique : malnutr
 
 Dans ce dossier, une attention particulière est portée à la santé mentale des sinistrés de la vallée de la Vesdre, où « la vague », destructrice, des inondations de juillet 2021 est restée dans les mémoires. Huit mois plus tard, une deuxième vague, pernicieuse, se fraie un chemin : celle de l’anxiété et de la dépression. A sa source : une surcharge administrative, une disparition du sentiment de sécurité et de nombreuses pertes, matérielles et immatérielles. Il s'agit du deuxième épisode de notre série intitulée "Les préjudices de l'Anthropocène", qui porte sur les pertes et les dommages causés par la crise climatique.
 
-A lire aussi > Carnet d'un déluge d'été
+**A lire aussi >** [**Carnet d'un déluge d'été**](https://www.imagine-magazine.com/libre-acces/reportage/carnet-d-un-deluge-d-ete/)
 
 Outre ce reportage au long cours, ce dossier comprend un papier sur l'impact de la crise climatique dans les hôpitaux belges, un entretien avec le père de l'approche "One Health" et une cartographie de différentes maladies et pathologies liées aux perturbations environnementales, au Nord comme au Sud.
 
-**A lire aussi >** [**"Le financement des pertes et préjudices liés aux dérèglements climatiques ne peut plus être ignoré" **](https://www.imagine-magazine.com/libre-acces/interview/rebecca-thissen-la-demande-de-financement-des-pertes-et-prejudices-lies-aux-dereglements-climatiques-ne-peut-plus-etre-ignoree/)
+**A lire aussi >** [**"Le financement des pertes et préjudices liés aux dérèglements climatiques ne peut plus être ignoré"**](https://www.imagine-magazine.com/libre-acces/interview/rebecca-thissen-la-demande-de-financement-des-pertes-et-prejudices-lies-aux-dereglements-climatiques-ne-peut-plus-etre-ignoree/)
