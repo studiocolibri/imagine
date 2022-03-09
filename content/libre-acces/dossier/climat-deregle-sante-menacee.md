@@ -3,9 +3,8 @@ cat = "dossier.md"
 class = "single-e-magine"
 date = 2022-03-09T23:00:00Z
 description = "Dans le numéro 149, Imagine s'attarde sur les conséquences du dérèglement climatique sur la santé publique. Voici un aperçu de ce dossier de seize pages. "
-draft = true
-img = ""
-img_credits = ""
+img = "/v1646833892/220203PAP395_k7b5ja.jpg"
+img_credits = "Olivier Papegnies"
 title = "Climat déréglé, santé menacée"
 title_alignment = "gauche"
 
