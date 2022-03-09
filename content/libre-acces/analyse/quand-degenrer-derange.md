@@ -3,7 +3,6 @@ cat = "analyse.md"
 class = "single-e-magine"
 date = 2022-03-09T23:00:00Z
 description = "Depuis quelques années, les questions de genre bousculent le débat public, portées par une génération ne craignant pas d’explorer les différentes identités et dessinant un monde où les stéréotypes de genre volent en éclats. "
-draft = true
 img = "/v1646737049/katie-rainbow-90bg59HzXxE-unsplash_l3lcmu.jpg"
 img_credits = "Unsplash / Sharon McCutcheon"
 title = "Quand dégenrer dérange"
