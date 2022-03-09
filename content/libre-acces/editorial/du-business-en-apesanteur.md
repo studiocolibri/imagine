@@ -3,7 +3,6 @@ cat = "editorial.md"
 class = "single-e-magine"
 date = 2022-03-09T23:00:00Z
 description = "L'édito d'Hugues Dorzée, rédacteur en chef d'Imagine. "
-draft = true
 img = "/v1646731254/greg-rakozy-oMpAz-DN-9I-unsplash_dmsgyj.jpg"
 img_credits = "Unsplash / Greg Rakozy"
 title = "Du business en apesanteur"
