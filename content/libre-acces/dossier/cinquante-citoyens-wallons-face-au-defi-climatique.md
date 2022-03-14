@@ -1,5 +1,5 @@
 +++
-cat = ""
+cat = "dossier.md"
 class = "single-e-magine"
 date = 2022-03-13T23:00:00Z
 description = "Les propositions du panel citoyen climat wallon sont sur la table gouvernementale. Immersion dans ce processus démocratique inédit à travers un supplément de 24 pages."
