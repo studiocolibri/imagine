@@ -1,5 +1,5 @@
 +++
-cat = ""
+cat = "analyse.md"
 class = "single-e-magine"
 date = 2022-03-30T22:00:00Z
 description = "Les objets connectés se répandent peu à peu dans nos vies quotidiennes, mais aussi dans l’industrie, les transports, les villes, etc. Pollution, failles de sécurité, captation de données privées… Le point sur les enjeux."
