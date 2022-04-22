@@ -17,7 +17,5 @@ Participer à cette enquête vous prendra seulement quelques minutes. Voici le l
 
 Plusieurs répondants seront tirés au sort et recevront un abonnement en cadeau.
 
-Merci beaucoup pour votre collaboration.
-
-**  
-La rédaction d'_Imagine_**
+Merci beaucoup pour votre collaboration.  
+**La rédaction d'_Imagine_**
