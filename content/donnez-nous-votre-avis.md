@@ -3,9 +3,9 @@ class = "notre-manifeste single-page"
 title = "Donnez-nous votre avis !"
 
 +++
-**![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1650615773/photosondage_vyjhg8.jpg)  
-  
-La rédaction d’_Imagine,_ c’est aussi vous…
+\**![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1650615773/photosondage_vyjhg8.jpg)
+
+**La rédaction d’_Imagine,_ c’est aussi vous…**
 
 Un magazine, c’est un (bel) objet de papier, mais aussi une création collective, toujours en mouvement.
 
