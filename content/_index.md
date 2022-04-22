@@ -4,20 +4,15 @@ title: Page d'accueil
 header_title: Clarifier les faits, libérer<br>les idées et les esprits
 header_text: Imagine est un magazine bimestriel et un éditeur indépendant depuis 2001.
 section_one:
-  section_title: ''
+  section_title: Donnez-nous votre avis
   title: Le prix de l'information
-  text: 'Plus nous avançons, plus notre conviction se renforce : l’information gratuite
-    n’existe pas. Depuis l’arrivée d’internet, on a habitué l’opinion publique à cette
-    idée – fallacieuse –  selon laquelle la presse est à portée de clics, accessible
-    24h/24 aux quatre coins du globe, sans contrepartie pécuniaire. C’est évidemment
-    un leurre ! Pour produire de l’information libre, de qualité, approfondie, nuancée
-    et audacieuse, il faut trois fondamentaux : du temps, de l’intelligence et des
-    moyens humains et financiers. Dans le premier numéro de l’année 2022, notre rédaction
-    a rédigé une lettre collective à ses lecteurs actuels et à venir. Un courrier
-    à découvrir ici.'
+  text: |-
+    Vous lisez Imagine de manière occasionnelle ou régulière ? En l’achetant au numéro ou comme abonné ? Votre avis nous intéresse !
+
+    En juin 2020, la rédaction d’Imagine a lancé un nouveau projet éditorial (format, design, pagination, site web éco-responsable…). Deux ans plus tard, nous aimerions savoir ce que vous en pensez, tant sur le fond que sur la forme, en participant à notre grande enquête de lectorat.
   img: "/v1642071227/IMG_7452_jrfzwa.jpg"
   btn_text: En savoir plus
-  btn_link: "/le-prix-de-linformation"
+  btn_link: "/donnez-nous-votre-avis"
 section_two:
   section_title: Accès libre
   btn_link: "/libre-acces/"
