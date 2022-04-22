@@ -10,7 +10,7 @@ section_one:
     Vous lisez Imagine de manière occasionnelle ou régulière ? En l’achetant au numéro ou comme abonné ? Votre avis nous intéresse !
 
     En juin 2020, la rédaction d’Imagine a lancé un nouveau projet éditorial (format, design, pagination, site web éco-responsable…). Deux ans plus tard, nous aimerions savoir ce que vous en pensez, tant sur le fond que sur la forme, en participant à notre grande enquête de lectorat.
-  img: "/v1642071227/IMG_7452_jrfzwa.jpg"
+  img: "/v1650615773/photosondage_vyjhg8.jpg"
   btn_text: En savoir plus
   btn_link: "/donnez-nous-votre-avis"
 section_two:
