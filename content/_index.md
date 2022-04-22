@@ -5,7 +5,7 @@ header_title: Clarifier les faits, libérer<br>les idées et les esprits
 header_text: Imagine est un magazine bimestriel et un éditeur indépendant depuis 2001.
 section_one:
   section_title: Donnez-nous votre avis
-  title: Le prix de l'information
+  title: Donnez-nous votre avis
   text: |-
     Vous lisez Imagine de manière occasionnelle ou régulière ? En l’achetant au numéro ou comme abonné ? Votre avis nous intéresse !
 
