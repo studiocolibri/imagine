@@ -10,7 +10,7 @@ title = "Imagine recrute"
 title_alignment = "gauche"
 
 +++
-**_Imagine Demain le monde_**
+**_Imagine Demain le monde_** 
 
 **recrute un(e) chargé(e) de développement du magazine (F-M-X)**
 
