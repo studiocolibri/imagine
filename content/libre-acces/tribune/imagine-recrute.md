@@ -3,7 +3,6 @@ cat = "tribune.md"
 class = "single-e-magine"
 date = 2022-04-26T22:00:00Z
 description = "Dans le cadre du re-développement de notre projet de presse sans équivalent en Belgique, Imagine recrute une personne chargée d’élargir la diffusion et de coordonner la promotion du magazine."
-draft = true
 img = "/v1651052905/recrute_lmoms1.jpg"
 img_credits = ""
 title = "Imagine recrute"
