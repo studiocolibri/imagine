@@ -3,6 +3,7 @@ cat = "tribune.md"
 class = "single-e-magine"
 date = 2022-04-26T22:00:00Z
 description = "Dans le cadre du re-développement de notre projet de presse sans équivalent en Belgique, Imagine recrute une personne chargée d’élargir la diffusion et de coordonner la promotion du magazine."
+draft = true
 img = "/v1651052905/recrute_lmoms1.jpg"
 img_credits = ""
 title = "Imagine recrute"
@@ -13,7 +14,6 @@ title_alignment = "gauche"
 
 **recrute un(e) chargé(e) de développement du magazine (F-M-X)**
 
-  
 _Imagine_ est un magazine bimestriel alternatif et autonome qui s’inscrit dans le courant _slow press_ et traite des questions liées à l’écologie, aux grandes questions de société et aux relations Nord-Sud. Il porte un regard libre, prospectif et non-conformiste sur le monde. Il est édité par une Asbl indépendante de tout groupe de presse et de tout parti politique qui partage les valeurs de l’économie sociale.
 
 Dans le cadre du re-développement de ce projet de presse sans équivalent en Belgique, _Imagine_ recrute une personne chargée d’élargir la diffusion et de coordonner la promotion du magazine.
@@ -29,8 +29,6 @@ Dans le cadre du re-développement de ce projet de presse sans équivalent en Be
 
 * Etre titulaire d’un bac ou d’un master (communication, marketing, sciences commerciales…)
 * Avoir minimum 5 ans d’expérience utile dans le domaine du développement
-
-
 * Maitriser des applications de calcul, de planning et de gestion de projet
 * Partager les valeurs et la vision du magazine
 * Etre créatif, polyvalent et autonome, avec la volonté de s’investir pleinement dans un projet de presse alternative et indépendante
