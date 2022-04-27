@@ -3,13 +3,14 @@ cat = "tribune.md"
 class = "single-e-magine"
 date = 2022-04-26T22:00:00Z
 description = "Dans le cadre du re-développement de notre projet de presse sans équivalent en Belgique, Imagine recrute une personne chargée d’élargir la diffusion et de coordonner la promotion du magazine."
+draft = true
 img = "/v1651052905/recrute_lmoms1.jpg"
 img_credits = ""
 title = "Imagine recrute"
 title_alignment = "gauche"
 
 +++
-**_Imagine Demain le monde_** 
+**_Imagine Demain le monde_**
 
 **recrute un(e) chargé(e) de développement du magazine (F-M-X)**
 
@@ -50,7 +51,7 @@ Dans le cadre du re-développement de ce projet de presse sans équivalent en Be
 
 Lieu de travail : au siège du magazine à Liège, télétravail possible
 
-Poste à pourvoir dès à présent
+Poste à pourvoir dès le 1<sup>er</sup> juin
 
 Les candidatures sont à envoyer uniquement à l’adresse [recrutement@imagine-magazine.com](mailto:recrutement@imagine-magazine.com) avant le 13 mai
 
