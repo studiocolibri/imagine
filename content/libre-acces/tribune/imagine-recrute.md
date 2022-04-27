@@ -43,7 +43,7 @@ Dans le cadre du re-développement de ce projet de presse sans équivalent en Be
 **_Imagine Demain le monde_ offre**
 
 * Un cadre de travail convivial
-* Un contrat à durée déterminée d’un an (CDD) 3/5ème temps, (barèmes CP32902, échelon 4.1 ou 4.2) avec possibilité d'évolution en CDI/temps plein
+* Un contrat à durée déterminée d’un an (CDD) 3/5ème temps, (barèmes CP32902, échelon 4.1 ou 4.2) avec possibilité d'évolution en CDI/temps plein, ou une convention de collaboration comme indépendant
 * Le remboursement des frais de déplacement domicile-travail
 * Des chèques-repas
 * Des éco-chèques en fin d’année
