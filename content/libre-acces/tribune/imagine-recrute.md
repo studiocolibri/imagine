@@ -9,9 +9,7 @@ title = "Imagine recrute"
 title_alignment = "gauche"
 
 +++
-**_Imagine Demain le monde_**
-
-**recrute un(e) chargé(e) de développement du magazine (F-M-X)**
+**_Imagine Demain le monde_ recrute un(e) chargé(e) de développement du magazine (F-M-X)**
 
 _Imagine_ est un magazine bimestriel alternatif et autonome qui s’inscrit dans le courant _slow press_ et traite des questions liées à l’écologie, aux grandes questions de société et aux relations Nord-Sud. Il porte un regard libre, prospectif et non-conformiste sur le monde. Il est édité par une Asbl indépendante de tout groupe de presse et de tout parti politique qui partage les valeurs de l’économie sociale.
 
