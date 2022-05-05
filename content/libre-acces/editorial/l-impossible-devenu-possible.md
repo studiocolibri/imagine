@@ -4,7 +4,7 @@ class = "single-e-magine"
 date = 2022-05-04T22:00:00Z
 description = "Dans son dernier édito, Hugues Dorzée s'interroge sur l'enchaînement des crises qui s'apparente à un crash-test pour mesurer notre capacité à affronter l'avenir."
 img = "/v1651759314/matt-howard-GH7fPDHnJyw-unsplash_qwqpwm.jpg"
-img_credits = "MJH Shikder / Unsplash"
+img_credits = "Matt Howard / Unsplash"
 title = "L'impossible devenu possible"
 title_alignment = "droite"
 
