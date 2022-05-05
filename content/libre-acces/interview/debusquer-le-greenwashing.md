@@ -4,8 +4,8 @@ class = "single-e-magine"
 date = 2022-05-04T22:00:00Z
 description = "Loin d’être réservé au secteur publicitaire, le greenwashing se loge partout : dans les discours des entreprises, les décisions des politiques, et même quelquefois chez les écologistes. Entretien avec Aurélien Berlan, philosophe, co-directeur d’un Manuel pour dépolluer le débat public.\n"
 draft = true
-img = "/v1651740829/andy-kelly-0E_vhMVqL9g-unsplash_lwmgc9.jpg"
-img_credits = "Nos sociétés riches partagent une même idéologie : cette idée que le progrès technoscientifique engendre mécaniquement un progrès économique, qui serait vecteur de progrès moral, social et humain. Une idée fausse, entretenue aujourd’hui par le greenwashing. Andy Kelly / Unsplash."
+img = "/v1651740919/andy-kelly-0E_vhMVqL9g-unsplash_cncq9f.jpg"
+img_credits = "Nos sociétés riches partagent une même idéologie : le progrès technoscientifique engendre mécaniquement un progrès économique, qui serait vecteur de progrès moral, social et humain. Une idée fausse, entretenue aujourd’hui par le greenwashing. Andy Kelly / Unsplash."
 title = "Débusquer le greenwashing"
 title_alignment = "gauche"
 
