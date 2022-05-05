@@ -2,11 +2,11 @@
 cat = "editorial.md"
 class = "single-e-magine"
 date = 2022-05-04T22:00:00Z
-description = "Dans son édito du numéro 150, Hugues Dorzée s'interroge sur l'enchaînement de crises successives qui s'apparente à un crash-test pour mesurer notre capacité à nous adapter. "
-img = "/v1651738658/mjh-shikder-X762DfCZwRA-unsplash_e7e8kv.jpg"
+description = "Dans son dernier édito, Hugues Dorzée s'interroge sur l'enchaînement des crises qui s'apparente à un crash-test pour mesurer notre capacité à affronter l'avenir."
+img = "/v1651759314/matt-howard-GH7fPDHnJyw-unsplash_qwqpwm.jpg"
 img_credits = "MJH Shikder / Unsplash"
 title = "L'impossible devenu possible"
-title_alignment = "gauche"
+title_alignment = "droite"
 
 +++
 _« C’est fou comme parfois nous pouvons nous comporter comme des moutons »_, s’indignait récemment un proche. Sans faire injure à nos cousins les ovidés, nous ne pouvons pas lui donner tout à fait tort : collectivement, l’espèce humaine est relativement docile et impressionnable, à tout moment susceptible de se laisser conduire, berner, voire déposséder.
