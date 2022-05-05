@@ -2,11 +2,11 @@
 cat = "chronique.md"
 class = "single-e-magine"
 date = ""
-description = ""
+description = "Dans chaque numéro d’Imagine, retrouvez la chronique d’un chercheur de l’Institut wallon de l’évaluation, de la\nprospective et de la statistique (IWEPS)."
 draft = true
 img = ""
 img_credits = ""
-title = "Chronique iweps"
+title = "Quel(s) futur(s) après le progrès ?"
 title_alignment = "gauche"
 
 +++
