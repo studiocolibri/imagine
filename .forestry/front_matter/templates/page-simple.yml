@@ -11,7 +11,7 @@ fields:
   hidden: true
   default: notre-manifeste single-page
 pages:
-- content/donnez-nous-votre-avis.md
 - content/la-cartographie-imagine.md
+- content/le-collectif-kiosque-cofonde-par-Imagine.md
 - content/le-processus-imagine-2020.md
 - content/nous-contacter.md
