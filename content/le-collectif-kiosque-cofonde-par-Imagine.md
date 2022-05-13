@@ -3,7 +3,7 @@ class = "notre-manifeste single-page"
 title = "Le collectif Kiosque, co-fondé par Imagine"
 
 +++
-**Sept magazines qui partagent des valeurs et des réalités socio-économiques communes ont décidé de s’unir pour préserver la pluralité de la presse belge et de créer ensemble KIOSQUE, un collectif de médias belges, francophones et libres. Leur objectif ? Se renforcer collectivement, interpeller les pouvoirs publics et restaurer la confiance qui lie citoyens, citoyennes et journalisme.**
+**Sept magazines qui partagent des valeurs et des réalités socio-économiques communes ont décidé de s’unir pour préserver la pluralité de la presse belge et de créer ensemble KIOSQUE, un collectif de médias belges, francophones et libres. Leur objectif ? Se renforcer collectivement, interpeller les pouvoirs publics et restaurer la confiance qui lie citoyens, citoyennes et journalisme.** 
 
 **KIOSQUE** est un collectif pluriel de médias belges, francophones et libres, fondé au printemps 2022 autour de valeurs et de réalités communes. KIOSQUE est composé de sept titres (_Alter Echos, axelle, Imagine, Le Ligueur, Médor, Tchak! et Wilfried_) ; il est appelé à grandir.
 
