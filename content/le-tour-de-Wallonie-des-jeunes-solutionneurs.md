@@ -1,6 +1,6 @@
 +++
 class = "notre-manifeste single-page"
-title = "Le collectif Kiosque, co-fondé par Imagine"
+title = "Le tour de Wallonie des jeunes solutionneurs"
 
 +++
 **Dès le 16 mai, Imagine lance le Tour de Wallonie des jeunes solutionneurs. Un projet sociétal et éditorial transmédia qui vise à valoriser des personnes et des lieux qui ont un impact social et environnemental positif.**
