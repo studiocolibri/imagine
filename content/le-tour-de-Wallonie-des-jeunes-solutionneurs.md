@@ -38,7 +38,7 @@ Pour réaliser ce Tour, Imagine entend s’associer avec des professionnels de t
 
 ### **Temps 2 : la sélection**
 
-**Du 16 mai au 3 juin**. Tous les projets seront examinés par un jury composé de personnalités issues de la société civile et d’un(e) représentant(e) de la rédaction d’Imagine. En parallèle, un vote public sera lancé via une plateforme web.
+Du 16 mai au 3 juin. Tous les projets seront examinés par un jury composé de personnalités issues de la société civile et d’un(e) représentant(e) de la rédaction d’Imagine. En parallèle, un vote public sera lancé via une plateforme web.
 
 ### **Temps 3 : la médiatisation**
 
@@ -54,4 +54,4 @@ Le Tour des solutionneurs va se traduire par la diffusion de :
 
 Les différents lauréats seront amenés à organiser sur place un événement en partenariat avec Imagine (expo, débat, moment festif…)
 
-Ce projet a reçu le soutien de St’art, le fonds d'investissement initié par la Région wallonne et la Fédération _Wallonie_-Bruxelles afin soutenir le développement de l'économie créative, dans le cadre du projet « Rayonnement Wallonie ».
+Ce projet a reçu le soutien de St’art, le fonds d'investissement initié par la Région wallonne et la Fédération Wallonie-Bruxelles afin soutenir le développement de l'économie créative, dans le cadre du projet « Rayonnement Wallonie ».
