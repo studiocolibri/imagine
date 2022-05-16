@@ -4,8 +4,8 @@ title: Page d'accueil
 header_title: Clarifier les faits, libérer<br>les idées et les esprits
 header_text: Imagine est un magazine bimestriel et un éditeur indépendant depuis 2001.
 section_one:
-  section_title: Le Tour de Wallonie des Jeunes Solutionneurs
-  title: Le Tour de Wallonie des Jeunes Solutionneurs
+  section_title: Le Tour des Solutionneurs
+  title: Le Tour des Solutionneurs
   text: "Dès le 16 mai, Imagine lance le Tour de Wallonie des jeunes solutionneurs.
     Un projet sociétal et éditorial transmédia qui vise à valoriser des personnes
     et des lieux qui ont un impact social et environnemental positif. \n\nIls inventent
