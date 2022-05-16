@@ -1,11 +1,11 @@
 +++
 class = "notre-manifeste single-page"
-title = "Le tour de Wallonie des jeunes solutionneurs"
+title = "Le tour de Wallonie des Jeunes Solutionneurs"
 
 +++
-**Dès le 16 mai, Imagine lance le Tour de Wallonie des jeunes solutionneurs. Un projet sociétal et éditorial transmédia qui vise à valoriser des personnes et des lieux qui ont un impact social et environnemental positif.**
+**Dès le 16 mai, _Imagine_ lance le Tour de Wallonie des Jeunes Solutionneurs. Un projet sociétal et éditorial transmédia qui vise à valoriser des personnes et des lieux qui ont un impact social et environnemental positif.**
 
-Ils inventent des start-up citoyennes, créent des monnaies alternatives, réinventent l’agriculture durable, explorent de nouvelles formes d’habitats collectifs, de consommation relocalisée, de démocratie participative… De Tournai à Virton, de Thuin à Verviers, la Wallonie regorge de ce _« Million de révolutions tranquilles »_, comme l’appelle Bénédicte Manier (Les Liens qui libèrent, 2016).
+Ils inventent des start-up citoyennes, créent des monnaies alternatives, réinventent l’agriculture durable, explorent de nouvelles formes d’habitats collectifs, de consommation relocalisée, de démocratie participative… De Tournai à Virton, de Thuin à Verviers, la Wallonie regorge de ce _« million de révolutions tranquilles »_, comme l’appelle Bénédicte Manier (Les Liens qui libèrent, 2016).
 
 Parmi cette fourmilière de projets transformateurs, citoyens ou éco-responsables, au service d’un monde plus soutenable, nombre d’entre eux sont initiés et portés par des jeunes talents (néo-cultivateurs, économistes hétérodoxes, artisans-créateurs, bio-ingénieurs…).
 
@@ -22,7 +22,7 @@ Pour participer au Tour, il faudra réunir les conditions suivantes :
 * Un **ancrage en Wallonie**
 * Une **attention particulière** accordée à la **gouvernance**, à la **diversité**, à l’**inclusion des minorités** et à la **participation citoyenne**
 
-Lien d’inscription : [https://framaforms.org/tour-de-wallonie-des-jeunes-solutionneurs-1651582133]()
+Lien d’inscription : [https://framaforms.org/tour-de-wallonie-des-jeunes-solutionneurs-1651582133](https://framaforms.org/tour-de-wallonie-des-jeunes-solutionneurs-1651582133 "https://framaforms.org/tour-de-wallonie-des-jeunes-solutionneurs-1651582133")
 
 Cette initiative va se dérouler en quatre temps, de mai à décembre 2022.
 
@@ -36,15 +36,15 @@ Trois catégories seront ouvertes : **« reportage »** (le projet fera l’obje
 
 Au final, trente projets seront retenus : dix dans la catégorie « reportage », dix dans la catégorie « personnalités » et dix dans la catégorie « lanceurs d’avenir ».
 
-Pour réaliser ce Tour, Imagine entend s’associer avec des professionnels de talent. L’idée étant d’offrir à une dizaine de jeunes rédacteurs, illustrateurs, photographes, vidéastes, des collaborations professionnelles, rémunérées décemment, dans le cadre d’un projet éditorial inédit. Ainsi, à travers ce projet, Imagine entend également soutenir un secteur de l’édition durement touché par la crise socio-économique.
+Pour réaliser ce Tour, _Imagine_ entend s’associer avec des professionnels de talent. L’idée étant d’offrir à une dizaine de jeunes rédacteurs, illustrateurs, photographes, vidéastes, des collaborations professionnelles, rémunérées décemment, dans le cadre d’un projet éditorial inédit. Ainsi, à travers ce projet, _Imagine_ entend également soutenir un secteur de l’édition durement touché par la crise socio-économique.
 
 ### **Temps 2 : la sélection**
 
-Du 16 mai au 3 juin. Tous les projets seront examinés par un jury composé de personnalités issues de la société civile et d’un(e) représentant(e) de la rédaction d’Imagine. En parallèle, un vote public sera lancé via une plateforme web.
+Du 16 mai au 3 juin. Tous les projets seront examinés par un jury composé de personnalités issues de la société civile et d’un(e) représentant(e) de la rédaction d’_Imagine_. En parallèle, un vote public sera lancé via une plateforme web.
 
 ### **Temps 3 : la médiatisation**
 
-Le Tour des solutionneurs va se traduire par la diffusion de :
+Le Tour des Jeunes Solutionneurs va se traduire par la diffusion de :
 
 * un hors-série de 64 pages à paraître fin 2022
 * une série de capsules vidéos
