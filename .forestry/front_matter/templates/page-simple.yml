@@ -12,6 +12,6 @@ fields:
   default: notre-manifeste single-page
 pages:
 - content/la-cartographie-imagine.md
-- content/le-collectif-kiosque-cofonde-par-Imagine.md
 - content/le-processus-imagine-2020.md
+- content/le-tour-de-Wallonie-des-jeunes-solutionneurs.md
 - content/nous-contacter.md
