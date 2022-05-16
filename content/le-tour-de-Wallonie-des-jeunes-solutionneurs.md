@@ -1,6 +1,6 @@
 +++
 class = "notre-manifeste single-page"
-title = "Le tour de Wallonie des Jeunes Solutionneurs"
+title = "Le Tour de Wallonie des Jeunes Solutionneurs"
 
 +++
 **Dès le 16 mai, _Imagine_ lance le Tour de Wallonie des Jeunes Solutionneurs. Un projet sociétal et éditorial transmédia qui vise à valoriser des personnes et des lieux qui ont un impact social et environnemental positif.**
