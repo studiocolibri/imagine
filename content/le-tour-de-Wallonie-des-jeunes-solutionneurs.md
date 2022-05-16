@@ -22,7 +22,7 @@ Pour participer au Tour, il faudra réunir les conditions suivantes :
 * Un **ancrage en Wallonie**
 * Une **attention particulière** accordée à la **gouvernance**, à la **diversité**, à l’**inclusion des minorités** et à la **participation citoyenne**
 
-Lien d’inscription : [https://framaforms.org/tour-de-wallonie-des-jeunes-solutionneurs-1651582133](https://framaforms.org/tour-de-wallonie-des-jeunes-solutionneurs-1651582133 "https://framaforms.org/tour-de-wallonie-des-jeunes-solutionneurs-1651582133")
+Lien d’inscription : [https://framaforms.org/tour-de-wallonie-des-jeunes-solutionneurs-1651582133]()
 
 Cette initiative va se dérouler en quatre temps, de mai à décembre 2022.
 
