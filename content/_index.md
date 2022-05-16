@@ -20,7 +20,7 @@ section_one:
     de les mettre en valeur. Comment ? A travers un Tour de Wallonie des Jeunes Solutionneurs,
     lancé ce 16 mai par notre magazine en tant que média francophone de référence
     sur les questions de transition écologique et solidaire. "
-  img: "/v1652688320/Solutionneurs_Instagram_eio9kr.jpg"
+  img: "/v1652094401/279502479_411168691012420_6125770479928847936_n_1_hbcqbi.jpg"
   btn_text: En savoir plus
   btn_link: "/le-tour-de-wallonie-des-jeunes-solutionneurs"
 section_two:
