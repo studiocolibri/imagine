@@ -26,6 +26,8 @@ Lien d’inscription : [https://framaforms.org/tour-de-wallonie-des-jeunes-solut
 
 Cette initiative va se dérouler en quatre temps, de mai à décembre 2022.
 
+![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1652689723/Solutionneurs_Site_pj1vmq.jpg)
+
 ### **Temps 1 : l’appel à candidatures**
 
 Dès le 16 mai, l’appel aux candidats sera lancé via différents canaux (réseaux sociaux, société civile, newsletter…). Une page Facebook dédicacée du Tour est ouverte avec des échos du _work in progress_, des photos, le making off…
