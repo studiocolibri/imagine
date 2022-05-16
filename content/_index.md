@@ -6,20 +6,7 @@ header_text: Imagine est un magazine bimestriel et un éditeur indépendant depu
 section_one:
   section_title: Le Tour de Wallonie des jeunes solutionneurs
   title: Le Tour de Wallonie des jeunes solutionneurs
-  text: "Dès le 16 mai, Imagine lance le Tour de Wallonie des jeunes solutionneurs.
-    Un projet sociétal et éditorial transmédia qui vise à valoriser des personnes
-    et des lieux qui ont un impact social et environnemental positif. \n\nIls inventent
-    des start-up citoyennes, créent des monnaies alternatives, réinventent l’agriculture
-    durable, explorent de nouvelles formes d’habitats collectifs, de consommation
-    relocalisée, de démocratie participative… De Tournai à Virton, de Thuin à Verviers,
-    la Wallonie regorge de ce « Million de révolutions tranquilles », comme l’appelle
-    Bénédicte Manier (Les Liens qui libèrent, 2016). \nParmi cette fourmilière de
-    projets transformateurs, citoyens ou éco-responsables, au service d’un monde plus
-    soutenable, nombre d’entre eux sont initiés et portés par des jeunes talents (néo-cultivateurs,
-    économistes hétérodoxes, artisans-créateurs, bio-ingénieurs…).\nImagine a décidé
-    de les mettre en valeur. Comment ? A travers un Tour de Wallonie des Jeunes Solutionneurs,
-    lancé ce 16 mai par notre magazine en tant que média francophone de référence
-    sur les questions de transition écologique et solidaire. "
+  text: ''
   img: "/v1652688320/Solutionneurs_Instagram_eio9kr.jpg"
   btn_text: En savoir plus
   btn_link: "/le-tour-de-wallonie-des-jeunes-solutionneurs"
