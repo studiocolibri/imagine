@@ -5,7 +5,7 @@ title = "Le Tour de Wallonie des Jeunes Solutionneurs"
 +++
 **Dès le 16 mai, _Imagine_ lance le Tour de Wallonie des Jeunes Solutionneurs. Un projet sociétal et éditorial transmédia qui vise à valoriser des personnes et des lieux qui ont un impact social et environnemental positif.**
 
-Ils inventent des start-up citoyennes, créent des monnaies alternatives, réinventent l’agriculture durable, explorent de nouvelles formes d’habitats collectifs, de consommation relocalisée, de démocratie participative… De Tournai à Virton, de Thuin à Verviers, la Wallonie regorge de ce   
+Ils inventent des start-up citoyennes, créent des monnaies alternatives, réinventent l’agriculture durable, explorent de nouvelles formes d’habitats collectifs, de consommation relocalisée, de démocratie participative… De Tournai à Virton, de Thuin à Verviers, la Wallonie regorge de ce  
 _« million de révolutions tranquilles »_, comme l’appelle Bénédicte Manier (Les Liens qui libèrent, 2016).
 
 Dans cette fourmilière de projets transformateurs, citoyens ou éco-responsables au service d’un monde plus soutenable, beaucoup sont initiés et portés par des jeunes talents (néo-cultivateurs, économistes hétérodoxes, artisans-créateurs, bio-ingénieurs…).
