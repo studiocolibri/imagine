@@ -10,10 +10,10 @@ section_one:
     Wallonie qui bouge, crée, innove à travers un projet éditorial transmédia inédit
     qui met sous le feu des projecteurs ces jeunes qui inventent des start-up citoyennes,
     créent des monnaies alternatives, réinventent l’agriculture durable, explorent
-    de nouvelles formes d’habitat collectifs, de consommation relocalisée, de démocratie
-    participative… Imagine sillonne les cinq provinces de la Wallonie afin de dénicher
-    ces porteurs et porteuses de projet durable/original avec un impact social et
-    environnemental positif fort. "
+    de nouvelles formes d’habitats collectifs, de consommation relocalisée, de démocratie
+    participative… Imagine sillonne les cinq provinces de Wallonie afin de dénicher
+    ces porteurs et porteuses de projets durables, originaux avec un impact social
+    et environnemental positif fort. "
   img: "/v1652688320/Solutionneurs_Instagram_eio9kr.jpg"
   btn_text: En savoir plus
   btn_link: "/le-tour-de-wallonie-des-jeunes-solutionneurs"
