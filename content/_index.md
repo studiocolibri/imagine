@@ -12,7 +12,7 @@ section_one:
     créent des monnaies alternatives, réinventent l’agriculture durable, explorent
     de nouvelles formes d’habitats collectifs, de consommation relocalisée, de démocratie
     participative… Imagine sillonne les cinq provinces de Wallonie afin de dénicher
-    ces porteurs et porteuses de projets durables, originaux avec un impact social
+    ces porteurs et porteuses de projets durables, originaux, avec un impact social
     et environnemental positif fort. "
   img: "/v1652688320/Solutionneurs_Instagram_eio9kr.jpg"
   btn_text: En savoir plus
