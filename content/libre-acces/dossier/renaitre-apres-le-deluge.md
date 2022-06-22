@@ -41,6 +41,6 @@ Chaque sinistré encore sur le carreau, chaque maison encore inhabitée, chaque 
 
 Disponible en librairie ou via notre boutique en ligne : [www.kiosque.imagine-magazine.com](http://www.kiosque.imagine-magazine.com)
 
-On direct à la rédaction : [info@imagine-magazine.com](mailto:info@imagine-magazine.com), 04 380 13 37 (prix : 10 euros + 2,50 euros de frais de port
+Ou en direct à la rédaction : [info@imagine-magazine.com](mailto:info@imagine-magazine.com), 04 380 13 37 (prix : 10 euros + 2,50 euros de frais de port)
 
 ![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1655910057/HS_Innondations-43_page-0001_rr2hrv.jpg)
