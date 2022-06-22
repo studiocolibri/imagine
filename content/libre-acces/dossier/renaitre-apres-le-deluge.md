@@ -11,7 +11,7 @@ title_alignment = "gauche"
 +++
 **« Renaître après le déluge » : 2021-2022, chronique d’un sinistre social et climatique**
 
-Trente-neuf personnes décédées, 209 communes touchées, 100 km2 de zones inondées, entre 80 et 100 000 habitants impactés, de 45 à 50 000 habitations sinistrées, 160 000 tonnes de déchets charriés par les eaux… Le bilan des inondations de juillet 2021 est lourd. Un événement d’une exceptionnelle gravité, imprévisible ou pas – les enquêtes toujours en cours devront le dire –, qui a violemment et durablement affecté toute la Wallonie, et plus particulière la province de Liège
+Trente-neuf personnes décédées, 209 communes touchées, 100 km2 de zones inondées, entre 80 et 100 000 habitants impactés, de 45 à 50 000 habitations sinistrées, 160 000 tonnes de déchets charriés par les eaux… Le bilan des inondations de juillet 2021 est lourd. Un événement d’une exceptionnelle gravité, imprévisible ou pas – les enquêtes toujours en cours devront le dire –, qui a violemment et durablement affecté toute la Wallonie, et plus particulière la province de Liège.
 
 Comment renaître après un tel déluge ? C’est une des questions posées, en creux, dans un hors-série inédit coédité par _Imagine_ et une série d’opérateurs privés et publics et sous-titré « 2021 - 2022, chronique d’un sinistre social et climatique ».
 
