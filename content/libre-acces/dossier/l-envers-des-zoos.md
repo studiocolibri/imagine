@@ -20,7 +20,9 @@ Une enquête de Christophe Schoune sur un secteur à la fois surexposé et trop 
 
 ![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1656080533/220601PAP184_g86ann.jpg)
 
-![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1656080605/220601PAP248_wm3elx.jpg)![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1656080620/220601PAP228_kpjg7i.jpg)
+![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1656080605/220601PAP248_wm3elx.jpg)
+
+![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1656080620/220601PAP228_kpjg7i.jpg)
 
 ![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1656080634/220601PAP326_i08hfh.jpg)
 
