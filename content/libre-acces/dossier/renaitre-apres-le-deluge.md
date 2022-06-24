@@ -3,8 +3,8 @@ cat = ""
 class = "single-e-magine"
 date = 2022-06-21T22:00:00Z
 description = "Près d'un an après les inondations qui ont durement touché la Wallonie, Imagine édite un hors-série : « Renaître après le déluge ». "
-img = "/v1656061247/Capture_d_%C3%A9cran_2022-06-24_105914_sni5jx.png"
-img_credits = "Olivier Papegnies"
+img = "/v1656064659/529A0730_pifwya.jpg"
+img_credits = "Dominique Houcmant (Goldo)"
 title = "Renaître après le déluge"
 title_alignment = "gauche"
 
