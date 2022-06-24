@@ -28,4 +28,6 @@ Une enquête de Christophe Schoune sur un secteur à la fois surexposé et trop 
 
 ![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1656080650/220601PAP454_p9zmfs.jpg)
 
+![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1656082748/220601PAP291_a1mgzp.jpg)
+
 ![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1656081119/220601PAP142_x3ovsl.jpg)
