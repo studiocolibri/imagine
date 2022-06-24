@@ -14,7 +14,7 @@ Vingt ans après la mise en oeuvre de la première réglementation européenne d
 
 Au nom de l’éthique et du droit animal, les opposants aux zoos dénoncent le « zoowashing » et réclament la fin de l’exposition des espèces exotiques et la transformation des zoos en sanctuaires. De leur côté, les parcs animaliers se développent sans états d’âme et mettent en avant leur rôle de gardiens de la biodiversité.
 
-Une enquête de Christophe Schoune sur un secteur à la fois surexposé et trop peu contrôlé, à lire dans [notre numéro 151](https://kiosque.imagine-magazine.com/), disponible en librairie ou sur notre site. Un dossier sublimé par les images d'Olivier Papegnies, à découvrir ci-dessous. Elles ont été prises au zoo d'Anvers, en juin 2022. 
+Une enquête de Christophe Schoune sur un secteur à la fois surexposé et trop peu contrôlé, à lire dans [notre numéro 151](https://kiosque.imagine-magazine.com/), disponible en librairie ou sur notre site. Un dossier sublimé par les images d'Olivier Papegnies, à découvrir ci-dessous. Elles ont été prises au zoo d'Anvers, en juin 2022.
 
 ![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1656080468/220601PAP274_iuos5f.jpg)
 
@@ -31,3 +31,5 @@ Une enquête de Christophe Schoune sur un secteur à la fois surexposé et trop 
 ![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1656082748/220601PAP291_a1mgzp.jpg)
 
 ![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1656081119/220601PAP142_x3ovsl.jpg)
+
+![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1656092520/220601PAP100_d4m652.jpg)
