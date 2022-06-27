@@ -4,13 +4,15 @@ class = "single-e-magine"
 date = 2022-07-07T22:00:00Z
 description = "Charlotte Puiseux a grandi dans un système discriminant construit pour et par les personnes valides. Militante et autrice, elle défend une vision bien différente du handicap. Rencontre. "
 draft = true
-img = "/v1656322861/Capture_d_%C3%A9cran_2022-06-27_113914_c94u1b.png"
+img = ""
 img_credits = "D.R."
 title = "Charlotte Puiseux, la dévalideuse"
 title_alignment = "gauche"
 
 +++
 **Handicapée depuis la petite enfance, la philosophe et psychologue Charlotte Puiseux a grandi dans un système discriminant construit pour et par les personnes valides. Militante active au sein du collectif Les Dévalideuses, auteure d’un ouvrage à paraître cet été (_De chair et de fer_, La Découverte), elle défend une vision bien différente du handicap, comme un moteur de changement. Rencontre avec une personnalité en lutte, loin du pathos et des discours paternalistes.**
+
+![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1656323168/Capture_d_%C3%A9cran_2022-06-27_114421_urtujq.png)
 
 _« Mon handicap dû à une maladie génétique a été découvert très tôt, dès l’âge de 6 mois. Lorsque le médecin a annoncé la nouvelle à ma mère, il lui a conseillé de ne pas s’attacher à moi puisque j’allais mourir très rapidement, et de me placer dans un centre spécialisé. »_ En ce milieu des années 1980, ce discours – _« qui perdure aujourd’hui »_ – est encore très répandu. Mais les parents de Charlotte Puiseux refusent d’en rester là et cherchent des médecins prêts à s’occuper de leur fille, ainsi que des pistes de traitement.
 
