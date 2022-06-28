@@ -10,7 +10,7 @@ title = "L'envers des zoos"
 title_alignment = "gauche"
 
 +++
-Vingt ans après la mise en oeuvre de la première réglementation européenne des parcs zoologiques, le monde de la captivité animale est sous pression. Les deux missions clés des zoos - assurer la conservation des espèces et éduquer le public en respectant le bien-être des animaux - sont loin d’être gagnées. 
+Vingt ans après la mise en oeuvre de la première réglementation européenne des parcs zoologiques, le monde de la captivité animale est sous pression. Les deux missions clés des zoos - assurer la conservation des espèces et éduquer le public en respectant le bien-être des animaux - sont loin d’être gagnées.
 
 Au nom de l’éthique et du droit animal, les opposants aux zoos dénoncent le « zoowashing » et réclament la fin de l’exposition des espèces exotiques et la transformation des zoos en sanctuaires. De leur côté, les parcs animaliers se développent sans états d’âme et mettent en avant leur rôle de gardiens de la biodiversité.
 
