@@ -1,7 +1,7 @@
 +++
 cat = "editorial.md"
 class = "single-e-magine"
-date = ""
+date = 2022-07-05T22:00:00Z
 description = "Dans son dernier édito, Hugues Dorzée \n"
 draft = true
 img = "/v1657182218/mihai-surdu-5t5tDfOIicI-unsplash_g5365u.jpg"
