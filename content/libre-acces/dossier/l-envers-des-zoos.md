@@ -3,7 +3,6 @@ cat = "dossier.md"
 class = "single-e-magine"
 date = 2022-07-07T22:00:00Z
 description = "Dans le numéro 151, Imagine a enquêté sur les deux missions principales des zoos : la conservation des espèces et l'éducation du public. Sont-elles menées à bien ? "
-draft = true
 img = "/v1656081078/220601PAP119_vki0iv.jpg"
 img_credits = "Olivier Papegnies"
 title = "L'envers des zoos"
