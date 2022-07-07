@@ -3,7 +3,6 @@ cat = "rencontre.md"
 class = "single-e-magine"
 date = 2022-07-07T22:00:00Z
 description = "Charlotte Puiseux a grandi dans un système discriminant construit pour et par les personnes valides. Militante et autrice, elle défend une vision bien différente du handicap. Rencontre. "
-draft = true
 img = ""
 img_credits = "D.R."
 title = "Charlotte Puiseux, la dévalideuse"
