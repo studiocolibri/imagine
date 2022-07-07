@@ -13,7 +13,8 @@ _« Nul Congolais digne de ce nom ne pourra jamais oublier que c’est par la lu
 
 Six mois plus tard, le premier Premier ministre de la RDC, était froidement torturé et exécuté avec plusieurs de ses partisans au cours d’une opération menée par des militaires et des mercenaires, avec le soutien de hauts dirigeants belges et katangais et de la CIA.
 
-Soixante-deux ans plus tard, le Roi Philippe en visite d’Etat à Kinshasa, a présenté ses _« sincères regrets »_ pour ce régime colonial _« basé sur l’exploitation et la domination »._ Fin juin, le premier ministre Alexander De Croo (Open VLD) a réitéré depuis Bruxelles « _les excuses du gouvernement belge »_ pour l’assassinat _« odieux »_ de Patrice Lumumba.
+Soixante-deux ans plus tard, le Roi Philippe en visite d’Etat à Kinshasa, a présenté ses  
+ _« sincères regrets »_ pour ce régime colonial _« basé sur l’exploitation et la domination »._ Fin juin, le premier ministre Alexander De Croo (Open VLD) a réitéré depuis Bruxelles « _les excuses du gouvernement belge »_ pour l’assassinat _« odieux »_ de Patrice Lumumba.
 
 Il a fallu attendre soixante-deux ans pour que notre pays se livre à cet exercice officiel de devoir mémoriel. Soixante-deux ans ! Le temps de deux, voire trois générations, et tant de livres, de films, de travaux scientifiques et d’enquêtes parlementaires qui ont abondamment documenté cette longue et ambivalente _« mission civilisatrice »._
 
