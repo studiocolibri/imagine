@@ -3,7 +3,6 @@ cat = "reportage.md"
 class = "single-e-magine"
 date = 2022-07-07T22:00:00Z
 description = "Dans le nord du Sénégal, la désertification, fruit du dérèglement climatique, entraîne des dommages importants pour les agriculteurs et les éleveurs. Reportage."
-draft = true
 img = "/v1656405697/Web_Sahel_bjnmsb.jpg"
 img_credits = "Sarah Freres"
 title = "Une catastrophe silencieuse débrousse le Sahel"
