@@ -7,7 +7,7 @@ draft = true
 img = "/v1657182218/mihai-surdu-5t5tDfOIicI-unsplash_g5365u.jpg"
 img_credits = ""
 title = "Au-delà du pardon"
-title_alignment = "gauche"
+title_alignment = "droite"
 
 +++
 _« Nul Congolais digne de ce nom ne pourra jamais oublier que c’est par la lutte que \[l’indépendance\] a été conquise, une lutte de tous les jours (…) une lutte qui fut de larmes, de feu et de sang dont nous sommes fiers jusqu’au plus profond de nous-mêmes, car ce fut une lutte noble et juste, une lutte indispensable pour mettre fin à l’humiliant esclavage, qui nous était imposé par la force. »_ Le 30 juin 1960 lors de la cérémonie proclamant l'indépendance de la République du Congo, Patrice Lumumba prononçait un discours d’une grande virulence à l’égard de la Belgique sous les yeux ébahis de ses élites et du jeune roi Baudouin fraîchement intronisé. Une attaque frontale de la fameuse « trinité coloniale » – les intérêts du gouvernement, les missionnaires catholiques et les entreprises privées – qui marquera à jamais l’Histoire.
