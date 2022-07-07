@@ -2,7 +2,7 @@
 cat = "editorial.md"
 class = "single-e-magine"
 date = 2022-07-05T22:00:00Z
-description = "Dans son dernier édito, Hugues Dorzée \n"
+description = "Dans son dernier édito, Hugues Dorzée rappelle combien les excuses et les regrets de l'Etat belge envers le Congo sont nécessaires mais pas suffisantes. \n"
 img = "/v1657182218/mihai-surdu-5t5tDfOIicI-unsplash_g5365u.jpg"
 img_credits = ""
 title = "Au-delà du pardon"
