@@ -30,6 +30,6 @@ Cette génération force la décolonisation des esprits et des comportements. El
 
 Aujourd’hui, les excuses et les regrets sont nécessaires, mais pas suffisants. La Belgique, l’Europe, le monde occidental ne peuvent plus se contenter d’évocation, de contrition et de pardon, ils doivent agir. Car au-delà des efforts de mémoire, il y a la réalité des faits : le sort des migrants africains noyés en Méditerranée, expulsés de force, plongés dans l’illégalité et la misère en attente d’une régularisation ; les multinationales qui continuent à exercer un colonialisme économique à coup d’accaparements de terres, d’extractivisme industriel, de pillage des ressources naturelles et d’esclavagisme déguisé ; les trop maigres financements publics alloués à la coopération internationale qui sont rabotés en dépit du bon sens et sans vision à long terme, etc.
 
-Autant d’exemples montrant que l’appel à la _« lutte_ _noble et juste »_ appelée de ses vœux par Patrice Lumumba reste, soixante-deux après sa mort, d’une ardente actualité. 
+Autant d’exemples montrant que l’appel à la _« lutte_ _noble et juste »_ appelée de ses vœux par Patrice Lumumba reste, soixante-deux après sa mort, d’une ardente actualité.
 
 **Hugues Dorzée, rédacteur en chef d'_Imagine_**
