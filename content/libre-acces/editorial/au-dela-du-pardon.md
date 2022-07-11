@@ -4,7 +4,7 @@ class = "single-e-magine"
 date = 2022-07-05T22:00:00Z
 description = "Dans son dernier édito, Hugues Dorzée rappelle combien les excuses et les regrets de l'Etat belge envers le Congo sont nécessaires mais pas suffisantes. \n"
 img = "/v1657182218/mihai-surdu-5t5tDfOIicI-unsplash_g5365u.jpg"
-img_credits = ""
+img_credits = "Mihai Surdu / Unsplash"
 title = "Au-delà du pardon"
 title_alignment = "droite"
 
@@ -14,7 +14,7 @@ _« Nul Congolais digne de ce nom ne pourra jamais oublier que c’est par la lu
 Six mois plus tard, le premier Premier ministre de la RDC, était froidement torturé et exécuté avec plusieurs de ses partisans au cours d’une opération menée par des militaires et des mercenaires, avec le soutien de hauts dirigeants belges et katangais et de la CIA.
 
 Soixante-deux ans plus tard, le Roi Philippe en visite d’Etat à Kinshasa, a présenté ses  
- _« sincères regrets »_ pour ce régime colonial _« basé sur l’exploitation et la domination »._ Fin juin, le premier ministre Alexander De Croo (Open VLD) a réitéré depuis Bruxelles « _les excuses du gouvernement belge »_ pour l’assassinat _« odieux »_ de Patrice Lumumba.
+_« sincères regrets »_ pour ce régime colonial _« basé sur l’exploitation et la domination »._ Fin juin, le premier ministre Alexander De Croo (Open VLD) a réitéré depuis Bruxelles « _les excuses du gouvernement belge »_ pour l’assassinat _« odieux »_ de Patrice Lumumba.
 
 Il a fallu attendre soixante-deux ans pour que notre pays se livre à cet exercice officiel de devoir mémoriel. Soixante-deux ans ! Le temps de deux, voire trois générations, et tant de livres, de films, de travaux scientifiques et d’enquêtes parlementaires qui ont abondamment documenté cette longue et ambivalente _« mission civilisatrice »._
 
@@ -31,3 +31,5 @@ Cette génération force la décolonisation des esprits et des comportements. El
 Aujourd’hui, les excuses et les regrets sont nécessaires, mais pas suffisants. La Belgique, l’Europe, le monde occidental ne peuvent plus se contenter d’évocation, de contrition et de pardon, ils doivent agir. Car au-delà des efforts de mémoire, il y a la réalité des faits : le sort des migrants africains noyés en Méditerranée, expulsés de force, plongés dans l’illégalité et la misère en attente d’une régularisation ; les multinationales qui continuent à exercer un colonialisme économique à coup d’accaparements de terres, d’extractivisme industriel, de pillage des ressources naturelles et d’esclavagisme déguisé ; les trop maigres financements publics alloués à la coopération internationale qui sont rabotés en dépit du bon sens et sans vision à long terme, etc.
 
 Autant d’exemples montrant que l’appel à la _« lutte_ _noble et juste »_ appelée de ses vœux par Patrice Lumumba reste, soixante-deux après sa mort, d’une ardente actualité.
+
+**Hugues Dorzée, rédacteur en chef d'_Imagine_**
