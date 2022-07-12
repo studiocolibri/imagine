@@ -9,7 +9,7 @@ title = "Le prix de l’information"
 title_alignment = "gauche"
 
 +++
-La page 2021 est tournée et plutôt que de se lamenter, s’insurger ou se morfondre nous avons choisi, une fois n’est pas coutume, de parler de « nous ». Un « nous » proche et inclusif – vous qui, numéro après numéro, suivez l’aventure Imagine, et nous, la rédaction, qui produisons avec énergie et passion ce magazine. Pour vous dire tout d’abord merci.
+La page 2021 est tournée et plutôt que de se lamenter, s’insurger ou se morfondre nous avons choisi, une fois n’est pas coutume, de parler de « nous ». Un « nous » proche et inclusif – vous qui, numéro après numéro, suivez l’aventure Imagine, et nous, la rédaction, qui produisons avec énergie et passion ce magazine. Pour vous dire tout d’abord merci. 
 
 Merci d’être là, fidèles et exigeants, curieux et mobilisés. Si _Imagine_ existe depuis vingt-cinq ans, c’est grâce à votre soutien, notamment financier, par vos abonnements et vos achats en librairie. Sans vous, notre travail n’aurait ni sens ni finalité. Merci aussi pour vos retours encourageants, vos critiques constructives et vos propositions régulières, ils nous aident à avancer, évoluer, nous remettre en question.
 
