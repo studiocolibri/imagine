@@ -4,9 +4,9 @@ class = "single-e-magine"
 date = ""
 description = "Pour le biologiste américain Marc Bekoff, les parcs zoologiques doivent se transformer en centres de réhabilitation de la faune sauvage et investir leur argent dans la préservation. "
 draft = true
-img = ""
+img = "/v1657696012/marcbekoff_v3grn1.jpg"
 img_credits = ""
-title = "\"Ne volons pas le futur à nos enfants\""
+title = "\"Les zoos donnent la permission aux gens de penser qu'il est acceptable de garder les animaux en cage\""
 title_alignment = "gauche"
 
 +++
@@ -34,7 +34,7 @@ Lorsque les visiteurs vont dans les zoos, ils sont éduqués de manière limité
 
 ###### **La fédération européenne des zoos met au contraire en avant le rôle crucial que ces parcs zoologiques jouent dans la sensibilisation à la protection animale…**
 
-Les défenseurs des zoos diront souvent "je connais quelqu'un qui est allé au zoo à l'âge de six ans et qui est devenu biologiste". Cela ne signifie pas que les zoos agissent de manière significative pour renforcer l'éducation. Cela sonne bien de dire qu'aller au zoo éduque les jeunes et qu'ensuite ils prendront soin des animaux. Mais il n'existe aucune preuve scientifique ou recherche évaluée par des pairs sur l'impact de l'éducation dispensée par le zoo. Une étude a par contre montré que lorsque les enfants quittent ces endroits, ils se souviennent surtout du malheur des animaux. Les enfants sont vraiment sensibles aux sentiments qu'ils perçoivent. Au zoo de Denver, où mes étudiants ont fait des recherches, les enfants ont remarqué le comportement stéréotypé des ours ou des éléphants, le fait que les animaux n'avaient pas l'air heureux ou contents. L’essentiel revient souvent à une question d’argent et je n'aime pas y penser de cette façon.
+Les défenseurs des zoos diront souvent "je connais quelqu'un qui est allé au zoo à l'âge de six ans et qui est devenu biologiste". Cela ne signifie pas que les zoos agissent de manière significative pour renforcer l'éducation. Cela sonne bien de dire qu'aller au zoo éduque les jeunes et qu'ensuite ils prendront soin des animaux. Mais il n'existe aucune preuve scientifique ou de recherche évaluée par des pairs sur l'impact de l'éducation dispensée par le zoo. Une étude a par contre montré que lorsque les enfants quittent ces endroits, ils se souviennent surtout du malheur des animaux. Les enfants sont vraiment sensibles aux sentiments qu'ils perçoivent. Au zoo de Denver, où mes étudiants ont fait des recherches, les enfants ont remarqué le comportement stéréotypé des ours ou des éléphants, le fait que les animaux n'avaient pas l'air heureux ou contents. L’essentiel revient souvent à une question d’argent et je n'aime pas y penser de cette façon.
 
 ###### **L’éducation, c'est la clef du changement ?**
 
