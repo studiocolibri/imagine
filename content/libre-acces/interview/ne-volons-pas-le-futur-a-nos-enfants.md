@@ -5,7 +5,7 @@ date = 2022-07-06T22:00:00Z
 description = "Pour le biologiste américain Marc Bekoff, les parcs zoologiques doivent se transformer en centres de réhabilitation de la faune sauvage et investir leur argent dans la préservation. "
 draft = true
 img = "/v1657696012/marcbekoff_v3grn1.jpg"
-img_credits = ""
+img_credits = "D. R."
 title = "Parcs animaliers : \"Même un enclos paré de vertus est une cage\""
 title_alignment = "gauche"
 
