@@ -6,7 +6,7 @@ description = "Pour le biologiste américain Marc Bekoff, les parcs zoologiques 
 draft = true
 img = "/v1657696012/marcbekoff_v3grn1.jpg"
 img_credits = ""
-title = "\"Les zoos donnent la permission aux gens de penser qu'il est acceptable de garder les animaux en cage\""
+title = ""
 title_alignment = "gauche"
 
 +++
@@ -48,11 +48,11 @@ Tout d’abord, je n’ai pas voulu délivrer un message anti-humain. En me conc
 
 Je pense que la priorité doit être d'empêcher les humains d'aller où ils veulent sans se soucier du bien-être des autres animaux. J'ai notamment travaillé avec des agents immobiliers en soutenant que, lorsque quelqu'un veut s'installer dans une zone, comme par exemple les montagnes ou les contreforts des Rocheuses, ils devraient avertir les futurs habitants de la nature de leurs futurs voisins. J'ai vécu dans ces montagnes pendant 40 ans. J’avais des ours noirs, des renards roux, des lynx, des coyotes juste à ma porte. Se réveiller avec un puma, un couguar ou un ours noir est assez déconcertant et il faut l’accepter. Nous allons devoir nous imposer des contraintes fortes afin de préserver ce qu’il reste de nature sauvage. Aux Pays-Bas, il y a des projets de réensauvagement très réussis. Dans les Alpes, les grimpeurs ou randonneurs doivent éviter les zones de nidification des oiseaux. Tout cela fait partie du réensauvagement, mais à très petite échelle, car nous sommes très présents partout et avons déjà ruiné la vie de trop d'espèces non humaines et d’individus. Le réensauvagement devrait être placé très haut dans l’agenda politique…
 
-###### **Comment considérez-vous la perspective de donner des droits effectifs aux animaux et de ne plus les classer dans la catégorie des "choses" à travers une vraie personnalité juridique ?**
+###### Comment considérez-vous la perspective de donner des droits effectifs aux animaux et de ne plus les classer dans la catégorie des "choses" à travers une vraie personnalité juridique ?
 
 Le système juridique et politique fonctionne vraiment lentement, mais je pense qu’on va y arriver d’ici quelques années car d’éminentes personnalités planchent sur le sujet des droits légaux pour les animaux. Les générations futures regarderont en arrière et seront incrédules. Elles ne comprendront pas comment ma génération, notre génération, qui considérait les animaux comme nous le faisions, a pu leur faire subir des choses qui ont détruit leur vie. L'Espagne reconnaît désormais les animaux comme des êtres sensibles, mais on y pratique encore la corrida. La Nouvelle-Zélande reconnaît les animaux non humains, les rivières et les arbres comme des êtres sensibles, mais on y tue des milliers d'animaux par jour, en les piégeant et en utilisant différents poisons épouvantables. La notion de bien-être animal est désormais reconnue dans une trentaine de pays, mais malheureusement ça n'a aucun effet pratique sur le terrain sauvage. Si un pays ou une ville déclare que les animaux sont des êtres sensibles, nous devons les traiter comme tels.
 
-###### **Vous considérez que les animaux non humains ont une expérience spirituelle, pouvez-vous nous expliquer quelles sont les manifestations de cette spiritualité animale ?**
+#### Vous considérez que les animaux non humains ont une expérience spirituelle, pouvez-vous nous expliquer quelles sont les manifestations de cette spiritualité animale ?
 
 J'ai beaucoup réfléchi à cette question et je ne suis pas tout à fait certain de ce que cela signifie d'avoir une expérience spirituelle, même pour les humains. Ma collègue Jane Goodall a observé des danses que certains chimpanzés mâles exécutent. Elle les qualifie d’expériences spirituelles. Moi-même, peut-être vous et beaucoup d'autres personnes que je connais sont fascinées par la beauté de la nature où qu’elle soit. Nous incorporons et ressentons parfois cette expérience de manière tellement intense que nous ressemblons à ces chimpanzés qui font la danse des chutes d'eau. Le fait d'amener les gens à se ré-ensauvager personnellement, à avoir un sentiment d'appartenance à la nature si fort et d'attachement à l'endroit où ils se trouvent, c'est vraiment de cette expérience spirituelle-là dont je parle et qui est bien éloignée des zoos et des animaux qui y sont forcés à se reproduire, enfermés, déplacés, tués même s'ils sont en bonne santé. Les zoos, en ce sens, sont pour moi l'antithèse du réensauvagement.
 
