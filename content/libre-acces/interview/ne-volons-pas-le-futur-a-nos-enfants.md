@@ -1,16 +1,15 @@
 +++
-cat = ""
+cat = "interview.md"
 class = "single-e-magine"
 date = 2022-07-06T22:00:00Z
 description = "Pour le biologiste américain Marc Bekoff, les parcs zoologiques doivent se transformer en centres de réhabilitation de la faune sauvage et investir leur argent dans la préservation. "
-draft = true
 img = "/v1657696012/marcbekoff_v3grn1.jpg"
 img_credits = "D. R."
 title = "Parcs animaliers : \"Même un enclos paré de vertus est une cage\""
 title_alignment = "gauche"
 
 +++
-Professeur émérite d'écologie et de biologie évolutive à l'université du Colorado, à Boulder, Marc Bekoff figure parmi les éthologues les plus réputés au monde. Auteur d’une trentaine d’ouvrages, ce chercheur atypique a gagné de nombreux prix pour ses recherches sur le comportement et les émotions des animaux, la compassion et la protection du vivant. Proche de l’anthropologue Jane Goodall avec qui il a écrit quatre ouvrages, Bekoff est aussi un pacifiste engagé sur le terrain social. Levé chaque matin à l’aube, ce cycliste aguerri a pris le café, en visioconférence, avec _Imagine_ depuis son jardin secret du Colorado. 
+Professeur émérite d'écologie et de biologie évolutive à l'université du Colorado, à Boulder, Marc Bekoff figure parmi les éthologues les plus réputés au monde. Auteur d’une trentaine d’ouvrages, ce chercheur atypique a gagné de nombreux prix pour ses recherches sur le comportement et les émotions des animaux, la compassion et la protection du vivant. Proche de l’anthropologue Jane Goodall avec qui il a écrit quatre ouvrages, Bekoff est aussi un pacifiste engagé sur le terrain social. Levé chaque matin à l’aube, ce cycliste aguerri a pris le café, en visioconférence, avec _Imagine_ depuis son jardin secret du Colorado. Cette interview fait partie d'un dossier consacré aux parcs animaliers et aux zoos, paru dans [notre numéro 151](https://kiosque.imagine-magazine.com/).
 
 **Les zoos et parcs animaliers avancent le rôle qu’ils jouent désormais dans la conservation ou la réintroduction d’espèces sauvages. Comment considérez-vous ces missions ?**
 
@@ -40,6 +39,8 @@ Les défenseurs des zoos diront souvent "je connais quelqu'un qui est allé au z
 
 Le plus important serait de renforcer l'éducation environnementale des enfants dans les pays occidentaux et dans le monde, de les emmener dans la nature et de leur faire ressentir cet attachement dans leur cœur, plutôt que de leur proposer des jeux de guerre sur leur ordinateur. C'est fondamental pour l'avenir du monde sauvage et de l'humanité. Je vois régulièrement ce genre de groupes à Boulder, où je vis dans le Colorado. Les enseignants qui accompagnent les jeunes tracent une autre voie pour ne pas voler l'avenir de nos enfants. 
 
+**Lire aussi >** [**L'envers des zoos**](https://www.imagine-magazine.com/libre-acces/dossier/l-envers-des-zoos/)
+
 **Votre dernier ouvrage s’intitule _Imaginer la vie des chiens dans un monde sans humains_. Pourquoi ne pas avoir écrit un livre sur le fait d'imaginer la vie des animaux sauvages dans un monde sans humains ?**
 
 Tout d’abord, je n’ai pas voulu délivrer un message anti-humain. En me concentrant sur les chiens - dont j’ai beaucoup observé les comportements d’empathie auprès des personnes sans-abri - j’ai voulu montrer qu'ils se sont très bien débrouillés pendant des millénaires sans les humains, qui n'aiment pas se rendre compte de cette indépendance. Nous avons juste volé leur habitat pour mieux les domestiquer… Et cette pression sur les habitats naturels se poursuit tout autour de chez moi. 
@@ -52,7 +53,7 @@ Je pense que la priorité doit être d'empêcher les humains d'aller où ils veu
 
 Le système juridique et politique fonctionne vraiment lentement, mais je pense qu’on va y arriver d’ici quelques années car d’éminentes personnalités planchent sur le sujet des droits légaux pour les animaux. Les générations futures regarderont en arrière et seront incrédules. Elles ne comprendront pas comment ma génération, notre génération, qui considérait les animaux comme nous le faisions, a pu leur faire subir des choses qui ont détruit leur vie. L'Espagne reconnaît désormais les animaux comme des êtres sensibles, mais on y pratique encore la corrida. La Nouvelle-Zélande reconnaît les animaux non humains, les rivières et les arbres comme des êtres sensibles, mais on y tue des milliers d'animaux par jour, en les piégeant et en utilisant différents poisons épouvantables. La notion de bien-être animal est désormais reconnue dans une trentaine de pays, mais malheureusement ça n'a aucun effet pratique sur le terrain sauvage. Si un pays ou une ville déclare que les animaux sont des êtres sensibles, nous devons les traiter comme tels. 
 
-Vous considérez que les animaux non humains ont une expérience spirituelle, pouvez-vous nous expliquer quelles sont les manifestations de cette spiritualité animale ?
+**Vous considérez que les animaux non humains ont une expérience spirituelle, pouvez-vous nous expliquer quelles sont les manifestations de cette spiritualité animale ?**
 
 J'ai beaucoup réfléchi à cette question et je ne suis pas tout à fait certain de ce que cela signifie d'avoir une expérience spirituelle, même pour les humains. Ma collègue Jane Goodall a observé des danses que certains chimpanzés mâles exécutent. Elle les qualifie d’expériences spirituelles. Moi-même, peut-être vous et beaucoup d'autres personnes que je connais sont fascinées par la beauté de la nature où qu’elle soit. Nous incorporons et ressentons parfois cette expérience de manière tellement intense que nous ressemblons à ces chimpanzés qui font la danse des chutes d'eau. Le fait d'amener les gens à se ré-ensauvager personnellement, à avoir un sentiment d'appartenance à la nature si fort et d'attachement à l'endroit où ils se trouvent, c'est vraiment de cette expérience spirituelle-là dont je parle et qui est bien éloignée des zoos et des animaux qui y sont forcés à se reproduire, enfermés, déplacés, tués même s'ils sont en bonne santé. Les zoos, en ce sens, sont pour moi l'antithèse du réensauvagement. 
 
