@@ -27,7 +27,7 @@ Selon la mémoire des anciens, tout a commencé en 1972. _« C’était la premi
 
 Quant à la saison des pluies, elle recule. _« Elle dure trois mois, de la mi-juin à la mi-septembre. Du moins, c’est ce qu’indiquent les manuels scolaires et nous ne pouvons pas dévier du programme. Mais les élèves posent des questions. Ils voient bien que la réalité ne colle pas avec ce qu’ils apprennent… Aujourd’hui, on compte les jours de pluie. Je dirais qu’en quinze ou vingt ans, la saison a diminué de moitié. En conséquence, le fleuve a reculé et des nappes d’eau ont disparu »_, relate Daouda Thiam, professeur en science de la vie et de la Terre à Mboumba.
 
-> **_Quand la nature était en bonne santé, les boeufs l’étaient aussi. Ce n’est plus le cas. On a des vaches mais on doit acheter du lait en poudre..."  
+> **Quand la nature était en bonne santé, les boeufs l’étaient aussi. Ce n’est plus le cas. On a des vaches mais on doit acheter du lait en poudre..."_  
 > _**Un éleveur du village de Tourguénoul
 
 **Lire aussi >** [**La crise de la biodiversité, l'autre urgence environnementale**](https://www.imagine-magazine.com/libre-acces/analyse/crise-de-la-biodiversite-l-autre-urgence-environnementale/)
