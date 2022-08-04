@@ -9,7 +9,7 @@ title = "Parcs animaliers : \"Même un enclos paré de vertus est une cage\""
 title_alignment = "gauche"
 
 +++
-Professeur émérite d'écologie et de biologie évolutive à l'université du Colorado, à Boulder, Marc Bekoff figure parmi les éthologues les plus réputés au monde. Auteur d’une trentaine d’ouvrages, ce chercheur atypique a gagné de nombreux prix pour ses recherches sur le comportement et les émotions des animaux, la compassion et la protection du vivant. Proche de l’anthropologue Jane Goodall avec qui il a écrit quatre ouvrages, Bekoff est aussi un pacifiste engagé sur le terrain social. Levé chaque matin à l’aube, ce cycliste aguerri a pris le café, en visioconférence, avec _Imagine_ depuis son jardin secret du Colorado. Cette interview fait partie d'un dossier consacré aux parcs animaliers et aux zoos, paru dans [notre numéro 151](https://kiosque.imagine-magazine.com/). 
+Professeur émérite d'écologie et de biologie évolutive à l'université du Colorado, à Boulder, Marc Bekoff figure parmi les éthologues les plus réputés au monde. Auteur d’une trentaine d’ouvrages, ce chercheur atypique a gagné de nombreux prix pour ses recherches sur le comportement et les émotions des animaux, la compassion et la protection du vivant. Proche de l’anthropologue Jane Goodall avec qui il a écrit quatre ouvrages, Bekoff est aussi un pacifiste engagé sur le terrain social. Levé chaque matin à l’aube, ce cycliste aguerri a pris le café, en visioconférence, avec _Imagine_ depuis son jardin secret du Colorado. Cette interview fait partie d'un dossier consacré aux parcs animaliers et aux zoos, paru dans [notre numéro 151](https://kiosque.imagine-magazine.com/).
 
 **Les zoos et parcs animaliers avancent le rôle qu’ils jouent désormais dans la conservation ou la réintroduction d’espèces sauvages. Comment considérez-vous ces missions ?**
 
@@ -19,7 +19,7 @@ Il est sans doute important de préciser d’emblée que la plupart des personne
 
 Dans _The Animals Agenda_, un livre que j'ai écrit avec Jessica Pearson, nous soutenons l'adoption d'un nouveau paradigme qui propose des objectifs de conservation compatibles avec le respect de la vie et prenant en compte le bien-être de chaque individu. Au contraire, les êtres humains ont tendance à considérer les choses de manière plus statistique : s'il y a dix millions de rats, il serait donc acceptable d'en tuer un million. La notion de bien-être n'est pas compatible avec le jeu des chiffres lorsque la vie de chaque individu compte. Elle devrait nous inciter à mettre en place des mécanismes d'une forme de "conservation compassionnelle".
 
-**Vous venez d’écrire un article qui condamne certaines pratiques d’abattage de jeunes chimpanzés dans les zoos en Espagne, notamment.**
+**Vous venez d’écrire un article qui condamne certaines pratiques d’abattage de jeunes chimpanzés dans les zoos...**
 
 C'est totalement contraire à l'éthique, immoral et inacceptable. Pourtant, ces pratiques sont soutenues par la Fédération européenne des zoos (EAZA). Les zoos appellent cela de l'euthanasie. Moi, je qualifie ces actes de "zoothanasie" car les animaux abattus ne sont pas en phase terminale ou dans des souffrances interminables. Je suis indigné par ces pratiques qui touchent également des individus moins charismatiques que les grands singes. De nombreux zoos tuent systématiquement des animaux en bonne santé afin de conserver ce qu'ils appellent leur stock de reproduction.
 
