@@ -1,7 +1,7 @@
 +++
 cat = "reportage.md"
 class = "single-e-magine"
-date = 2022-09-07T22:00:00Z
+date = 2022-08-31T22:00:00Z
 description = ""
 draft = true
 img = "/v1661360275/52255960761_5fbda2b2f7_h_khueqz.jpg"
