@@ -3,7 +3,6 @@ cat = "editorial.md"
 class = "single-e-magine"
 date = 2022-08-31T22:00:00Z
 description = "Dans l'édito du numéro d'Imagine, Hugues Dorzée appelle à décréter l'état d'urgence climatique et sociale. "
-draft = true
 img = "/v1661176379/edito_on_attend_jbbpfb.jpg"
 img_credits = "Julie Graux"
 title = "On attend quoi ? "
