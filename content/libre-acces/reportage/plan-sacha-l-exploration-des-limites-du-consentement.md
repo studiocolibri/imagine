@@ -9,7 +9,7 @@ title = "Plan Sacha : l’exploration des limites du consentement"
 title_alignment = "gauche"
 
 +++
-**Consentement, culture du viol, harcèlement, patriarcat… Depuis 2018, le plan Sacha amène ces thématiques dans les festivals et les lieux festifs. Mais c’est au cœur du festival Esperanzah!, berceau de son action, qu’il est né et qu’il continue, chaque année, de lutter contre les agressions sexistes et sexuelles.** 
+**Consentement, culture du viol, harcèlement, patriarcat… Depuis 2018, le plan Sacha amène ces thématiques dans les festivals et les lieux festifs. Mais c’est au cœur du festival Esperanzah!, berceau de son action, qu’il est né et qu’il continue, chaque année, de lutter contre les agressions sexistes et sexuelles. Cet article fait partie d'un ensemble sur le mouvement #Balancetonbar, publié dans notre** [**numéro 152 (septembre-octobre). **](https://kiosque.imagine-magazine.com/)
 
 Cabanes sur pilotis, constructions éphémères en bois à l’allure de mirador, caravane perchée, empilement chaotique de chaises… Autant de forteresses de résistances et de barricades, qui forment le Village des Possibles, véritable espace de bouillonnement intellectuel, de débats et d’engagement du festival Esperanzah!.
 
