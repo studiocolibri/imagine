@@ -2,7 +2,7 @@
 cat = "analyse.md"
 class = "single-e-magine"
 date = 2022-08-31T22:00:00Z
-description = ""
+description = "Les sujets liés au climat font de plus en plus la Une depuis une décennie, avec la COP21 à Paris comme tournant majeur. Est-ce suffisant ? Faut-il en faire plus ? Ou autrement ? Décryptage. "
 draft = true
 img = ""
 img_credits = ""
