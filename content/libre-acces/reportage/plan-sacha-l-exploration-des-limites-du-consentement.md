@@ -2,7 +2,7 @@
 cat = "reportage.md"
 class = "single-e-magine"
 date = 2022-08-31T22:00:00Z
-description = ""
+description = "Consentement, culture du viol, harcèlement, patriarcat… Depuis 2018, le plan Sacha amène ces thématiques dans les festivals et les lieux festifs. Reportage."
 img = "/v1661360275/52255960761_5fbda2b2f7_h_khueqz.jpg"
 img_credits = ""
 title = "Plan Sacha : l’exploration des limites du consentement"
