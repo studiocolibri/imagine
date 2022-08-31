@@ -5,7 +5,7 @@ date = 2022-08-31T22:00:00Z
 description = "Les sujets liés au climat font de plus en plus la Une depuis une décennie, avec la COP21 à Paris comme tournant majeur. Est-ce suffisant ? Décryptage. "
 img = "/v1661934180/li-an-lim-ycW4YxhrWHM-unsplash_rjfken.jpg"
 img_credits = "Li-An Lim / Unsplash"
-title = "Quelle couverture médiatique pour le climat ? "
+title = "Le traitement médiatique de la crise climatique en question"
 title_alignment = "gauche"
 
 +++
