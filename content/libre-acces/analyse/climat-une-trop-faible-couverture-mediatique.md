@@ -4,7 +4,7 @@ class = "single-e-magine"
 date = 2022-08-31T22:00:00Z
 description = "Les sujets liés au climat font de plus en plus la Une depuis une décennie, avec la COP21 à Paris comme tournant majeur. Est-ce suffisant ? Faut-il en faire plus ? Ou autrement ? Décryptage. "
 img = "/v1661934180/li-an-lim-ycW4YxhrWHM-unsplash_rjfken.jpg"
-img_credits = "Li-An Lim"
+img_credits = "Li-An Lim / Unsplash"
 title = "Climat : une trop faible couverture médiatique ?"
 title_alignment = "gauche"
 
