@@ -9,7 +9,7 @@ title = "Le traitement médiatique de la crise climatique en question"
 title_alignment = "gauche"
 
 +++
-**Considérés par certains comme anxiogènes, techniques ou orientés, les sujets liés au climat font de plus en plus la Une des médias. Pour nombre de scientifiques et d’activistes, cela reste insuffisant. Du côté des professionnels de l’information, on s’interroge sur l’équilibre à trouver. Décryptage.**
+**Considérés par certains comme anxiogènes, techniques ou orientés, les sujets liés au climat font de plus en plus la Une des médias. Pour nombre de scientifiques et d’activistes, cela reste insuffisant. Du côté des professionnels de l’information, on s’interroge sur l’équilibre à trouver. Décryptage.** 
 
 Le 28 février dernier, le GIEC publiait le deuxième volet de son sixième rapport d’évaluation. Selon plusieurs scientifiques, très peu, trop peu, de médias en parleront. Déjà retardée par la crise sanitaire, la publication pâtit du déclenchement, quatre jours plus tôt, de la guerre en Ukraine, qui occupe presque tout l’espace médiatique. Le précédent rapport avait été éclipsé par... le transfert de Lionel Messi au PSG. De manière plus générale, l’invisibilisation des sujets environnementaux est régulièrement questionnée. Et ce avec d’autant plus d’incompréhension que les effets du dérèglement climatique se manifestent désormais dans nos contrées. _« Le degré d’attention de chacun face à ces sujets influence le regard. Certains trouvent qu’on ne parle plus que de ça, d’autres estiment que ce n’est pas suffisamment traité »_, juge Martine Simonis, secrétaire générale de l’Association des journalistes professionnels (AJP).
 
