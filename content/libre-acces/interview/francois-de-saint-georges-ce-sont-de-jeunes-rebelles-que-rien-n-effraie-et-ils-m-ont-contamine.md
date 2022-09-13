@@ -3,7 +3,6 @@ cat = "interview.md"
 class = "single-e-magine"
 date = 2022-09-12T22:00:00Z
 description = "Le réalisateur belge François de Saint Georges a suivi les riverains pendant de longs mois les riverains de Fernelmont qui se battent contre l’usage des pesticides. Son film ZUT est présenté lors du Festival Alimenterre qui débute ce 13 septembre."
-draft = true
 img = "/v1663061172/ZUT_3CC_b2zzrq.png"
 img_credits = ""
 title = "François de Saint Georges : \"Ce sont de jeunes rebelles que rien n’effraie, et ils m’ont contaminé\""
