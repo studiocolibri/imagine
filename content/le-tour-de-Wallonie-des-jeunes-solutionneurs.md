@@ -1,60 +1,33 @@
 +++
 class = "notre-manifeste single-page"
-title = "Le Tour de Wallonie des Jeunes Solutionneurs"
+title = "Imagine recrute une équipe de journalistes transmédia pour son « Tour des jeunes solutionneurs de Wallonie »"
 
 +++
-**Dès le 16 mai, _Imagine_ lance le Tour de Wallonie des Jeunes Solutionneurs. Un projet sociétal et éditorial transmédia qui vise à valoriser des personnes et des lieux qui ont un impact social et environnemental positif.**
+**Vous avez moins de 30 ans ? Vous êtes journaliste, vidéaste ou photographe ? Le magazine _Imagine Demain le Monde_ recherche une équipe transmédia professionnelle chargée de réaliser un ensemble de reportages (écrits, podcasts, capsules vidéo) sur celles et ceux qui inventent le monde de demain. Un « Tour des jeunes solutionneurs de Wallonie » à travers lequel cette jeune équipe sera pleinement associée.**
 
-Ils inventent des start-up citoyennes, créent des monnaies alternatives, réinventent l’agriculture durable, explorent de nouvelles formes d’habitats collectifs, de consommation relocalisée, de démocratie participative… De Tournai à Virton, de Thuin à Verviers, la Wallonie regorge de ce  
-_« million de révolutions tranquilles »_, comme l’appelle Bénédicte Manier (Les Liens qui libèrent, 2016).
+Média francophone de référence sur les questions de transition écologique et solidaire, _Imagine Demain le Monde_ a décidé de mettre en valeur les jeunes qui bougent, créent, innovent, se projettent… à travers des projets économiques soutenables et juste socialement, des nouvelles formes d’habitats collectifs, de consommation relocalisée, de démocratie participative, etc.
 
-Dans cette fourmilière de projets transformateurs, citoyens ou éco-responsables au service d’un monde plus soutenable, beaucoup sont initiés et portés par des jeunes talents (néo-cultivateurs, économistes hétérodoxes, artisans-créateurs, bio-ingénieurs…).
+Pour réaliser ce « Tour de Wallonie des Jeunes Solutionneurs », notre magazine recherche une équipe transmédia professionnelle (journaliste, vidéaste, photographe). Composée de deux ou trois personnes maximum, cette team sera recrutée afin de mettre en œuvre en octobre, novembre et décembre 2022 l’ensemble des reportages (supplément spécial de 64 pages, podcasts, capsules de vidéos-témoignages) consacrés à celles et ceux qui inventent le monde de demain. De Tournai à Virton, de Thuin à Verviers, de La Hulpe à Dinant.
 
-_Imagine_ a décidé de les mettre en valeur. Comment ? A travers un **Tour de Wallonie des Jeunes Solutionneurs**, lancé ce 16 mai par notre magazine en tant que média francophone de référence sur les questions de transition écologique et solidaire.
+**Les profils recherchés :**
 
-A travers cet événement à la fois sociétal et éditorial, _Imagine_ va donner la parole à ces jeunes solutionneuses et solutionneurs, valoriser leurs initiatives, raconter cette Wallonie qui bouge, crée, innove, se projette…
+* Votre équipe est composée de deux ou trois professionnels maximum qui occupent les rôles suivants : journaliste (écrit et podcast), photographe et vidéaste de moins de 30 ans
+* Vous disposez d’une première expérience journalistique probante et des compétences cumulées (écrit, son & image)
+* Vous avez une appétence pour l’usage des réseaux sociaux
+* Vous êtes sensibilisé aux enjeux liés à la transition écologique et sociale
+* Vous maîtrisez l’utilisation de base des outils informatiques courants
+* Vous êtes créatif
+* Vous avez un esprit d’initiative et faites preuve d’autonomie
+* Vous êtes organisé et savez gérer votre temps
+* Vous êtes réactif, agile et orienté solutions
 
-Dix étapes sont prévues : deux par province wallonne. Avec, au total, dix initiatives originales et exemplaires, dix projets en bref et dix jeunes personnalités inspirantes, autour de thèmes larges (alimentation, agriculture, économie sociale, société collaborative, habitat, mobilité douce, architecture durable…).
+**Imagine vous offre :**
 
-Pour participer au Tour, il faudra réunir les conditions suivantes :
+* Une expérience professionnelle pleine de sens et tournée vers l’avenir
+* Une rémunération en tant que _freelance_ sur base des barèmes de l’Association des journalistes professionnels (AJP)
+* Une rémunération du temps de travail comme _freelance_ lié au processus de sélection des candidats solutionneurs
+* La prise en charge des frais de déplacement
+* Un contexte de travail stimulant au sein de l’équipe d’_Imagine Demain le Monde_
+* La participation à un événement de clôture au printemps 2023
 
-* Un porteur de projet âgé de **moins de 30 ans**
-* Un **projet pérenne et réplicable**, avec un impact social et environnemental positif, encadré par une structure au choix (Asbl, coopérative, collectif ou start-up)
-* Un **ancrage en Wallonie**
-* Une **attention particulière** accordée à la **gouvernance**, à la **diversité**, à l’**inclusion des minorités** et à la **participation citoyenne**
-
-Lien d’inscription : [https://framaforms.org/tour-de-wallonie-des-jeunes-solutionneurs-1651582133](https://framaforms.org/tour-de-wallonie-des-jeunes-solutionneurs-1651582133 "https://framaforms.org/tour-de-wallonie-des-jeunes-solutionneurs-1651582133")
-
-Cette initiative va se dérouler en quatre temps, de mai à décembre 2022.
-
-![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1653404503/Solutionneurs_Site_1_ppetga.jpg)
-
-### **Temps 1 : l’appel à candidatures**
-
-Dès le 16 mai, l’appel aux candidats est lancé via différents canaux (réseaux sociaux, société civile, newsletter…). Une page Facebook est dédicacée au Tour, avec des échos du _work in progress_, des photos, le making off…
-
-Trois catégories sont ouvertes : **« reportage »** (le projet fera l’objet d’un article au long cours réalisé par un(e) journaliste de l’équipe d’_Imagine_) ; **« personnalité »** (avec un portrait journalistique à la clé) ; **« lanceurs d’avenir »** (un focus sur le projet, mais moins détaillé).
-
-Au final, trente profils seront retenus : dix dans la catégorie « reportage », dix dans la catégorie « personnalités » et dix dans la catégorie « lanceurs d’avenir ».
-
-Pour réaliser ce Tour, _Imagine_ entend s’associer avec des professionnels de talent. L’idée étant d’offrir à une dizaine de jeunes rédacteurs, illustrateurs, photographes, vidéastes, des collaborations professionnelles, rémunérées décemment, dans le cadre d’un projet éditorial inédit. Ainsi, à travers cette entreprise, _Imagine_ entend également soutenir un secteur de l’édition durement touché par la crise socio-économique.
-
-### **Temps 2 : la sélection**
-
-Du 16 mai au 3 juin. Tous les projets seront examinés par un jury composé de personnalités issues de la société civile et d’un(e) représentant(e) de la rédaction d’_Imagine_. En parallèle, un vote public sera lancé via une plateforme web.
-
-### **Temps 3 : la médiatisation**
-
-Le Tour des Jeunes Solutionneurs va se traduire par la diffusion de :
-
-* un hors-série de 64 pages à paraître fin 2022
-* une série de capsules vidéos
-* un podcast réalisé au fil du Tour
-* une présence active sur les réseaux sociaux du Tour & d’_Imagine_ : Facebook (16.000 abonnés), Instagram (1.200), Newsletter Imagine (23.000), et vers les autres médias
-* un photomaton des Solutionneurs : à chaque étape, un photographe organisera un shooting avec les porteurs du projet et ses sympathisants dans un studio mobile et original. Les photos sont diffusées sur les réseaux sociaux avec un mot d’accompagnement.
-
-### **Temps 4 : le Tour _in situ_**
-
-Les différents lauréats seront invités à organiser sur place un événement en partenariat avec _Imagine_ (expo, débat, moment festif…)
-
-Ce projet a reçu le soutien de St’art, le fonds d'investissement initié par la Région wallonne et la Fédération Wallonie-Bruxelles afin de soutenir le développement de l'économie créative, dans le cadre du projet « Rayonnement Wallonie ».
+_Vos candidatures sont à envoyer de manière collective avec une lettre de motivation commune avant le lundi 3 octobre 2022 à 12h, à l'adresse suivante :_ [tourdessolutionneurs@imagine-magazine.com](mailto:tourdessolutionneurs@imagine-magazine.com)
