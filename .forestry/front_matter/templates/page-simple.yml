@@ -11,7 +11,7 @@ fields:
   hidden: true
   default: notre-manifeste single-page
 pages:
+- content/imagine-recrute-une-équipe-de-journalistes-transmedias.md
 - content/la-cartographie-imagine.md
 - content/le-processus-imagine-2020.md
-- content/le-tour-de-Wallonie-des-jeunes-solutionneurs.md
 - content/nous-contacter.md

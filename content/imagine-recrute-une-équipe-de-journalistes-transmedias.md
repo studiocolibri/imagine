@@ -3,7 +3,7 @@ class = "notre-manifeste single-page"
 title = "Imagine recrute une équipe de journalistes transmédias"
 
 +++
-**Vous avez moins de 30 ans ? Vous êtes journaliste, vidéaste ou photographe ? Le magazine _Imagine Demain le Monde_ recherche une équipe transmédia professionnelle chargée de réaliser un ensemble de reportages (écrits, podcasts, capsules vidéo) sur celles et ceux qui inventent le monde de demain. Un « Tour des jeunes solutionneurs de Wallonie » à travers lequel cette jeune équipe sera pleinement associée.**
+**Vous avez moins de 30 ans ? Vous êtes journaliste, vidéaste ou photographe ? Le magazine _Imagine Demain le Monde_ recherche une équipe transmédia professionnelle chargée de réaliser un ensemble de reportages (écrits, podcasts, capsules vidéo) sur celles et ceux qui inventent le monde de demain. Un « Tour des jeunes solutionneurs de Wallonie » à travers lequel cette jeune équipe sera pleinement associée.** 
 
 Média francophone de référence sur les questions de transition écologique et solidaire, _Imagine Demain le Monde_ a décidé de mettre en valeur les jeunes qui bougent, créent, innovent, se projettent… à travers des projets économiques soutenables et juste socialement, des nouvelles formes d’habitats collectifs, de consommation relocalisée, de démocratie participative, etc.
 
