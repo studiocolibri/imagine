@@ -4,19 +4,16 @@ title: Page d'accueil
 header_title: Clarifier les faits, libérer<br>les idées et les esprits
 header_text: Imagine est un magazine bimestriel et un éditeur indépendant depuis 2001.
 section_one:
-  section_title: Le Tour de Wallonie des Jeunes Solutionneurs
-  title: Le Tour de Wallonie des Jeunes Solutionneurs
-  text: "Le tour de Wallonie des Jeunes Solutionneurs, c’est parti ! \nDécouvrez la
-    Wallonie qui bouge, crée, innove à travers un projet éditorial transmédia inédit
-    qui met sous le feu des projecteurs ces jeunes qui inventent des start-up citoyennes,
-    créent des monnaies alternatives, réinventent l’agriculture durable, explorent
-    de nouvelles formes d’habitats collectifs, de consommation relocalisée, de démocratie
-    participative… Imagine sillonne les cinq provinces de Wallonie afin de dénicher
-    ces porteurs et porteuses de projets durables, originaux, avec un impact social
-    et environnemental positif fort. "
-  img: "/v1652688320/Solutionneurs_Instagram_eio9kr.jpg"
+  section_title: Imagine recrute une équipe de journalistes transmédias
+  title: Imagine recrute une équipe de journalistes transmédias
+  text: Vous avez moins de 30 ans ? Vous êtes journaliste, vidéaste ou photographe
+    ? Notre rédaction recherche une équipe transmédia professionnelle chargée de réaliser
+    un ensemble de reportages (écrits, podcasts, capsules vidéo) sur celles et ceux
+    qui inventent le monde de demain. Un « Tour des jeunes solutionneurs de Wallonie
+    » à travers lequel cette équipe sera pleinement associée.
+  img: "/v1663233098/korie-cull-YXdrb9qr8cs-unsplash_zgcryp.jpg"
   btn_text: En savoir plus
-  btn_link: "/le-tour-de-wallonie-des-jeunes-solutionneurs"
+  btn_link: "/imagine-recrute-une-équipe-de-journalistes-transmedias"
 section_two:
   section_title: Accès libre
   btn_link: "/libre-acces/"
