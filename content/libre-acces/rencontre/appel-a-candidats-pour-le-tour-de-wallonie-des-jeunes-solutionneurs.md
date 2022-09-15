@@ -41,7 +41,7 @@ Pour réaliser ce Tour, _Imagine_ s'est associé à une jeune équipe de journal
 
 #### **Temps 2 : la sélection**
 
-Le 19 octobre, tous les projets seront examinés par un jury composé de représentants des différentes incubateurs et structures d'accompagnement actives en Wallonie_*_.
+Le 19 octobre, tous les projets seront examinés par un jury composé de représentants des différentes incubateurs et structures d'accompagnement actives en Wallonie*.
 
 #### **Temps 3 : la médiatisation**
 
@@ -50,7 +50,7 @@ Le Tour des Jeunes Solutionneurs va se traduire par la diffusion de :
 * un hors-série de 64 pages à paraître fin 2022
 * une série de capsules vidéos
 * un podcast réalisé au fil du Tour
-* une présence active sur les réseaux sociaux du Tour & d’_Imagine_ : Facebook (16.000 abonnés), Instagram (1.200), Newsletter Imagine (23.000), et vers les autres médias
+* une présence active sur les réseaux sociaux du Tour & d’_Imagine_ : Facebook (16.000 abonnés), Instagram (1.600), Newsletter Imagine (23.000), et vers les autres médias
 * un photomaton des Solutionneurs : à chaque étape, un photographe organisera un shooting avec les porteurs du projet et ses sympathisants dans un studio mobile et original. Les photos sont diffusées sur les réseaux sociaux avec un mot d’accompagnement.
 
 #### **Temps 4 : un événement au printemps 2023**
