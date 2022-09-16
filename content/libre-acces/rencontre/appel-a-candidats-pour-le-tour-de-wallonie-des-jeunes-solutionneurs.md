@@ -2,7 +2,7 @@
 cat = "rencontre.md"
 class = "single-e-magine"
 date = 2022-09-14T22:00:00Z
-description = "En vue de son Tour de Wallonie des Jeunes Solutionneurs, Imagine lance un appel aux candidats afin de valoriser des personnes et des lieux qui ont un impact social et environnemental positif."
+description = "Pour son Tour de Wallonie des Jeunes Solutionneurs, Imagine lance un appel aux candidats afin de valoriser des initiatives à l'impact social et environnemental positif."
 img = "/v1663232048/Solutionneurs_Site_ucp97h.jpg"
 img_credits = ""
 title = "Appel à candidats pour le Tour de Wallonie des jeunes solutionneurs"
