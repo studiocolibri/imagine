@@ -41,7 +41,7 @@ Pour réaliser ce Tour, _Imagine_ s'est associé à une jeune équipe de journal
 
 #### **Temps 2 : la sélection**
 
-Le 19 octobre, tous les projets seront examinés par un jury composé de représentants des différentes incubateurs et structures d'accompagnement actives en Wallonie*.
+Le 19 octobre, tous les projets seront examinés par un jury composé de représentants des différentes incubateurs et structures d'accompagnement actives en Wallonie : Fondation Be Planet, Ecopreneur, Credal, Groupe One, VentureLab, Yncubator, La Smala (coopérative).
 
 #### **Temps 3 : la médiatisation**
 
