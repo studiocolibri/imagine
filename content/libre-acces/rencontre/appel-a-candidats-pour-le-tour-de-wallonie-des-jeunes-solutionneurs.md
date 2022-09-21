@@ -21,7 +21,7 @@ Au total, trente projets sélectionnés avec différents incubateurs et structur
 
 Pour participer au Tour, il faut réunir les conditions suivantes :
 
-• Etre un porteur de projet âgé de moins de 30 ans
+• Etre un porteur de projet âgé de moins de 35 ans
 
 • Développer projet pérenne et réplicable, avec un impact social et environnemental positif, encadré par une structure au choix (Asbl, coopérative, collectif ou start-up)
 
