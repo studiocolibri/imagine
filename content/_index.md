@@ -6,7 +6,7 @@ header_text: Imagine est un magazine bimestriel et un éditeur indépendant depu
 section_one:
   section_title: Imagine recrute une équipe de journalistes transmédias
   title: Imagine recrute une équipe de journalistes transmédias
-  text: Vous avez moins de 30 ans ? Vous êtes journaliste, vidéaste ou photographe
+  text: Vous avez moins de 35 ans ? Vous êtes journaliste, vidéaste ou photographe
     ? Notre rédaction recherche une équipe transmédia professionnelle chargée de réaliser
     un ensemble de reportages (écrits, podcasts, capsules vidéo) sur celles et ceux
     qui inventent le monde de demain. Un « Tour des jeunes solutionneurs de Wallonie
