@@ -11,7 +11,7 @@ title_alignment = "gauche"
 +++
 **En vue de son Tour de Wallonie des Jeunes Solutionneurs, _Imagine_ lance un appel aux candidats afin de valoriser des personnes et des lieux qui ont un impact social et environnemental positif.**
 
-Vous avez moins de trente ans et êtes porteur d’un projet de transition dans les domaines de la mobilité, de l’énergie, de l’agriculture, de l’économie circulaire, de consommation locale, de l’habitat solidaire, de l’architecture durable, de la démocratie participative, de la consommation responsable, de démocratie participative… C’est le moment de postuler au Tour de Wallonie des Jeunes Solutionneurs.
+Vous avez moins de trente cinq ans et êtes porteur d’un projet de transition dans les domaines de la mobilité, de l’énergie, de l’agriculture, de l’économie circulaire, de consommation locale, de l’habitat solidaire, de l’architecture durable, de la démocratie participative, de la consommation responsable, de démocratie participative… C’est le moment de postuler au Tour de Wallonie des Jeunes Solutionneurs.
 
 Porté par le magazine _Imagine_ en partenariat avec le fonds Start Wallonie, ce projet éditorial transmédia inédit mettra sous le feu des projecteurs des porteurs et porteuses de projets durables, originaux, avec un impact social et environnemental positif fort.
 
