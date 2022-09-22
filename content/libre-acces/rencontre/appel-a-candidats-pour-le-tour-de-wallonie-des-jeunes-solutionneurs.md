@@ -60,3 +60,5 @@ Les différents lauréats seront invités à un événement en partenariat avec 
 ![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1663849752/Planche-contact-1_rxxxdf.jpg)
 
 Ce projet a reçu le soutien de St’art, le fonds d’investissement initié par la Région wallonne et la Fédération Wallonie-Bruxelles afin de soutenir le développement de l’économie créative, dans le cadre du projet "Rayonnement Wallonie". Il bénéficie également de l'appui du Fonds pour le Journalisme de la Fédération Wallonie-Bruxelles.
+
+![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1663850495/Planche-contact-1_m9o1hh.jpg)
