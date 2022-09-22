@@ -57,10 +57,4 @@ Le Tour des Jeunes Solutionneurs va se traduire par la diffusion de :
 
 Les différents lauréats seront invités à un événement en partenariat avec _Imagine_, les 7 incubateurs et les structures d'accompagnement au printemps 2023.
 
-![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1663832527/Logo_Be_Planet_wq75aa.png "BE PLANET")![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1663832825/Logo_groupe_One_100_ycskz6.png)![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1663832895/logo-smala_100_e1lybn.jpg)![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1663833235/credal_mj8ldd.jpg)
-
-![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1663832969/LogoVL_BLACK_100_bkhd41.jpg)![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1663832980/Logo-Kaya_100_tddib0.jpg)
-
 Ce projet a reçu le soutien de St’art, le fonds d’investissement initié par la Région wallonne et la Fédération Wallonie-Bruxelles afin de soutenir le développement de l’économie créative, dans le cadre du projet "Rayonnement Wallonie". Il bénéficie également de l'appui du Fonds pour le Journalisme de la Fédération Wallonie-Bruxelles.
-
-![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1663833203/F%C3%A9d%C3%A9rationWallonieBruxelles_y8jck8.jpg)![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1663833468/ajp_t9cj1c.gif)![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1663833773/Start_w2xv8h.svg)
