@@ -57,6 +57,6 @@ Le Tour des Jeunes Solutionneurs va se traduire par la diffusion de :
 
 Les différents lauréats seront invités à un événement en partenariat avec _Imagine_, les 7 incubateurs et les structures d'accompagnement au printemps 2023.
 
-![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1663849498/Planche-contact-1_rl12k5.jpg)
+![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1663849752/Planche-contact-1_rxxxdf.jpg)
 
 Ce projet a reçu le soutien de St’art, le fonds d’investissement initié par la Région wallonne et la Fédération Wallonie-Bruxelles afin de soutenir le développement de l’économie créative, dans le cadre du projet "Rayonnement Wallonie". Il bénéficie également de l'appui du Fonds pour le Journalisme de la Fédération Wallonie-Bruxelles.
