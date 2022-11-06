@@ -1,7 +1,7 @@
 +++
 cat = "chronique.md"
 class = "single-e-magine"
-date = 2022-10-04T22:00:00Z
+date = 2022-11-05T23:00:00Z
 description = "Pendant un an, notre journaliste Sarah Freres a documenté les pertes et préjudices climatiques. Au terme de ce travail, elle nous livre son analyse sur cette thématique qui sera centrale à la COP27."
 img = "/v1667208715/warming-stripes-uccle-1833-2021-highres-crop_ezqcqn.png"
 img_credits = "Institut Royal de Météorologique"
