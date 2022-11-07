@@ -2,7 +2,7 @@
 cat = "analyse.md"
 class = "single-e-magine"
 date = 2022-11-09T23:00:00Z
-description = ""
+description = "Face aux anxiogènes dérèglements environnementaux, un « humour vert » commence à se frayer un chemin dans la culture populaire. Tour d’horizon avec des professionnels du rire."
 draft = true
 img = "/v1667828826/dontlookup_tswznx.jpg"
 img_credits = ""
