@@ -34,6 +34,5 @@ section_three:
   img: ordiimagine_xf4rmd.png
   btn_text: Découvrir
   btn_link: https://kiosque.imagine-magazine.com/pour-les-abonnes-imagine/
-draft: true
 
 ---
