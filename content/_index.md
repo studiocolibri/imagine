@@ -4,16 +4,22 @@ title: Page d'accueil
 header_title: Clarifier les faits, libérer<br>les idées et les esprits
 header_text: Imagine est un magazine bimestriel et un éditeur indépendant depuis 2001.
 section_one:
-  section_title: Imagine recrute une équipe de journalistes transmédias
-  title: Imagine recrute une équipe de journalistes transmédias
-  text: Vous avez moins de 35 ans ? Vous êtes journaliste, vidéaste ou photographe
-    ? Notre rédaction recherche une équipe transmédia professionnelle chargée de réaliser
-    un ensemble de reportages (écrits, podcasts, capsules vidéo) sur celles et ceux
-    qui inventent le monde de demain. Un « Tour des jeunes solutionneurs de Wallonie
-    » à travers lequel cette équipe sera pleinement associée.
-  img: "/v1663233098/korie-cull-YXdrb9qr8cs-unsplash_zgcryp.jpg"
+  section_title: 'Climat et énergie : les Belges prêts aux changements'
+  title: 'Climat et énergie : les Belges prêts aux changements'
+  text: Comment les Belges perçoivent-ils les urgences environnementales ? Quel est
+    leur degré de connaissance de celles-ci ? Qui tiennent-ils pour responsables de
+    la situation en cours ? Où sont les solutions à leurs yeux ? Sont-ils prêts à
+    changer leurs modes de vie ? A accepter l’instauration de mesures fortes ? Imagine
+    a voulu le savoir en commandant une enquête d’opinion réalisée début octobre auprès
+    de 2 000 Belges, dans les trois régions du pays, par l’Institut Dedicated. Pour
+    aller un cran plus loin, notre rédaction explore douze mesures basculantes et
+    non consensuelles dans divers secteurs (mobilité, habitat, consommation, énergie,
+    alimentation). De quoi nourrir le débat public à la veille d’un hiver qui s’annonce
+    complexe sur le plan énergétique. Découvrez quelques chiffres, extraits de ce
+    sondage, à lire dans son entièreté dans notre numéro 153.
+  img: "/v1668018633/9_Fin_vols_courts_k8hbrf.jpg"
   btn_text: En savoir plus
-  btn_link: "/imagine-recrute-une-équipe-de-journalistes-transmedias"
+  btn_link: "/climat-energie-les-belges-prets-aux-changements"
 section_two:
   section_title: Accès libre
   btn_link: "/libre-acces/"
@@ -28,5 +34,6 @@ section_three:
   img: ordiimagine_xf4rmd.png
   btn_text: Découvrir
   btn_link: https://kiosque.imagine-magazine.com/pour-les-abonnes-imagine/
+draft: true
 
 ---
