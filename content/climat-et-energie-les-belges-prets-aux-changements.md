@@ -1,33 +1,23 @@
 +++
 class = "notre-manifeste single-page"
-title = "Imagine recrute une équipe de journalistes transmédias"
+draft = true
+title = "Climat et énergie : les Belges prêts aux changements"
 
 +++
-**Vous avez moins de 35 ans ? Vous êtes journaliste, vidéaste ou photographe ? Le magazine _Imagine Demain le Monde_ recherche une équipe transmédia professionnelle chargée de réaliser un ensemble de reportages (écrits, podcasts, capsules vidéo) sur celles et ceux qui inventent le monde de demain. Un « Tour des jeunes solutionneurs de Wallonie » à travers lequel cette jeune équipe sera pleinement associée.**
+Comment les Belges perçoivent-ils les urgences environnementales ? Quel est leur degré de connaissance de celles-ci ? Qui tiennent-ils pour responsables de la situation en cours ? Où sont les solutions à leurs yeux ? Sont-ils prêts à changer leurs modes de vie ? A accepter l’instauration de mesures fortes ? Imagine a voulu le savoir en commandant une enquête d’opinion réalisée début octobre auprès de 2 000 Belges, dans les trois régions du pays, par l’Institut Dedicated. Pour aller un cran plus loin, notre rédaction explore douze mesures basculantes et non consensuelles dans divers secteurs (mobilité, habitat, consommation, énergie, alimentation). De quoi nourrir le débat public à la veille d’un hiver qui s’annonce complexe sur le plan énergétique. Voici quelques chiffres, extraits de cette enquête, à lire dans son entièreté dans [notre numéro 153 (novembre-décembre 2022)](https://kiosque.imagine-magazine.com/).
 
-Média francophone de référence sur les questions de transition écologique et solidaire, _Imagine Demain le Monde_ a décidé de mettre en valeur les jeunes qui bougent, créent, innovent, se projettent… à travers des projets économiques soutenables et juste socialement, des nouvelles formes d’habitats collectifs, de consommation relocalisée, de démocratie participative, etc.
+### **CLIMAT**
 
-Pour réaliser ce « Tour de Wallonie des Jeunes Solutionneurs », notre magazine recherche une équipe transmédia professionnelle (journaliste, vidéaste, photographe). Composée de deux ou trois personnes maximum, cette team sera recrutée afin de mettre en œuvre en octobre, novembre et décembre 2022 l’ensemble des reportages (supplément spécial de 64 pages, podcasts, capsules de vidéos-témoignages) consacrés à celles et ceux qui inventent le monde de demain. De Tournai à Virton, de Thuin à Verviers, de La Hulpe à Dinant.
+\[infogram id="b92912c4-5fc5-43dc-aed5-4e01591d9b4c" prefix="ElN" format="interactive" title="La prise de conscience du dérèglement climatique"\]
 
-**Les profils recherchés :**
+\[infogram id="63de749b-19cd-45d5-9272-145582080900" prefix="hrj" format="interactive" title="L&#39;engagement face au dérèglement climatique"\]
 
-* Votre équipe est composée de deux ou trois professionnels maximum qui occupent les rôles suivants : journaliste (écrit et podcast), photographe et vidéaste de moins de 30 ans
-* Vous disposez d’une première expérience journalistique probante et des compétences cumulées (écrit, son & image)
-* Vous avez une appétence pour l’usage des réseaux sociaux
-* Vous êtes sensibilisé aux enjeux liés à la transition écologique et sociale
-* Vous maîtrisez l’utilisation de base des outils informatiques courants
-* Vous êtes créatif
-* Vous avez un esprit d’initiative et faites preuve d’autonomie
-* Vous êtes organisé et savez gérer votre temps
-* Vous êtes réactif, agile et orienté solutions
+\[infogram id="687804f0-ad32-497e-90aa-0b65b10ddba9" prefix="oG0" format="interactive" title="3_Infographie"\]
 
-**Imagine vous offre :**
+### **ÉNERGIE**
 
-* Une expérience professionnelle pleine de sens et tournée vers l’avenir
-* Une rémunération en tant que _freelance_ sur base des barèmes de l’Association des journalistes professionnels (AJP)
-* Une rémunération du temps de travail comme _freelance_ lié au processus de sélection des candidats solutionneurs
-* La prise en charge des frais de déplacement
-* Un contexte de travail stimulant au sein de l’équipe d’_Imagine Demain le Monde_
-* La participation à un événement de clôture au printemps 2023
+\[infogram id="761b341a-d99f-4421-8af7-7d6b0273d53c" prefix="q0i" format="interactive" title="4_La perception de l’augmentation des prix d’énergie"\]
 
-_Vos candidatures sont à envoyer de manière collective avec une lettre de motivation commune avant le lundi 3 octobre 2022 à 12h, à l'adresse suivante :_ [tourdessolutionneurs@imagine-magazine.com](mailto:tourdessolutionneurs@imagine-magazine.com)
+### **MESURES PARTICULIÈRES**
+
+\[infogram id="2c9dd322-79ba-4cd5-aef2-348d473255f1" prefix="SNE" format="interactive" title="5_Mesures particulières"\]
