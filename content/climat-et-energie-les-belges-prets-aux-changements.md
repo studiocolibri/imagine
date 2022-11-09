@@ -12,7 +12,7 @@ Comment les Belges perçoivent-ils les urgences environnementales ? Quel est leu
 
 <script id="infogram_0_63de749b-19cd-45d5-9272-145582080900" title="L&amp;#39;engagement face au dérèglement climatique" src="https://e.infogram.com/js/dist/embed.js?Xii" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/63de749b-19cd-45d5-9272-145582080900" style="color:#989898!important;text-decoration:none!important;" target="_blank">L'engagement face au dérèglement climatique</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
-<script id="infogram_0_687804f0-ad32-497e-90aa-0b65b10ddba9" title="3_Les solutions pour diminuer les émissions de CO2" src="https://e.infogram.com/js/dist/embed.js?Eg8" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/687804f0-ad32-497e-90aa-0b65b10ddba9" style="color:#989898!important;text-decoration:none!important;" target="_blank">3_Les solutions pour diminuer les émissions de CO2</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+<script id="infogram_0_687804f0-ad32-497e-90aa-0b65b10ddba9" title="Les solutions à privilégier pour diminuer les émissions de CO2" src="https://e.infogram.com/js/dist/embed.js?tQL" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/687804f0-ad32-497e-90aa-0b65b10ddba9" style="color:#989898!important;text-decoration:none!important;" target="_blank">Les solutions à privilégier pour diminuer les émissions de CO2</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
 ### **ÉNERGIE**
 
@@ -20,4 +20,3 @@ Comment les Belges perçoivent-ils les urgences environnementales ? Quel est leu
 
 ### **MESURES PARTICULIÈRES**
 
-\[infogram id="2c9dd322-79ba-4cd5-aef2-348d473255f1" prefix="SNE" format="interactive" title="5_Mesures particulières"\]
