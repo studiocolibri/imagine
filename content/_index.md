@@ -11,7 +11,7 @@ section_one:
     la situation en cours ? Où sont les solutions à leurs yeux ? Sont-ils prêts à
     changer leurs modes de vie ? A accepter l’instauration de mesures fortes ? Imagine
     a voulu le savoir en commandant une enquête d’opinion réalisée début octobre auprès
-    de 2 000 Belges, dans les trois régions du pays, par l’Institut Dedicated. Pour
+    de 2000 Belges, dans les trois régions du pays, par l’Institut Dedicated. Pour
     aller un cran plus loin, notre rédaction explore douze mesures basculantes et
     non consensuelles dans divers secteurs (mobilité, habitat, consommation, énergie,
     alimentation). De quoi nourrir le débat public à la veille d’un hiver qui s’annonce
