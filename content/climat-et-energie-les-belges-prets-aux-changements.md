@@ -20,3 +20,4 @@ Comment les Belges perçoivent-ils les urgences environnementales ? Quel est leu
 
 ### **MESURES PARTICULIÈRES**
 
+<script id="infogram_0_2c9dd322-79ba-4cd5-aef2-348d473255f1" title="Climat et énergie : mesures particulières" src="https://e.infogram.com/js/dist/embed.js?uqn" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/2c9dd322-79ba-4cd5-aef2-348d473255f1" style="color:#989898!important;text-decoration:none!important;" target="_blank">Climat et énergie : mesures particulières</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
