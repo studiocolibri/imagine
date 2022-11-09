@@ -15,7 +15,7 @@ section_one:
     aller un cran plus loin, notre rédaction explore douze mesures basculantes dans
     divers secteurs. De quoi nourrir le débat public à la veille d’un hiver qui s’annonce
     complexe sur le plan énergétique. Découvrez quelques chiffres, extraits de ce
-    sondage, à lire dans son entièreté dans notre numéro 153.
+    sondage.
   img: "/v1668018633/9_Fin_vols_courts_k8hbrf.jpg"
   btn_text: En savoir plus
   btn_link: "/climat-energie-les-belges-prets-aux-changements"
