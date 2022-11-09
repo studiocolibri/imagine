@@ -12,9 +12,8 @@ section_one:
     changer leurs modes de vie ? A accepter l’instauration de mesures fortes ? Imagine
     a voulu le savoir en commandant une enquête d’opinion réalisée début octobre auprès
     de 2000 Belges, dans les trois régions du pays, par l’Institut Dedicated. Pour
-    aller un cran plus loin, notre rédaction explore douze mesures basculantes et
-    non consensuelles dans divers secteurs (mobilité, habitat, consommation, énergie,
-    alimentation). De quoi nourrir le débat public à la veille d’un hiver qui s’annonce
+    aller un cran plus loin, notre rédaction explore douze mesures basculantes dans
+    divers secteurs. De quoi nourrir le débat public à la veille d’un hiver qui s’annonce
     complexe sur le plan énergétique. Découvrez quelques chiffres, extraits de ce
     sondage, à lire dans son entièreté dans notre numéro 153.
   img: "/v1668018633/9_Fin_vols_courts_k8hbrf.jpg"
