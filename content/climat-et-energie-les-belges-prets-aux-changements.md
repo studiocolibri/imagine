@@ -16,7 +16,7 @@ Comment les Belges perçoivent-ils les urgences environnementales ? Quel est leu
 
 ### **ÉNERGIE**
 
-<script id="infogram_0_761b341a-d99f-4421-8af7-7d6b0273d53c" title="4_Infographies énergie" src="https://e.infogram.com/js/dist/embed.js?lSm" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/761b341a-d99f-4421-8af7-7d6b0273d53c" style="color:#989898!important;text-decoration:none!important;" target="_blank">4_Infographies énergie</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+<script id="infogram_0_761b341a-d99f-4421-8af7-7d6b0273d53c" title="Les solutions à privilégier pour faire face à la crise énergétique" src="https://e.infogram.com/js/dist/embed.js?NDl" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/761b341a-d99f-4421-8af7-7d6b0273d53c" style="color:#989898!important;text-decoration:none!important;" target="_blank">Les solutions à privilégier pour faire face à la crise énergétique</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
 ### **MESURES PARTICULIÈRES**
 
