@@ -16,8 +16,14 @@ Comment les Belges perçoivent-ils les urgences environnementales ? Quel est leu
 
 \[infogram id="b92912c4-5fc5-43dc-aed5-4e01591d9b4c" prefix="ElN" format="interactive" title="La prise de conscience du dérèglement climatique"\]
 
-\[infogram id="63de749b-19cd-45d5-9272-145582080900" prefix="hrj" format="interactive" title="L&amp;amp;#39;engagement face au dérèglement climatique"\]
+\[infogram id="63de749b-19cd-45d5-9272-145582080900" prefix="hrj" format="interactive" title="L&amp;#39;engagement face au dérèglement climatique"\]
 
 \[infogram id="687804f0-ad32-497e-90aa-0b65b10ddba9" prefix="oG0" format="interactive" title="3_Infographie"\]
 
 ### **ÉNERGIE**
+
+\[infogram id="761b341a-d99f-4421-8af7-7d6b0273d53c" prefix="q0i" format="interactive" title="4_La perception de l’augmentation des prix d’énergie"\]
+
+### **MESURES PARTICULIÈRES**
+
+\[infogram id="2c9dd322-79ba-4cd5-aef2-348d473255f1" prefix="SNE" format="interactive" title="5_Mesures particulières"\]
