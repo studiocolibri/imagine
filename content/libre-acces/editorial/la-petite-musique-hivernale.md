@@ -2,8 +2,7 @@
 cat = "editorial.md"
 class = "single-e-magine"
 date = 2022-11-08T23:00:00Z
-description = "L'édito d'Hugues Dorzée."
-draft = true
+description = "Dans l'édito de notre numéro 153, Hugues Dorzée se projette dans un hiver qui s'annonce difficile sur le plan énergétique et chaud sur le plan social. "
 img = "/v1667833393/Dessin_Julie_rbcryg.jpg"
 img_credits = "Julie Graux"
 title = "La petite musique hivernale"
