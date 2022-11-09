@@ -1,7 +1,7 @@
 +++
 cat = "editorial.md"
 class = "single-e-magine"
-date = 2022-11-08T23:00:00Z
+date = 2022-11-09T23:00:00Z
 description = "Dans l'édito de notre numéro 153, Hugues Dorzée se projette dans un hiver qui s'annonce difficile sur le plan énergétique et chaud sur le plan social. "
 img = "/v1667833393/Dessin_Julie_rbcryg.jpg"
 img_credits = "Julie Graux"
