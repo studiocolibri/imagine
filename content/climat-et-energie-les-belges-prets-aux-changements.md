@@ -3,11 +3,11 @@ class = "notre-manifeste single-page"
 title = "Climat et énergie : les Belges prêts aux changements"
 
 +++
-Comment les Belges perçoivent-ils les urgences environnementales ? Quel est leur degré de connaissance de la crise climatique et énergétique ? Sont-ils prêts à changer leurs modes de vies et à accepter une série de mesures publiques réellement basculantes (mobilité, habitat, alimentation, fiscalité, consommation…) ? 
+Comment les Belges perçoivent-ils les urgences environnementales ? Quel est leur degré de connaissance de la crise climatique et énergétique ? Sont-ils prêts à changer leurs modes de vies et à accepter une série de mesures publiques réellement basculantes (mobilité, habitat, alimentation, fiscalité, consommation…) ?
 
-_Imagine_ a voulu le savoir en commandant une enquête d’opinion réalisée début octobre auprès de 2 000 Belges, dans les trois régions du pays, par l’Institut Dedicated avec le soutien de quatre organisations (la Coalition Climat, Canopea, Greenpeace et Energies communes). 
+_Imagine_ a voulu le savoir en commandant une enquête d’opinion réalisée début octobre auprès de 2 000 Belges, dans les trois régions du pays, par l’Institut Dedicated avec le soutien de quatre organisations (la Coalition Climat, Canopea, Greenpeace et Energies communes).
 
-Voici quelques enseignements tirés de ce sondage qui est particulièrement éclairant en pleine COP27 et à la veille d’un hiver qui s’annonce complexe. Pour aller un cran plus loin, notre rédaction explore douze mesures basculantes et non consensuelles dans divers secteurs (mobilité, habitat, consommation, énergie, alimentation) dans [notre numéro 153 (novembre-décembre 2022)](https://kiosque.imagine-magazine.com/).
+Voici quelques enseignements tirés de ce sondage qui est particulièrement éclairant en pleine COP27 et à la veille d’un hiver qui s’annonce complexe. 
 
 * Une large majorité des Belges (58%) sont prêts "à modifier en partie \[leurs\] habitudes de consommation et \[leurs\] modes de vie" et un sondé sur quatre (23%) est disposé à les changer "en profondeur" – un résultat plus marqué chez les moins de 34 ans (35%) et chez les femmes (25%).
 * Concernant les dérèglements climatiques, 43% considèrent que "la planète se réchauffera de 2,5 à 4 degrés d’ici la fin du siècle, ce qui engagera des processus irréversibles pour le vivant sur Terre et contraindra les sociétés humaines à se réorganiser en profondeur", mais 13% estiment que c’est « un phénomène naturel" et 11% "n’ont pas d’opinion".
@@ -15,7 +15,7 @@ Voici quelques enseignements tirés de ce sondage qui est particulièrement écl
 * Plus de sept Belges sur dix considèrent que l’Europe, et la Belgique en particulier, ont "manqué d’anticipation pour diversifier notre mix énergétique".
 * Ce sondage montre un soutien majoritaire des Belges (60%) au principe "d’interdiction de toute publicité pour les biens et services les plus nuisibles pour la planète", avec des divergences entre Bruxellois (67%), Wallons (64%) et Flamands (54%).
 * La suppression des avantages fiscaux liés aux voitures de société est acceptée dans les trois Régions du pays (58%). Les sondés estiment ce système est très coûteux, budgétairement et écologiquement.
-* L’interdiction des vols intra-européens « là où il y a des alternatives train/bus » recueille une adhésion d’un citoyen belge sur deux avec des divergences entre Wallons (56%), Flamands (42%) et Bruxellois (61%).
+* L’interdiction des vols intra-européens "là où il y a des alternatives train/bus" recueille une adhésion d’un citoyen belge sur deux avec des divergences entre Wallons (56%), Flamands (42%) et Bruxellois (61%).
 * Pour sept Belges sur dix, toutes classes d’âge et sociales confondues, une série d’actions spécifiques (accompagnement, prêts, primes, fiscalité) doivent être amplifiées en vue de rénover massivement le parc de logements qui figure parmi les plus énergivores d’Europe.
 * La suppression, d’ici 2030, "de la production et la vente de viande issue d’élevages industriels" est soutenue par une majorité de Bruxellois (54%) et de Wallons (52%), mais rejetée par les deux tiers des Flamands.
 * Enfin, sur le plan économique, ce sondage met en lumière le soutien majoritaire de la population (59%) à des mesures fiscales destinées à orienter les aides d’Etat vers une économie dont l’impact est positif pour l’environnement.
@@ -35,3 +35,5 @@ Voici quelques enseignements tirés de ce sondage qui est particulièrement écl
 ### **MESURES PARTICULIÈRES**
 
 <script id="infogram_0_2c9dd322-79ba-4cd5-aef2-348d473255f1" title="Climat et énergie : mesures particulières" src="https://e.infogram.com/js/dist/embed.js?HbV" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/2c9dd322-79ba-4cd5-aef2-348d473255f1" style="color:#989898!important;text-decoration:none!important;" target="_blank">Climat et énergie : mesures particulières</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+Pour aller un cran plus loin, notre rédaction explore douze mesures basculantes et non consensuelles dans divers secteurs (mobilité, habitat, consommation, énergie, alimentation) dans [notre numéro 153 (novembre-décembre 2022)](https://kiosque.imagine-magazine.com/).
