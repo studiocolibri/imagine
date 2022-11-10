@@ -1,6 +1,5 @@
 +++
 class = "notre-manifeste single-page"
-draft = true
 title = "Climat et énergie : les Belges prêts aux changements"
 
 +++
