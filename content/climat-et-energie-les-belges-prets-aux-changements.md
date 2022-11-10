@@ -7,10 +7,10 @@ Comment les Belges perçoivent-ils les urgences environnementales ? Quel est leu
 
 _Imagine_ a voulu le savoir en commandant une enquête d’opinion réalisée début octobre auprès de 2 000 Belges, dans les trois régions du pays, par l’Institut Dedicated avec le soutien de quatre organisations (la Coalition Climat, Canopea, Greenpeace et Energies communes).
 
-Voici quelques enseignements tirés de ce sondage qui est particulièrement éclairant en pleine COP27 et à la veille d’un hiver qui s’annonce complexe. 
+Voici quelques enseignements tirés de ce sondage qui est particulièrement éclairant en pleine COP27 et à la veille d’un hiver qui s’annonce complexe.
 
 * Une large majorité des Belges (58%) sont prêts "à modifier en partie \[leurs\] habitudes de consommation et \[leurs\] modes de vie" et un sondé sur quatre (23%) est disposé à les changer "en profondeur" – un résultat plus marqué chez les moins de 34 ans (35%) et chez les femmes (25%).
-* Concernant les dérèglements climatiques, 43% considèrent que "la planète se réchauffera de 2,5 à 4 degrés d’ici la fin du siècle, ce qui engagera des processus irréversibles pour le vivant sur Terre et contraindra les sociétés humaines à se réorganiser en profondeur", mais 13% estiment que c’est « un phénomène naturel" et 11% "n’ont pas d’opinion".
+* Concernant les dérèglements climatiques, 43% considèrent que "la planète se réchauffera de 2,5 à 4 degrés d’ici la fin du siècle, ce qui engagera des processus irréversibles pour le vivant sur Terre et contraindra les sociétés humaines à se réorganiser en profondeur", mais 13% estiment que c’est "un phénomène naturel" et 11% "n’ont pas d’opinion".
 * Les trois quarts des personnes interviewées (72%) estiment que le lobbying des multinationales de l’énergie est à l’origine de la crise énergétique en cours et une majorité (53%) sont pour une taxation des surprofits de ces entreprises.
 * Plus de sept Belges sur dix considèrent que l’Europe, et la Belgique en particulier, ont "manqué d’anticipation pour diversifier notre mix énergétique".
 * Ce sondage montre un soutien majoritaire des Belges (60%) au principe "d’interdiction de toute publicité pour les biens et services les plus nuisibles pour la planète", avec des divergences entre Bruxellois (67%), Wallons (64%) et Flamands (54%).
