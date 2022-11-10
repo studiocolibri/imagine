@@ -18,7 +18,7 @@ section_one:
     sondage.
   img: "/v1668018633/9_Fin_vols_courts_k8hbrf.jpg"
   btn_text: En savoir plus
-  btn_link: "/climat-energie-les-belges-prets-aux-changements"
+  btn_link: "/climat-et-energie-les-belges-prets-aux-changements"
 section_two:
   section_title: Accès libre
   btn_link: "/libre-acces/"
