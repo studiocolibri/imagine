@@ -1,5 +1,5 @@
 ---
-cat: "reportage.md"
+cat: reportage.md
 class: single-e-magine
 title: Nemesis boxe le patriarcat
 date: 2020-06-03T22:00:00.000+00:00
@@ -9,12 +9,8 @@ description: Au Nemesis Fighting Club, femmes et minorités de genre décochent 
 img: "/v1591300601/Sans_titre8_pbf2r2.jpg"
 
 ---
-<div class="chapeau">
-
 **Selon l'étymologie grecque, le mot « némésis » signifie  
 _« répartir équitablement »._ Dans la mythologie, Nemesis était la déesse de la vengeance et de la justice distributive. A Anderlecht, le Nemesis Fighting Club est un espace féministe et antifasciste, où femmes et minorités de genre se retrouvent pour boxer le patriarcat.**
-
-</div>
 
 _« Live fast, die young, bad girls do it well »._ Les paroles de la rappeuse M.I.A ricochent contre les murs d'une petite salle colorée, dans un recoin du quai de l'Industrie à Anderlecht. Cartons, pinceaux, feutres et pots de peinture jonchent le sol. Sur un large drap blanc, un projecteur dilate la taille d'un poing levé, symbole de lutte, de colère et de solidarité popularisé par la gauche antifasciste dans les années 1930 en réponse aux bras tendus des idéologies nationalistes. Une vingtaine de personnes, dont une majorité de femmes, l'habille d'un gant de boxe violet, couleur traditionnelle du féminisme. Leur slogan est catégorique : _« Le patriarcat ne tombera pas tout seul, organisons-nous pour lui péter la gueule »._ La marche du 8 mars, journée internationale des droits des femmes, approche.
 
