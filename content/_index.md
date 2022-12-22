@@ -4,21 +4,20 @@ title: Page d'accueil
 header_title: Clarifier les faits, libérer<br>les idées et les esprits
 header_text: Imagine est un magazine bimestriel et un éditeur indépendant depuis 2001.
 section_one:
-  section_title: 'Climat et énergie : les Belges prêts aux changements'
-  title: 'Climat et énergie : les Belges prêts aux changements'
-  text: Comment les Belges perçoivent-ils les urgences environnementales ? Quel est
-    leur degré de connaissance de celles-ci ? Qui tiennent-ils pour responsables de
-    la situation en cours ? Où sont les solutions à leurs yeux ? Sont-ils prêts à
-    changer leurs modes de vie ? A accepter l’instauration de mesures fortes ? Imagine
-    a voulu le savoir en commandant une enquête d’opinion réalisée début octobre auprès
-    de 2000 Belges, dans les trois régions du pays, par l’Institut Dedicated. Pour
-    aller un cran plus loin, notre rédaction explore douze mesures basculantes dans
-    divers secteurs. De quoi nourrir le débat public à la veille d’un hiver qui s’annonce
-    complexe sur le plan énergétique. Découvrez quelques chiffres, extraits de ce
-    sondage.
-  img: "/v1668018633/9_Fin_vols_courts_k8hbrf.jpg"
+  section_title: Une jeunesse entreprenante tournée vers le futur
+  title: Une jeunesse entreprenante tournée vers le futur
+  text: Circuits-courts, fabrication d’habitations sobres, valorisation des ressources
+    locales, protection du vivant... En quinze étapes, Imagine vous invite à un voyage
+    inspirant et savoureux, pauvre en carbone mais riche en créativité, à travers
+    son Tour des Solutionneurs. A travers un hors-série intitulé "Entreprenante jeunesse",
+    notre rédaction et ses partenaires ont choisi de faire rayonner celles et ceux
+    qui initient un autre modèle de prospérité en Wallonie. Ancrés dans leur époque
+    et conscients de leurs responsabilités, ces jeunes acteurs de changement testent,
+    d’Arlon à Bruxelles et de Malmédy à Charleroi, les nouvelles voies soutenables
+    du futur.
+  img: "/v1671721689/HS_Une_Tour_des_solutionneurs_aeyoe6.jpg"
   btn_text: En savoir plus
-  btn_link: "/climat-et-energie-les-belges-prets-aux-changements"
+  btn_link: "/une-jeunesse-entreprenante-tournee-vers-le-futur"
 section_two:
   section_title: Accès libre
   btn_link: "/libre-acces/"
