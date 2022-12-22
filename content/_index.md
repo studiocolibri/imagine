@@ -4,8 +4,8 @@ title: Page d'accueil
 header_title: Clarifier les faits, libérer<br>les idées et les esprits
 header_text: Imagine est un magazine bimestriel et un éditeur indépendant depuis 2001.
 section_one:
-  section_title: Une jeunesse entreprenante tournée vers le futur
-  title: Une jeunesse entreprenante tournée vers le futur
+  section_title: Le Tour des solutionneurs d'Imagine
+  title: Le Tour des solutionneurs d'Imagine
   text: Circuits-courts, fabrication d’habitations sobres, valorisation des ressources
     locales, protection du vivant... En quinze étapes, Imagine vous invite à un voyage
     inspirant et savoureux, pauvre en carbone mais riche en créativité, à travers
