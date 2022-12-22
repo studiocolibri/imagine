@@ -2,9 +2,9 @@
 cat = "chronique.md"
 class = "single-e-magine"
 date = 2023-01-05T23:00:00Z
-description = ""
+description = "Dans chaque numéro d'Imagine, l’écrivain Philippe Marczewski prête sa plume pour sa chronique « La ritournelle ». Dans sa dernière livraison, il évoque son amour de la mer."
 draft = true
-img = "/v1671734906/20221102_183615_ey4t34.jpg"
+img = "/v1671735038/20221102_183615_wfmxod.jpg"
 img_credits = "Philippe Marczewski"
 title = "L'amour de la mer"
 title_alignment = "gauche"
