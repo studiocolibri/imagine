@@ -3,11 +3,10 @@ class = "notre-manifeste single-page"
 title = "Une jeunesse entreprenante tournée vers le futur"
 
 +++
-Circuits-courts, fabrication d’habitations sobres, valorisation des ressources locales, protection du vivant, services orientés vers les plus faibles,… En quinze étapes, _Imagine_ vous invite à un voyage inspirant et savoureux, pauvre en carbone mais riche en créativité, à travers son Tour des Solutionneurs. En mettant à l’honneur dans son hors-série _Entreprenante jeunesse_, notre magazine et ses partenaires ont choisi de faire rayonner celles et ceux qui initient un autre modèle de prospérité en Wallonie. Ancrés dans leur époque et conscients de leurs responsabilités, ces jeunes acteurs de changement testent, d’Arlon à Bruxelles et de Malmédy à Charleroi, les nouvelles voies soutenables du futur.
+Circuits-courts, fabrication d’habitations sobres, valorisation des ressources locales, protection du vivant, services orientés vers les plus faibles,… En quinze étapes, _Imagine_ vous invite à un voyage inspirant et savoureux, pauvre en carbone mais riche en créativité, à travers son Tour des Solutionneurs. A travers un hors-série intitulé "Entreprenante jeunesse", notre rédaction et ses partenaires ont choisi de faire rayonner celles et ceux qui initient un autre modèle de prospérité en Wallonie. Ancrés dans leur époque et conscients de leurs responsabilités, ces jeunes acteurs de changement testent, d’Arlon à Bruxelles et de Malmédy à Charleroi, les nouvelles voies soutenables du futur.
 
 Découvrez les 15 étapes wallonnes du Tour des Solutionneurs dans [notre hors-série](https://kiosque.imagine-magazine.com/) de 84 pages “Entreprenante jeunesse”, disponible en librairie ou sur commande ([info@imagine-magazine.com](mailto:info@imagine-magazine.com)). Prix: 10 euros + frais d’envoi.
 
-  
 **Les 15 projets retenus**
 
 **Liège**
