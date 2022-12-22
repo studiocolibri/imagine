@@ -1,39 +1,7 @@
 +++
 class = "notre-manifeste single-page"
-title = "Climat et énergie : les Belges prêts aux changements"
+draft = true
+title = "Une jeunesse entreprenante tournée vers le futur"
 
 +++
-Comment les Belges perçoivent-ils les urgences environnementales ? Quel est leur degré de connaissance de la crise climatique et énergétique ? Sont-ils prêts à changer leurs modes de vies et à accepter une série de mesures publiques réellement basculantes (mobilité, habitat, alimentation, fiscalité, consommation…) ?
-
-_Imagine_ a voulu le savoir en commandant une enquête d’opinion réalisée début octobre auprès de 2 000 Belges, dans les trois régions du pays, par l’Institut Dedicated avec le soutien de quatre organisations (la Coalition Climat, Canopea, Greenpeace et Energies communes).
-
-Voici quelques enseignements tirés de ce sondage qui est particulièrement éclairant en pleine COP27 et à la veille d’un hiver qui s’annonce complexe.
-
-* Une large majorité des Belges (58%) sont prêts "à modifier en partie \[leurs\] habitudes de consommation et \[leurs\] modes de vie" et un sondé sur quatre (23%) est disposé à les changer "en profondeur" – un résultat plus marqué chez les moins de 34 ans (35%) et chez les femmes (25%).
-* Concernant les dérèglements climatiques, 43% considèrent que "la planète se réchauffera de 2,5 à 4 degrés d’ici la fin du siècle, ce qui engagera des processus irréversibles pour le vivant sur Terre et contraindra les sociétés humaines à se réorganiser en profondeur", mais 13% estiment que c’est "un phénomène naturel" et 11% "n’ont pas d’opinion".
-* Les trois quarts des personnes interviewées (72%) estiment que le lobbying des multinationales de l’énergie est à l’origine de la crise énergétique en cours et une majorité (53%) sont pour une taxation des surprofits de ces entreprises.
-* Plus de sept Belges sur dix considèrent que l’Europe, et la Belgique en particulier, ont "manqué d’anticipation pour diversifier notre mix énergétique".
-* Ce sondage montre un soutien majoritaire des Belges (60%) au principe "d’interdiction de toute publicité pour les biens et services les plus nuisibles pour la planète", avec des divergences entre Bruxellois (67%), Wallons (64%) et Flamands (54%).
-* La suppression des avantages fiscaux liés aux voitures de société est acceptée dans les trois Régions du pays (58%). Les sondés estiment ce système est très coûteux, budgétairement et écologiquement.
-* L’interdiction des vols intra-européens "là où il y a des alternatives train/bus" recueille une adhésion d’un citoyen belge sur deux avec des divergences entre Wallons (56%), Flamands (42%) et Bruxellois (61%).
-* Pour sept Belges sur dix, toutes classes d’âge et sociales confondues, une série d’actions spécifiques (accompagnement, prêts, primes, fiscalité) doivent être amplifiées en vue de rénover massivement le parc de logements qui figure parmi les plus énergivores d’Europe.
-* La suppression, d’ici 2030, "de la production et la vente de viande issue d’élevages industriels" est soutenue par une majorité de Bruxellois (54%) et de Wallons (52%), mais rejetée par les deux tiers des Flamands.
-* Enfin, sur le plan économique, ce sondage met en lumière le soutien majoritaire de la population (59%) à des mesures fiscales destinées à orienter les aides d’Etat vers une économie dont l’impact est positif pour l’environnement.
-
-#### **CLIMAT**
-
-<script id="infogram_0_b92912c4-5fc5-43dc-aed5-4e01591d9b4c" title="La prise de conscience du dérèglement climatique" src="https://e.infogram.com/js/dist/embed.js?JqC" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/b92912c4-5fc5-43dc-aed5-4e01591d9b4c" style="color:#989898!important;text-decoration:none!important;" target="_blank">La prise de conscience du dérèglement climatique</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
-
-<script id="infogram_0_63de749b-19cd-45d5-9272-145582080900" title="L'engagement face au dérèglement climatique" src="https://e.infogram.com/js/dist/embed.js?Xii" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/63de749b-19cd-45d5-9272-145582080900" style="color:#989898!important;text-decoration:none!important;" target="_blank">L'engagement face au dérèglement climatique</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
-
-<script id="infogram_0_687804f0-ad32-497e-90aa-0b65b10ddba9" title="Les solutions à privilégier pour diminuer les émissions de CO2" src="https://e.infogram.com/js/dist/embed.js?tQL" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/687804f0-ad32-497e-90aa-0b65b10ddba9" style="color:#989898!important;text-decoration:none!important;" target="_blank">Les solutions à privilégier pour diminuer les émissions de CO2</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
-
-### **ÉNERGIE**
-
-<script id="infogram_0_761b341a-d99f-4421-8af7-7d6b0273d53c" title="Les solutions à privilégier pour faire face à la crise énergétique" src="https://e.infogram.com/js/dist/embed.js?NDl" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/761b341a-d99f-4421-8af7-7d6b0273d53c" style="color:#989898!important;text-decoration:none!important;" target="_blank">Les solutions à privilégier pour faire face à la crise énergétique</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
-
-### **MESURES PARTICULIÈRES**
-
-<script id="infogram_0_2c9dd322-79ba-4cd5-aef2-348d473255f1" title="Climat et énergie : mesures particulières" src="https://e.infogram.com/js/dist/embed.js?HbV" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/2c9dd322-79ba-4cd5-aef2-348d473255f1" style="color:#989898!important;text-decoration:none!important;" target="_blank">Climat et énergie : mesures particulières</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
-
-La publication de ce sondage Imagine / Dedicated est accompagnée [d’un dossier journalistique d’envergure](https://kiosque.imagine-magazine.com/) explorant douze mesures publiques impactantes : interdire la viande industrielle, mettre fin aux pubs "écocides", "zéro artificialisation" des terres agricoles, une carte carbone individuelle, la fin des vols aériens courts, etc.
+Circuits-courts, fabrication d’habitations sobres, valorisation des ressources locales, protection du vivant, services orientés vers les plus faibles,… En quinze étapes, _Imagine_ vous invite à un voyage inspirant et savoureux, pauvre en carbone mais riche en créativité, à travers son Tour des Solutionneurs. En mettant à l’honneur dans son hors-série _Entreprenante jeunesse_, notre magazine et ses partenaires ont choisi de faire rayonner celles et ceux qui initient un autre modèle de prospérité en Wallonie. Ancrés dans leur époque et conscients de leurs responsabilités, ces jeunes acteurs de changement testent, d’Arlon à Bruxelles et de Malmédy à Charleroi, les nouvelles voies soutenables du futur.
