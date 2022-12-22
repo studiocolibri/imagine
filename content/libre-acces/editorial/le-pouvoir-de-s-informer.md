@@ -2,17 +2,17 @@
 cat = "editorial.md"
 class = "single-e-magine"
 date = 2023-01-05T23:00:00Z
-description = ""
+description = "Alors que la consommation de médias augmente, la fatigue informationnelle grandit. Avec quelles conséquences ? Hugues Dorzée en parle dans son dernier édito. "
 draft = true
-img = ""
-img_credits = ""
+img = "/v1671734355/absolutvision-WYd_PkCa1BY-unsplash_sv4swf.jpg"
+img_credits = "Unsplash"
 title = "Le pouvoir de s’informer"
 title_alignment = "gauche"
 
 +++
 _« Si la presse n’existait pas, il ne faudrait pas l’inventer »_. En 1840, déjà, Balzac usait de sa plume féroce pour dénigrer les journaux en train de naître. Deux siècles plus tard, le « média bashing » a pris une tournure autrement plus violente, virale et planétaire. A tous les étages, les accusations pleuvent : « la presse » vendue au grand capital, soumise au diktat de ses actionnaires, inféodée à la propagande d’Etat et acoquinée avec les élites ; « les journalistes » formatés, mal formés, dotés de privilèges et corporatistes ; le traitement de « l’information » superficiel, approximatif, mensonger, sans mémoire ni recul, etc.
 
-Derrière les excès et les abus d’une généralisation évidemment frappée d’inexactitudes, il y a néanmoins une défiance qu’il faut entendre et tenter de comprendre. Car celle-ci, dans le même temps, s’accompagne d’un profond paradoxe en mode « amour-haine ». 
+Derrière les excès et les abus d’une généralisation évidemment frappée d’inexactitudes, il y a néanmoins une défiance qu’il faut entendre et tenter de comprendre. Car celle-ci, dans le même temps, s’accompagne d’un profond paradoxe en mode « amour-haine ».
 
 En vingt ans, la consommation de médias a augmenté de 150 % et l’appétence des citoyens pour l’information n’a jamais été aussi grande, tous supports confondus. Par ailleurs, selon un récent baromètre Viavoice (2021) réalisé dans le cadre des Assises internationales du journalisme de Tour, une large majorité de Français (91 %) considère le métier de journaliste comme « utile », « indispensable dans une société démocratique » (84 %) et « qu’on ne peut pas imaginer une société sans médias » (87 %). En outre, l’actualité nous démontre chaque jour combien la fameuse phrase d’Albert Londres, illustre modèle du reporter engagé, - _« notre métier n’est pas de faire plaisir ni de faire du tort, il est de porter la plume dans la plaie »_ -, prend tout son sens.
 
@@ -20,9 +20,9 @@ Scandales politicofinanciers aux parlements wallon et européen, mainmise des mu
 
 En tant que petite fabrique médiatique, _Imagine_ participe avec rigueur et humilité à cette œuvre collective. En misant, malgré un contexte socio-économique tendu, sur la réflexion en profondeur et en défendant, numéro après numéro, un journalisme d’impact à fois lent, nuancé et apaisé.
 
-Toutefois, l’époque nous invite à la vigilance. Face à la prolifération de nouvelles 24 heures sur 24, aux sollicitations en continu (fils d’infos, alertes, notifications…), à la montée en puissance des fakes news, du complotisme et à la tyrannie des nouveaux « informédiaires » que sont les GAFAM, une certaine lassitude s’installe inexorablement, y compris dans le chef de citoyens hyperconnectés.
+Toutefois, l’époque nous invite à la vigilance. Face à la prolifération de nouvelles 24 heures sur 24, aux sollicitations en continu (fils d’infos, alertes, notifications…), à la montée en puissance des fakes news, du complotisme et à la tyrannie des nouveaux « informédiaires » que sont les GAFAM, une certaine lassitude s’installe inexorablement, y compris dans le chef de citoyens hyperconnectés. Une « fatigue informationnelle » de fond, comme le montre très bien le dernier rapport de la Fondation Jean Jaurès, qui débouche sur une perte d’intérêt face aux événements, un certain découragement devant la complexité des enjeux et un sentiment d’impuissance face à « tout ce qui nous arrive ». 
 
-Une « fatigue informationnelle » de fond, comme le montre très bien le dernier rapport de la Fondation Jean Jaurès, qui débouche sur une perte d’intérêt face aux événements, un certain découragement devant la complexité des enjeux et un sentiment d’impuissance face à « tout ce qui nous arrive ». Epuisés par la surabondance d’informations de plus en plus anxiogènes et clivantes, affolés par tant de stimuli toxiques et d’émotions négatives, la tentation est grande d’opter pour une voie radicale : se couper du monde, se contenter d’une information zapping ou s’enfermer dans sa « bulle » et ne plus consommer que des nouvelles qui nous arrangent.
+Epuisés par la surabondance d’informations de plus en plus anxiogènes et clivantes, affolés par tant de stimuli toxiques et d’émotions négatives, la tentation est grande d’opter pour une voie radicale : se couper du monde, se contenter d’une information zapping ou s’enfermer dans sa « bulle » et ne plus consommer que des nouvelles qui nous arrangent.
 
 ##### Conserver son libre arbitre
 
