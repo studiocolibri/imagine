@@ -3,13 +3,14 @@ cat = "dossier.md"
 class = "single-e-magine"
 date = 2022-11-09T23:00:00Z
 description = "Les Belges sont-ils prêts à modifier leurs comportements et à accepter des mesures fortes pour faire face aux crises environnementales et énergétiques ? Imagine a voulu le savoir en commandant une enquête d'opinion, réalisée auprès de 2 000 Belges dans les trois régions du pays par l'Institut Dedicated."
+draft = true
 img = ""
 img_credits = ""
 title = "Climat/Energie : les Belges prêts aux changements"
 title_alignment = "gauche"
 
 +++
-Comment les Belges perçoivent-ils les urgences environnementales ? Quel est leur degré de connaissance de la crise climatique et énergétique ? Sont-ils prêts à changer leurs modes de vies et à accepter une série de mesures publiques réellement basculantes (mobilité, habitat, alimentation, fiscalité, consommation…) ?
+Comment les Belges perçoivent-ils les urgences environnementales ? Quel est leur degré de connaissance de la crise climatique et énergétique ? Sont-ils prêts à changer leurs modes de vies et à accepter une série de mesures publiques réellement basculantes (mobilité, habitat, alimentation, fiscalité, consommation…) ? 
 
 _Imagine_ a voulu le savoir en commandant une enquête d’opinion réalisée début octobre auprès de 2 000 Belges, dans les trois régions du pays, par l’Institut Dedicated avec le soutien de quatre organisations (la Coalition Climat, Canopea, Greenpeace et Energies communes).
 
