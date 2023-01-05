@@ -3,7 +3,6 @@ cat = "editorial.md"
 class = "single-e-magine"
 date = 2023-01-05T23:00:00Z
 description = "Alors que la consommation de médias augmente, la fatigue informationnelle grandit. Avec quelles conséquences ? Hugues Dorzée en parle dans son dernier édito. "
-draft = true
 img = "/v1671734355/absolutvision-WYd_PkCa1BY-unsplash_sv4swf.jpg"
 img_credits = "Unsplash"
 title = "Le pouvoir de s’informer"
