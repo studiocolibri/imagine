@@ -49,15 +49,14 @@ team:
   - name: Sarah Freres
     job: journaliste
     photo: "/v1591708265/sarah-frere_dlcywu.jpg"
-    text: 'Auparavant journaliste indépendante (_La Libre Belgique, La Dernière Heure_),
-      la dernière recrue de la rédaction, arrivée en février 2020, est en charge des
-      enjeux Nord-Sud. Elle continue également d’écrire sur un sujet qui l’a toujours
-      passionné : les migrations. Amoureuse de l’océan et de tous ses habitants (mais
-      surtout les coraux, les pieuvres, les nudibranches et les requins), fascinée
-      par l’histoire flamande, elle tente d’appliquer au quotidien les consignes du
-      _Feminist Fight Club_ de la journaliste Jessica Benett. En parallèle, elle aussi
-      membre du conseil de direction de l’Association des Journalistes Professionnels
-      (AJP).'
+    text: Auparavant journaliste indépendante (La Libre, La Dernière Heure), Sarah
+      suit de près les thématiques liées aux migrations, aux droits humains, à la
+      justice climatique, aux questions de genre, à l'écologie et aux relations Nord-Sud.
+      Amoureuse de l’océan et de tous ses habitants (mais surtout les coraux, les
+      pieuvres, les nudibranches et les requins), elle tente d’appliquer au quotidien
+      les consignes du Feminist Fight Club de la journaliste Jessica Benett. En parallèle,
+      elle aussi membre du conseil de direction de l’Association des Journalistes
+      Professionnels (AJP).
   - name: Pascale Derriks
     job: responsable administrative & financière
     photo: "/v1591708258/pascale-derriks_yaqzte.jpg"
