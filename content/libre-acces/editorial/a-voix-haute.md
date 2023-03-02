@@ -2,7 +2,7 @@
 cat = "editorial.md"
 class = "single-e-magine"
 date = 2023-03-01T23:00:00Z
-description = "Dans l'édito de notre numéro 155, Hugues Dorzée s'attarde sur la force de la rhétorique. Un art de l'argumentation qui semble se perdre mais que l'on cultive encore dans les arènes scolaires. "
+description = "Dans l'édito de notre numéro 155, Hugues Dorzée s'attarde sur la force de la rhétorique. Un art de l'argumentation qui semble se perdre. Quoique... "
 img = "/v1677757567/volodymyr-hryshchenko-V5vqWC9gyEU-unsplash_axwrpp.jpg"
 img_credits = "cc Unsplash"
 title = "A voix haute"
