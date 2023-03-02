@@ -3,23 +3,21 @@ cat = "rencontre.md"
 class = "single-e-magine"
 date = 2023-03-01T23:00:00Z
 description = "Dans chaque numéro, Imagine met en avant trois projets innovants qui œuvrent à construire un monde plus durable et solidaire. "
-draft = true
-img = ""
-img_credits = ""
+img = "/v1677770840/chris-abney-qLW70Aoo8BE-unsplash_csk2hd.jpg"
+img_credits = "Chris Abney / Unsplash"
 title = "Lanceurs d’avenir : Notre sélection d'innovations éthiques et durables "
 title_alignment = "gauche"
 
 +++
 **Une boutique liégeoise de vêtements éthiques et durables qui sensibilise aux enjeux du secteur textile. Une marque de farines biologiques, artisanales et locales distribuées en circuit court. Ou encore, un refuge pour plantes destinées à être jetées. Rencontre avec trois projets innovants qui œuvrent à construire un monde plus durable et solidaire.**
 
-####   
-La SPV : la deuxième vie des végétaux 
+#### La SPV : la deuxième vie des végétaux
 
-A la SPV ce sont non pas des animaux que l’on peut reprendre chez soi, mais bien des plantes. Située à Lyon, la Société Protectrice des Végétaux a été fondée par Nicolas Talliu il y a un peu plus de deux ans. Tout part du constat suivant : les services proposés aux autres êtres vivants n’existent pas pour les végétaux. _« On va chez le médecin lorsqu’on est malade, les chiens vont chez le vétérinaire quand ils le sont… pourquoi n’existe-t-il pas de service similaire pour les plantes ? »_, se demande-t-il. C’est en partant de ce questionnement que ce jeune architecte du paysage entend végétaliser le milieu urbain. 
+A la SPV ce sont non pas des animaux que l’on peut reprendre chez soi, mais bien des plantes. Située à Lyon, la Société Protectrice des Végétaux a été fondée par Nicolas Talliu il y a un peu plus de deux ans. Tout part du constat suivant : les services proposés aux autres êtres vivants n’existent pas pour les végétaux. _« On va chez le médecin lorsqu’on est malade, les chiens vont chez le vétérinaire quand ils le sont… pourquoi n’existe-t-il pas de service similaire pour les plantes ? »_, se demande-t-il. C’est en partant de ce questionnement que ce jeune architecte du paysage entend végétaliser le milieu urbain.
 
 Pour ce faire, il propose plusieurs types de services sur son terrain du 7e arrondissement. À l’instar des friperies, la société se base sur le principe du seconde main, mais pour des êtres vivants dans ce qu’il a joliment rebaptisé sa « broc(pl)ante ». Nicolas récupère des plantes de particuliers et de professionnels destinées à être jetées, puis leur fait une place au sein de la SPV pour les revendre à plus petits prix et leur donner un nouveau foyer. _« Quand les gens vont à la SPA, ils choisissent un animal avec un passif, qui apporte ses avantages et ses inconvénients. C’est la même chose avec ces végétaux »_, raconte l’entrepreneur.
 
-Le but n’est donc pas de trouver la plante parfaite, mais d’adopter un être vivant qui possède une histoire pour lui offrir une seconde chance. Le jeune créateur du projet se porte également volontaire comme « plantsitter ». Comprenez : garder les plantes d’autrui et leur donner l’attention nécessaire lors de déplacements de longue ou courte durée_. « Nous avons des étés de plus en plus chauds, c’est donc d’autant plus important de les arroser et de ne pas les négliger »_, explique-t-il. 
+Le but n’est donc pas de trouver la plante parfaite, mais d’adopter un être vivant qui possède une histoire pour lui offrir une seconde chance. Le jeune créateur du projet se porte également volontaire comme « plantsitter ». Comprenez : garder les plantes d’autrui et leur donner l’attention nécessaire lors de déplacements de longue ou courte durée_. « Nous avons des étés de plus en plus chauds, c’est donc d’autant plus important de les arroser et de ne pas les négliger »_, explique-t-il.
 
 Toujours dans ce concept de récupération, un centre de soins est mis à disposition des propriétaires de végétaux afin qu’ils puissent soigner leurs plantes et recevoir des conseils sur les méthodes adéquates à utiliser. Le but est de les accompagner pour qu’ils apprennent les bons gestes à adopter et puissent s’occuper seuls de leurs compagnons verts.
 
@@ -43,7 +41,7 @@ Constituée en Asbl, WeCo a aussi, et surtout, pour objectif de sensibiliser aux
 
 #### Bel’grains : de la farine bio et wallonne
 
-Répartis un peu partout en Wallonie, cinq agriculteurs wallons se sont rassemblés en coopérative pour créer une marque de farine bio, artisanale et 100 % local. Son nom ? Bel’grains. 
+Répartis un peu partout en Wallonie, cinq agriculteurs wallons se sont rassemblés en coopérative pour créer une marque de farine bio, artisanale et 100 % local. Son nom ? Bel’grains.
 
 Ce projet, qui a officiellement débuté il y a un an, redonne un certain pouvoir aux producteurs. _« C’est chouette, car on s’entend très bien, on est très solidaires. Humainement, c’est aussi une belle expérience. »_ Sourire aux lèvres, Françoise De Laminne raconte son arrivée dans l’aventure Bel’grains. Après avoir repris la ferme familiale à Neupré, dans le Condroz liégeois, l’agricultrice s’est tournée vers une démarche plus soucieuse de l’environnement en introduisant le bio dans sa ferme : _« Je ne suis plus dans un schéma où l’on ne veut plus voir une seule mauvaise herbe ou un seul insecte trainer sur le champ, alors que ceux-ci sont la plupart du temps nécessaires et complémentaires. »_
 
