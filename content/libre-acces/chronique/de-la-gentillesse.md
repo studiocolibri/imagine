@@ -2,7 +2,7 @@
 cat = "chronique.md"
 class = "single-e-magine"
 date = 2023-03-01T23:00:00Z
-description = "Dans une époque truffée de polémiques, de conflits et d'inhumanité, notre chroniqueuse Corinne Moral Darleux si, au fond, la gentillesse ne serait pas devenue subversive... Voire carrément punk."
+description = "Dans une époque truffée d'inhumanités, notre chroniqueuse Corinne Morel Darleux se demande si la gentillesse ne serait pas devenue subversive... Voire carrément punk."
 img = "/v1677758071/nick-fewings-bpHiMALBe-A-unsplash_pzjgor.jpg"
 img_credits = "Nick Fewings / Unsplash"
 title = "De la gentillesse"
