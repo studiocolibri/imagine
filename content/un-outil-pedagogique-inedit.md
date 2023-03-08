@@ -1,6 +1,6 @@
 +++
 class = "notre-manifeste single-page"
-title = "Le Tour des solutionneurs d'Imagine "
+title = "Imagine Un projet pédagogique inédit"
 
 +++
 Commandez dès maintenant la formule de votre choix via ce lien : [https://docs.google.com/forms/d/1_DLu4WTuKmfMFsJ3TVyxwoQoUAr12gFfO4lZJUXQCNM/prefill](https://docs.google.com/forms/d/1_DLu4WTuKmfMFsJ3TVyxwoQoUAr12gFfO4lZJUXQCNM/prefill "https://docs.google.com/forms/d/1_DLu4WTuKmfMFsJ3TVyxwoQoUAr12gFfO4lZJUXQCNM/prefill")
