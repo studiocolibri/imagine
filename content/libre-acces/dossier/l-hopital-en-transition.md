@@ -3,7 +3,6 @@ cat = "dossier.md"
 class = "single-e-magine"
 date = 2023-03-23T23:00:00Z
 description = "La responsabilité environnementale du secteur hospitalier a longtemps été négligée. Dépendant du pétrole et de ses dérivés, émetteur d’au moins 5 % des émissions de CO2 nationales, il doit effectuer sa transition. Un vaste chantier que des professionnels estiment avant tout éthique."
-draft = true
 img = "/v1679618289/Capture_d_%C3%A9cran_2023-03-24_013448_qbxhkw.png"
 img_credits = "Olivier Papegnies"
 title = "L'hôpital en transition"
