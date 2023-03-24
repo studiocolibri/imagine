@@ -19,7 +19,7 @@ Au sein du secteur, on admet volontiers que cet impact a longtemps été néglig
 
 ###### ![](https://res.cloudinary.com/drg3m95yg/image/upload/c_limit,dpr_auto,q_70,w_1000,f_auto/v1679618806/Capture_d_%C3%A9cran_2023-03-24_014329_l1rsry.png)Le CHU UCL Namur s’est récemment doté d’une conseillère en développement durable, Pauline Modrie. Un poste-clé dans lequel trop peu d’hôpitaux investissent. © Olivier Papegnies
 
-##### Le trio gagnant
+#### **Le trio gagnant**
 
 Parmi les éléments principaux émetteurs, quelques grands classiques : le transport du personnel et des patients, la consommation d’énergie et de chauffage et l’alimentation. Autant de « postes » dont la pression sur l’environnement peut être réduite en suivant des recettes qui devront s’appliquer ailleurs. Et comme dans d’autres secteurs, les problématiques sont similaires.
 
@@ -39,7 +39,7 @@ Reste que de nombreuses adaptations sont possibles en cuisine. A Mont-Godinne, l
 
 Des obstacles subsistent toutefois, comme la promotion de plats végétariens auprès d’une patientèle friande de viande ou les emballages plastiques, imposés par la législation alimentaire. _« Tout doit être emballé pour éviter une potentielle contamination. Malheureusement, toutes les machines ne fonctionnent pas avec des matériaux biodégradables. Comme celle-là, pour le pain et les couverts. On ne va pas la remplacer de suite, donc ça devra attendre. Par contre, je cherche une nouvelle machine à pâte. Pourquoi ne pas la trouver en seconde main ? »_, suggère Virginie Vanesse, cheffe de service Alimentation et Diététique. Et d’ajouter deux axes à améliorer pour le développement durable en cuisine : l’inclusion sociale – _« on peut mieux faire »_ – et les produits respectueux de l’environnement et des animaux. _« On est bloqué à cause des marchés publics et des centrales d’achat, lesquelles permettent de compresser les coûts. Elles ont leurs avantages et leurs inconvénients. Par exemple, on aimerait travailler avec des producteurs locaux. Mais si le marché passe par une centrale, ce qui est local pour nous ne l’est pas pour les centres hospitaliers de Mouscron, de Wallonie Picarde ou l’hôpital Erasme à Bruxelles et vice-versa. »_
 
-##### Rideaux à usage unique et gaspillage de masse
+#### **Rideaux à usage unique et gaspillage de masse**
 
 Le transport, l’énergie et l’alimentation ne constituent cependant que la partie émergée de l’iceberg. En effet, 70 % de l’empreinte carbone de l’hôpital provient de la chaîne d’approvisionnement, c’est-à-dire les achats de produits pharmaceutiques et chimiques mais aussi d’équipements médicaux. _« On en revient au degré de contrôle : les hôpitaux achètent des produits qu’ils ne fabriquent pas. Ils doivent donc travailler avec tous les acteurs de la chaîne pour réduire les émissions et leur impact, ce qui est difficile avec des fournisseurs internationaux »_, relève Arianna Gamba.
 
@@ -55,7 +55,7 @@ A cette surabondance générale, des critiques supplémentaires se superposent. 
 
 Pour réduire le poids de la chaîne d’approvisionnement, les idées fusent : établir un écoscore sur les produits manufacturés, former les gestionnaires de marchés publics pour intégrer les enjeux environnementaux dans les cahiers de charge, changer la législation interdisant de restériliser le matériel à usage unique, examiner quelles usines fonctionnent selon les principes de l’économie circulaire… Un retour au réutilisable ? Evidente au premier abord, cette solution est plus complexe à mettre en œuvre puisqu’elle implique de recréer des chaînes logistiques en aval et de persuader la hiérarchie en amont. _« Promouvoir le développement durable à l’hôpital, c’est faire de la sensibilisation constante. Il faut convaincre sans cesse que c’est bénéfique pour le patient et les finances de l’hôpital, qui passent largement avant le reste. Et pour être crédible, il faut des chiffres, surtout dans le milieu scientifique »_, confirme Sarah Lessire. _« Il a été prouvé que l’investissement dans des matériaux réutilisables est amorti en quelques années »_, amorce Arianna Gamba.
 
-##### Petits changements et vieilles habitudes
+#### **Petits changements et vieilles habitudes**
 
 Malgré toutes les embûches, le secteur hospitalier sera contraint d’entamer sa transition, que ce soit en vertu des promesses faites par la Belgique à la COP26 pour le rendre « durable et résilient », des objectifs du Plan National d’Action Environnement Santé, du respect des Accords de Paris ou de l’obligation d’atteindre la neutralité carbone d’ici 2050. Et si la responsabilité environnementale incombe à tous les acteurs de l’hôpital, la multitude d’initiatives spontanées visant à réduire sa pression environnementale semble surtout venir « d’en bas ».
 
