@@ -4,10 +4,9 @@ title: Page d'accueil
 header_title: Clarifier les faits, libérer<br>les idées et les esprits
 header_text: Imagine est un magazine bimestriel et un éditeur indépendant depuis 2001.
 section_one:
-  section_title: Le magazine Imagine Demain le monde recrute une directrice/un directeur
-    pour sa coopérative de presse (F-M-X)
-  title: Le magazine Imagine Demain le monde recrute une directrice/un directeur pour
-    sa coopérative de presse (F-M-X)
+  section_title: ''
+  title: Imagine recrute une directrice/un directeur pour sa coopérative de presse
+    (F-M-X)
   text: 'Fin 2023, notre magazine passera en coopérative. Pour piloter cette nouvelle
     entreprise en économie sociale, Imagine engage ! Les candidatures doivent être
     envoyées pour le 24 avril. '
