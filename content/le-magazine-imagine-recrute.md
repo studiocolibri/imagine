@@ -56,6 +56,6 @@ Lieu de travail : au siège du magazine à Liège (Boulevard Frère Orban 35A à
 
 Date d’engagement : le 1er juillet ou le 1er août
 
-Les candidatures sont à envoyer uniquement à l’adresse [recrutement@imagine-magazine.com](mailto:recrutement@imagine-magazine.com) avant le 28 avril 2022.
+Les candidatures sont à envoyer uniquement à l’adresse [recrutement@imagine-magazine.com](mailto:recrutement@imagine-magazine.com) avant le 28 avril 2023.
 
 Pour en savoir plus sur le projet éditorial : [www.imagine-magazine.com](http://www.imagine-magazine.com/)
