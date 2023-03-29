@@ -12,6 +12,6 @@ fields:
   default: notre-manifeste single-page
 pages:
 - content/la-cartographie-imagine.md
+- content/le-magazine-imagine-recrute.md
 - content/le-processus-imagine-2020.md
 - content/nous-contacter.md
-- content/un-outil-pedagogique-inedit.md
