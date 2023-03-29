@@ -1,6 +1,6 @@
 +++
 class = "notre-manifeste single-page"
-title = "Le magazine Imagine Demain le monde recrute une directrice/un directeur pour sa coopérative de presse (F-M-X)"
+title = "Imagine recrute une directrice/un directeur pour sa coopérative de presse (F-M-X)"
 
 +++
 _Imagine_ est un magazine belge, francophone et libre, qui s’inscrit dans le courant _slow press_ et traite des questions d’écologie, de société et de relations Nord-Sud. C’est un éditeur indépendant qui s’inscrit dans l’économie sociale. Actuellement structurée en Asbl, l’entreprise emploie six travailleurs, ainsi qu’une série de collaborateurs indépendants (graphiste, correctrice, journalistes, photographes…)
