@@ -11,7 +11,7 @@ section_one:
   text: 'Fin 2023, notre magazine passera en coopérative. Pour piloter cette nouvelle
     entreprise en économie sociale, Imagine engage ! Les candidatures doivent être
     envoyées pour le 24 avril. '
-  img: "/v1680087548/IMG-20221221-WA0007_nizbvv.jpg"
+  img: "/v1680089598/nick-page-MDeevV3gSAI-unsplash_iei2gp.jpg"
   btn_text: En savoir plus
   btn_link: "/le-magazine-imagine-recrute"
 section_two:
