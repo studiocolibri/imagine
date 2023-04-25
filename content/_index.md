@@ -1,4 +1,41 @@
 ---
+_inputs:
+  $.class:
+    hidden: true
+  $.title:
+    hidden: true
+    label: Titre de la page
+  $.header_title:
+    label: Titre du numéro en cours
+  $.header_text:
+    label: Texte du numéro en cours
+  $.section_one.section_title:
+    label: Titre de section
+  $.section_one.title:
+    label: Titre
+  $.section_one.img:
+    type: file
+    label: Image d'illu
+  $.section_one.text:
+    label: Texte
+  $.section_one.btn_text:
+    label: Texte du bouton
+  $.section_one.btn_link:
+    label: Lien du bouton
+  $.section_two.section_title:
+    label: Titre de section
+  $.section_two.btn_txt:
+    label: Texte du bouton
+  $.section_two.btn_link:
+    label: Lien du bouton
+  $.section_three.section_title:
+    label: Titre de section
+  $.section_three.text:
+    label: Texte
+  $.section_three.btn_text:
+    label: Texte du bouton
+  $.section_three.btn_link:
+    label: Lien du bouton
 class: home
 title: Page d'accueil
 header_title: Clarifier les faits, libérer<br>les idées et les esprits

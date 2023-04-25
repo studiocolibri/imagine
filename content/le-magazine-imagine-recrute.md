@@ -1,4 +1,5 @@
 +++
+_schema = "page-simple"
 class = "notre-manifeste single-page"
 title = "Imagine recrute une directrice/un directeur pour sa coopérative de presse (F-M-X)"
 

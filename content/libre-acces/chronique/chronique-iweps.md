@@ -1,4 +1,5 @@
 +++
+_schema = "article"
 cat = "chronique.md"
 class = "single-e-magine"
 date = 2022-05-04T22:00:00Z

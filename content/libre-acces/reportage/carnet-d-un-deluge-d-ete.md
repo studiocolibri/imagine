@@ -1,4 +1,5 @@
 +++
+_schema = "article"
 cat = "reportage.md"
 class = "single-e-magine"
 date = 2021-12-15T09:00:00Z

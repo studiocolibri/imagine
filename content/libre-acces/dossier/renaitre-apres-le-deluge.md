@@ -1,4 +1,5 @@
 +++
+_schema = "article"
 cat = ""
 class = "single-e-magine"
 date = 2022-06-21T22:00:00Z

@@ -1,4 +1,5 @@
 ---
+_schema: le-projet-imagine
 class: le-projet-imagine single-page
 title: Le projet Imagine
 type: le-projet-imagine

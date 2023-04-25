@@ -1,4 +1,5 @@
 +++
+_schema = "page-simple"
 class = "notre-manifeste single-page"
 title = "Le processus #Imagine 2020"
 

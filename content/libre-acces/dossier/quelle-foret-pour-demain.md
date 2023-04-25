@@ -1,4 +1,5 @@
 +++
+_schema = "article"
 cat = "dossier.md"
 class = "single-e-magine"
 date = 2017-07-05T22:00:00Z

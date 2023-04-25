@@ -1,4 +1,5 @@
 +++
+_schema = "article"
 cat = "rencontre.md"
 class = "single-e-magine"
 date = 2021-07-01T22:00:00Z

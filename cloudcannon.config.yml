@@ -1,0 +1,355 @@
+collections_config:
+  pages:
+    name: Pages
+    path: content
+    filter:
+      exclude:
+        - categories/analyse.md
+        - categories/chronique.md
+        - categories/decouverte.md
+        - categories/dossier.md
+        - categories/editorial.md
+        - categories/index.md
+        - categories/interview.md
+        - categories/rencontre.md
+        - categories/reportage.md
+        - categories/tribune.md
+        - libre-acces/_index.md
+        - libre-acces/analyse/_index.md
+        - libre-acces/analyse/climat-une-trop-faible-couverture-mediatique.md
+        - >-
+          libre-acces/analyse/crise-de-la-biodiversite-l-autre-urgence-environnementale.md
+        - libre-acces/analyse/l-humour-face-aux-crises-environnementales.md
+        - libre-acces/analyse/l-impact-environnemental-de-nos-objets.md
+        - libre-acces/analyse/l-invasion-des-objets-connectes.md
+        - >-
+          libre-acces/analyse/l-urgente-protection-des-deplaces-environnementaux.md
+        - libre-acces/analyse/les-insoumis-du-marche.md
+        - libre-acces/analyse/quand-degenrer-derange.md
+        - libre-acces/chronique/_index.md
+        - libre-acces/chronique/a-boulet-rouge.md
+        - libre-acces/chronique/a-la-vitesse-des-plantes.md
+        - libre-acces/chronique/carpe-that-fucking-diem.md
+        - libre-acces/chronique/chronique-iweps.md
+        - libre-acces/chronique/consentir-a-la-nuit.md
+        - libre-acces/chronique/de-la-gentillesse.md
+        - libre-acces/chronique/declencher-des-emballements-positifs.md
+        - libre-acces/chronique/derniere-station-avant-la-frontiere.md
+        - libre-acces/chronique/en-cellule.md
+        - >-
+          libre-acces/chronique/imagine-25-ans-de-vie-editoriale-en-quete-de-coherence.md
+        - libre-acces/chronique/l-amour-de-la-mer.md
+        - >-
+          libre-acces/chronique/pertes-et-prejudices-impressions-d-un-an-d-enquete.md
+        - libre-acces/chronique/pour-un-stoicisme-militant.md
+        - libre-acces/chronique/quelle-place-pour-les-femmes-dans-imagine.md
+        - libre-acces/chronique/taux-de-preference-pour-le-present.md
+        - libre-acces/decouverte/_index.md
+        - libre-acces/decouverte/aux-origines-de-la-catastrophe.md
+        - >-
+          libre-acces/decouverte/closing-worlds-ou-comment-penser-le-renoncement.md
+        - >-
+          libre-acces/decouverte/l-eco-acoustique-l-oreille-de-la-biodiversite.md
+        - libre-acces/dossier/2021-le-futur-leur-echappe.md
+        - libre-acces/dossier/5g-vers-une-course-folle.md
+        - libre-acces/dossier/_index.md
+        - libre-acces/dossier/alibaba-a-liege-une-enquete-en-deux-temps.md
+        - >-
+          libre-acces/dossier/cinquante-citoyens-wallons-face-au-defi-climatique.md
+        - libre-acces/dossier/climat-deregle-sante-menacee.md
+        - libre-acces/dossier/climat-energie-les-belges-prets-aux-changements.md
+        - libre-acces/dossier/l-envers-des-zoos.md
+        - libre-acces/dossier/l-hopital-en-transition.md
+        - libre-acces/dossier/liege-airport-la-fuite-en-avant.md
+        - libre-acces/dossier/quelle-foret-pour-demain.md
+        - libre-acces/dossier/renaitre-apres-le-deluge.md
+        - libre-acces/dossier/trop-de-pubs-climaticides.md
+        - libre-acces/dossier/vers-une-societe-sans-cash.md
+        - libre-acces/editorial/_index.md
+        - libre-acces/editorial/a-voix-haute.md
+        - libre-acces/editorial/au-dela-du-pardon.md
+        - libre-acces/editorial/combattre-l-injustice-fiscale.md
+        - libre-acces/editorial/du-business-en-apesanteur.md
+        - libre-acces/editorial/faire-societe.md
+        - libre-acces/editorial/l-impossible-devenu-possible.md
+        - libre-acces/editorial/la-petite-musique-hivernale.md
+        - libre-acces/editorial/le-pouvoir-de-s-informer.md
+        - libre-acces/editorial/les-sciences-a-l-epreuve-democratique.md
+        - libre-acces/editorial/machines-a-penser.md
+        - libre-acces/editorial/nos-emotions-democratiques.md
+        - libre-acces/editorial/notre-affaire-climat.md
+        - libre-acces/editorial/on-attend-quoi.md
+        - libre-acces/editorial/redevenir-terrestres.md
+        - libre-acces/editorial/sans-culture-pas-de-futur.md
+        - libre-acces/editorial/une-jeunesse-en-clair-obscur.md
+        - libre-acces/editorial/vivement.md
+        - libre-acces/interview/debusquer-le-greenwashing.md
+        - >-
+          libre-acces/interview/francois-de-saint-georges-ce-sont-de-jeunes-rebelles-que-rien-n-effraie-et-ils-m-ont-contamine.md
+        - >-
+          libre-acces/interview/parcs-animaliers-meme-un-enclos-pare-de-vertus-est-une-cage.md
+        - >-
+          libre-acces/interview/rebecca-thissen-la-demande-de-financement-des-pertes-et-prejudices-lies-aux-dereglements-climatiques-ne-peut-plus-etre-ignoree.md
+        - libre-acces/rencontre/_index.md
+        - libre-acces/rencontre/a-la-cueillette-de-fleurs-locales.md
+        - >-
+          libre-acces/rencontre/amitav-gosh-les-ecrivains-doivent-redonner-une-voix-aux-non-humains.md
+        - >-
+          libre-acces/rencontre/appel-a-candidats-pour-le-tour-de-wallonie-des-jeunes-solutionneurs.md
+        - >-
+          libre-acces/rencontre/blandine-sankara-l-agroecologie-est-un-acte-decolonial.md
+        - libre-acces/rencontre/charlotte-puiseux-la-devalideuse.md
+        - libre-acces/rencontre/etienne-klein-l-idee-de-progres-est-en-crise.md
+        - >-
+          libre-acces/rencontre/flore-vasseur-il-faut-permettre-un-nouveau-rapport-au-monde.md
+        - libre-acces/rencontre/full-yeti-veut-deplacer-des-montagnes.md
+        - libre-acces/rencontre/Leah.md
+        - >-
+          libre-acces/rencontre/lucie-pinson-reclaim-finance-une-nouvelle-centrale-au-charbon-c-est-50-ans-d-emissions-en-trop.md
+        - >-
+          libre-acces/rencontre/nous-avons-le-devoir-ethique-de-mobiliser-des-affects-positifs-le-desir-l-envie.md
+        - >-
+          libre-acces/rencontre/physiquement-quelque-chose-est-en-train-de-changer-jusque-dans-le-coeur-des-villes-et-de-notre-quotidien.md
+        - libre-acces/reportage/_index.md
+        - libre-acces/reportage/carnet-d-un-deluge-d-ete.md
+        - >-
+          libre-acces/reportage/la-desobeissance-face-au-colonialisme-climatique.md
+        - libre-acces/reportage/la-quete-de-regularisation-des-sans-papiers.md
+        - libre-acces/reportage/la-secu-solidaire-des-mamans-sans-papiers.md
+        - >-
+          libre-acces/reportage/le-climat-deregle-affecte-la-sante-des-travailleurs.md
+        - libre-acces/reportage/nemesis-boxe-le-patriarcat.md
+        - >-
+          libre-acces/reportage/plan-sacha-l-exploration-des-limites-du-consentement.md
+        - >-
+          libre-acces/reportage/une-carte-des-luttes-citoyennes-territoriales-et-environnementales.md
+        - >-
+          libre-acces/reportage/une-catastrophe-silencieuse-debrousse-le-sahel.md
+        - libre-acces/tribune/_index.md
+        - libre-acces/tribune/etat-d-urgence-pour-les-periodiques-belges.md
+        - libre-acces/tribune/le-grand-basculement.md
+        - libre-acces/tribune/le-prix-de-l-information.md
+        - numeros/139.md
+  numeros:
+    name: Numeros
+    path: content/numeros
+    schemas:
+      default:
+        path: .cloudcannon/schemas/numero-en-cours.md
+        name: Numero en cours
+        _enabled_editors:
+          - data
+        _inputs:
+          $.class:
+            hidden: true
+          $.num:
+            type: number
+            label: 'Numéro '
+          $.period:
+            label: Période
+          $.date:
+            label: Date de Parution
+          $.title:
+            label: Titre du Numéro
+          $.short_description:
+            label: Courte description du numéro
+          $.cover:
+            type: file
+          $.simulation_cover:
+            type: file
+          $.six_territoires_img:
+            type: file
+            label: Image du Sommaire
+          $.sixieme_continent:
+            type: array
+            label: Les territoires
+            options:
+              structures: _structures.sixieme_continent
+          $.decouverte[*]:
+            type: image
+          $.decouverte:
+            type: array
+            label: Aperçus du magazine
+  nos-contenus:
+    name: Nos contenus
+    path: content/libre-acces
+    schemas:
+      titre-de-categorie:
+        path: .cloudcannon/schemas/titre-de-categorie.md
+        name: Titre de catégorie
+        _enabled_editors:
+          - data
+        _inputs:
+          $.title:
+            label: Titre de la catégorie
+            comment: Aucune restriction sur la manière de l'écrire
+          $.class:
+            hidden: true
+      article:
+        path: .cloudcannon/schemas/article.md
+        name: Article
+        _enabled_editors:
+          - content
+        _inputs:
+          $.class:
+            hidden: true
+          $.cat:
+            label: Catégorie
+            comment: >-
+              Inscrire le nom "url" de la catégorie suivi de ".md". Ex: pour
+              ajouter la catégorie "Éditorial", il faut écrire "editorial.md"
+          $.title:
+            label: Titre de l'article
+          $.title_alignment:
+            type: select
+            label: Alignement du titre
+            comment: >-
+              Option pour aligner le titre à droite si l'illustration le
+              nécessite
+            options:
+              values: _select_data.title_alignment
+          $.description:
+            label: Description de l'article
+            comment: >-
+              Texte cours utilisé dans la liste des articles en libre accès ou
+              pour le référencement.
+          $.img:
+            type: file
+            label: Image d'illustration de l'article
+          $.img_credits:
+            label: Crédits de l'image d'illustration
+  categories:
+    name: Catégories
+    path: content/categories
+    schemas:
+      default:
+        path: .cloudcannon/schemas/categorie.md
+        name: Catégorie
+        _enabled_editors:
+          - data
+        _inputs:
+          $.title:
+            label: Titre pour les URL
+            comment: >-
+              Titre à écrire sans espace, sans accent, sans caractère spéciaux,
+              uniquement utilisé pour les adresses web (URL). Ex: "Éditorial"
+              =&gt; "editorial", ou "À vous de jouer !" =&gt; "a-vous-de-jouer"
+          $.title_humans:
+            label: 'Titre '
+            comment: >-
+              Titre qui sera affiché sur le site, sans restriction sur la
+              manière de l'écrire.
+          $.color:
+            type: text
+            label: Code couleur
+            comment: 'Format hexadécimal, ex : #f5d771'
+  default_hugo_pages:
+    name: Pages
+    path: content/
+    schemas:
+      le-projet-imagine:
+        path: .cloudcannon/schemas/le-projet-imagine.md
+        name: Le projet Imagine
+        _enabled_editors:
+          - data
+        _inputs:
+          $.class:
+            hidden: true
+          $.type:
+            hidden: true
+          $.title:
+            label: Titre de la page
+          $.organization.title:
+            label: Titre
+          $.organization.content:
+            type: markdown
+            label: Contenu
+          $.team.title:
+            label: Titre
+          $.team.members:
+            type: array
+            label: Membres
+            options:
+              structures: _structures.members
+          $.differences.title:
+            label: Titre
+          $.differences.content:
+            type: markdown
+            label: Contenu
+      page-simple:
+        path: .cloudcannon/schemas/page-simple.md
+        name: Page Simple
+        _enabled_editors:
+          - content
+        _inputs:
+          $.class:
+            hidden: true
+      qui-sommes-nous:
+        path: .cloudcannon/schemas/qui-sommes-nous.md
+        name: Qui sommes-nous ?
+        _enabled_editors:
+          - data
+        _inputs:
+          $.section_one.img:
+            type: file
+          $.section_two.img:
+            type: file
+          $.section_three.img:
+            type: file
+          $.section_four.img:
+            type: file
+          $.section_five.img_list:
+            type: array
+            options:
+              structures: _structures.img_list
+collection_groups:
+  - heading: Content
+    collections:
+      - pages
+      - numeros
+      - nos-contenus
+      - categories
+_select_data:
+  title_alignment:
+    - gauche
+    - droite
+_structures:
+  sixieme_continent:
+    values:
+      - value:
+          title: ''
+          img: null
+          content: ''
+        _inputs:
+          img:
+            type: file
+          content:
+            type: markdown
+  members:
+    values:
+      - value:
+          name: ''
+          job: ''
+          photo: null
+          text: ''
+        _inputs:
+          name:
+            label: Nom
+          job:
+            label: Profession
+          photo:
+            type: file
+          text:
+            label: Texte
+  img_list:
+    values:
+      - value:
+          img: null
+          title: ''
+          link: ''
+        _inputs:
+          img:
+            type: file
+_inputs:
+  template:
+    hidden: true

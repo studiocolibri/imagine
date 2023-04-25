@@ -1,4 +1,5 @@
 +++
+_schema = "article"
 cat = "editorial.md"
 class = "single-e-magine"
 date = 2022-01-12T23:00:00Z

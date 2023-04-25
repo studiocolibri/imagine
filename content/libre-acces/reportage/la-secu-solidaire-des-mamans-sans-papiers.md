@@ -1,4 +1,5 @@
 +++
+_schema = "article"
 cat = "reportage.md"
 class = "single-e-magine"
 date = 2020-06-04T22:00:00Z

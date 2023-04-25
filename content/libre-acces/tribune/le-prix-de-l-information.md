@@ -1,4 +1,5 @@
 +++
+_schema = "article"
 cat = "tribune.md"
 class = "single-e-magine"
 date = 2022-01-02T23:00:00Z

@@ -1,4 +1,5 @@
 ---
+_schema: qui-sommes-nous
 type: notre-projet
 title: Qui nous sommes
 class: notre-projet

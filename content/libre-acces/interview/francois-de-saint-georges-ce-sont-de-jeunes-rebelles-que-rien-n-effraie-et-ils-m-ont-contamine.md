@@ -1,4 +1,5 @@
 +++
+_schema = "article"
 cat = "interview.md"
 class = "single-e-magine"
 date = 2022-09-12T22:00:00Z
