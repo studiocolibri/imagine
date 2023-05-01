@@ -45,5 +45,4 @@ publish = "public"
 command = "hugo -F && gulp minify"
 
 [context.production.environment]
-HUGO_VERSION = "0.78.2"
 HUGO_ENV = "production"
