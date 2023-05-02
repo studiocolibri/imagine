@@ -2,9 +2,8 @@
 _schema = "page-simple"
 class = "notre-manifeste single-page"
 title = "Imagine recrute une directrice/un directeur pour sa coopérative de presse (F-M-X)"
-
 +++
-_Imagine_ est un magazine belge, francophone et libre, qui s’inscrit dans le courant _slow press_ et traite des questions d’écologie, de société et de relations Nord-Sud. C’est un éditeur indépendant qui s’inscrit dans l’économie sociale. Actuellement structurée en Asbl, l’entreprise emploie six travailleurs, ainsi qu’une série de collaborateurs indépendants (graphiste, correctrice, journalistes, photographes…)
+*Imagine* est un magazine belge, francophone et libre, qui s’inscrit dans le courant *slow press* et traite des questions d’écologie, de société et de relations Nord-Sud. C’est un éditeur indépendant qui s’inscrit dans l’économie sociale. Actuellement structurée en Asbl, l’entreprise emploie six travailleurs, ainsi qu’une série de collaborateurs indépendants (graphiste, correctrice, journalistes, photographes…)
 
 Sa mission en devenir s’articule autour de trois axes :
 
@@ -44,7 +43,7 @@ Dans le cadre de sa transformation d’Asbl en coopérative, le magazine recrute
 * Disposer d’outils innovants et utiles à la coopérative en termes de gouvernance partagée et de gestion des ressources humaines
 * Maîtriser le néerlandais
 
-**_Imagine Demain le monde_ offre**
+***Imagine Demain le monde* offre**
 
 * Un cadre de travail convivial et apaisé
 * Un projet collectif en développement et qui fait sens
@@ -57,6 +56,6 @@ Lieu de travail : au siège du magazine à Liège (Boulevard Frère Orban 35A à
 
 Date d’engagement : le 1er juillet ou le 1er août
 
-Les candidatures sont à envoyer uniquement à l’adresse [recrutement@imagine-magazine.com](mailto:recrutement@imagine-magazine.com) avant le 28 avril 2023.
+Les candidatures sont à envoyer uniquement à l’adresse [recrutement@imagine-magazine.com](mailto:recrutement@imagine-magazine.com) avant le 8 mai 2023.
 
 Pour en savoir plus sur le projet éditorial : [www.imagine-magazine.com](http://www.imagine-magazine.com/)
