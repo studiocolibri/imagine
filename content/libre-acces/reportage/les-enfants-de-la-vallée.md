@@ -6,7 +6,7 @@ title: Les enfants de la vallée
 title_alignment: gauche
 date: 2023-05-05T10:00:00Z
 description:
-img: /uploads/img-0153.jpg
+img: /uploads/img-0153-1.jpg
 img_credits: Sarah Freres
 ---
 **Comment les enfants des vallées de la Vesdre et de l’Ourthe ont-ils traversé les inondations de juillet 2021 ? Qu’en disent-ils ? Leur vécu interrogent-il nos façons de faire, d’être et de vivre ? A l’heure de la reconstruction de ces lieux, Les Ateliers de la Colline, une compagnie pionnières du théâtre pour l’enfance et la jeunesse, entame un vaste projet créatif avec un jeune public défavorisé. Pour donner la parole aux enfants, qui ne l’ont que très peu, et explorer l’avenir par le biais du théâtre.&nbsp;**
