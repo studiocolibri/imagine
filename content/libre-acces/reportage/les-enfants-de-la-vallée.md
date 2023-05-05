@@ -7,8 +7,8 @@ title_alignment: gauche
 date: 2023-05-05T10:00:00Z
 description: >-
   Comment les enfants des vallées de la Vesdre et de l’Ourthe ont-ils traversé
-  les inondations de juillet 2021 ? Les Ateliers de la Colline, un
-  théâtre-action 
+  les inondations de juillet 2021 ? Les Ateliers de la Colline, un théâtre
+  populaire sérésien mène un projet qu'Imagine suivra pendant deux ans. 
 img: /uploads/img-0153-1.jpg
 img_credits: Sarah Freres
 ---
