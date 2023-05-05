@@ -5,7 +5,10 @@ cat: reportage.md
 title: Les enfants de la vallée
 title_alignment: gauche
 date: 2023-05-05T10:00:00Z
-description:
+description: >-
+  Comment les enfants des vallées de la Vesdre et de l’Ourthe ont-ils traversé
+  les inondations de juillet 2021 ? Les Ateliers de la Colline, un
+  théâtre-action 
 img: /uploads/img-0153-1.jpg
 img_credits: Sarah Freres
 ---
