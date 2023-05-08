@@ -1,14 +1,13 @@
 +++
 _schema = "article"
-cat = "dossier.md"
 class = "single-e-magine"
-date = 2023-03-23T23:00:00Z
-description = "La responsabilité environnementale du secteur hospitalier a longtemps été négligée. Pour les professionnels de la santé, sa transition est avant tout une question d'éthique. Décryptage. "
-img = "/v1679620957/1_djihft.png"
-img_credits = "Olivier Papegnies"
+cat = "dossier.md"
 title = "L'hôpital en transition"
 title_alignment = "gauche"
-
+date = 2023-03-23T23:00:00.000Z
+description = "La responsabilité environnementale du secteur hospitalier a longtemps été négligée. Pour les professionnels de la santé, sa transition est avant tout une question d'éthique. "
+img = "/v1679620957/1_djihft.png"
+img_credits = "Olivier Papegnies"
 +++
 **La responsabilité environnementale du secteur hospitalier a longtemps été négligée. Dépendant du pétrole et de ses dérivés, émetteur d’au moins 5 % des émissions de CO2 nationales, il doit effectuer sa transition. Ce qui passera par une remise en question des pratiques médicales, des habitudes des soignants, des critères retenus pour les marchés publics, de la place qu’accordent les directions au développement durable, la coordination entre les nombreuses initiatives émanant du personnel et un soutien accru des politiques publiques. Un vaste chantier que des professionnels estiment avant tout éthique.**
 
