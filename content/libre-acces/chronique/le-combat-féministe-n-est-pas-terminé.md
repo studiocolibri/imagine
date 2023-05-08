@@ -1,0 +1,46 @@
+---
+_schema: article
+class: single-e-magine
+cat: chronique.md
+title: Le combat féministe n'est pas terminé
+title_alignment: gauche
+date: 2023-05-08T10:00:00Z
+description: >-
+  Pour lutter contre le patriarcat, il est urgent de reconnaître les inégalités
+  dans la répartition des tâches. Une chronique d'Olivier De Schutter.
+img: /uploads/lindsey-lamont-huwinrmpvsc-unsplash.jpg
+img_credits: Unsplash / Lindsey Lamont
+---
+**Pour lutter contre le patriarcat, il est urgent de reconnaître les inégalités dans la répartition des tâches, décharger les femmes du fardeau qui pèse sur elles et redistribuer les rôles de manière plus égalitaire. Un chantier qui est loin d’être terminé.**
+
+Les droits des femmes subissent des attaques sans précédent en Europe. Depuis une décision du Tribunal constitutionnel polonais du 22 octobre 2020, les possibilités de recourir à l’IVG en Pologne ont été sévèrement restreintes : elle n’est plus autorisée qu’en cas de viol ou de risque pour la vie ou la santé de la femme enceinte ; et elle est, en pratique, très difficile à obtenir dans les zones rurales, car de nombreux médecins refusent de pratiquer l’avortement. En Hongrie, le parti Fidesz du premier ministre Viktor Orbán utilise sa domination des médias pour diffuser une propagande misogyne. Partout, des réflexes patriarcaux apparaissent.
+
+Ne croyons surtout pas qu’il s’agisse là d’une sorte de « contre-mouvement », ou d’un « backlash », en réaction aux progrès de l’égalité de traitement dans le travail. Le taux d’emploi des femmes reste inférieur de 11 % à celui des hommes et les écarts de salaire entre les femmes et les hommes sont encore de 13 % en moyenne sur l’ensemble de l’Union européenne. Cela expose les femmes, plus que les hommes, à la pauvreté, à la fois en raison du niveau plus faible des pensions qu’elles perçoivent au terme de leur carrière et parce qu’elles sont nettement majoritaires à être à la tête de familles monoparentales, qui sont les plus à risque de pauvreté.
+
+**Lire aussi &gt; <a target="_blank" rel="noopener" href="https://www.imagine-magazine.com/libre-acces/analyse/quand-degenrer-derange/">Quand dégenrer dérange</a>**
+
+Ces écarts tiennent en partie à la persistance d’une répartition des rôles reflétant la domination masculine. Si l’on inclut le temps consacré aux responsabilités à assumer au sein du foyer – le soin des enfants et des personnes âgées et les tâches ménagères –, les femmes travaillent chaque année, en moyenne, huit semaines de plus que les hommes. On aurait pu penser que la crise du Covid-19, avec les confinements successifs, allait amener une répartition plus égalitaire des tâches au sein du ménage. Il n’en a rien été : les hommes ont fait davantage (un peu), mais les femmes ont fait encore beaucoup plus, notamment pour accompagner les enfants suivant des cours en ligne. \#MeToo a bien libéré la parole mais n’a pas changé les habitudes.
+
+#### De timides progrès
+
+Certes, certains progrès apparaissent, timides, dans des domaines précis. Jusqu’à présent, les hommes demeurent largement surreprésentés aux niveaux les plus élevés de l’entreprise ou de l’organisation, continuant de monopoliser les lieux de prise de décision : alors qu’elles sont 60 % parmi les diplômées de l’université, les femmes ne représentent toujours que 31,5 % des membres des conseils d’administration des entreprises cotées en bourse, et elles ne sont que 8 % à occuper le poste de présidente des conseils d’administration.
+
+C’est pour répondre à ce déséquilibre qu’au terme de dix ans de négociations, une directive a finalement été adoptée en octobre dernier afin d’augmenter la présence des femmes dans les conseils d’administration des entreprises. Elle prévoit que 40 % au moins des postes de membres non exécutifs des conseils d’administration dans les sociétés cotées en bourse devraient être occupés par des membres du sexe sous-représenté d’ici 2026. Les entreprises qui n’atteignent pas cet objectif devront revoir les processus de sélection des membres de conseils d’administration. Mais le chemin à parcourir reste long. Une dimension trop peu évoquée des discriminations envers les femmes concerne la ségrégation professionnelle.
+
+**Lire aussi &gt; <a target="_blank" rel="noopener" href="https://www.imagine-magazine.com/libre-acces/reportage/nemesis-boxe-le-patriarcat/">Nemesis boxe le patriarcat</a>**
+
+Eurofound, l’agence européenne pour l’amélioration des conditions de vie et de travail, a sondé septante mille travailleuses et travailleurs sur trente-six pays européens. Il en ressort qu’un tiers de la population qui travaille sont des hommes employés dans des secteurs très fortement masculins (tels que le bâtiment), et un quart sont des femmes employées dans des secteurs dominés par les femmes (tels que l’aide aux personnes). En Bulgarie ou en Roumanie, plus de 80 % des travailleuses et travailleurs sont employés dans des secteurs fortement ségrégés (comptant plus de 60% d’hommes ou de femmes).
+
+#### Le triptyque des « trois R »
+
+La déségrégation professionnelle et la lutte contre les stéréotypes de genre doivent constituer une priorité à l’avenir. Trois pistes peuvent être explorées à cet égard. La première piste consiste à miser sur le triptyque des « trois R » (« recognition-relief-redistribution »), inspiré des travaux de Diane Elson. Il faut tout à la fois reconnaître la réalité de l’inégale répartition des tâches, décharger les femmes du fardeau que cela fait peser sur elles, et enfin combattre les stéréotypes de genre afin d’amener une redistribution des rôles. Cela signifie, par exemple, aménager le travail de manière à favoriser la conciliation de la vie privée et de la vie professionnelle, renforcer les services d’aide à l’enfance et aux personnes âgées (notamment la disponibilité de crèches), et miser sur l’action positive et la formation professionnelle pour déségréguer l’emploi.
+
+L’intérêt de cette typologie est de nous forcer à penser à la fois le présent et l’avenir : il faut en même temps reconnaître les écarts actuels et opérer les changements nécessaires, sans que cette reconnaissance justifie la persistance du statu quo, et sans que les changements à amener fassent obstacle à ce que l’on aménage, dans l’immédiat, l’organisation du travail, afin de faciliter l’accès des femmes à l’emploi.
+
+**Lire aussi &gt; <a target="_blank" rel="noopener" href="https://www.imagine-magazine.com/libre-acces/rencontre/charlotte-puiseux-la-devalideuse/">Charlotte Puiseux, la dévalideuse</a>**
+
+La deuxième piste consiste à prendre au sérieux l’exigence qu’à travail de même valeur, doit correspondre une égalité salariale. Depuis les années 1980, on est passé du slogan « un salaire égal pour un même travail » au slogan « un salaire égal pour un travail de même valeur », ceci pour éviter que des écarts de salaire entre les femmes et les hommes persistent simplement par la magie de certaines classifications des fonctions, assignant les femmes à des fonctions dénommées autrement, mais moins bien rémunérées. Il est temps d’approfondir cette exigence. Certains métiers sont survalorisés alors qu’ils n’apportent guère à la société, voire même sont nuisibles : ces emplois, comme ceux de trader en bourse, sont largement dominés par les hommes. D’autres métiers à l’inverse sont sous-valorisés, alors qu’ils apportent bien davantage à la société, produisant des « externalités positives » considérables : c’est typiquement le cas dans les domaines de l’aide aux personnes ou de la transition écologique. Les femmes sont beaucoup mieux représentées dans ces métiers, elles sont même parfois nettement majoritaires en tant qu’infirmières ou institutrices maternelle ou primaire. Si on prend au sérieux que le travail n’est pas une marchandise – conviction sur laquelle l’Organisation internationale du travail a été fondée –, il faut en déduire que le salaire devrait être fixé non pas en fonction des critères du marché (et notamment d’une « demande » solvable pour tel ou tel travail), mais plutôt en fonction de l’utilité sociale des différents métiers. Cela veut dire notamment revaloriser des métiers traditionnellement dominés par les femmes – et qui d’ailleurs sont souvent moins bien rémunérés précisément car les femmes y sont sur-représentées.
+
+Enfin, la troisième piste consiste à travailler sur le rôle des hommes dans ce combat. Alors que certains y voient encore une menace à leur domination, les hommes ont tout à gagner aux progrès de l’égalité de traitement entre les femmes et les hommes. Une société plus égalitaire, moins contaminée par les stéréotypes de genre, c’est aussi une société dans laquelle les hommes comme les femmes peuvent mieux s’épanouir, en vivant des existences moins soumises à l’injonction de l’accélération permanente et de la performance. Et des écoféministes comme Val Plumwood ou Emilie Hache nous rappellent que ce combat est aussi un combat contre les dichotomies qui ont tant nui au combat écologique, pensée/ corps, culture/nature, abstrait/concret, universel/particulier, derrière lesquelles gît toujours le masculin/féminin. C’est en ce sens que les combats de l’écologie et pour les droits des femmes sont intimement liés.
+
+**Olivier De Schutter, professeur à l’UCLouvain, rapporteur spécial de l’ONU sur l’extrême pauvreté et les droits de l’homme**
