@@ -6,52 +6,50 @@ type: le-projet-imagine
 organization:
   title: Notre organisation
   content: >-
-    * C’est **un magazine belge, bimestriel et alternatif**, qui traite des
-    questions d’**écologie, de société et de relations Nord-Sud.** Il est édité
-    par une Asbl, indépendante de tout groupe de presse et de tout parti
-    politique, et géré par l’équipe qui le réalise.* _Imagine_ s’inscrit dans le
-    courant _slow press_ et défend **un journalisme d’impact, au long cours, à
-    la fois vivant et critique, apaisé et constructif**. Tous les deux mois, il
-    recherche la qualité plutôt que la quantité. Il ralentit pour offrir à ses
-    lecteurs une information originale, fiable et nuancée.* L’Asbl Imagine,
-    c’est **six salariés** (4 journalistes, une responsable administrative et
-    financière et une chargée de développement), un **graphiste et une
-    correctrice indépendants**, une équipe de **collaborateurs réguliers**
-    (journalistes, illustrateurs, photographes, chroniqueurs…), un conseiller
-    régie publicitaire free lance et une équipe d’ambassadeurs Imagine.*
-    _Imagine_, c’est aussi **une communauté de 4.108 abonnés** (chiffres arrêtés
-    fin mai 2020), et une moyenne de 1 200 exemplaires vendus par numéro en 2019
-    (librairies, magasins bio…). C’est **un modèle économique mixte** qui
-    s’appuie sur les abonnements (50%), les ventes au numéro (10 %), des
-    suppléments rédactionnels et des annonces publicitaires éthiques et durables
-    (7 %), un soutien de son partenaire CNCD 11.11.11 et une aide à la presse
-    périodique d’opinion de la Fédération Wallonie-Bruxelles (33 %).* Pour les
-    questions Nord-Sud, _Imagine_ s’appuie sur l’expertise de son partenaire,
-    **le Centre national de coopération au développement (CNCD-11.11.11),** une
+    C’est un magazine belge, bimestriel et alternatif, qui traite des questions
+    d’écologie, de société et de relations Nord-Sud. Il est édité par une Asbl,
+    indépendante de tout groupe de presse et de tout parti politique, et géré
+    par l’équipe qui le réalise. Imagine s’inscrit dans le courant slow press et
+    défend un journalisme d’impact, au long cours, à la fois vivant et critique,
+    apaisé et constructif. Tous les deux mois, il recherche la qualité plutôt
+    que la quantité. Il ralentit pour offrir à ses lecteurs une information
+    originale, fiable et nuancée. L’Asbl Imagine, c’est six salariés (4
+    journalistes, une responsable administrative et financière et une chargée de
+    développement), un graphiste et une correctrice indépendants, une équipe de
+    collaborateurs réguliers (journalistes, illustrateurs, photographes,
+    chroniqueurs…), un conseiller régie publicitaire free lance et une équipe
+    d’ambassadeurs Imagine. Imagine, c’est aussi une communauté de 4.108 abonnés
+    (chiffres arrêtés fin mai 2020), et une moyenne de 1 200 exemplaires vendus
+    par numéro en 2019 (librairies, magasins bio…). C’est un modèle économique
+    mixte qui s’appuie sur les abonnements (50%), les ventes au numéro (10 %),
+    des suppléments rédactionnels et des annonces publicitaires éthiques et
+    durables (7 %), un soutien de son partenaire CNCD 11.11.11 et une aide à la
+    presse périodique d’opinion de la Fédération Wallonie-Bruxelles (33 %). Pour
+    les questions Nord-Sud, Imagine s’appuie sur l’expertise de son partenaire,
+    le Centre national de coopération au développement (CNCD-11.11.11), une
     coupole qui réunit 90 organisations non gouvernementales (ONG) belges de
     solidarité internationale. Au fil de son histoire, notre magazine a
     également tissé des liens étroits avec le monde associatif, les universités,
-    les mouvements citoyens… _Imagine_ est également associé depuis 2018 à
-    **l’Asbl Climate Voices – Les Voix du climat** qui a pour objectifs
-    d’informer, de sensibiliser et d’accompagner différents publics sur les
-    changements climatiques et en particulier les enjeux de la transition
-    écologique et sociale.* _Imagine_ est présent en Belgique, mais également en
-    France en partenariat **avec Les Liens qui Libèrent** qui assure sa
-    distribution dans l’Hexagone. Créée en 2014 en association avec Actes Sud,
-    cette jeune maison d’édition française interroge la question de la crise des
-    liens dans nos sociétés occidentales. A l’automne, _Imagine_ & LLL
-    co-éditeront un hors-série inédit autour de l’origine des catastrophes.*
-    _Imagine_ a été fondé en septembre 1996 à l’initiative de Jacky Morael,
-    alors secrétaire fédéral d’Ecolo avec l’appui de son parti et la venue
-    d’André Ruwet (ex-rédacteur en chef du magazine _Greenpeace_ et journaliste
-    à _La Cité_). En janvier 2003, les Verts ont décidé de renoncer à _Imagine_
-    et de créer leur propre publication. La rédaction a ensuite racheté le
-    titre, créé **son Asbl et relancé ce média de manière totalement autonome.**
-    En 2004, elle s’est associée avec le CNCD-11.11.11 pour développer l’aspect
-    Nord-Sud. En 2014, elle a entrepris une première réforme importante (52 à
-    100 pages, nouveau format…). Avec le processus #Imagine2020, l’équipe
-    franchit un pas supplémentaire en se positionnant comme **« le » magazine
-    des mutations en cours et à venir**.
+    les mouvements citoyens… Imagine est également associé depuis 2018 à l’Asbl
+    Climate Voices – Les Voix du climat qui a pour objectifs d’informer, de
+    sensibiliser et d’accompagner différents publics sur les changements
+    climatiques et en particulier les enjeux de la transition écologique et
+    sociale.Imagine est présent en Belgique, mais également en France en
+    partenariat avec Les Liens qui Libèrent qui assure sa distribution dans
+    l’Hexagone. Créée en 2014 en association avec Actes Sud, cette jeune maison
+    d’édition française interroge la question de la crise des liens dans nos
+    sociétés occidentales. A l’automne, Imagine & LLL co-éditeront un hors-série
+    inédit autour de l’origine des catastrophes. Imagine a été fondé en
+    septembre 1996 à l’initiative de Jacky Morael, alors secrétaire fédéral
+    d’Ecolo avec l’appui de son parti et la venue d’André Ruwet (ex-rédacteur en
+    chef du magazine Greenpeace et journaliste à La Cité). En janvier 2003, les
+    Verts ont décidé de renoncer à Imagine et de créer leur propre publication.
+    La rédaction a ensuite racheté le titre, créé son Asbl et relancé ce média
+    de manière totalement autonome. En 2004, elle s’est associée avec le
+    CNCD-11.11.11 pour développer l’aspect Nord-Sud. En 2014, elle a entrepris
+    une première réforme importante (52 à 100 pages, nouveau format…). Avec le
+    processus #Imagine2020, l’équipe franchit un pas supplémentaire en se
+    positionnant comme « le » magazine des mutations en cours et à venir.
 team:
   title: Notre équipe
   members:
