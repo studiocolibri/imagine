@@ -162,6 +162,20 @@ team:
         bras, irrigué de son savoir et nourri de ses convictions pendant plus de
         vingt ans. _Imagine_ lui doit tout : son nom, son histoire, sa ligne
         éditoriale singulière.
+    - name: Fanny Dion
+      job: Chargée de développement
+      photo: /uploads/image-50433793.JPG
+      text: >-
+        Dernière recrue au sein de notre petite équipe de passionnés, Fanny Dion
+        est chargée de développement d'Imagine depuis août 2022. C’est au cours
+        de ses études en Coopération internationale qu’elle a découvert le
+        magazine et a, depuis lors, toujours eu l’envie de mettre sa pierre à
+        l’édifice pour la construction d’un monde plus juste, si pas meilleur.
+        Passionnée de Triathlon, Fanny est également indépendante complémentaire
+        en milieu sportif. Multitâches, organisée, discrète mais sachant faire
+        jouer son franc parler quand il le faut, ses élèves la définissent comme
+        une « main de fer dans un gant de velours ». Investie dans son travail,
+        elle a cœur de remplir sa mission : garantir une longue vie à Imagine !
 differences:
   title: Nos différences
   content: >-
@@ -277,3 +291,4 @@ differences:
     rédactionnelles afin d’assurer une meilleure représentation du genre et de
     la diversité dans nos colonnes.
 ---
+Dernière recrue au sein de notre petite équipe de passionnés, Fanny Dion est chargée de développement d'*Imagine* depuis août 2022. C’est au cours de ses études en Coopération internationale qu’elle a découvert le magazine et a, depuis lors, toujours eu l’envie de mettre sa pierre à l’édifice pour la construction d’un monde plus juste, si pas meilleur. Passionnée de Triathlon, Fanny est également indépendante complémentaire en milieu sportif. Multitâches, organisée, discrète mais sachant faire jouer son franc parler quand il le faut, ses élèves la définissent comme une « main de fer dans un gant de velours ». Investie dans son travail, elle a cœur de remplir sa mission : garantir une longue vie à *Imagine* !
