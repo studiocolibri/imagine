@@ -8,7 +8,7 @@ date: 2023-07-05T10:00:00Z
 description: >-
   Imagine est à l'aube d'une nouvelle étape  de son histoire : la création
   d'Imagine COOP. Les explications de la rédaction. 
-img: /uploads/747a4d04-a2ad-4481-a619-17f32e0b941e-1.jpeg
+img: /uploads/imagine-coop.jpg
 img_credits: Eve Siropt
 ---
 *"Demain ne sera pas comme hier. Il sera nouveau et il dépendra de nous. Il est moins à découvrir qu’à inventer."* Dans ses écrits visionnaires sur la prospective, le philosophe de l’action Gaston Berger (1896-1960) nous invitait déjà, à l’aube du monde moderne, à "voir large", "voir loin", "élargir notre champ de conscience" et "prendre des risques". Pour se "libérer du fatalisme", prônait l’ancien Résistant. Et donner à notre avenir une dimension inattendue et audacieuse.
