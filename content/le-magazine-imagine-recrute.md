@@ -1,61 +1,98 @@
 +++
 _schema = "page-simple"
 class = "notre-manifeste single-page"
-title = "Imagine recrute une directrice/un directeur pour sa coopérative de presse (F-M-X)"
+title = "Imagine COOP, c'est parti ! "
 +++
-*Imagine* est un magazine belge, francophone et libre, qui s’inscrit dans le courant *slow press* et traite des questions d’écologie, de société et de relations Nord-Sud. C’est un éditeur indépendant qui s’inscrit dans l’économie sociale. Actuellement structurée en Asbl, l’entreprise emploie six travailleurs, ainsi qu’une série de collaborateurs indépendants (graphiste, correctrice, journalistes, photographes…)
+Cet été, notre média va franchir une étape importante dans son histoire avec la transformation d’Imagine d’Asbl en coopérative. L’aboutissement d’un intense chantier de deux ans, accompagné par notre agence-conseil (Propage-s), des experts, des lecteurs… autour de notre gouvernance, notre modèle économique, nos développements stratégiques et nos évolutions éditoriales. Et la promesse d’un redéploiement. Le 1er septembre, Imagine COOP, fondée par les travailleuses et les travailleurs, lancera un grand appel public à l’épargne, associant les lecteurs, sympathisants, citoyens et organisations en transition (ONG, associations, syndicats, mutuelles, opérateurs culturels…). Avec, à la clé, des innovations et un nouveau chemin à tracer ensemble. Pour mieux comprendre ce qui nous/vous attend, bienvenue dans notre jeu de piste Imagine en six étapes !
 
-Sa mission en devenir s’articule autour de trois axes :
+##### Étape 1 : La nouvelle entreprise
 
-* Produire de l’information de qualité, inspirante et critique, libre et non conformiste en adéquation avec son Manifeste et sa charte fondatrice
-* Réaliser un magazine papier à périodicité fixe (actuellement bimestriel) et d’autres créations numériques, de manière évolutive
-* Fédérer autour du magazine les différents « acteurs de changement » en Wallonie et à Bruxelles, et aider ceux-ci à passer à l’action en leur proposant différents services à la collectivité (formations, éducation aux médias…)
+**Imagine COOP, c’est quoi ?**
 
-Dans le cadre de sa transformation d’Asbl en coopérative, le magazine recrute un(e) directeur/directrice chargé(e) de diriger Imagine COOP, sa nouvelle coopérative de presse et de services, qui verra le jour à l’automne 2023.
+• La première coopérative de presse et de services, spécialisée dans les questions de transition écologique et sociale.
 
-**Missions**
+• Un projet éditorial rénové lancé dès l’automne avec un magazine papier relooké, une plateforme web éco-conçue, de nouvelles créations numériques (podcast, articles web enrichis, etc.).
 
-* Participer à la mise sur pied de notre coopérative agréée à finalité sociale
-* Elaborer une stratégie de campagne de levée de fonds porteuse et créative (contenus, communication, planification, rencontres avec les investisseurs…), piloter celle-ci entre le 1er août et le 15 octobre 2023
-* Mettre en place la stratégie économique et sociétale de l’entreprise
-* Gérer les ressources humaines pour la partie non éditoriale
-* Animer la coopérative (communication interne et externe, création de liens avec les coopérateurs, organisations des AG…) et co-représenter celle-ci dans l’espace public
-* Travailler en collaboration avec le rédacteur en chef et l’ensemble de la rédaction d’Imagine, ainsi que le conseil d’administration
-* Développer la coopérative en réseau dans le cadre du déménagement de son siège au sein de La Menuiserie, à Liège, le premier centre d’entreprises dédiées à la transition écologique et sociale en Wallonie qui ouvrira ses portes au printemps 2024
+• Des innovations et des services spécifiques proposés à la collectivité (écoles, milieu associatif, entreprises sociales, opérateurs culturels) autour des questions sociales et environnementales : éducation aux médias, production de contenus, formations, animations de débats, colloques, etc.
 
-**Compétences et aptitudes recherchées**
+**Pourquoi une coopérative ?**
 
-* Etre détenteur d’un diplôme universitaire ou d’études supérieures
-* Avoir une expérience probante d’au moins 5 ans dans une fonction de management ou de direction
-* Avoir du leadership, un esprit créatif, un bon sens de l’organisation et une capacité d’adaptation
-* Avoir un grand intérêt pour le modèle coopératif et une aptitude à travailler pour et au sein d’une coopérative de presse et de services
-* Avoir un background et/ou un intérêt pour le pilotage et la gestion financière d’une organisation
-* Se retrouver pleinement dans le projet et les valeurs portées par Imagine : la cohérence, l’anticipation, l’équilibre, la considération et l’engagement
-* Etre capable de mettre en œuvre le plan stratégique et d’actions d’Imagine COOP
-* Faire preuve d’une grande maturité relationnelle, de tempérance, de diplomatie, d’assertivité et de capacité d’écoute
-* Etre capable de mobiliser et structurer les équipes autour d’un projet basé sur le respect et la bienveillance à l’égard de chacun
-* Avoir une excellente expression écrite et orale en français ainsi qu’une bonne maîtrise de l’anglais
+• C’est un modèle d’entreprise cohérent avec nos valeurs (entraide, responsabilité, équité...) et nos principes (gestion démocratique, participation financière de nos membres, gouvernance partagée…)
 
-**Les plus**
+• Un moyen de remobiliser et d’élargir la "communauté Imagine".
 
-* Avoir une bonne connaissance du secteur de l’économie sociale et/ou du monde associatif en Belgique
-* Avoir une bonne connaissance du monde de l’édition, du secteur numérique et de la presse
-* Disposer d’outils innovants et utiles à la coopérative en termes de gouvernance partagée et de gestion des ressources humaines
-* Maîtriser le néerlandais
+• Un levier pour réinjecter du capital, retrouver une capacité d’investissement, redéployer notre/votre média.
 
-***Imagine Demain le monde* offre**
+• Une structure juridique qui nous permet d’innover en développant de nouveaux produits éditoriaux et des services à la collectivité.
 
-* Un cadre de travail convivial et apaisé
-* Un projet collectif en développement et qui fait sens
-* Un contrat à durée indéterminée 4/5e temps ou temps plein (barèmes CP32902, échelon 6).
-* Le remboursement des frais de déplacement domicile-travail
-* Des chèques-repas
-* Des écochèques en fin d’année
+• Un signal positif lancé vers l’extérieur : un magazine de 27 ans qui se réinvente, se projette vers l’avenir.
 
-Lieu de travail : au siège du magazine à Liège (Boulevard Frère Orban 35A à Liège)
+**Quel type d’entreprise ?**
 
-Date d’engagement : le 1er juillet ou le 1er août
+• Une coopérative agréée, à finalité sociale, fondée par ses travailleuses et travailleurs
 
-Les candidatures sont à envoyer uniquement à l’adresse [recrutement@imagine-magazine.com](mailto:recrutement@imagine-magazine.com) avant le 8 mai 2023.
+• Un système de gouvernance horizontal basé sur le principe "un membre = une voix"
 
-Pour en savoir plus sur le projet éditorial : [www.imagine-magazine.com](http://www.imagine-magazine.com/)
+• Une éthique forte, un ancrage local (Wallonie-Bruxelles)
+
+• Un impact social et environnemental réfléchi (éco-responsabilité, productions « bas carbone »…)
+
+• Une entreprise sociale, engagée, qui place l’égalité de genre au cœur de ses valeurs (une équipe permanente mixte, composée de cinq travailleuses, dont une directrice, et de deux travailleurs)
+
+**Avec quels modes de gouvernance ?**
+
+• Un conseil d’administration (neuf membres) paritaire et pluriel, composé de personnalités expertes issues d’horizons divers (finance, culture, entreprenariat social, universités…)
+
+• Une assemblée générale souveraine, composée de quatre collèges : les fondateurs, les lecteurs/abonnés/ sympathisants d’*Imagine*, les organisations (ONG, associations, syndicats, mutuelles, opérateurs culturels…) et les institutionnels.
+
+• Un comité de rédaction qui garantit l’indépendance éditoriale et la pérennité du média *Imagine*, fort de sa charte fondatrice et de son Manifeste.
+
+**Installée où ?**
+
+• Un siège social à Liège et une équipe mobile en Wallonie et à Bruxelles
+
+• Des bureaux et une rédaction installés début 2024 à La Menuiserie (située 53 rue de l’Académie, à Liège), le premier centre d’entreprises dédié à la transition vers une économie solidaire et durable en Wallonie.
+
+##### Étape 2 : Notre stratégie
+
+**Trois missions claires**
+
+• Produire de l’information de qualité, inspirante et critique, libre et non-conformiste en adéquation avec notre Manifeste et notre charte fondatrice.
+
+• Réaliser un magazine à périodicité fixe et d’autres créations journalistiques de manière évolutive (podcast, projet transmédias, newsletter informative, hors-série...), explorer de nouvelles pratiques journalistiques (formats, narration...) en adéquation avec nos valeurs et nos principes.
+
+• Fédérer autour du magazine les acteurs de changement et les aider à passer à l’action.
+
+**Une vision 2023-2025**
+
+Devenir un média et un coproducteur de référence, tant en Belgique que dans la francophonie. Imagine propose des contenus journalistiques et documentaires originaux et indépendants dans les domaines de l’écologie, des questions socioéconomiques et des relations Nord-Sud/Sud-Nord liés aux mutations en cours, ainsi que des nouveaux services à la collectivité (éducation aux médias, formations, animations…). Il fédère autour de sa nouvelle structure une communauté Imagine. Sa gouvernance repose sur l’agilité, la coopération, la participation et l’inclusion de différents acteurs de la société civile et l’exemplarité des valeurs portées par l’organisation.
+
+**Cinq valeurs affirmées**
+
+Imagine COOP s’appuie sur cinq valeurs cardinales. Celles-ci constituent les qualités principales qui rendent Imagine – en tant qu’entreprise, organisation, équipe de travailleuses et de travailleurs et média présent dans l’espace public – digne d’intérêt et d’estime : la cohérence, l’anticipation, l’équilibre, la considération et la responsabilité.
+
+##### Étape 3 : Une grande levée de fonds
+
+Le 1er septembre, Imagine COOP lancera un appel public à l’épargne. La première phase de cette grande campagne (webinaires, tournée bruxelloise et wallonne, événements…) va durer six mois. Le montant unitaire de la part coopérateur est fixé à 100 euros. L’objectif est de réunir 150 000 euros d’ici le 1er mars 2024. Une information plus détaillée vous sera transmise début septembre, avec le lancement officiel de cette grande levée de fonds. Elle se fera par courrier à tous nos abonnés, mais également via nos canaux numériques (newsletter, réseaux sociaux…). L’ensemble des nouveaux coopérateurs et les abonnés seront invités à découvrir, en primeur, notre nouveau projet éditorial lors d’une soirée-événement programmée en octobre prochain. Toute l’équipe d’*Imagine* se réjouit de partager ce moment de financement participatif avec vous ! D’ici là, elle se tient à votre disposition pour toutes demandes et/ou questions.
+
+##### Étape 4 : Des nouveautés éditoriales
+
+Sans (trop) dévoiler les grandes nouveautés qui vous attendent (gardons un peu de surprise et de suspens !), voici les quelques changements éditoriaux en vue dès octobre :
+
+• Une nouvelle périodicité (4 + 1 numéros par an, au lieu de six).
+
+• Un magazine papier de 108 pages remanié et relooké.
+
+• Une plateforme numérique entièrement neuve et écoresponsable avec notre partenaire spécialisé dans le web durable, le Studio Colibri.
+
+• De nouvelles créations (séries podcast, articles web, capsules vidéo, créations sonores…).
+
+##### Etape 5 : D’autres formules d’abonnement
+
+Les formules d’abonnement, ainsi que la tarification, vont également changer. Avec trois nouvelles formules d’abonnement (papier, numérique et complet – papier/digital/archives) et toujours des remises pour les étudiants, retraités, chômeurs et statut BIM/Omnio). Une (légère) hausse des prix est prévue, pour faire face à la hausse de nos coûts de production et de diffusion (indexation des salaires, prix du papier, frais postaux…). Si votre abonnement arrive à échéance d’ici fin septembre, réabonnez-vous sans tarder et bénéficiez ainsi des tarifs actuels.
+
+##### Etape 6 : Un Club des lecteurs
+
+Parmi les nouveaux projets en développement, il y a aussi la création de notre Club des lecteurs Imagine réservé à nos abonné(e)s. Pour bénéficier de ses différents avantages (réductions, places de cinéma et de théâtre, participation à des événements *Imagine*), nous vous invitons à transmettre votre adresse e-mail à notre chargée de développement (fanny.dion@imagine-magazine.com). Ainsi, nous pourrons vous adresser, à chaque sortie de numéro, une newsletter spécifique, avec les avantages du moment.
+
+**La rédaction d’Imagine**
