@@ -6,7 +6,7 @@ title: La pollution des aires
 title_alignment: gauche
 date: 2023-07-05T10:00:00Z
 description: "En France, 70% des aires d’accueil pour les gens du voyage sont isolées, 50% sont polluées, 3% sont proches d’un site Seveso. Pour William Acker, le juriste qui les a recensées, les gens du voyage sont victimes d’un enjeu à la convergence des luttes\_: le racisme environnemental."
-img: /uploads/27ceaf27-9d10-4f3c-902b-41a562312f42-2.jpeg
+img: /uploads/ed2549e6-f587-4b2e-b5d2-707d21e67a79.jpeg
 img_credits: Eve Siropt
 ---
 **En France, 70% des aires d’accueil sont isolées, 50% sont polluées, 3% sont proches d’un site Seveso. Pour William Acker, le juriste qui les a recensées, les gens du voyage sont victimes d’un enjeu à la convergence des luttes : le racisme environnemental.**
