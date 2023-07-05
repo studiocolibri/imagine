@@ -3,7 +3,7 @@ _schema = "page-simple"
 class = "notre-manifeste single-page"
 title = "Imagine COOP, c'est parti ! "
 +++
-Cet été, notre média va franchir une étape importante dans son histoire avec la transformation d’Imagine d’Asbl en coopérative. L’aboutissement d’un intense chantier de deux ans, accompagné par notre agence-conseil (Propage-s), des experts, des lecteurs… autour de notre gouvernance, notre modèle économique, nos développements stratégiques et nos évolutions éditoriales. Et la promesse d’un redéploiement. Le 1er septembre, Imagine COOP, fondée par les travailleuses et les travailleurs, lancera un grand appel public à l’épargne, associant les lecteurs, sympathisants, citoyens et organisations en transition (ONG, associations, syndicats, mutuelles, opérateurs culturels…). Avec, à la clé, des innovations et un nouveau chemin à tracer ensemble. Pour mieux comprendre ce qui nous/vous attend, bienvenue dans notre jeu de piste *Imagine* en six étapes !
+Cet été, notre média va franchir une étape importante dans son histoire avec la transformation d’Imagine d’Asbl en coopérative. L’aboutissement d’un intense chantier de deux ans, accompagné par notre agence-conseil (Propage-s), des experts, des lecteurs… autour de notre gouvernance, notre modèle économique, nos développements stratégiques et nos évolutions éditoriales. Et la promesse d’un redéploiement. Le 1er septembre, Imagine COOP, fondée par les travailleuses et les travailleurs, lancera un grand appel public à l’épargne, associant les lecteurs, sympathisants, citoyens et organisations en transition (ONG, associations, syndicats, mutuelles, opérateurs culturels…). Avec, à la clé, des innovations et un nouveau chemin à tracer ensemble.&nbsp;
 
 ##### Étape 1 : La nouvelle entreprise
 
@@ -93,6 +93,6 @@ Les formules d’abonnement, ainsi que la tarification, vont également changer.
 
 ##### Etape 6 : Un Club des lecteurs
 
-Parmi les nouveaux projets en développement, il y a aussi la création de notre Club des lecteurs Imagine réservé à nos abonné(e)s. Pour bénéficier de ses différents avantages (réductions, places de cinéma et de théâtre, participation à des événements *Imagine*), nous vous invitons à transmettre votre adresse e-mail à notre chargée de développement (fanny.dion@imagine-magazine.com). Ainsi, nous pourrons vous adresser, à chaque sortie de numéro, une newsletter spécifique, avec les avantages du moment.
+Parmi les nouveaux projets en développement, il y a aussi la création de notre Club des lecteurs Imagine réservé à nos abonné(e)s. Pour bénéficier de ses différents avantages (réductions, places de cinéma et de théâtre, participation à des événements *Imagine*), nous vous invitons à transmettre votre adresse e-mail à notre chargée de développement ([fanny.dion@imagine-magazine.com](mailto:fanny.dion@imagine-magazine.com)). Ainsi, nous pourrons vous adresser, à chaque sortie de numéro, une newsletter spécifique, avec les avantages du moment.
 
 **La rédaction d’Imagine**
