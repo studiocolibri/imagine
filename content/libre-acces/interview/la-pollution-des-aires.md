@@ -9,8 +9,6 @@ description: "En France, 70% des aires d’accueil pour les gens du voyage sont 
 img: /uploads/illus-gens-du-voyage-1.jpg
 img_credits: Eve Siropt
 ---
-**La pollution des aires**
-
 **En France, 70% des aires d’accueil sont isolées, 50% sont polluées, 3% sont proches d’un site Seveso. Pour William Acker, le juriste qui les a recensées, les gens du voyage sont victimes d’un enjeu à la convergence des luttes : le racisme environnemental.**
 
 *"Si tu ne trouves pas l’aire d’accueil, cherche à la déchèterie."*&nbsp;William Acker, juriste de formation, délégué général de l’Association Nationale des Gens du Voyage Citoyen (ACGVN) depuis une paire de mois, a grandi à l’ombre de cet illustratif adage trop bien connu des voyageurs. En septembre 2019, l’explosion de l’usine Lubrizol à Rouen le pousse à rejoindre une mobilisation locale : celle des gens du voyage habitant l’adjacente aire de Petit-Quevilly, voisine de ce site classé Seveso « haut seuil », et donc premières victimes d’un incendie toxique qui s’étalera sur plusieurs jours. *"On avait déjà remarqué que les sites Seveso où il y a eu un accident étaient souvent proches des aires. On estimait donc qu’il y avait un problème, qu’il était systémique et amené à se répéter",* raconte-t-il. Interpellées, les autorités balaient l’argument, renvoyant à une absence de chiffres.
