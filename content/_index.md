@@ -57,7 +57,7 @@ section_one:
     à tracer ensemble. Pour mieux comprendre ce qui nous/vous attend, nous vous
     expliquons tout en six étapes !
   img: /uploads/8d1fbb97-2409-4437-9bfe-85d2ce08444a-1.jpeg
-  btn_text: En savoir plus
+  btn_text: 'En savoir plus '
   btn_link: /imagine-coop-cest-parti
 section_two:
   section_title: Accès libre
