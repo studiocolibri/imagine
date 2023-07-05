@@ -5,11 +5,14 @@ cat: interview.md
 title: La pollution des aires
 title_alignment: gauche
 date: 2023-07-05T10:00:00Z
-description: "En France, 70% des aires d’accueil pour les gens du voyage sont isolées, 50% sont polluées, 3% sont proches d’un site Seveso. Pour William Acker, le juriste qui les a recensées, les gens du voyage sont victimes d’un enjeu à la convergence des luttes\_: le racisme environnemental."
+description: >-
+  Face à l'échec de la politique d’accueil des gens du voyage en Wallonie,
+  différents acteurs plaident pour une obligation d’accueil, comme en France. Où
+  la pollution des aires est massive. 
 img: /uploads/ed2549e6-f587-4b2e-b5d2-707d21e67a79.jpeg
 img_credits: Eve Siropt
 ---
-**En France, 70% des aires d’accueil sont isolées, 50% sont polluées, 3% sont proches d’un site Seveso. Pour William Acker, le juriste qui les a recensées, les gens du voyage sont victimes d’un enjeu à la convergence des luttes : le racisme environnemental.**
+**Depuis 20 ans, la politique d’accueil des gens du voyage se fait sur base volontaire en Wallonie. Or, les communes candidates sont rares (lire dans notre <a target="_blank" rel="noopener" href="https://kiosque.imagine-magazine.com/">numéro 157</a>). A tel point que différents acteurs plaident pour une obligation d’accueil, comme en France… où d’autres problèmes se posent. A commencer par celui de la pollution des aires. Pour William Acker, délégué général de l’Association Nationale des Gens du Voyage Citoyen (ANGVC) et juriste qui les a recensées, les voyageurs sont victimes d'un enjeu à la convergence des luttes : le racisme environnemental.**
 
 *"Si tu ne trouves pas l’aire d’accueil, cherche à la déchèterie."*&nbsp;William Acker, juriste de formation, délégué général de l’Association Nationale des Gens du Voyage Citoyen (ACGVN) depuis une paire de mois, a grandi à l’ombre de cet illustratif adage trop bien connu des voyageurs. En septembre 2019, l’explosion de l’usine Lubrizol à Rouen le pousse à rejoindre une mobilisation locale : celle des gens du voyage habitant l’adjacente aire de Petit-Quevilly, voisine de ce site classé Seveso « haut seuil », et donc premières victimes d’un incendie toxique qui s’étalera sur plusieurs jours. *"On avait déjà remarqué que les sites Seveso où il y a eu un accident étaient souvent proches des aires. On estimait donc qu’il y avait un problème, qu’il était systémique et amené à se répéter",* raconte-t-il. Interpellées, les autorités balaient l’argument, renvoyant à une absence de chiffres.
 
