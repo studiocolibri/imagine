@@ -9,7 +9,7 @@ description: >-
   Face à l'échec de la politique d’accueil des gens du voyage en Wallonie,
   différents acteurs plaident pour une obligation d’accueil, comme en France. Où
   la pollution des aires est massive. 
-img: /uploads/ed2549e6-f587-4b2e-b5d2-707d21e67a79.jpeg
+img: /uploads/ff65fdec-acb1-4345-b055-b578129a5e00.jpeg
 img_credits: Eve Siropt
 ---
 **Depuis 20 ans, la politique d’accueil des gens du voyage se fait sur base volontaire en Wallonie. Or, les communes candidates sont rares (lire dans notre <a target="_blank" rel="noopener" href="https://kiosque.imagine-magazine.com/">numéro 157</a>). A tel point que différents acteurs plaident pour une obligation d’accueil, comme en France… où d’autres problèmes se posent. A commencer par celui de la pollution des aires. Pour William Acker, délégué général de l’Association Nationale des Gens du Voyage Citoyen (ANGVC) et juriste qui les a recensées, les voyageurs sont victimes d'un enjeu à la convergence des luttes : le racisme environnemental.**
