@@ -1,7 +1,7 @@
 +++
 _schema = "page-simple"
-class = "notre-manifeste single-page"
 title = "Imagine COOP, c'est parti ! "
+class = "notre-manifeste single-page"
 +++
 Cet été, notre média va franchir une étape importante dans son histoire avec la transformation d’Imagine d’Asbl en coopérative. L’aboutissement d’un intense chantier de deux ans, accompagné par notre agence-conseil (Propage-s), des experts, des lecteurs… autour de notre gouvernance, notre modèle économique, nos développements stratégiques et nos évolutions éditoriales. Et la promesse d’un redéploiement. Le 1er septembre, Imagine COOP, fondée par les travailleuses et les travailleurs, lancera un grand appel public à l’épargne, associant les lecteurs, sympathisants, citoyens et organisations en transition (ONG, associations, syndicats, mutuelles, opérateurs culturels…). Avec, à la clé, des innovations et un nouveau chemin à tracer ensemble.&nbsp;
 
@@ -70,6 +70,8 @@ Devenir un média et un coproducteur de référence, tant en Belgique que dans l
 **Cinq valeurs affirmées**
 
 Imagine COOP s’appuie sur cinq valeurs cardinales. Celles-ci constituent les qualités principales qui rendent Imagine – en tant qu’entreprise, organisation, équipe de travailleuses et de travailleurs et média présent dans l’espace public – digne d’intérêt et d’estime : la cohérence, l’anticipation, l’équilibre, la considération et la responsabilité.
+
+<img src="/uploads/747a4d04-a2ad-4481-a619-17f32e0b941e.jpeg" width="4843" height="3130" alt="Eve Siropt" title="Eve Siropt" />
 
 ##### Étape 3 : Une grande levée de fonds
 
