@@ -1,0 +1,39 @@
+---
+_schema: article
+class: single-e-magine
+cat: ''
+title: Modes de vie et homo consumens
+title_alignment: gauche
+date: 2023-07-05T10:00:00Z
+description: >-
+  L’Union européenne veut lutter contre la malbouffe. Une saine ambition, à
+  condition qu’elle prenne en compte la place des inégalités sociales dans ses
+  programmes.
+img: /uploads/ashley-green-ubtutdrqj-o-unsplash-1.jpg
+img_credits: Ashley Green / Unsplash
+---
+**Encourager les modes de vie sains ne pourra se faire sans des politiques de transition juste et en associant les citoyens les plus précarisés. Une chronique d'Olivier De Schutter, rapporteur spécial de l'ONU sur les droits humains et l'extrême pauvreté​​​​​​.**
+
+Voici plusieurs années déjà que l'Union européenne tente d'influencer les modes de vie. Afin de réduire le nombre de personnes atteintes de cancer, responsable de 1,3 million de décès par an, elle veut faire en sorte que moins de 5 % de la population consomme du tabac d’ici à 2040, et réduire la consommation d'alcool, dans le cadre d'un plan financé pour 4 milliards d'euros sur 2022-2025. Elle veut promouvoir des régimes alimentaires plus sains : la stratégie alimentaire « de la ferme à la table », annoncée en mai 2020 comme composante du « pacte vert ».
+
+L'enjeu est de réduire la consommation de viandes rouges ou d'aliments transformés et riches en sucres, en sel et en matières grasses, et d'augmenter la consommation de céréales complètes, de fruits et légumes… Près d'un million de personnes meurent chaque année, en Europe de maladies cardio-vasculaires et de cancers.
+
+Ces politiques visant à promouvoir des modes de vie plus sains affrontent plusieurs limites. Elles ciblent davantage le consommateur final que le producteur, au risque de faire croire que la solution réside dans le chef de l'individu. Mais dans bien des cas, les changements de comportement ne seront durables que si change aussi l'environnement dans lequel les consommateurs font des « choix » : comment justifier que l'on puisse encore tolérer des publicités pour les boissons gazeuses sucrées ou pour des snacks à forte intensité énergétique, si l'on veut encourager le manger sain ?&nbsp;
+
+Par ailleurs, l'offre crée la demande : comment justifier, par exemple, que l'on ne réoriente pas les subsides de la politique agricole commune vers les produits maraîchers, alors que l'essentiel de ces subsides finance encore la production de matières premières fournissant les besoins de l'industrie de transformation agro-alimentaire ? Comment justifier aussi que le financement de la PAC soutienne la production de tabac dans l'Union européenne, pour un montant estimé à 100 millions d'euros entre 2023 et 2027?&nbsp;
+
+**La double peine des publics précarisés**<br>Un autre enjeu, beaucoup moins discuté, est celui de la dimension sociale de cette transition. Comme dans le cadre de la transformation écologique, les publics précarisés sont menacés ici d'une double peine. D'un côté, ils sont les premières victimes de la persistance de modes de vie nocifs pour la santé. Les rares études disponibles montrent que les fumeurs ou fumeuses sont plus nombreux parmi les personnes socio-économiquement défavorisées. Le surpoids et l'obésité sont corrélés avec le niveau d'études et avec le statut socio-économique : c'est dans les ménages les plus précarisés que l'on a le plus tendance à manger à des intervalles irréguliers, et à consommer des aliments ultratransformés ou des plats préparés, qui sont les principaux comportements à risque. Anne Case et Angus Deaton ont montré que, pour la première fois dans l'évolution de l'humanité, l'espérance de vie baissait pour une catégorie de la population américaine : les adultes blancs sans diplôme universitaire, ces déclassés de la mondialisation et de la robotisation, ont une consommation abusive d'alcool et d'opioides, et ils sont plus nombreux à se suicider, en raison de la désespérance qu'ils subissent – le titre de leur ouvrage, *Morts de désespoir*, en résume le message.
+
+D'un autre côté, certaines mesures qui sont prises pour amener une évolution vers des modes de vie plus sains peuvent pénaliser particulièrement ces publics défavorisés. Des directives successives ont augmenté les accises sur les produits du tabac. Ceci a permis de diminuer notablement la consommation de tabac, surtout parmi les jeunes ; mais pour celles et ceux qui demeurent accros à la cigarette, l'impact est d'autant plus important sur le budget qui reste disponible pour vivre que cela représente une dépense quotidienne significative. On peut en dire autant de la hausse de la TVA sur les boissons gazeuses sucrées ou sur les produits à forte teneur en sucres ajoutés, en sels ou en graisses, qu'ont décidée un ensemble d'Etats membres de l'Union européenne. Les injonctions à « manger sain » sont souvent perçues comme stigmatisantes et paternalistes par les personnes en pauvreté : comment d'ailleurs respecter ces injonctions, quand l'on ne trouve pas le temps de cuisiner dès lors qu'on doit enchaîner les petits boulots ou effectuer de longues navettes quotidiennes vers et depuis le travail, ou que l'on ne dispose pas dans certains quartiers d'une offre suffisante de produits frais ?&nbsp;
+
+**Réduire la fracture sociale**<br>Comment encourager des modes de vie plus sains, permettant de ralentir la croissance des maladies non transmissibles, sans accentuer les fractures sociales ? Plusieurs pistes s'offrent à la réflexion.&nbsp;
+
+Un : comme l'ont montré Kate Pickett et Richard Wilkinson dans leurs travaux sur l'égalité, les sociétés qui réduisent les inégalités de revenus et de patrimoine sont aussi celles qui sont les mieux outillées pour répondre aux défis qu'elles affrontent en matière de santé. Une partie importante de ce lien tient au fait que, dans une société fortement inégalitaire, l'anxiété des individus quant à leur rang social (quant à leur capacité à le maintenir, ou au contraire quant au risque de chuter dans l'échelle sociale) amène des comportements destructeurs, qui fonctionnent comme une sorte de compensation psychique.&nbsp;
+
+Par ailleurs, c'est seulement si des mesures sont prises pour mieux protéger le pouvoir d'achat des moins favorisés que le recours à l'outil fiscal afin d'orienter les comportements sera perçu comme légitime. Afin de créer de l'adhésion, il ne suffit pas d'augmenter les accises sur l'alcool et les cigarettes, ou la TVA sur les boissons gazeuses sucrées: il faut encore relever les minima sociaux et subsidier l'accès aux produits frais et sains.&nbsp;
+
+Deux : les changements de normes sociales s'opèrent au sein de communautés données, de proche en proche, ce qui suppose (si l'on veut les changer) une démarche ciblée sur chaque communauté.&nbsp;&nbsp;
+
+Trois : face aux injonctions venues de l'extérieur, nous avons un réflexe naturel, qui est de vouloir préserver notre liberté de choix. Dans la tradition inaugurée par Jack et Sharon Brehm, les psychologues appellent *« réactance »* ce refus de ne pas se voir dicter nos comportements par des injonctions paternalistes. C'est pour cela aussi que la participation des publics défavorisés à l'identification des mesures susceptibles d'amener les changements de comportement souhaités est tellement essentielle. C'est une question d'efficacité : ce sont ces publics qui comprennent le mieux les obstacles qu'ils rencontrent et comment ces obstacles peuvent être levés. Mais c'est aussi une question de légitimité, et d'acceptabilité.&nbsp;
+
+L'Union européenne veut contribuer au changement de modes de vie. Elle peut le faire, à condition de faire montre de davantage de cohérence dans ses interventions. Et à condition de placer au centre de son action les questions de justice sociale, d'égalité et de participation. Les consommateurs et consommatrices ne sont pas des objets qu'on manipule : ils sont des individus avec qui l'on peut co-construire.&nbsp;
