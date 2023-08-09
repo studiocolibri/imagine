@@ -5,9 +5,7 @@ cat: >-
   Offre d'emploi : Imagine recrute recrute un journaliste freelance /
   gestionnaire de communauté (F-H-X) pour sa future coopérative. Candidature à
   envoyer avant le 25 août.
-title: >-
-  Imagine recrute recrute un journaliste freelance / gestionnaire de communauté
-  (F-H-X) pour sa future coopérative.
+title: Imagine recrute !
 title_alignment: gauche
 date: 2023-08-09T10:00:00Z
 description: >-
