@@ -13,7 +13,7 @@ description: >-
   gestionnaire de communauté (F-H-X) pour sa future coopérative. Candidature à
   envoyer avant le 25 août.
 img: /uploads/luca-onniboni-4v9kk01meby-unsplash.jpg
-img_credits: ''
+img_credits: Luca Onniboni (unsplash)
 ---
 **Le magazine *Imagine* recrute**
 
