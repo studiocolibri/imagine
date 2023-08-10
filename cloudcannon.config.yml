@@ -479,8 +479,8 @@ collection_groups:
       - pages
       - numeros
       - nos-contenus
-      - categories
       - coop
+      - categories
 _inputs:
   template:
     type: auto
