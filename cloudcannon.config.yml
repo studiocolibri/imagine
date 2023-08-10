@@ -492,7 +492,7 @@ collection_groups:
       - pages
       - numeros
       - nos-contenus
-      - coop
+      - COOP
       - categories
 _inputs:
   template:
