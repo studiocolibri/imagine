@@ -446,7 +446,7 @@ collections_config:
             cascade: true
   COOP:
     path: content/coop
-    output: false
+    output: true
     name: COOP
     icon: people
     sort_options:
