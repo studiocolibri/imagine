@@ -2,7 +2,6 @@
 _schema: page-simple
 title: Rejoindre Imagine COO
 class: notre-manifeste single-page
-type: coop
 ---
 ## **Imagine COOP, c’est quoi ?**
 

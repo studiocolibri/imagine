@@ -1,0 +1,84 @@
+{{ define "main" }}
+
+<section class="notre-projet__header page-header">
+    <div class="notre-projet__header__title page-header__title cw">
+        <h1>{{ .Title }}</h1>
+    </div>
+</section>
+
+<section class="notre-projet__section-one section-2-cols">
+    <h2 class="section-title left">{{ .Params.section_one.section_title }}</h2>
+    <div class="flex-2-cols cw">
+        <div class="flex-2-cols__col left">
+            <h3>{{ .Params.section_one.title | safeHTML }}</h3>
+            <p>{{ .Params.section_one.text | safeHTML }}</p>
+            <a href="{{ .Params.section_one.btn_link }}" class="btn">{{ .Params.section_one.btn_txt }}</a>
+        </div>
+        <div class="flex-2-cols__col right">
+            <img src="{{ .Site.Params.cloudinary_url }}{{ .Params.section_one.img }}" alt="" role="presentation" loading="lazy">
+        </div>
+    </div>
+</section>
+
+<section class="notre-projet__section-two section-2-cols">
+    <h2 class="section-title right margin">{{ .Params.section_two.section_title }}</h2>
+    <div class="flex-2-cols cw">
+        <div class="flex-2-cols__col left">
+            <img src="{{ .Site.Params.cloudinary_url }}{{ .Params.section_two.img }}" alt="" role="presentation" loading="lazy">
+        </div>
+        <div class="flex-2-cols__col right">
+            <h3>{{ .Params.section_two.title | safeHTML }}</h3>
+            <p>{{ .Params.section_two.text | safeHTML }}</p>
+            <a href="{{ .Params.section_two.btn_link }}" class="btn">{{ .Params.section_two.btn_txt }}</a>
+        </div>
+    </div>
+</section>
+
+<section class="notre-projet__section-three section-2-cols">
+    <h2 class="section-title left margin">{{ .Params.section_three.section_title }}</h2>
+    <div class="flex-2-cols cw">
+        <div class="flex-2-cols__col left">
+            <h3>{{ .Params.section_three.title | safeHTML }}</h3>
+            <p>{{ .Params.section_three.text | safeHTML }}</p>
+            <a href="{{ .Params.section_three.btn_link }}" class="btn">{{ .Params.section_three.btn_txt }}</a>
+        </div>
+        <div class="flex-2-cols__col right">
+            <div class="flex-2-cols__img-wrapper">
+                <img src="{{ .Site.Params.cloudinary_url }}{{ .Params.section_three.img }}" alt="" role="presentation" loading="lazy">
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="notre-projet__section-four section-2-cols">
+    <h2 class="section-title right margin">{{ .Params.section_four.section_title }}</h2>
+    <div class="flex-2-cols cw">
+        <div class="flex-2-cols__col left">
+            <img src="{{ .Site.Params.cloudinary_url }}{{ .Params.section_four.img }}" alt="" role="presentation" loading="lazy">
+        </div>
+        <div class="flex-2-cols__col right">
+            <h3>{{ .Params.section_four.title | safeHTML }}</h3>
+            <p>{{ .Params.section_four.text | safeHTML }}</p>
+            <a href="{{ .Params.section_four.btn_link }}" class="btn">{{ .Params.section_four.btn_txt }}</a>
+        </div>
+    </div>
+</section>
+
+<section class="notre-projet__section-five section-2-cols cw">
+    <h2 class="section-title right margin hide">{{ .Params.section_five.title }}</h2>
+    <h3>{{ .Params.section_five.title | safeHTML }}</h3>
+    <ul class="partenaires-list">
+        {{ $imgUrl := .Site.Params.cloudinary_url }}
+        {{ range .Params.section_five.img_list }}
+            <li>
+                <a href="{{ .link }}" target="_blank" rel="noopener">
+                    <img src="{{ $imgUrl }}f_auto,q_80,w_135,c_limit/{{ .img }}" alt="logo de : {{ .title }}" title="{{ .title }}" loading="lazy">
+                </a>
+            </li>
+        {{ end }}
+    </ul>
+</section>
+
+{{ partial "s-abonner.html" . }}
+
+{{ end }}
