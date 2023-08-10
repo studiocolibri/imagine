@@ -145,6 +145,10 @@ collections_config:
     output: true
     name: Numeros
     icon: notes
+    _editables: {}
+    _inputs: {}
+    _select_data: {}
+    _structures: {}
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
@@ -296,6 +300,10 @@ collections_config:
     output: true
     name: Catégories
     icon: notes
+    _editables: {}
+    _inputs: {}
+    _select_data: {}
+    _structures: {}
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
@@ -333,7 +341,7 @@ collections_config:
             cascade: true
   default_hugo_pages:
     path: content/
-    output: false
+    output: true
     name: Pages
     icon: notes
     _editables: {}
@@ -469,6 +477,11 @@ collections_config:
         cascade: true
     _select_data: {}
     _structures: {}
+    create:
+      extra_data: {}
+      _inputs: {}
+      _select_data: {}
+      _structures: {}
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
