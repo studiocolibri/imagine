@@ -480,6 +480,7 @@ collection_groups:
       - numeros
       - nos-contenus
       - categories
+      - coop
 _inputs:
   template:
     type: auto
