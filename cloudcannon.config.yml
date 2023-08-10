@@ -1,7 +1,7 @@
 collections_config:
   pages:
-    name: Pages
     path: content
+    output: true
     filter:
       exclude:
         - categories/analyse.md
@@ -130,178 +130,349 @@ collections_config:
         - libre-acces/tribune/le-grand-basculement.md
         - libre-acces/tribune/le-prix-de-l-information.md
         - numeros/139.md
+    name: Pages
+    icon: notes
+    _editables: {}
+    _inputs: {}
+    _select_data: {}
+    _structures: {}
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+    schemas: {}
   numeros:
-    name: Numeros
     path: content/numeros
+    output: true
+    name: Numeros
+    icon: notes
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
     schemas:
       default:
         path: .cloudcannon/schemas/numero-en-cours.md
+        reorder_inputs: true
+        hide_extra_inputs: false
+        remove_empty_inputs: false
+        remove_extra_inputs: true
         name: Numero en cours
+        icon: notes
         _enabled_editors:
           - data
         _inputs:
           $.class:
+            type: auto
             hidden: true
+            cascade: true
           $.num:
             type: number
             label: 'Numéro '
+            cascade: true
           $.period:
+            type: auto
             label: Période
+            cascade: true
           $.date:
+            type: auto
             label: Date de Parution
+            cascade: true
           $.title:
+            type: auto
             label: Titre du Numéro
+            cascade: true
           $.short_description:
+            type: auto
             label: Courte description du numéro
+            cascade: true
           $.cover:
             type: file
+            cascade: true
           $.simulation_cover:
             type: file
+            cascade: true
           $.six_territoires_img:
             type: file
             label: Image du Sommaire
+            cascade: true
           $.sixieme_continent:
             type: array
-            label: Les territoires
             options:
               structures: _structures.sixieme_continent
+            label: Les territoires
+            cascade: true
           $.decouverte[*]:
             type: image
+            cascade: true
           $.decouverte:
             type: array
             label: Aperçus du magazine
+            cascade: true
   nos-contenus:
-    name: Nos contenus
     path: content/libre-acces
+    output: true
+    name: Nos contenus
+    icon: notes
+    _editables: {}
+    _inputs: {}
+    _select_data: {}
+    _structures: {}
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
     schemas:
       titre-de-categorie:
         path: .cloudcannon/schemas/titre-de-categorie.md
+        reorder_inputs: true
+        hide_extra_inputs: false
+        remove_empty_inputs: false
+        remove_extra_inputs: true
         name: Titre de catégorie
+        icon: notes
         _enabled_editors:
           - data
         _inputs:
           $.title:
+            type: auto
             label: Titre de la catégorie
             comment: Aucune restriction sur la manière de l'écrire
+            cascade: true
           $.class:
+            type: auto
             hidden: true
+            cascade: true
       article:
         path: .cloudcannon/schemas/article.md
+        reorder_inputs: true
+        hide_extra_inputs: false
+        remove_empty_inputs: false
+        remove_extra_inputs: true
         name: Article
+        icon: notes
         _enabled_editors:
           - content
         _inputs:
           $.class:
+            type: auto
             hidden: true
+            cascade: true
           $.cat:
+            type: auto
             label: Catégorie
             comment: >-
               Inscrire le nom "url" de la catégorie suivi de ".md". Ex: pour
               ajouter la catégorie "Éditorial", il faut écrire "editorial.md"
+            cascade: true
           $.title:
+            type: auto
             label: Titre de l'article
+            cascade: true
           $.title_alignment:
             type: select
+            options:
+              allow_empty: true
+              values: _select_data.title_alignment
             label: Alignement du titre
             comment: >-
               Option pour aligner le titre à droite si l'illustration le
               nécessite
-            options:
-              values: _select_data.title_alignment
+            cascade: true
           $.description:
+            type: auto
             label: Description de l'article
             comment: >-
               Texte cours utilisé dans la liste des articles en libre accès ou
               pour le référencement.
+            cascade: true
           $.img:
             type: file
             label: Image d'illustration de l'article
+            cascade: true
           $.img_credits:
+            type: auto
             label: Crédits de l'image d'illustration
+            cascade: true
   categories:
-    name: Catégories
     path: content/categories
+    output: true
+    name: Catégories
+    icon: notes
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
     schemas:
       default:
         path: .cloudcannon/schemas/categorie.md
+        reorder_inputs: true
+        hide_extra_inputs: false
+        remove_empty_inputs: false
+        remove_extra_inputs: true
         name: Catégorie
+        icon: notes
         _enabled_editors:
           - data
         _inputs:
           $.title:
+            type: auto
             label: Titre pour les URL
             comment: >-
               Titre à écrire sans espace, sans accent, sans caractère spéciaux,
               uniquement utilisé pour les adresses web (URL). Ex: "Éditorial"
               =&gt; "editorial", ou "À vous de jouer !" =&gt; "a-vous-de-jouer"
+            cascade: true
           $.title_humans:
+            type: auto
             label: 'Titre '
             comment: >-
               Titre qui sera affiché sur le site, sans restriction sur la
               manière de l'écrire.
+            cascade: true
           $.color:
             type: text
             label: Code couleur
             comment: 'Format hexadécimal, ex : #f5d771'
+            cascade: true
   default_hugo_pages:
-    name: Pages
     path: content/
+    output: false
+    name: Pages
+    icon: notes
+    _editables: {}
+    _inputs: {}
+    _select_data: {}
+    _structures: {}
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
     schemas:
       le-projet-imagine:
         path: .cloudcannon/schemas/le-projet-imagine.md
+        reorder_inputs: true
+        hide_extra_inputs: false
+        remove_empty_inputs: false
+        remove_extra_inputs: true
         name: Le projet Imagine
+        icon: notes
         _enabled_editors:
           - data
         _inputs:
           $.class:
+            type: auto
             hidden: true
+            cascade: true
           $.type:
+            type: auto
             hidden: true
+            cascade: true
           $.title:
+            type: auto
             label: Titre de la page
+            cascade: true
           $.organization.title:
+            type: auto
             label: Titre
+            cascade: true
           $.organization.content:
             type: markdown
             label: Contenu
+            cascade: true
           $.team.title:
+            type: auto
             label: Titre
+            cascade: true
           $.team.members:
             type: array
-            label: Membres
             options:
               structures: _structures.members
+            label: Membres
+            cascade: true
           $.differences.title:
+            type: auto
             label: Titre
+            cascade: true
           $.differences.content:
             type: markdown
             label: Contenu
+            cascade: true
       page-simple:
         path: .cloudcannon/schemas/page-simple.md
+        reorder_inputs: true
+        hide_extra_inputs: false
+        remove_empty_inputs: false
+        remove_extra_inputs: true
         name: Page Simple
+        icon: notes
         _enabled_editors:
           - content
         _inputs:
           $.class:
+            type: auto
             hidden: true
+            cascade: true
       qui-sommes-nous:
         path: .cloudcannon/schemas/qui-sommes-nous.md
+        reorder_inputs: true
+        hide_extra_inputs: false
+        remove_empty_inputs: false
+        remove_extra_inputs: true
         name: Qui sommes-nous ?
+        icon: notes
         _enabled_editors:
           - data
         _inputs:
           $.section_one.img:
             type: file
+            cascade: true
           $.section_two.img:
             type: file
+            cascade: true
           $.section_three.img:
             type: file
+            cascade: true
           $.section_four.img:
             type: file
+            cascade: true
           $.section_five.img_list:
             type: array
             options:
               structures: _structures.img_list
+            cascade: true
+  COOP:
+    path: content/coop
+    output: false
+    name: COOP
+    icon: people
+    sort_options:
+      - {}
+    _editables:
+      text:
+        bold: true
+        copyformatting: true
+        italic: true
+        link: true
+        redo: true
+        removeformat: true
+        strike: true
+        subscript: true
+        superscript: true
+        underline: true
+        undo: true
+      image:
+        correct_orientation: true
+        expandable: true
+        image_size_attributes: true
+        resize_style: cover
+    _inputs:
+      Compteur:
+        type: number
+        label: Compteur
+        comment: Nombre d'adhérent·e·s à la Coopérative
+        cascade: true
+    _select_data: {}
+    _structures: {}
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+    schemas: {}
 collection_groups:
   - heading: Content
     collections:
@@ -309,47 +480,65 @@ collection_groups:
       - numeros
       - nos-contenus
       - categories
+_inputs:
+  template:
+    type: auto
+    hidden: true
+    cascade: true
 _select_data:
   title_alignment:
     - gauche
     - droite
 _structures:
   sixieme_continent:
+    style: select
     values:
       - value:
           title: ''
-          img: null
+          img:
           content: ''
         _inputs:
           img:
             type: file
+            cascade: true
           content:
             type: markdown
+            cascade: true
   members:
+    style: select
     values:
       - value:
           name: ''
           job: ''
-          photo: null
+          photo:
           text: ''
         _inputs:
           name:
+            type: auto
             label: Nom
+            cascade: true
           job:
+            type: auto
             label: Profession
+            cascade: true
           photo:
             type: file
+            cascade: true
           text:
+            type: auto
             label: Texte
+            cascade: true
   img_list:
+    style: select
     values:
       - value:
-          img: null
+          img:
           title: ''
           link: ''
         _inputs:
           img:
             type: file
-_inputs:
-  template:
-    hidden: true
+            cascade: true
+_editables: {}
+data_config: {}
+timezone: Etc/UTC
