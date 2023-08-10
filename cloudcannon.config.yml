@@ -479,7 +479,14 @@ collections_config:
     _structures: {}
     create:
       extra_data: {}
-      _inputs: {}
+      _inputs:
+        counter:
+          type: number
+          options:
+            empty_type: number
+          label: Compteur
+          instance_value: NOW
+          cascade: true
       _select_data: {}
       _structures: {}
     disable_add: false

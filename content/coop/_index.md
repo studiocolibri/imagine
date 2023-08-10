@@ -28,8 +28,6 @@ En prenant une ou plusieurs part(s) dans Imagine COOP…
 
 **La coopérative**
 
-
-
 **Trois classes de coopérateurs**
 
 * Classe A : les fondateurs & garants, les travailleuses et travailleurs d’Imagine, le CNCD-11.11.11 et l’Asbl La Petite Fabrique Imagine
@@ -76,8 +74,6 @@ En prenant une ou plusieurs part(s) dans Imagine COOP…
 
 ## **Notre équipe**
 
-
-
 **Galer de&nbsp; petites photos (site)** **\+ Sarah Jonet, notre nouvelle directrice en PJ**
 
 Sarah Jonet, directrice d’Imagine COOP
@@ -98,8 +94,6 @@ David Cauwe, graphiste
 
 Sophie Weverbergh, correctrice
 
-
-
 ## **Nos missions**
 
 Imagine COOP poursuit trois missions :
@@ -111,8 +105,6 @@ Imagine COOP poursuit trois missions :
 ## **Notre vision**
 
 Etre, en 2025, **un média et un co-producteur de référence** en Belgique et en francophonie. Imagine COOP propose des contenus journalistiques et documentaires originaux et indépendants, fédère autour de sa nouvelle coopérative de presse et de services une communauté Imagine. Sa gouvernance repose sur l’agilité, la coopération, la participation et l’inclusion de différents acteurs de la société civile et l’exemplarité des valeurs portées par l’organisation.
-
-
 
 ## **Nos valeurs**
 
@@ -128,8 +120,6 @@ Notre organisation ne se contente pas d’évoluer « ici et maintenant ».&nbsp
 
 Chez Imagine COOP, on a de la considération pour l’ensemble du monde vivant, humains et non humains compris. On tient compte de toutes et tous dans l’entreprise. C’est un projet avant tout collectif. On a de l’estime pour toutes celles et ceux qui font vivre pleinement notre entreprise (coopérateurs, lecteurs, collaborateurs, partenaires…).
 
-
-
 **L’équilibre&nbsp;**
 
 Articulation vie privée et vie professionnelle pour ses travailleuses et travailleurs, parité de genre et d’âge… Imagine COOP vise l’équilibre. Y compris dans son traitement de l’information (juste et nuancée) et des enjeux (articulation des thématiques de manière systémique).
@@ -138,18 +128,12 @@ Articulation vie privée et vie professionnelle pour ses travailleuses et travai
 
 Imagine COOP participe activement à&nbsp; la vie sociale, démocratique, écologique, culturelle, intellectuelle… de son temps. Il a des convictions qui sont connues et assumées (cfr son Manifeste & sa charte fondatrice).
 
-
-
 Onglet
 
 **Je prends des parts**
 
-
-
 **Lien vers un formulaire type Médor**
 
-**https://odoo.medor.coop/page/become\_cooperator**
+**[https://odoo.medor.coop/page/become\_cooperator](https://odoo.medor.coop/page/become_cooperator)**
 
-
-
-**Merci&nbsp;**😊
+\*\*Merci \*\*😊
