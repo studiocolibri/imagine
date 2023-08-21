@@ -5,7 +5,7 @@ cat: >-
   Offre d'emploi : Imagine recrute un journaliste freelance / gestionnaire de
   communauté (F-H-X) pour sa future coopérative. Candidature à envoyer avant le
   25 août.
-title: Imagine recrute.
+title: Imagine recrute
 title_alignment: gauche
 date: 2023-08-09T10:00:00Z
 description: >-
@@ -15,13 +15,11 @@ description: >-
 img: /uploads/luca-onniboni-4v9kk01meby-unsplash.jpg
 img_credits: Luca Onniboni (unsplash)
 ---
-**Le magazine *Imagine* recrute**
-
-**Un journaliste free lance / gestionnaire de communauté (F-H-X)**
+**Le magazine *Imagine* recrute un journaliste free lance / gestionnaire de communauté (F-H-X)**
 
 *Imagine* est un magazine qui s’inscrit dans le courant *slow press* et traite des questions liées à l’écologie, aux grandes questions de société et aux relations Sud-Nord. Il défend un journalisme d’impact et porte un regard libre, prospectif et non-conformiste sur le monde.
 
-Dans le cadre de sa transformation en coopérative, *Imagine* recrute un(e) community manager free lance.
+Dans le cadre de sa transformation en coopérative, *Imagine* recrute un(e) community manager freelance.
 
 **Missions**
 
