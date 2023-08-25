@@ -1,6 +1,5 @@
 ---
 title: Rejoindre Imagine COO
-class: notre-manifeste single-page
 compteur: 21
 ---
 ## **Imagine COOP, c’est quoi ?**

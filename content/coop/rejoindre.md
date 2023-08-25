@@ -1,31 +1,86 @@
 ---
-title: Rejoindre Imagine COO
+title: Rejoindre Imagine COOP
+hero_img: /uploads/brochure-orange.jpg
 class: notre-manifeste single-page
 compteur: 22
+section_one:
+  title: Imagine COOP,<br> c'est quoi ?
+  list:
+    - text: >-
+        Une **coopérative agréée, à finalité sociale**, fondée le 30 août 2023 par ses travailleuses et ses travailleurs
+    - text: >-
+        Une **entreprise ancrée localement** (Wallonie-Bruxelles), qui emploie sept personnes, avec des valeurs et des engagements forts : une gouvernance éthique et démocratique, une parité de genre (7 employés, cinq hommes et deux hommes), une approche éco-responsable…
+    - text: >-
+        Un **magazine précurseur** (*Imagine Demain le monde*), fondé en 1996, qui s’inscrit dans le courant *slow press* et porte, depuis 27 ans, un regard audacieux, constructif et critique sur les grandes urgences sociétales (climat, inégalités sociales, biodiversité, éducation, démocratie, solidarités internationales…) lien vers notre Manifeste
+    - text: >-
+        Une structure coopérative et deux branches d’activités : le **Média Imagine** (papier & digital) à découvrir, dès le 11 octobre et l’**Agence services Imagine** qui propose différents services à la collectivité (associations, entreprises sociales, opérateurs culturels, pouvoirs publics…) et à la carte (production de contenus, éducation aux médias & crises environnementales, animation).
+    - text: >-
+        Une **gouvernance structurée et partagée** avec un conseil d’administration pluraliste et transdisciplinaire, une assemblée générale souveraine, un comité de rédaction indépendant et le Laboratoire d’idées Imagine.
+section_two:
+  title: Les <b>sept bonnes raisons</b> <br>de nous rejoindre
+  list:
+    - text: >-
+        Je soutiens la création d’une **coopérative agréée, à finalité sociale**, de presse et de services
+    - text: >-
+        Je contribue au redéploiement d’un **magazine pionnier** depuis 1996, autonome et d’intérêt public
+    - text: >-
+        Je défends un **journalisme d’impact**, constructif et de qualité
+    - text: >-
+        J’investis dans l’**économie réelle** et soutenable, hors des circuits financiers et bancaires
+    - text: >-
+        Je prends part à une entreprise sociale et solidaire avec des **valeurs et des engagements** forts (gouvernance, parité de genre, éco-responsabilité…). J’ai un **droit de regard et de vote** dans la gestion de l’entreprise et je peux m’impliquer via divers canaux (boîte à ressources, rôle d’ambassadeur/drice…)
+    - text: >-
+        Je permets le renforcement et la **création d’emplois** locaux et durables
+    - text: >-
+        J’entre dans la **communauté Imagine**, partie prenante des indispensables transformations écologique et sociale
+team:
+  title: Notre équipe
+  members:
+    - name: Hugues Dorzée
+      job: rédacteur en chef
+      photo: /v1591708260/hugues-dorzee_rufkqe.jpg
+      text: >-
+        Après dix-huit ans au quotidien _Le Soir_, Hugues est devenu rédacteur
+        en chef d’_Imagine_ en 2014. Cycliste du quotidien, féru de littérature
+        anglo-saxonne, joggeur des villes et des campagnes, il défend un
+        journalisme terre-à-terre et apaisé sur les pas du philosophe Uchida
+        Tastsuru (_« Pour que les médias reviennent à la vie, ils n’ont pas
+        d’autre choix que de redevenir des êtres vivants »)._ Il a un petit
+        faible pour l’expresso _ristretto_, les films de Ken Loach et la musique
+        de Chily Gonzales, le Cap Corse et les cabanes perchées.
+    - name: Laure de Hesselle
+      job: journaliste
+      photo: /v1591708260/laure-de-hesselle_dp4gdq.jpg
+    - name: Christophe Schoune
+      job: journaliste
+      photo: /v1591708259/christophe-schoune_uldx8g.jpg
+    - name: Sarah Freres
+      job: journaliste
+      photo: /v1591708265/sarah-frere_dlcywu.jpg
+    - name: Pascale Derriks
+      job: responsable administrative & financière
+      photo: /v1591708258/pascale-derriks_yaqzte.jpg
+    - name: Fanny Dion
+      job: Chargée de développement
+      photo: /uploads/image-50433793.JPG
+    - name: David Cauwe
+      job: graphiste
+      photo: /v1591708258/david-cauwe_w6zktb.jpg
+    - name: Sophie Weverbergh
+      job: correctrice
+      photo: /v1591708258/sophie-weverbergh_amyoos.jpg
+    - name: Yves Alié
+      job: conseiller régie publicitaire
+      photo: /v1591708263/yves-alie_ruw85l.jpg
+    - name: André Ruwet
+      job: fondateur d’_Imagine_
+      photo: ''
+cta:
+    text: Imagine est un éditeur indépendant. Il vit en priorité grâce à ses lecteurs. Abonnez-vous et contribuez au développement d’un projet de presse original, alternatif et sans but lucratif.
+    button: Je prends des parts
 ---
-## **Imagine COOP, c’est quoi ?**
 
-* Une **coopérative agréée, à finalité sociale**, fondée le 30 août 2023 par ses travailleuses et ses travailleurs
-* Une **entreprise ancrée localement** (Wallonie-Bruxelles), qui emploie sept personnes, avec des valeurs et des engagements forts : une gouvernance éthique et démocratique, une parité de genre (7 employés, cinq hommes et deux hommes), une approche éco-responsable…
-* Un **magazine précurseur** (*Imagine Demain le monde*), fondé en 1996, qui s’inscrit dans le courant *slow press* et porte, depuis 27 ans, un regard audacieux, constructif et critique sur les grandes urgences sociétales (climat, inégalités sociales, biodiversité, éducation, démocratie, solidarités internationales…) lien vers notre Manifeste
-* Une structure coopérative et deux branches d’activités : le **Média Imagine** (papier & digital) à découvrir, dès le 11 octobre et l’**Agence services Imagine** qui propose différents services à la collectivité (associations, entreprises sociales, opérateurs culturels, pouvoirs publics…) et à la carte (production de contenus, éducation aux médias & crises environnementales, animation).
-* Une **gouvernance structurée et partagée** avec un conseil d’administration pluraliste et transdisciplinaire, une assemblée générale souveraine, un comité de rédaction indépendant et le Laboratoire d’idées Imagine.
 
-{{< figure src="/uploads/747a4d04-a2ad-4481-a619-17f32e0b941e.jpeg" title="Je prends des parts" caption="Je prends des parts" link="kiosque.imagine-magazine.com" target="_blank" >}}
-
-{{< youtube id="" >}}
-
-## **Le sept bonnes raisons de nous rejoindre**
-
-En prenant une ou plusieurs part(s) dans Imagine COOP…
-
-* Je soutiens la création d’une **coopérative agréée, à finalité sociale**, de presse et de services »
-* Je contribue au redéploiement d’un **magazine pionnier** depuis 1996, autonome et d’intérêt public
-* Je défends un **journalisme d’impact**, constructif et de qualité
-* J’investis dans l’**économie réelle** et soutenable, hors des circuits financiers et bancaires
-* Je prends part à une entreprise sociale et solidaire avec des **valeurs et des engagements** forts (gouvernance, parité de genre, éco-responsabilité…). J’ai un **droit de regard et de vote** dans la gestion de l’entreprise et je peux m’impliquer via divers canaux (boîte à ressources, rôle d’ambassadeur/drice…)
-* Je permets le renforcement et la **création d’emplois** locaux et durables
-* J’entre dans la **communauté Imagine**, partie prenante des indispensables transformations écologique et sociale
 
 **La coopérative**
 
@@ -72,28 +127,6 @@ En prenant une ou plusieurs part(s) dans Imagine COOP…
 * Un site web eco-friendly (Studio Colibri)
 * Une partie de la distribution assurée via la Belgian Cycle Logistics Federation (vélos cargos) à Liège, Namur et Bruxelles
 * La revalorisation des numéros invendus (récupération & dons)
-
-## **Notre équipe**
-
-**Galer de&nbsp; petites photos (site)** **\+ Sarah Jonet, notre nouvelle directrice en PJ**
-
-Sarah Jonet, directrice d’Imagine COOP
-
-Hugues Dorzée, rédacteur en chef d’Imagine magazine (papier & digital)
-
-Laure de Hesselle, journaliste
-
-Sarah Freres, journaliste
-
-Christophe Schoune, journaliste
-
-Pascale Derriks, employée administrative et financière / relations abonnés
-
-Fanny Dion, chargée de développement & de marketing
-
-David Cauwe, graphiste
-
-Sophie Weverbergh, correctrice
 
 ## **Nos missions**
 

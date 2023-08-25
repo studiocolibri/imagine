@@ -1,84 +1,87 @@
 {{ define "main" }}
-
-<section class="notre-projet__header page-header">
+<div class="coop">
+<section class="notre-projet__header page-header" style="background-image: url({{.Params.hero_img}});">
     <div class="notre-projet__header__title page-header__title cw">
         <h1>{{ .Title }}</h1>
     </div>
 </section>
 
-<section class="notre-projet__section-one section-2-cols">
-    <h2 class="section-title left">{{ .Params.section_one.section_title }}</h2>
-    <div class="flex-2-cols cw">
-        <div class="flex-2-cols__col left">
+
+<section class="section-2-cols what">
+    <div class="cw">
+        <div class="">
             <h3>{{ .Params.section_one.title | safeHTML }}</h3>
-            <p>{{ .Params.section_one.text | safeHTML }}</p>
-            <a href="{{ .Params.section_one.btn_link }}" class="btn">{{ .Params.section_one.btn_txt }}</a>
+            <ul>
+                {{ range .Params.section_one.list }}
+                <li>{{.text | markdownify}}
+                </li>
+                {{ end}}
+            </ul>
+
+            {{/*  <a href="{{ .Params.section_one.btn_link }}" class="btn">{{ .Params.section_one.btn_txt }}</a>  */}}
         </div>
-        <div class="flex-2-cols__col right">
-            <img src="{{ .Site.Params.cloudinary_url }}{{ .Params.section_one.img }}" alt="" role="presentation" loading="lazy">
-        </div>
+{{/*          <div class="flex-2-cols__col right">
+        </div>  */}}
     </div>
 </section>
+{{partial "cta.html" .}}
 
-<section class="notre-projet__section-two section-2-cols">
-    <h2 class="section-title right margin">{{ .Params.section_two.section_title }}</h2>
-    <div class="flex-2-cols cw">
-        <div class="flex-2-cols__col left">
-            <img src="{{ .Site.Params.cloudinary_url }}{{ .Params.section_two.img }}" alt="" role="presentation" loading="lazy">
-        </div>
-        <div class="flex-2-cols__col right">
+<section class="section-2-cols reasons">
+    <div class="cw">
+        <div class="">
             <h3>{{ .Params.section_two.title | safeHTML }}</h3>
-            <p>{{ .Params.section_two.text | safeHTML }}</p>
-            <a href="{{ .Params.section_two.btn_link }}" class="btn">{{ .Params.section_two.btn_txt }}</a>
+            <ol>
+                {{ range .Params.section_two.list }}
+                <li>{{.text | markdownify}}
+                </li>
+                {{ end}}
+            </ol>
+
+            {{/*  <a href="{{ .Params.section_one.btn_link }}" class="btn">{{ .Params.section_one.btn_txt }}</a>  */}}
+        </div>
+{{/*          <div class="flex-2-cols__col right">
+        </div>  */}}
+    </div>
+</section>
+
+<section class="vid">
+    <div class="cw">
+        <div class="vid-container">
+            <a href="#">
+            <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polygon points="10 8 16 12 10 16 10 8"></polygon></svg>
+            </a>
         </div>
     </div>
 </section>
 
-<section class="notre-projet__section-three section-2-cols">
-    <h2 class="section-title left margin">{{ .Params.section_three.section_title }}</h2>
-    <div class="flex-2-cols cw">
-        <div class="flex-2-cols__col left">
-            <h3>{{ .Params.section_three.title | safeHTML }}</h3>
-            <p>{{ .Params.section_three.text | safeHTML }}</p>
-            <a href="{{ .Params.section_three.btn_link }}" class="btn">{{ .Params.section_three.btn_txt }}</a>
-        </div>
-        <div class="flex-2-cols__col right">
-            <div class="flex-2-cols__img-wrapper">
-                <img src="{{ .Site.Params.cloudinary_url }}{{ .Params.section_three.img }}" alt="" role="presentation" loading="lazy">
-            </div>
-        </div>
+<section class="coop-team" style="background: rgb(255, 248, 248);padding-top: 13rem;" >
+    <div class="cw">
+    <h2>
+        Notre équipe
+    </h2>
+<div class="gallery">
+{{ $img_path := .Site.Params.cloudinary_url }}
+{{ range .Params.team.members }}
+<div class="team-member">
+    <div class="team-member__photo">
+        {{ if or (.photo) (ne .photo "") }}<img src="{{ $img_path }}f_auto,q_80,w_200/{{ .photo }}" alt="Photo de {{ .name }}" loading="lazy" width="200" height="200">{{ end }}
     </div>
-</section>
-
-<section class="notre-projet__section-four section-2-cols">
-    <h2 class="section-title right margin">{{ .Params.section_four.section_title }}</h2>
-    <div class="flex-2-cols cw">
-        <div class="flex-2-cols__col left">
-            <img src="{{ .Site.Params.cloudinary_url }}{{ .Params.section_four.img }}" alt="" role="presentation" loading="lazy">
-        </div>
-        <div class="flex-2-cols__col right">
-            <h3>{{ .Params.section_four.title | safeHTML }}</h3>
-            <p>{{ .Params.section_four.text | safeHTML }}</p>
-            <a href="{{ .Params.section_four.btn_link }}" class="btn">{{ .Params.section_four.btn_txt }}</a>
-        </div>
+    <div class="team-member__text">
+        <p class="team-member__name-job"><strong>{{ .name }}, {{ .job | markdownify }}</strong></p>
     </div>
+</div>
+{{ end }}
+</div>
+</div>
 </section>
 
-<section class="notre-projet__section-five section-2-cols cw">
-    <h2 class="section-title right margin hide">{{ .Params.section_five.title }}</h2>
-    <h3>{{ .Params.section_five.title | safeHTML }}</h3>
-    <ul class="partenaires-list">
-        {{ $imgUrl := .Site.Params.cloudinary_url }}
-        {{ range .Params.section_five.img_list }}
-            <li>
-                <a href="{{ .link }}" target="_blank" rel="noopener">
-                    <img src="{{ $imgUrl }}f_auto,q_80,w_135,c_limit/{{ .img }}" alt="logo de : {{ .title }}" title="{{ .title }}" loading="lazy">
-                </a>
-            </li>
-        {{ end }}
-    </ul>
-</section>
 
+
+
+
+<section class="main-content aw">
+    {{ .Content }}
+</section>
 {{ partial "s-abonner.html" . }}
-
+</div>
 {{ end }}

@@ -1,3 +1,8 @@
+:root {
+    --coop: #c56439;
+    --coopsec: #2f3464;
+  }
+
 
 $txt-color: var(--txt-color);
 $main: var(--main);
@@ -65,4 +70,5 @@ $bp-xl: 1240px; // breakpoint XL
 'partials/_partials',
 'partials/_modules',
 'partials/_single',
-'partials/_pages';
+'partials/_pages',
+'partials/_coop';
