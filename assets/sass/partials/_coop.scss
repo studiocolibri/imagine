@@ -74,16 +74,26 @@
     .page-header {
         background: var(--coop);
         text-align:center;
-        padding-top: 8rem;
+        padding-top: 10rem;
         background-size: cover;
         background-position: bottom;
+        padding-bottom: 8rem;
         
         h1 {
             max-width: none;
             padding-right: 0;
         }
 
+        svg {
+            
+            max-width: 40%;
+        }
+
     }   
+
+    .notre-projet__header__title {
+        padding: 0;
+    }
 
     .cta-abonnement {
         background: var(--coop);
