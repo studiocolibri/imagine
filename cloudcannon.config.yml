@@ -475,6 +475,11 @@ collections_config:
         label: Compteur
         comment: Nombre d'adhérent·e·s à la Coopérative
         cascade: true
+      hero_img:
+        type: file
+        label: Cover
+        comment: Image Cover
+        cascade: true
     _select_data: {}
     _structures: {}
     create:
