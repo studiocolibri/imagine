@@ -33,6 +33,49 @@ section_two:
         Je permets le renforcement et la **création d’emplois** locaux et durables
     - text: >-
         J’entre dans la **communauté Imagine**, partie prenante des indispensables transformations écologique et sociale
+section_three:
+  title: Notre mission
+  blocks:
+    - title: Nos missions
+      photo: /uploads/brochure-front.jpeg
+      text: >-
+        * **Produire de l’information** de qualité, inspirante et critique, libre et non-conformiste en adéquation avec le Manifeste Imagine et via quatre canaux de diffusion : son magazine papier, sa platerforme web, son média digital (dès le 10/10) et ses réseaux sociaux
+
+        * **Offrir des services à la collectivité** (écoles, société civile, secteur de l’économie sociale…) en matière d’accompagnement pédagogique et de  formations, d’animation et de productions de contenus
+
+        * **Fédérer** autour du magazine **les acteurs de changement** et aider ses lecteurs à passer à l’action
+    - title: Notre vision
+      photo: /uploads/brochure-front.jpeg
+      text: >-
+        Etre, en 2025, **un média et un co-producteur de référence** en Belgique et en francophonie. Imagine COOP propose des contenus journalistiques et  documentaires originaux et indépendants, fédère autour de sa nouvelle coopérative de presse et de services une communauté Imagine. Sa gouvernance repose sur l’agilité, la coopération, la participation et l’inclusion de différents acteurs de la société civile et l’exemplarité des valeurs portées par l’organisation.
+section_four:
+  title: Nos valeurs
+  blocks:
+    - title: La cohérence
+      photo: /uploads/brochure-front.jpeg
+      text: >-
+        Elle est au cœur du projet Imagine COOP (ligne éditoriale, éco-responsabilité, relations sociales et histoire de l’entreprise, engagements sociétaux…)
+
+    - title: L'anticipation
+      photo: /uploads/brochure-front.jpeg
+      text: >-
+        Notre organisation ne se contente pas d’évoluer « ici et maintenant ».&nbsp; Elle est en mouvement, se place dans une perspective future et tente d’ébaucher ce qui nous attend « demain ».&nbsp;
+
+    - title: La considération
+      photo: /uploads/brochure-front.jpeg
+      text: >-
+        Chez Imagine COOP, on a de la considération pour l’ensemble du monde vivant, humains et non humains compris. On tient compte de toutes et tous dans l’entreprise. C’est un projet avant tout collectif. On a de l’estime pour toutes celles et ceux qui font vivre pleinement notre entreprise (coopérateurs, lecteurs, collaborateurs, partenaires…).
+
+    - title: L'équilibre
+      photo: /uploads/brochure-front.jpeg
+      text: >-
+        Articulation vie privée et vie professionnelle pour ses travailleuses et travailleurs, parité de genre et d’âge… Imagine COOP vise l’équilibre. Y compris dans son traitement de l’information (juste et nuancée) et des enjeux (articulation des thématiques de manière systémique).
+
+    - title: L'engagement
+      photo: /uploads/brochure-front.jpeg
+      text: >-
+        Imagine COOP participe activement à&nbsp; la vie sociale, démocratique, écologique, culturelle, intellectuelle… de son temps. Il a des convictions qui sont connues et assumées (cfr son Manifeste & sa charte fondatrice).
+
 team:
   title: Notre équipe
   members:
@@ -49,31 +92,31 @@ team:
         faible pour l’expresso _ristretto_, les films de Ken Loach et la musique
         de Chily Gonzales, le Cap Corse et les cabanes perchées.
     - name: Laure de Hesselle
-      job: journaliste
+      job: Journaliste
       photo: /v1591708260/laure-de-hesselle_dp4gdq.jpg
     - name: Christophe Schoune
-      job: journaliste
+      job: Journaliste
       photo: /v1591708259/christophe-schoune_uldx8g.jpg
     - name: Sarah Freres
-      job: journaliste
+      job: Journaliste
       photo: /v1591708265/sarah-frere_dlcywu.jpg
     - name: Pascale Derriks
-      job: responsable administrative & financière
+      job: Responsable administrative & financière
       photo: /v1591708258/pascale-derriks_yaqzte.jpg
     - name: Fanny Dion
       job: Chargée de développement
       photo: /uploads/image-50433793.JPG
     - name: David Cauwe
-      job: graphiste
+      job: Graphiste
       photo: /v1591708258/david-cauwe_w6zktb.jpg
     - name: Sophie Weverbergh
-      job: correctrice
+      job: Correctrice
       photo: /v1591708258/sophie-weverbergh_amyoos.jpg
     - name: Yves Alié
-      job: conseiller régie publicitaire
+      job: Conseiller régie publicitaire
       photo: /v1591708263/yves-alie_ruw85l.jpg
     - name: André Ruwet
-      job: fondateur d’_Imagine_
+      job: Fondateur d’_Imagine_
       photo: ''
 cta:
     text: Imagine est un éditeur indépendant. Il vit en priorité grâce à ses lecteurs. Abonnez-vous et contribuez au développement d’un projet de presse original, alternatif et sans but lucratif.
@@ -82,39 +125,38 @@ cta:
 
 
 
-**La coopérative**
 
-**Trois classes de coopérateurs**
+### **Trois classes de coopérateurs**
 
 * Classe A : les fondateurs & garants, les travailleuses et travailleurs d’Imagine, le CNCD-11.11.11 et l’Asbl La Petite Fabrique Imagine
 * Classe B : les lecteurs, abonnés, citoyens et sympathisants
 * Classe C : les organisations (associations, ONG, entreprises, opérateurs culturels, villes & communes, syndicats, mutuelles…)
 
-**Le prix de la part**
+### **Le prix de la part**
 
 * 100 € / part nominale (classe B)
 * Les organisations (classe C ) : minimum 5 parts (500 €)
 * La présente offre de souscription de parts (classe B & C) est limitée à maximum 5.000€ par coopérateur et 500.000€ par an, conformément à la réglementation en vigueur
 
-**La gouvernance**
+### **La gouvernance**
 
 * Quatre organes de gouvernance : l’assemblée générale (l’ensemble des coopérateurs), le conseil d’administration (9 personnalités issues de la société civile avec des compétences croisées : finance, stratégie, droit, presse…), le comité de rédaction (garant de la ligne éditoriale du magazine) et le Laboratoire d’idées Imagine (un *think tank* qui se réunit une fois par an)
 * Droit de vote sur le principe « 1 personne = 1 voix »
 * Un mode de fonctionnement éthique et transparent
 
-**Quelques chiffres clés**
+### **Quelques chiffres clés**
 
 * 7 travailleurs salariés (4,8 équivalents temps plein) et plusieurs collaborateurs fixes et/ou occasionnel (graphiste, correctrice, journalistes, photographes, illustrateurs…)
 * Un modèle économique mixte (+/- 65 % de recettes propres : abonnements, ventes & recettes diverses : publicité éthique et responsable, prestations diverses…) et 35 % de subventions publiques (Aide à presse non commerciale Fédération Wallonie-Bruxelles et coopérative au développement via notre partenaire, le CNCD-11.11.11)
 
-**Les documents utiles** **(on joindra des PDF)**
+### **Les documents utiles** **(on joindra des PDF)**
 
 * Bilan 2022 de l’Asbl & rapport du réviseur
 * Statuts de la coopérative
 * Règlement d’ordre intérieur
 * Charte fondatrice & Manifeste Imagine
 
-**Son impact social & environnemental**
+### **Son impact social & environnemental**
 
 * L’implantation d’Imagine COOP début 2024 à La Menuiserie, un centre d’entreprises dédié à la transition vers une économie soutenable, plus sociale et solidaire
 
@@ -127,47 +169,3 @@ cta:
 * Un site web eco-friendly (Studio Colibri)
 * Une partie de la distribution assurée via la Belgian Cycle Logistics Federation (vélos cargos) à Liège, Namur et Bruxelles
 * La revalorisation des numéros invendus (récupération & dons)
-
-## **Nos missions**
-
-Imagine COOP poursuit trois missions :
-
-* **Produire de l’information** de qualité, inspirante et critique, libre et non-conformiste en adéquation avec le Manifeste Imagine et via quatre canaux de diffusion : son magazine papier, sa platerforme web, son média digital (dès le 10/10) et ses réseaux sociaux
-* **Offrir des services à la collectivité** (écoles, société civile, secteur de l’économie sociale…) en matière d’accompagnement pédagogique et de formations, d’animation et de productions de contenus
-* **Fédérer** autour du magazine **les acteurs de changement** et aider ses lecteurs à passer à l’action
-
-## **Notre vision**
-
-Etre, en 2025, **un média et un co-producteur de référence** en Belgique et en francophonie. Imagine COOP propose des contenus journalistiques et documentaires originaux et indépendants, fédère autour de sa nouvelle coopérative de presse et de services une communauté Imagine. Sa gouvernance repose sur l’agilité, la coopération, la participation et l’inclusion de différents acteurs de la société civile et l’exemplarité des valeurs portées par l’organisation.
-
-## **Nos valeurs**
-
-**La cohérence**
-
-Elle est au cœur du projet Imagine COOP (ligne éditoriale, éco-responsabilité, relations sociales et histoire de l’entreprise, engagements sociétaux…)
-
-**L’anticipation**
-
-Notre organisation ne se contente pas d’évoluer « ici et maintenant ».&nbsp; Elle est en mouvement, se place dans une perspective future et tente d’ébaucher ce qui nous attend « demain ».&nbsp;
-
-**La considération**
-
-Chez Imagine COOP, on a de la considération pour l’ensemble du monde vivant, humains et non humains compris. On tient compte de toutes et tous dans l’entreprise. C’est un projet avant tout collectif. On a de l’estime pour toutes celles et ceux qui font vivre pleinement notre entreprise (coopérateurs, lecteurs, collaborateurs, partenaires…).
-
-**L’équilibre&nbsp;**
-
-Articulation vie privée et vie professionnelle pour ses travailleuses et travailleurs, parité de genre et d’âge… Imagine COOP vise l’équilibre. Y compris dans son traitement de l’information (juste et nuancée) et des enjeux (articulation des thématiques de manière systémique).
-
-**L’engagement**
-
-Imagine COOP participe activement à&nbsp; la vie sociale, démocratique, écologique, culturelle, intellectuelle… de son temps. Il a des convictions qui sont connues et assumées (cfr son Manifeste & sa charte fondatrice).
-
-Onglet
-
-**Je prends des parts**
-
-**Lien vers un formulaire type Médor**
-
-**[https://odoo.medor.coop/page/become\_cooperator](https://odoo.medor.coop/page/become_cooperator)**
-
-\*\*Merci \*\*😊

@@ -3,7 +3,7 @@
     background: #f2f2f0;
 
     section {
-        padding: 5rem 0;
+        padding: 3rem 0;
         }
     a {
         color: var(--coop);
@@ -18,17 +18,57 @@
         margin-bottom: 2.5rem!important;
     }
 
+    h3 {
+        margin: 2.3rem 0!important;
+    }
+
     strong {
         color: var(--coop);
     }
+
     li {
         
         margin-bottom: 1.5rem;
     }
     
+    .flex-2-cols {
+        align-items: center;
+        flex-direction: row;
+        justify-content: space-between;
+        margin-bottom: 5rem;
+    }
+
+    .cw > .flex-2-cols:nth-child(even) {
+        flex-direction: row-reverse;
+
+    }
+
+    .flex-2-cols__col {
+        width:45%;
+
+        @media screen and (max-width: 800px) {
+            width: 100%;
+        
+        }
+
+    }
+
+    .flex-2-cols__col:first-of-type {
+        margin-right: 0;
+    }
+    .single-page .main-content {
+        margin-top: 0; 
+        margin-bottom: 0; 
+    }
+
     .team-member {
         flex-direction: column;
         width: 25%;
+
+        @media screen and (max-width: 800px) {
+            width: 50%;
+        
+        }
     }
 
     .page-header {
@@ -53,13 +93,26 @@
         
         p {
             color: white;
+            font-family:'faible', serif;
         }
 
         a {
             background: var(--coopsec);
+            color: white;
         }
     
     }
+
+    .team-member__name-job     {
+
+    padding-right: 10%;
+
+        
+            span {
+                font-size:0.9rem;
+            }
+
+        }          
 }
 
 .gallery {
@@ -85,8 +138,14 @@
         width: 30%;
         list-style-type: none;
 
+        @media screen and (max-width: 800px) {
+            width: 100%;
+        
+        }
 
     }
+
+
 }
 
 .reasons {
@@ -95,7 +154,7 @@
 
         padding-left:0;
         margin-top:4rem;
-        max-width: 90%;
+        max-width: 85%;
         padding-left: 5rem;
         list-style: none; 
         counter-reset: li;
@@ -108,7 +167,7 @@
         counter-increment: li;
         position: relative;
         margin-bottom: 2rem;
-        font-size: 1.2rem;
+        font-size: 1.1rem;
         
 
 
@@ -148,5 +207,9 @@
             color: white;
         }
     }
+
+}
+
+.la-coop {
 
 }

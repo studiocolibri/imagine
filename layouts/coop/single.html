@@ -54,7 +54,16 @@
     </div>
 </section>
 
-<section class="coop-team" style="background: rgb(255, 248, 248);padding-top: 13rem;" >
+<section class="la-coop" style="padding-top: 13rem; background: rgb(255, 248, 248);">
+    <div class="cw">
+    <h2>
+        La Coopérative
+    </h2>
+    {{ .Content }}
+    </div>
+</section>
+
+<section class="coop-team" >
     <div class="cw">
     <h2>
         Notre équipe
@@ -67,7 +76,7 @@
         {{ if or (.photo) (ne .photo "") }}<img src="{{ $img_path }}f_auto,q_80,w_200/{{ .photo }}" alt="Photo de {{ .name }}" loading="lazy" width="200" height="200">{{ end }}
     </div>
     <div class="team-member__text">
-        <p class="team-member__name-job"><strong>{{ .name }}, {{ .job | markdownify }}</strong></p>
+        <p class="team-member__name-job"><strong>{{ .name }}</strong><br> <span>{{ .job | markdownify }}</span></p>
     </div>
 </div>
 {{ end }}
@@ -75,13 +84,46 @@
 </div>
 </section>
 
+<section class="coop-mission" style="background: rgb(255, 248, 248);">
+    {{ $img_path := .Site.Params.cloudinary_url }}
+    <div class="cw">
+    {{ range .Params.section_three.blocks }}
 
+        <div class="flex-2-cols">
+        <div class="flex-2-cols__col">
+            <h2>{{ .title | safeHTML }}</h2>
+            <p>{{ .text | markdownify }}</p>
+            {{/*  <a href="{{ .Params.section_three.btn_link }}" class="btn">{{ .Params.section_three.btn_txt }}</a>  */}}
+        </div>
+        <div class="flex-2-cols__col">
+            <div class="flex-2-cols__img-wrapper">
+                <img src="{{ $img_path }}f_auto,q_80,w_1000/{{ .photo }}" alt="" role="presentation" loading="lazy">
+            </div>
+        </div>
+    </div>
+    {{end}}
+</div>
+<div class="section-2-cols what">
+    <div class="cw">
+        <div class="">
+            <h3>{{ .Params.section_four.title | safeHTML }}</h3>
+            <ul>
+                {{ range .Params.section_four.blocks }}
+                <li><strong>{{.title}}</strong><br><br>
+                    {{.text | markdownify}}
+                </li>
+                {{ end}}
+            </ul>
 
-
-
-<section class="main-content aw">
-    {{ .Content }}
+            {{/*  <a href="{{ .Params.section_one.btn_link }}" class="btn">{{ .Params.section_one.btn_txt }}</a>  */}}
+        </div>
+{{/*          <div class="flex-2-cols__col right">
+        </div>  */}}
+    </div>
+</div>
 </section>
-{{ partial "s-abonner.html" . }}
+
+
+{{ partial "cta.html" . }}
 </div>
 {{ end }}
