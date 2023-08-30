@@ -1,6 +1,6 @@
 ---
 title: Rejoindre Imagine COOP
-hero_img: /uploads/brochure-orange.jpg
+hero_img: /uploads/banner2.jpg
 class: notre-manifeste single-page
 compteur: 22
 section_one:
@@ -52,27 +52,27 @@ section_four:
   title: Nos valeurs
   blocks:
     - title: La cohérence
-      photo: /uploads/brochure-front.jpeg
+      photo: /uploads/coherence1.png
       text: >-
         Elle est au cœur du projet Imagine COOP (ligne éditoriale, éco-responsabilité, relations sociales et histoire de l’entreprise, engagements sociétaux…)
 
     - title: L'anticipation
-      photo: /uploads/brochure-front.jpeg
+      photo: /uploads/anticipation1.png
       text: >-
         Notre organisation ne se contente pas d’évoluer « ici et maintenant ».&nbsp; Elle est en mouvement, se place dans une perspective future et tente d’ébaucher ce qui nous attend « demain ».&nbsp;
 
     - title: La considération
-      photo: /uploads/brochure-front.jpeg
+      photo: /uploads/consideration1.png
       text: >-
         Chez Imagine COOP, on a de la considération pour l’ensemble du monde vivant, humains et non humains compris. On tient compte de toutes et tous dans l’entreprise. C’est un projet avant tout collectif.
 
     - title: L'équilibre
-      photo: /uploads/brochure-front.jpeg
+      photo: /uploads/equilibre1.png
       text: >-
         Articulation vie privée et vie professionnelle pour ses travailleuses et travailleurs, parité de genre et d’âge… Imagine COOP vise l’équilibre. Y compris dans son traitement de l’information (juste et nuancée) et des enjeux (articulation des thématiques de manière systémique).
 
     - title: L'engagement
-      photo: /uploads/brochure-front.jpeg
+      photo: /uploads/engagement1.png
       text: >-
         Imagine COOP participe activement à&nbsp; la vie sociale, démocratique, écologique, culturelle, intellectuelle… de son temps. Il a des convictions qui sont connues et assumées (cfr son Manifeste & sa charte fondatrice).
 
@@ -115,6 +115,48 @@ team:
 cta:
     text: Imagine est un éditeur indépendant. Il vit en priorité grâce à ses lecteurs. Abonnez-vous et contribuez au développement d’un projet de presse original, alternatif et sans but lucratif.
     button: Je prends des parts
+
+section_faq:
+  title: Infos pratiques & FAQ
+  block:
+    - question: Pourquoi le modèle coopératif ?
+      reponse: >-
+        Depuis sa création en 1996, Imagine est constitué en ASBL. Après avoir exploré plusieurs formes de structures (Asbl renouvelée, adossement à une fondation, société privée…), nous avons opté pour le modèle coopératif qui est parfaitement en phase avec nos valeurs (entraide, responsabilité, équité...) et nos principes (adhésion volontaire et ouverte, contrôle démocratique, participation économique des membres, engagement dans la société...). <br>
+        Par ailleurs, c’est un moyen de remobiliser et d’élargir notre communauté de lectrices et de        lecteurs, de lancer un signal positif vers l’extérieur (un magazine de 27 ans qui se        réinvente et se projette vers l’avenir) et de réinjecter du capital pour retrouver une capacité d’investissement et assurer notre développement.
+    - question: La question ?
+      reponse: >-
+        Imagine COOP participe activement à&nbsp; la vie sociale, démocratique, écologique, culturelle, intellectuelle… de son temps. Il a des convictions qui sont connues et assumées (cfr son Manifeste & sa charte fondatrice).
+    - question: La question ?
+      reponse: >-
+        Imagine COOP participe activement à&nbsp; la vie sociale, démocratique, écologique, culturelle, intellectuelle… de son temps. Il a des convictions qui sont connues et assumées (cfr son Manifeste & sa charte fondatrice).
+    - question: La question ?
+      reponse: >-
+        Imagine COOP participe activement à&nbsp; la vie sociale, démocratique, écologique, culturelle, intellectuelle… de son temps. Il a des convictions qui sont connues et assumées (cfr son Manifeste & sa charte fondatrice).
+    - question: La question ?
+      reponse: >-
+        Imagine COOP participe activement à&nbsp; la vie sociale, démocratique, écologique, culturelle, intellectuelle… de son temps. Il a des convictions qui sont connues et assumées (cfr son Manifeste & sa charte fondatrice).
+    - question: La question ?
+      reponse: >-
+        Imagine COOP participe activement à&nbsp; la vie sociale, démocratique, écologique, culturelle, intellectuelle… de son temps. Il a des convictions qui sont connues et assumées (cfr son Manifeste & sa charte fondatrice).
+    - question: La question ?
+      reponse: >-
+        Imagine COOP participe activement à&nbsp; la vie sociale, démocratique, écologique, culturelle, intellectuelle… de son temps. Il a des convictions qui sont connues et assumées (cfr son Manifeste & sa charte fondatrice).
+    - question: La question ?
+      reponse: >-
+        Imagine COOP participe activement à&nbsp; la vie sociale, démocratique, écologique, culturelle, intellectuelle… de son temps. Il a des convictions qui sont connues et assumées (cfr son Manifeste & sa charte fondatrice).
+    - question: La question ?
+      reponse: >-
+        Imagine COOP participe activement à&nbsp; la vie sociale, démocratique, écologique, culturelle, intellectuelle… de son temps. Il a des convictions qui sont connues et assumées (cfr son Manifeste & sa charte fondatrice).
+    - question: La question ?
+      reponse: >-
+        Imagine COOP participe activement à&nbsp; la vie sociale, démocratique, écologique, culturelle, intellectuelle… de son temps. Il a des convictions qui sont connues et assumées (cfr son Manifeste & sa charte fondatrice).
+    - question: La question ?
+      reponse: >-
+        Imagine COOP participe activement à&nbsp; la vie sociale, démocratique, écologique, culturelle, intellectuelle… de son temps. Il a des convictions qui sont connues et assumées (cfr son Manifeste & sa charte fondatrice).
+    - question: La question ?
+      reponse: >-
+        Imagine COOP participe activement à&nbsp; la vie sociale, démocratique, écologique, culturelle, intellectuelle… de son temps. Il a des convictions qui sont connues et assumées (cfr son Manifeste & sa charte fondatrice).
+
 ---
 
 

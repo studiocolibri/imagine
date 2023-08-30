@@ -72,6 +72,7 @@
         flex-direction: column;
         width: 25%;
         text-align: center;
+        align-items: center;
 
         @media screen and (max-width: 800px) {
             width: 50%;
@@ -81,14 +82,20 @@
         img {
             border-radius: 100%;
             mix-blend-mode: screen;
-            height: 100%;
+            width: 200px;
+            height: 200px;
             filter: grayscale(1) contrast(1.2);
+            object-fit: cover;
+
         }
 
         &__photo {
             background-color: var(--coopsec);
             border-radius: 100%;
             margin-bottom: .5rem;
+            margin-right: 0;
+            width: 200px;
+            height: 200px;
         }
     
     
@@ -103,16 +110,23 @@
         padding-top: 10rem;
         background-size: cover;
         background-position: bottom;
-        padding-bottom: 8rem;
+        padding-bottom: 6rem;
         
         h1 {
             max-width: none;
             padding-right: 0;
+            font-family: 'faible';
+            font-size: 2rem;
+
+            strong {
+                color: var(--coopsec);
+                font-weight: bolder;
+            }
         }
 
         svg {
             
-            max-width: 40%;
+            max-width: 20%;
         }
 
     }   
@@ -141,14 +155,30 @@
 
     .team-member__name-job     {
 
-    padding-right: 10%;
 
         
             span {
                 font-size:0.9rem;
             }
 
-        }          
+        }    
+        
+    details {
+        cursor: pointer;
+        margin-bottom: 2rem;
+        font-size: 0.9rem
+    }
+
+    summary {
+        margin-bottom: 1rem;
+        font-size: 1.2rem;
+        
+
+        }
+
+    #text {
+        color: red;
+    }
 }
 
 .gallery {
@@ -246,6 +276,20 @@
 
 }
 
-.la-coop {
+.valeurs {
+    h3 {
+        margin: 0!important;
+        font-size: 1.2rem;
+        color: var(--coop);
+        font-weight: bolder;
+    }
 
+    img {
+        mix-blend-mode: multiply;
+        margin-bottom: .5rem;
+    }
+}
+
+::marker {
+    color: var(--coop);
 }
