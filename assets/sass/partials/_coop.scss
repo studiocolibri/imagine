@@ -82,6 +82,7 @@
             border-radius: 100%;
             mix-blend-mode: screen;
             height: 100%;
+            filter: grayscale(1) contrast(1.2);
         }
 
         &__photo {

@@ -37,7 +37,7 @@ section_three:
   title: Notre mission
   blocks:
     - title: Nos missions
-      photo: /uploads/brochure-front.jpeg
+      photo: /uploads/mission.jpg
       text: >-
         * **Produire de l’information** de qualité, inspirante et critique, libre et non-conformiste en adéquation avec le Manifeste Imagine et via quatre canaux de diffusion : son magazine papier, sa platerforme web, son média digital (dès le 10/10) et ses réseaux sociaux
 
@@ -45,7 +45,7 @@ section_three:
 
         * **Fédérer** autour du magazine **les acteurs de changement** et aider ses lecteurs à passer à l’action
     - title: Notre vision
-      photo: /uploads/brochure-front.jpeg
+      photo: /uploads/vision.jpg
       text: >-
         Etre, en 2025, **un média et un co-producteur de référence** en Belgique et en francophonie. Imagine COOP propose des contenus journalistiques et  documentaires originaux et indépendants, fédère autour de sa nouvelle coopérative de presse et de services une communauté Imagine. Sa gouvernance repose sur l’agilité, la coopération, la participation et l’inclusion de différents acteurs de la société civile et l’exemplarité des valeurs portées par l’organisation.
 section_four:
@@ -64,7 +64,7 @@ section_four:
     - title: La considération
       photo: /uploads/brochure-front.jpeg
       text: >-
-        Chez Imagine COOP, on a de la considération pour l’ensemble du monde vivant, humains et non humains compris. On tient compte de toutes et tous dans l’entreprise. C’est un projet avant tout collectif. On a de l’estime pour toutes celles et ceux qui font vivre pleinement notre entreprise (coopérateurs, lecteurs, collaborateurs, partenaires…).
+        Chez Imagine COOP, on a de la considération pour l’ensemble du monde vivant, humains et non humains compris. On tient compte de toutes et tous dans l’entreprise. C’est un projet avant tout collectif.
 
     - title: L'équilibre
       photo: /uploads/brochure-front.jpeg
@@ -108,7 +108,7 @@ team:
       photo: /v1591708258/sophie-weverbergh_amyoos.jpg
     - name: Anthony Barbarich
       job: Consultant web
-      photo: /v1591708263/yves-alie_ruw85l.jpg
+      photo: /uploads/anthony-barbarich.jpeg
     - name: André Ruwet
       job: Fondateur d’_Imagine_ (1951-2018)
       photo: ''
