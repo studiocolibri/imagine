@@ -7,28 +7,28 @@ section_one:
   title: Imagine COOP,<br> c'est quoi ?
   list:
     - text: >-
-        Une **coopérative agréée, à finalité sociale**, fondée le 30 août 2023 par ses travailleuses et ses travailleurs
+        Une **coopérative à finalité sociale** de presse et de services fondée début septembre 2023 par ses travailleuses et ses travailleurs. Imagine COOP est spécialisée dans **les transformations écologique et sociale**.
     - text: >-
         Une **entreprise ancrée localement** (Wallonie-Bruxelles), qui emploie sept personnes, avec des valeurs et des engagements forts : une gouvernance éthique et démocratique, une parité de genre (7 employés, cinq hommes et deux hommes), une approche éco-responsable…
     - text: >-
-        Un **magazine précurseur** (*Imagine Demain le monde*), fondé en 1996, qui s’inscrit dans le courant *slow press* et porte, depuis 27 ans, un regard audacieux, constructif et critique sur les grandes urgences sociétales (climat, inégalités sociales, biodiversité, éducation, démocratie, solidarités internationales…) lien vers notre Manifeste
+        Un **magazine précurseur** (Imagine Demain le monde) fondé en 1996 qui s’inscrit dans le courant slow press et porte un regard audacieux, constructif et critique sur les grandes urgences sociétales (climat, inégalités, biodiversité, démocratie, solidarités internationales…).<br><br>[→ Notre manifeste](/notre-manifeste/)
     - text: >-
-        Une structure coopérative et deux branches d’activités : le **Média Imagine** (papier & digital) à découvrir, dès le 11 octobre et l’**Agence services Imagine** qui propose différents services à la collectivité (associations, entreprises sociales, opérateurs culturels, pouvoirs publics…) et à la carte (production de contenus, éducation aux médias & crises environnementales, animation).
+        Imagine COOP a deux branches d’activités : le **Média Imagine** (papier & digital à découvrir dès le 11 octobre) et l’**Agence de services Imagine** qui propose des services aux associations, entreprises sociales, opérateurs culturels… à la carte (accompagnement pédagogique, production de contenus, animations…).
     - text: >-
         Une **gouvernance structurée et partagée** avec un conseil d’administration pluraliste et transdisciplinaire, une assemblée générale souveraine, un comité de rédaction indépendant et le Laboratoire d’idées Imagine.
 section_two:
   title: Les <b>sept bonnes raisons</b> <br>de nous rejoindre
   list:
     - text: >-
-        Je soutiens la création d’une **coopérative agréée, à finalité sociale**, de presse et de services
+        Je soutiens la création d’une **coopérative à finalité sociale**, de presse et de services
     - text: >-
         Je contribue au redéploiement d’un **magazine pionnier** depuis 1996, autonome et d’intérêt public
     - text: >-
         Je défends un **journalisme d’impact**, constructif et de qualité
     - text: >-
-        J’investis dans l’**économie réelle** et soutenable, hors des circuits financiers et bancaires
+        J’investis dans l’**économie réelle** et soutenable, hors des circuits financiers et bancaires classiques
     - text: >-
-        Je prends part à une entreprise sociale et solidaire avec des **valeurs et des engagements** forts (gouvernance, parité de genre, éco-responsabilité…). J’ai un **droit de regard et de vote** dans la gestion de l’entreprise et je peux m’impliquer via divers canaux (boîte à ressources, rôle d’ambassadeur/drice…)
+        Je prends part à une entreprise sociale et solidaire avec des **valeurs et des engagements** forts (gouvernance, égalité de genre, éco-responsabilité…). J’ai un **droit de regard et de vote** dans la gestion de l’entreprise et je peux m’impliquer via divers canaux (boîte à ressources, rôle d’ambassadeur/drice…)
     - text: >-
         Je permets le renforcement et la **création d’emplois** locaux et durables
     - text: >-
@@ -79,18 +79,12 @@ section_four:
 team:
   title: Notre équipe
   members:
+    - name: Sarah Jonet
+      job: Directrice d’Imagine COOP
+      photo: /uploads/sarah-jonet.jpg
     - name: Hugues Dorzée
-      job: rédacteur en chef
+      job: Rédacteur en chef
       photo: /v1591708260/hugues-dorzee_rufkqe.jpg
-      text: >-
-        Après dix-huit ans au quotidien _Le Soir_, Hugues est devenu rédacteur
-        en chef d’_Imagine_ en 2014. Cycliste du quotidien, féru de littérature
-        anglo-saxonne, joggeur des villes et des campagnes, il défend un
-        journalisme terre-à-terre et apaisé sur les pas du philosophe Uchida
-        Tastsuru (_« Pour que les médias reviennent à la vie, ils n’ont pas
-        d’autre choix que de redevenir des êtres vivants »)._ Il a un petit
-        faible pour l’expresso _ristretto_, les films de Ken Loach et la musique
-        de Chily Gonzales, le Cap Corse et les cabanes perchées.
     - name: Laure de Hesselle
       job: Journaliste
       photo: /v1591708260/laure-de-hesselle_dp4gdq.jpg
@@ -101,7 +95,7 @@ team:
       job: Journaliste
       photo: /v1591708265/sarah-frere_dlcywu.jpg
     - name: Pascale Derriks
-      job: Responsable administrative & financière
+      job: Chargée administrative & financière
       photo: /v1591708258/pascale-derriks_yaqzte.jpg
     - name: Fanny Dion
       job: Chargée de développement
@@ -112,11 +106,11 @@ team:
     - name: Sophie Weverbergh
       job: Correctrice
       photo: /v1591708258/sophie-weverbergh_amyoos.jpg
-    - name: Yves Alié
-      job: Conseiller régie publicitaire
+    - name: Anthony Barbarich
+      job: Consultant web
       photo: /v1591708263/yves-alie_ruw85l.jpg
     - name: André Ruwet
-      job: Fondateur d’_Imagine_
+      job: Fondateur d’_Imagine_ (1951-2018)
       photo: ''
 cta:
     text: Imagine est un éditeur indépendant. Il vit en priorité grâce à ses lecteurs. Abonnez-vous et contribuez au développement d’un projet de presse original, alternatif et sans but lucratif.
@@ -128,7 +122,7 @@ cta:
 
 ### **Trois classes de coopérateurs**
 
-* Classe A : les fondateurs & garants, les travailleuses et travailleurs d’Imagine, le CNCD-11.11.11 et l’Asbl La Petite Fabrique Imagine
+* Classe A (fondateurs & garants) : les travailleuses et travailleurs d’Imagine, le CNCD-11.11.11 et l’Asbl La Petite Fabrique Imagine
 * Classe B : les lecteurs, abonnés, citoyens et sympathisants
 * Classe C : les organisations (associations, ONG, entreprises, opérateurs culturels, villes & communes, syndicats, mutuelles…)
 
@@ -138,11 +132,23 @@ cta:
 * Les organisations (classe C ) : minimum 5 parts (500 €)
 * La présente offre de souscription de parts (classe B & C) est limitée à maximum 5.000€ par coopérateur et 500.000€ par an, conformément à la réglementation en vigueur
 
+### **Son impact social & environnemental**
+
+* L’implantation d’Imagine COOP début 2024 à La Menuiserie, un centre d’entreprises dédié à la transition vers une économie soutenable, plus sociale et solidaire (mutualisation des ressources, architecture durable, mobilité douce…)
+
+* Une rémunération décente de ses collaborateurs
+* Des modes de déplacement bas carbone (transports en commun, vélo, limitation des voyages en avion & compensation)
+* Une parité de genre dans l’équipe (7 travailleurs, 5 femmes, 2 hommes)
+* La production d’un magazine papier éco-conçu (papier recyclé, label FSC, encres écologiques), via un imprimeur local, familial et spécialisé dans l’édition durable (Kliemo, Eupen)
+* Un site web eco-friendly (Studio Colibri)
+* Une partie de la distribution assurée via la Belgian Cycle Logistics Federation (vélos cargos) à Liège, Namur et Bruxelles
+* La revalorisation des numéros invendus (récupération & dons)
+
 ### **La gouvernance**
 
-* Quatre organes de gouvernance : l’assemblée générale (l’ensemble des coopérateurs), le conseil d’administration (9 personnalités issues de la société civile avec des compétences croisées : finance, stratégie, droit, presse…), le comité de rédaction (garant de la ligne éditoriale du magazine) et le Laboratoire d’idées Imagine (un *think tank* qui se réunit une fois par an)
-* Droit de vote sur le principe « 1 personne = 1 voix »
-* Un mode de fonctionnement éthique et transparent
+* Quatre organes de gouvernance : **l’assemblée générale** (l’ensemble des coopérateurs), **le conseil d’administration** (9 personnalités issues de la société civile avec des compétences croisées : finance, stratégie, droit, presse…), **le comité de rédaction** (garant de la ligne éditoriale du magazine) et **le Laboratoire d’idées Imagine** (un *think tank* qui se réunit une fois par an)
+* Droit de vote sur le principe **« 1 personne = 1 voix »**
+* Un mode de fonctionnement **éthique et transparent**
 
 ### **Quelques chiffres clés**
 
@@ -155,17 +161,3 @@ cta:
 * Statuts de la coopérative
 * Règlement d’ordre intérieur
 * Charte fondatrice & Manifeste Imagine
-
-### **Son impact social & environnemental**
-
-* L’implantation d’Imagine COOP début 2024 à La Menuiserie, un centre d’entreprises dédié à la transition vers une économie soutenable, plus sociale et solidaire
-
-&nbsp; &nbsp; (mutualisation des ressources, architecture durable, mobilité douce…)
-
-* Une rémunération décente de ses collaborateurs
-* Des modes de déplacement bas carbone (transports en commun, vélo, limitation des voyages en avion & compensation)
-* Une parité de genre dans l’équipe (7 travailleurs, 5 femmes, 2 hommes)
-* La production d’un magazine papier éco-conçu (papier recyclé, label FSC, encres écologiques), via un imprimeur local, familial et spécialisé dans l’édition durable (Kliemo, Eupen)
-* Un site web eco-friendly (Studio Colibri)
-* Une partie de la distribution assurée via la Belgian Cycle Logistics Federation (vélos cargos) à Liège, Namur et Bruxelles
-* La revalorisation des numéros invendus (récupération & dons)
