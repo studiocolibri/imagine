@@ -65,15 +65,12 @@ section_three:
       text: >-
         * **Produire de l’information** de qualité, inspirante et critique,
         libre et non-conformiste en adéquation avec le Manifeste Imagine et via
-        quatre canaux de diffusion : son magazine papier, sa platerforme web,
-        son média digital (dès le 10/10) et ses réseaux sociaux
+        quatre canaux de diffusion : son magazine papier, sa plateforme web,
+        son média digital (dès le 11/10) et ses réseaux sociaux
 
-        * **Offrir des services à la collectivité** (écoles, société civile,
-        secteur de l’économie sociale…) en matière d’accompagnement pédagogique
-        et de  formations, d’animation et de productions de contenus
+        * **Offrir des services à la collectivité** (écoles, associations, collectifs, opérateurs culturels, secteur de l’économie sociale…) en matière d’accompagnement pédagogique et de  formations, d’animation et de productions graphiques et de contenus
 
-        * **Fédérer** autour du magazine **les acteurs de changement** et aider
-        ses lecteurs à passer à l’action
+        * **Fédérer** autour du magazine **les actrices et les acteurs de changement** et aider nos lectrices et nos lecteurs à passer à l’action
     - title: Notre vision
       photo: /uploads/vision.jpg
       text: >-
@@ -82,7 +79,7 @@ section_three:
         et  documentaires originaux et indépendants, fédère autour de sa
         nouvelle coopérative de presse et de services une communauté Imagine. Sa
         gouvernance repose sur l’agilité, la coopération, la participation et
-        l’inclusion de différents acteurs de la société civile et l’exemplarité
+        l’inclusion de différents acteurs de la société civile organisée et l’exemplarité
         des valeurs portées par l’organisation.
 section_four:
   title: Nos valeurs
@@ -108,10 +105,7 @@ section_four:
     - title: L'équilibre
       photo: /uploads/equilibre1.png
       text: >-
-        Articulation vie privée et vie professionnelle pour ses travailleuses et
-        travailleurs, parité de genre et d’âge… Imagine COOP vise l’équilibre. Y
-        compris dans son traitement de l’information (juste et nuancée) et des
-        enjeux (articulation des thématiques de manière systémique).
+        Articulation vie privée et vie professionnelle pour ses travailleuses et travailleurs, égalité des genres, diversité des âges et des parcours d’âge… Imagine COOP vise l’équilibre. Y compris dans son traitement de l’information (juste et nuancée) et des enjeux (articulation des thématiques de manière systémique).
     - title: L'engagement
       photo: /uploads/engagement1.png
       text: >-
