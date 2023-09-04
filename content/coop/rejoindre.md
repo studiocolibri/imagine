@@ -154,9 +154,6 @@ team:
     - name: Anthony Barbarich
       job: Consultant web
       photo: /uploads/barbarich-anthony.png
-    - name: André Ruwet
-      job: Fondateur d’_Imagine_ (1951-2018)
-      photo: ''
 cta:
   text: >-
     Imagine est un éditeur indépendant. Jusqu’ici le magazine vit en priorité
