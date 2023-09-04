@@ -480,6 +480,14 @@ collections_config:
         label: Cover
         comment: Image Cover
         cascade: true
+      reponse:
+        type: markdown
+        options:
+          allow_resize: true
+          initial_height: 320
+          image_size_attributes: true
+          resize_style: contain
+        cascade: true
     _select_data: {}
     _structures: {}
     create:
