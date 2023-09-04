@@ -65,12 +65,16 @@ section_three:
       text: >-
         * **Produire de l’information** de qualité, inspirante et critique,
         libre et non-conformiste en adéquation avec le Manifeste Imagine et via
-        quatre canaux de diffusion : son magazine papier, sa plateforme web,
-        son média digital (dès le 11/10) et ses réseaux sociaux
+        quatre canaux de diffusion : son magazine papier, sa plateforme web, son
+        média digital (dès le 11/10) et ses réseaux sociaux
 
-        * **Offrir des services à la collectivité** (écoles, associations, collectifs, opérateurs culturels, secteur de l’économie sociale…) en matière d’accompagnement pédagogique et de  formations, d’animation et de productions graphiques et de contenus
+        * **Offrir des services à la collectivité** (écoles, associations,
+        collectifs, opérateurs culturels, secteur de l’économie sociale…) en
+        matière d’accompagnement pédagogique et de  formations, d’animation et
+        de productions graphiques et de contenus
 
-        * **Fédérer** autour du magazine **les actrices et les acteurs de changement** et aider nos lectrices et nos lecteurs à passer à l’action
+        * **Fédérer** autour du magazine **les actrices et les acteurs de
+        changement** et aider nos lectrices et nos lecteurs à passer à l’action
     - title: Notre vision
       photo: /uploads/vision.jpg
       text: >-
@@ -79,8 +83,8 @@ section_three:
         et  documentaires originaux et indépendants, fédère autour de sa
         nouvelle coopérative de presse et de services une communauté Imagine. Sa
         gouvernance repose sur l’agilité, la coopération, la participation et
-        l’inclusion de différents acteurs de la société civile organisée et l’exemplarité
-        des valeurs portées par l’organisation.
+        l’inclusion de différents acteurs de la société civile organisée et
+        l’exemplarité des valeurs portées par l’organisation.
 section_four:
   title: Nos valeurs
   blocks:
@@ -105,7 +109,11 @@ section_four:
     - title: L'équilibre
       photo: /uploads/equilibre1.png
       text: >-
-        Articulation vie privée et vie professionnelle pour ses travailleuses et travailleurs, égalité des genres, diversité des âges et des parcours d’âge… Imagine COOP vise l’équilibre. Y compris dans son traitement de l’information (juste et nuancée) et des enjeux (articulation des thématiques de manière systémique).
+        Articulation vie privée et vie professionnelle pour ses travailleuses et
+        travailleurs, égalité des genres, diversité des âges et des parcours
+        d’âge… Imagine COOP vise l’équilibre. Y compris dans son traitement de
+        l’information (juste et nuancée) et des enjeux (articulation des
+        thématiques de manière systémique).
     - title: L'engagement
       photo: /uploads/engagement1.png
       text: >-
@@ -161,19 +169,7 @@ section_faq:
   title: Infos pratiques & FAQ
   block:
     - question: "Pourquoi le modèle coopératif\_?"
-      reponse: >-
-        Depuis sa création en 1996, Imagine est constitué en ASBL. Après avoir
-        exploré plusieurs formes de structures (Asbl renouvelée, adossement à
-        une fondation, société privée…), nous avons opté pour le modèle
-        coopératif qui est parfaitement en phase avec nos valeurs (entraide,
-        responsabilité, équité...) et nos principes (adhésion volontaire et
-        ouverte, contrôle démocratique, participation économique des membres,
-        engagement dans la société...). <br> Par ailleurs, c’est un moyen de
-        remobiliser et d’élargir notre communauté de lectrices et de       
-        lecteurs, de lancer un signal positif vers l’extérieur (un magazine de
-        27 ans qui se        réinvente et se projette vers l’avenir) et de
-        réinjecter du capital pour retrouver une capacité d’investissement et
-        assurer notre développement.
+      reponse: "Depuis sa création en 1996, Imagine est constitué en ASBL. Après avoir exploré plusieurs formes de structures (ASBL renouvelée dans ses instances, adossement à une fondation, société privée…), nous avons opté pour le modèle coopératif. C’est celui qui est le plus en phase avec nos valeurs (entraide, responsabilité, équité...) et nos principes (adhésion volontaire et ouverte, contrôle démocratique, participation économique des membres, engagement dans la société...).  Par ailleurs, c’est un moyen de remobiliser et d’élargir notre communauté de lectrices et de lecteurs, de lancer un signal positif vers l’extérieur (un magazine de 27 ans qui se réinvente et se projette vers l’avenir) et de réinjecter du capital pour retrouver une capacité d’investissement et assurer notre développement (notamment en lien avec digitalisation de nos contenus et afin d’être en phase avec de nouvelles manières de «\_consommer l’information\_»)."
     - question: "Comment s’est construit Imagine COOP\_?"
       reponse: >-
         C’est un long chantier de trois ans autour de  gouvernance, de notre
@@ -271,9 +267,11 @@ Chaque personne peut souscrire à un maximum de 5.000 € conformément à la l�
 * L’implantation d’Imagine COOP début 2024 à La Menuiserie, un centre d’entreprises dédié à la transition vers une économie soutenable, plus sociale et solidaire (mutualisation des ressources, architecture durable, mobilité douce…)
 
 * Une rémunération juste de ses collaboratrices et des collaborateurs
+
 * Des modes de déplacement bas carbone (transports en commun, vélo, limitation des voyages en avion & compensation)
 
 * L’égalité des genres (et une équipe de 7 personnes dont majoritairement des femmes)
+
 * La production d’un magazine papier éco-conçu (papier recyclé, label FSC, encres écologiques), via un imprimeur local, familial et spécialisé dans l’édition durable (Kliemo, Eupen)
 
 * Un site web eco-friendly (Studio Colibri)
