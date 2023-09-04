@@ -172,11 +172,13 @@ section_faq:
       reponse: "Depuis sa création en 1996, Imagine est constitué en ASBL. Après avoir exploré plusieurs formes de structures (ASBL renouvelée dans ses instances, adossement à une fondation, société privée…), nous avons opté pour le modèle coopératif. C’est celui qui est le plus en phase avec nos valeurs (entraide, responsabilité, équité...) et nos principes (adhésion volontaire et ouverte, contrôle démocratique, participation économique des membres, engagement dans la société...).  Par ailleurs, c’est un moyen de remobiliser et d’élargir notre communauté de lectrices et de lecteurs, de lancer un signal positif vers l’extérieur (un magazine de 27 ans qui se réinvente et se projette vers l’avenir) et de réinjecter du capital pour retrouver une capacité d’investissement et assurer notre développement (notamment en lien avec digitalisation de nos contenus et afin d’être en phase avec de nouvelles manières de «\_consommer l’information\_»)."
     - question: "Comment s’est construit Imagine COOP\_?"
       reponse: >-
-        C’est un long chantier de trois ans autour de  gouvernance, de notre
+        * lol
+
+        * C’est un long chantier de trois ans autour de  gouvernance, de notre
         modèle économique, de la stratégie éditoriale, de la diversification de
         nos recettes… Ce processus en deux temps – #Imagine2020 (éditorial) et
         Imaginnove (entreprise) – s’est déroulé de manière collaborative et
-        dynamique avec des workshops thématiques, une consultation de nos
+        dynamique avec des **workshops** thématiques, une consultation de nos
         lectrices et de nos lecteurs, un accompagnement par une agence-conseil
         (Propage-s), l’appui de professionnels extérieurs (la Fopes-UCLouvain,
         l’Ihecs Academy, l’Asbl Collectiv-a…), etc. Au bout de ce passionnant
