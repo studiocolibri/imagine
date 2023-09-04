@@ -126,34 +126,34 @@ team:
   members:
     - name: Sarah Jonet
       job: Directrice d’Imagine COOP
-      photo: /uploads/sarah-jonet.jpg
+      photo: /uploads/jonet-sarah.png
     - name: Hugues Dorzée
       job: Rédacteur en chef
-      photo: /v1591708260/hugues-dorzee_rufkqe.jpg
+      photo: /uploads/dorzee-hugues.png
     - name: Laure de Hesselle
       job: Journaliste
-      photo: /v1591708260/laure-de-hesselle_dp4gdq.jpg
+      photo: /uploads/dehesselle-laure.png
     - name: Christophe Schoune
       job: Journaliste
-      photo: /v1591708259/christophe-schoune_uldx8g.jpg
+      photo: /uploads/schoune-christophe.png
     - name: Sarah Freres
       job: Journaliste
-      photo: /v1591708265/sarah-frere_dlcywu.jpg
+      photo: /uploads/feres-sarah.png
     - name: Pascale Derriks
       job: Chargée administrative & financière
-      photo: /v1591708258/pascale-derriks_yaqzte.jpg
+      photo: /uploads/derricks-pascale.png
     - name: Fanny Dion
       job: Chargée de développement
-      photo: /uploads/image-50433793.JPG
+      photo: /uploads/dion-fanny.png
     - name: David Cauwe
       job: Graphiste
-      photo: /v1591708258/david-cauwe_w6zktb.jpg
+      photo: /uploads/cauwe-david.png
     - name: Sophie Weverbergh
       job: Correctrice
       photo: /v1591708258/sophie-weverbergh_amyoos.jpg
     - name: Anthony Barbarich
       job: Consultant web
-      photo: /uploads/anthony-barbarich.jpeg
+      photo: /uploads/barbarich-anthony.png
     - name: André Ruwet
       job: Fondateur d’_Imagine_ (1951-2018)
       photo: ''
