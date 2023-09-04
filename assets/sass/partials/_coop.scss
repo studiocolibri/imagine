@@ -81,16 +81,13 @@
     
         img {
             border-radius: 100%;
-            mix-blend-mode: screen;
             width: 200px;
             height: 200px;
-            filter: grayscale(1) contrast(1.2);
             object-fit: cover;
 
         }
 
         &__photo {
-            background-color: var(--coopsec);
             border-radius: 100%;
             margin-bottom: .5rem;
             margin-right: 0;
