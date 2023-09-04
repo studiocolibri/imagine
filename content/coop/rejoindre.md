@@ -169,81 +169,248 @@ section_faq:
   title: Infos pratiques & FAQ
   block:
     - question: "Pourquoi le modèle coopératif\_?"
-      reponse: "Depuis sa création en 1996, Imagine est constitué en ASBL. Après avoir exploré plusieurs formes de structures (ASBL renouvelée dans ses instances, adossement à une fondation, société privée…), nous avons opté pour le modèle coopératif. C’est celui qui est le plus en phase avec nos valeurs (entraide, responsabilité, équité...) et nos principes (adhésion volontaire et ouverte, contrôle démocratique, participation économique des membres, engagement dans la société...).  Par ailleurs, c’est un moyen de remobiliser et d’élargir notre communauté de lectrices et de lecteurs, de lancer un signal positif vers l’extérieur (un magazine de 27 ans qui se réinvente et se projette vers l’avenir) et de réinjecter du capital pour retrouver une capacité d’investissement et assurer notre développement (notamment en lien avec digitalisation de nos contenus et afin d’être en phase avec de nouvelles manières de «\_consommer l’information\_»)."
+      reponse: >-
+        Depuis sa création en 1996, Imagine est constitué en ASBL. Après avoir
+        exploré plusieurs formes de structures (ASBL renouvelée dans ses
+        instances, adossement à une fondation, société privée…), nous avons opté
+        pour le modèle coopératif. C’est celui qui est le plus en phase avec nos
+        valeurs (entraide, responsabilité, équité...) et nos principes (adhésion
+        volontaire et ouverte, contrôle démocratique, participation économique
+        des membres, engagement dans la société...).
+
+
+        Par ailleurs, c’est un moyen de remobiliser et d’élargir notre
+        communauté de lectrices et de lecteurs, de lancer un signal positif vers
+        l’extérieur (un magazine de 27 ans qui se réinvente et se projette vers
+        l’avenir) et de réinjecter du capital pour retrouver une capacité
+        d’investissement et assurer notre développement (notamment en lien avec
+        digitalisation de nos contenus et afin d’être en phase avec de nouvelles
+        manières de « consommer l’information »).
     - question: "Comment s’est construit Imagine COOP\_?"
       reponse: >-
-        * lol
+        C’est un chantier évolutif de trois ans autour de notre gouvernance, de
+        notre modèle économique, de la stratégie éditoriale, de la
+        diversification de nos recettes…
 
-        * C’est un long chantier de trois ans autour de  gouvernance, de notre
-        modèle économique, de la stratégie éditoriale, de la diversification de
-        nos recettes… Ce processus en deux temps – #Imagine2020 (éditorial) et
-        Imaginnove (entreprise) – s’est déroulé de manière collaborative et
-        dynamique avec des **workshops** thématiques, une consultation de nos
-        lectrices et de nos lecteurs, un accompagnement par une agence-conseil
-        (Propage-s), l’appui de professionnels extérieurs (la Fopes-UCLouvain,
-        l’Ihecs Academy, l’Asbl Collectiv-a…), etc. Au bout de ce passionnant
-        processus, nous avons construit un plan de structuration d’entreprise,
-        un plan financier et un plan stratégique 2023-2026.
-    - question: La question ?
+
+        Ce processus en deux temps – \#Imagine2020 (éditorial) et Imaginnove
+        (entreprise) – s’est déroulé de manière collaborative et dynamique avec
+        des workshops thématiques, une consultation de nos lectrices et de nos
+        lecteurs, un accompagnement par une agence-conseil (Propage-s), l’appui
+        de professionnels extérieurs (la Fopes-UCLouvain, l’Ihecs Academy,
+        l’Asbl Collectiv-a…), etc.
+
+
+        Au bout de ce passionnant processus, nous avons construit avec l’aide de
+        Propage-s un plan de structuration d’entreprise, un plan financier et un
+        plan stratégique 2023-2026. Très vite, nous avons également pu compter
+        sur le soutien de W.alter.
+    - question: "Pourquoi une coopérative agréée à finalité sociale\_?"
       reponse: >-
-        Imagine COOP participe activement à&nbsp; la vie sociale, démocratique,
-        écologique, culturelle, intellectuelle… de son temps. Il a des
-        convictions qui sont connues et assumées (cfr son Manifeste & sa charte
-        fondatrice).
-    - question: La question ?
+        Ce modèle est cohérent avec nos valeurs (processus démocratique,
+        participation des travailleurs, pas de recherche d’enrichissement des
+        associés, affectation des bénéfices à la réalisation du projet
+        Imagine…).
+
+
+        Par ailleurs, Imagine COOP a sollicité un agrément de la part du
+        Ministre de l'Economie afin de devenir membre du Conseil national de la
+        coopération, de l’entreprenariat social et de l’entreprise agricole
+        (CNC).
+    - question: "Qui sont les fondateurs d’Imagine COOP\_?"
       reponse: >-
-        Imagine COOP participe activement à&nbsp; la vie sociale, démocratique,
-        écologique, culturelle, intellectuelle… de son temps. Il a des
-        convictions qui sont connues et assumées (cfr son Manifeste & sa charte
-        fondatrice).
-    - question: La question ?
+        Ce sont les travailleuses et les travailleurs d’Imagine à titre
+        individuels, ainsi que deux personnes morales : La Petite Fabrique
+        Imagine Asbl et le CNCD-11.11.11.
+    - question: "Où est le siège d’Imagine COOP\_?"
       reponse: >-
-        Imagine COOP participe activement à&nbsp; la vie sociale, démocratique,
-        écologique, culturelle, intellectuelle… de son temps. Il a des
-        convictions qui sont connues et assumées (cfr son Manifeste & sa charte
-        fondatrice).
-    - question: La question ?
+        Actuellement installée Boulevard Frères Orban à Liège, notre entreprise
+        va déménager ses bureaux début 2024 à La Menuiserie (53 rue de
+        l’Académie, à Liège), pour rejoindre ce nouveau centre dédié aux
+        entreprises sociales et en transition <a target="_blank" rel="noopener"
+        href="https://novacitis.be/">https://novacitis.be/</a>
+    - question: "Quel est l’objectif financier pour la campagne de levée de fonds\_?"
       reponse: >-
-        Imagine COOP participe activement à&nbsp; la vie sociale, démocratique,
-        écologique, culturelle, intellectuelle… de son temps. Il a des
-        convictions qui sont connues et assumées (cfr son Manifeste & sa charte
-        fondatrice).
-    - question: La question ?
+        Notre appel public à l’épargne va s’organiser autour d’une première
+        phase qui se déroulera du 15 septembre 2023 à fin mars 2024. Notre
+        premier objectif est de réunir 150.000 €, tous types de parts confondus.
+        Si nous atteignons cette somme avant la fin de la campagne, nous
+        reverrons notre objectif à la hausse.
+    - question: "A quoi va servir le capital investi par les coopérateurs\_? "
       reponse: >-
-        Imagine COOP participe activement à&nbsp; la vie sociale, démocratique,
-        écologique, culturelle, intellectuelle… de son temps. Il a des
-        convictions qui sont connues et assumées (cfr son Manifeste & sa charte
-        fondatrice).
-    - question: La question ?
+        Notre plan financier 2023-2026 prévoit une série d’investissements
+        autour de trois grands axes : la transformation digitale du média
+        Imagine (nouvelle plateforme web, créations numériques, podcasts…), la
+        gestion informatique (logiciels de gestion, IT…) et les ressources
+        humaines (engagement d’une nouvelle directrice, renforcement de l’emploi
+        existant, recrutement d’un(e) community manager free-lance et de
+        nouveaux collaborateurs.trices…). Montant total de l’investissement :
+        207.000 €
+    - question: "Quid des éventuels bénéfices\_?"
       reponse: >-
-        Imagine COOP participe activement à&nbsp; la vie sociale, démocratique,
-        écologique, culturelle, intellectuelle… de son temps. Il a des
-        convictions qui sont connues et assumées (cfr son Manifeste & sa charte
-        fondatrice).
-    - question: La question ?
+        Si la coopérative réalise des bénéfices, les statuts prévoient que c’est
+        à l’assemblée générale de décider de l’affectation de ceux-ci. *A
+        priori*, ils seront prioritairement affectés au développement de la
+        coopérative (emploi, contenus éditoriaux, investissements…). Toutefois,
+        si l’assemblée générale le décide, le versement de dividendes aux
+        coopérateurs n’est pas exclu. Mais ceux-ci seront plafonnées à 6 %.
+    - question: "Quid des éventuelles pertes\_? "
       reponse: >-
-        Imagine COOP participe activement à&nbsp; la vie sociale, démocratique,
-        écologique, culturelle, intellectuelle… de son temps. Il a des
-        convictions qui sont connues et assumées (cfr son Manifeste & sa charte
-        fondatrice).
-    - question: La question ?
+        Si la coopérative réalise des pertes, ou contractent des dettes,
+        celles-ci concernent le patrimoine de la société coopérative, et non
+        celui des coopérateurs (qui sont « concernés » uniquement à hauteur de
+        leurs apports dans le patrimoine de la société). Il s’agit en fait d’une
+        société coopérative à responsabilité limitée (même si l’appellation a
+        été supprimée suite à la réforme du Code des sociétés).
+
+
+        L’article 8 des statuts de la coopérative précise bien cette
+        responsabilité limitée des coopératrices et coopérateurs de la
+        coopérative.
+    - question: "Les coopérateurs bénéficient-ils d’avantages fiscaux\_?"
       reponse: >-
-        Imagine COOP participe activement à&nbsp; la vie sociale, démocratique,
-        écologique, culturelle, intellectuelle… de son temps. Il a des
-        convictions qui sont connues et assumées (cfr son Manifeste & sa charte
-        fondatrice).
-    - question: La question ?
+        Non, car Imagine COOP est une transformation d’une entreprise existante
+        (ASBL) en coopérative. Elle ne bénéficie pas du système de Tax Shelter.
+    - question: "Les coopérateurs peuvent-il se retirer et récupérer leur(s) part(s)\_?"
       reponse: >-
-        Imagine COOP participe activement à&nbsp; la vie sociale, démocratique,
-        écologique, culturelle, intellectuelle… de son temps. Il a des
-        convictions qui sont connues et assumées (cfr son Manifeste & sa charte
-        fondatrice).
-    - question: La question ?
+        Oui, il est possible de renoncer à son statut de coopérateur et de
+        récupérer sa ou ses part(s) à tout moment. Soit en les revendant à
+        Imagine COOP, soit à un autre coopérateur. Le remboursement par
+        l’entreprise devra se faire dans un délai maximum d’un an.
+    - question: "Les parts sont-elles nominatives\_?"
       reponse: >-
-        Imagine COOP participe activement à&nbsp; la vie sociale, démocratique,
-        écologique, culturelle, intellectuelle… de son temps. Il a des
-        convictions qui sont connues et assumées (cfr son Manifeste & sa charte
-        fondatrice).
+        Oui, elles appartiennent à une personne déterminée, mentionnée dans le
+        registre. Mais rien n’empêche de former un petit groupe pour acheter une
+        ou plusieurs part(s) et de déléguer une personne pour la gestion de
+        celle(s)-ci.
+    - question: "Quels sont les droits d’un coopérateur\_?"
+      reponse: >-
+        Il est co-propriétaire d’Imagine COOP et membre de droit de l’Assemblée
+        Générale qui se réunit au moins une fois par an pour transmettre aux
+        associés tous les éléments légaux (comptes, budget prévisionnel,
+        nomination/démission d’administrateurs…).
+
+
+        Il bénéficie d’un droit de vote sur le principe « une personne = une
+        voix » et participe pleinement à l’assemblée (force de proposition,
+        interpellation…).
+
+
+        Il est tenu régulièrement informé de la vie d’Imagine COOP (le magazine,
+        l’agence de services…) via une newsletter spécifique et pourra
+        s’investir via notre « Bourse à idées et ressources », les événements
+        Imagine, les réseaux sociaux…
+    - question: "Quels sont les risques financiers\_? "
+      reponse: >-
+        Pour monter le plan financier 2023-2026 d’Imagine COOP, nous avons été
+        accompagnés par une agence-conseil composée de professionnels
+        (financier, juriste…) et nous sommes par ailleurs épaulé par un
+        investisseur public de premier plan (W.Alter, qui s’est engagé à
+        investir 125 000 € en trois tranches et de manière conditionnée ) qui
+        dispose également d’une large expertise financière et technique pour
+        nous accompagner dans notre développement.
+
+
+        Entreprendre, c’est toujours un pari sur l’avenir. Nous avons tout mis
+        en œuvre pour réussir cette transformation (CA professionnel,
+        investissements raisonnés…). Toutefois, on ne peut jamais garantir un
+        résultat à 100 %.
+
+
+        En cas de faillite de l’entreprise, il est toujours possible qu’elle ne
+        puisse pas rembourser ses coopérateurs. Néanmoins, le risque est limité,
+        car l’équipe opérationnelle et le CA, seront particulièrement attentifs
+        à la mise en oeuvre du plan financier et corriger le tir dès qu’il le
+        faut.
+    - question: "Quelle est la durée de la campagne\_? "
+      reponse: >-
+        La campagne va durer 6 mois (du 15 septembre au 31 mars), mais la prise
+        de parts pourra se poursuivre par la suite.
+    - question: "Si j’achète pour 100.000 €, je pourrai choisi la couverture du prochain numéro d’Imagine\_?"
+      reponse: >-
+        Non. Le principe de gouvernance est bien « une personne = une voix ». Le
+        poids au sein de l’assemblée générale n’est donc pas lié au montant
+        investi. Par ailleurs, le comité de rédaction reste pleinement libre. Il
+        effectue en toute indépendance ses choix rédactionnels. Par contre, les
+        coopératrices et les coopérateurs seront associé(e)s à la vie du
+        magazine (newsletter, événement…) et elles/ils pourront s’investir via
+        notre boîte à idées et à ressources Imagine COOP.
+    - question: "Quel est votre lien avec les partis politiques\_? "
+      reponse: >-
+        Imagine n’a aucun lien structurel ni idéologique avec un parti.
+
+
+        En 1996, « Imagine. Allant vert » a bien été créé à l’initiative de
+        Jacky Morael, alors secrétaire général d’Ecolo, avec l’expertise du
+        journaliste André Ruwet (La Cité, les magazines de Greenpeace), avec
+        l’objectif de lancer un magazine trimestriel financé par le parti, mais
+        organisé en Asbl.
+
+
+        Après un passage difficile en mensuel, les relations entre la rédaction
+        et Ecolo se sont quelques peu distendues et le divorce a été prononcé.
+
+
+        En février 2003, l’équipe d’Imagine a racheté le titre pour un euro
+        symbolique et relancé un bimestriel 100 % autonome, autogéré et soutenu
+        par ses lectrices et ses lecteurs.
+
+
+        En mars 2005, Imagine s’est ensuite associé avec le Centre national de
+        coopération au développement (CNCD-11.11.11), une ONG pluraliste qui
+        regroupe 90 organisations (ONG, syndicats…)
+    - question: "\LQuel est votre lien avec les groupes de presse\_? "
+      reponse: >-
+        Aucun. Imagine est un éditeur libre, qui évolue en dehors des deux seuls
+        grands groupes de presse en Belgique francophone (Rossel et IPM).
+
+
+        Par contre, il fait partie du collectif Kiosque, qui regroupe 7 médias
+        belges, francophones et libres (axelle, Alter Echos, Imagine, Le
+        Ligueur, Médor, Wilfried) (<a href="https://kiosque.media/"
+        target="_blank" rel="noopener">https://kiosque.media/</a>)
+    - question: "Qui compose le Conseil d’Administration\_?"
+      reponse: >-
+        Notre CA est pluriel, pluridisciplinaire et paritaire. Il est composé de
+        X membres et deux invité.e.s permanent.e.s :&nbsp; six femmes et cinq
+        hommes, cinq bruxellois, six wallons, avec des compétences mixtes
+        (économie, culture, sciences politique, marketing, monde académique...)
+
+
+        * **Charlotte Moreau**, économiste. Titulaire de la ChairES en Economie
+        Sociale, chargée de recherche au Centre d'Economie Sociale et maître de
+        conférences à HEC Liège
+
+        * **Adrienne Nizet**, ex-journaliste (Le Soir, culture) directrice
+        adjointe de Passa Porta (Maison internationale des Littératures à
+        Bruxelles) et coordinatrice du Passa Porta Festival
+
+        * **Maxime Vanderheyden,** économiste, co-fondateur et directeur
+        d’Ecopoon, coopérateur du Petit Monde de Desnié
+
+        * **Delphine Buchet,** sociologue, coordinatrice de Liège Créative –
+        Université de Liège, présidente des Amis du Théâtre de Liège
+
+        * **Arnaud Zacharie,** docteur en sciences politiques et sociales,
+        secrétaire général du Centre national de coopération au développement
+        (CNCD-11.11.11)
+
+        * **Audrey Comtesse,** architecte, historienne de l’art, directrice de
+        l’Institut Culturel d'Architecture Wallonie-Bruxelles (ICA)
+
+        * **Sandrino Graceffa,** sociologue, ** ** consultant, expert en
+        économie solidaire (coopératives & nouvelles formes de travail)
+
+        * **Chloé Mikolajczak,** titulaire d’un master en gestion de
+        l’environnement, coordinatrice du réseau Fossil Free Politics, activiste
+        climatique et gestionnaire du compte Instagram Greenmonki
+
+        * **Noémie Laumont (ajouter descriptif)**
+
+        * **Hugues Dorzée**, rédacteur chef Imagine (membre invité)
+
+        * **Sarah Jonet,** directrice d’Imagine COOP, déléguée aux affaires
+        journalières du CA (membre invité)
 ---
 ### **Trois classes de coopérateurs**
 
