@@ -12,8 +12,9 @@ section_one:
         COOP est spécialisée dans **les transformations écologique et sociale**.
     - text: >-
         Une **entreprise ancrée localement** (Wallonie-Bruxelles), qui emploie
-        sept personnes (dont une majorité femmes), avec des valeurs et des engagements forts : une
-        gouvernance éthique et démocratique, une approche éco-responsable…
+        sept personnes (dont une majorité femmes), avec des valeurs et des
+        engagements forts : une gouvernance éthique et démocratique, une
+        approche éco-responsable…
     - text: >-
         Un **magazine précurseur** (Imagine Demain le monde) fondé en 1996 qui
         s’inscrit dans le courant slow press et porte un regard audacieux,
@@ -38,8 +39,8 @@ section_two:
         Je soutiens la création d’une **coopérative à finalité sociale**, de
         presse et de services
     - text: >-
-        Je contribue au redéploiement d’un **magazine pionnier**,
-        autonome et d’intérêt public
+        Je contribue au redéploiement d’un **magazine pionnier**, autonome et
+        d’intérêt public
     - text: Je défends un **journalisme d’impact**, constructif et de qualité
     - text: >-
         J’investis dans l’**économie réelle** et soutenable, hors des circuits
@@ -156,7 +157,11 @@ team:
       photo: ''
 cta:
   text: >-
-    Imagine est un éditeur indépendant. Jusqu’ici le magazine vit en priorité grâce à ses lectrices et ses lecteurs. En soutenant Imagine COOP, vous participez à financer une presse libre, originale et pionnière sur les questions environnementales et sociales. Comme coopératrice, comme coopérateur, vous nous aidez à déployer notre entreprise sociale.
+    Imagine est un éditeur indépendant. Jusqu’ici le magazine vit en priorité
+    grâce à ses lectrices et ses lecteurs. En soutenant Imagine COOP, vous
+    participez à financer une presse libre, originale et pionnière sur les
+    questions environnementales et sociales. Comme coopératrice, comme
+    coopérateur, vous nous aidez à déployer notre entreprise sociale.
   button: Je prends des parts
 section_faq:
   title: Infos pratiques & FAQ
@@ -258,36 +263,47 @@ section_faq:
 
 * 100 € / part nominale (classe B)
 * Les organisations (classe C ) : minimum 5 parts de 100 € (= 500 €)
-* La présente offre de souscription de parts (classe B & C) limitée à un maximum de 5.000 €  par personne
+* La présente offre de souscription de parts (classe B & C) limitée à un maximum de 5.000 € par personne
 
+### **Cet appel public à l’épargne est ouvert :**
 
+* pour une durée limitée (du 15/9/23 jusqu’au 31/3/24)
+* et un montant limité à 500.000 €
+
+Chaque personne peut souscrire à un maximum de 5.000 € conformément à la législation en vigueur. Tout investissement financier comporte un risque.
 
 ### **Son impact social & environnemental**
 
 * L’implantation d’Imagine COOP début 2024 à La Menuiserie, un centre d’entreprises dédié à la transition vers une économie soutenable, plus sociale et solidaire (mutualisation des ressources, architecture durable, mobilité douce…)
 
-* Une rémunération décente de ses collaborateurs
+* Une rémunération juste de ses collaboratrices et des collaborateurs
 * Des modes de déplacement bas carbone (transports en commun, vélo, limitation des voyages en avion & compensation)
-* Une parité de genre dans l’équipe (7 travailleurs, 5 femmes, 2 hommes)
+
+* L’égalité des genres (et une équipe de 7 personnes dont majoritairement des femmes)
 * La production d’un magazine papier éco-conçu (papier recyclé, label FSC, encres écologiques), via un imprimeur local, familial et spécialisé dans l’édition durable (Kliemo, Eupen)
+
 * Un site web eco-friendly (Studio Colibri)
+
 * Une partie de la distribution assurée via la Belgian Cycle Logistics Federation (vélos cargos) à Liège, Namur et Bruxelles
+
 * La revalorisation des numéros invendus (récupération & dons)
 
 ### **La gouvernance**
 
-* Quatre organes de gouvernance : **l’assemblée générale** (l’ensemble des coopérateurs), **le conseil d’administration** (9 personnalités issues de la société civile avec des compétences croisées : finance, stratégie, droit, presse…), **le comité de rédaction** (garant de la ligne éditoriale du magazine) et **le Laboratoire d’idées Imagine** (un *think tank* qui se réunit une fois par an)
+* Quatre organes de gouvernance : **l’assemblée générale** (l’ensemble des coopérateurs), **le conseil d’administration** (9 personnalités issues d’horizons divers avec des compétences complémentaires : finance, stratégie, droit, presse… - lire dans FAQ ci-dessous), **le comité de rédaction** (garant de la ligne éditoriale du magazine) et **le Laboratoire d’idées Imagine** (un *think tank* qui se réunit une fois par an)
 * Droit de vote sur le principe **« 1 personne = 1 voix »**
 * Un mode de fonctionnement **éthique et transparent**
 
 ### **Quelques chiffres clés**
 
-* 7 travailleurs salariés (4,8 équivalents temps plein) et plusieurs collaborateurs fixes et/ou occasionnel (graphiste, correctrice, journalistes, photographes, illustrateurs…)
-* Un modèle économique mixte (+/- 65 % de recettes propres : abonnements, ventes & recettes diverses : publicité éthique et responsable, prestations diverses…) et 35 % de subventions publiques (Aide à presse non commerciale Fédération Wallonie-Bruxelles et coopérative au développement via notre partenaire, le CNCD-11.11.11)
+* **7 travailleurs salariés** (**4,8** équivalents temps plein) et plusieurs collaborateurs fixes et/ou occasionnel (graphiste, correctrice, journalistes, photographes, illustrateurs…)
+* Un **modèle économique mixte** (78 % de recettes propres) et 22 % de subventions publiques (Aide à presse non commerciale Fédération Wallonie-Bruxelles et coopérative au développement via notre partenaire, le CNCD-11.11.11)
+* **Part des recettes**&nbsp;: abonnements (80 %), ventes au numéro (10 %), suppléments rédactionnels et publicité éthique & responsable (7%), aides publiques (33 %)
+* **Part des dépenses**&nbsp;: rémunérations (56 %), production (26 %), frais de fonctionnement (9 %), diffusion (7%), promotion (2%)
+* **Tirage moyen** du magazine papier : 7.000 exemplaires
 
 ### **Les documents utiles** **(on joindra des PDF)**
 
 * Bilan 2022 de l’Asbl & rapport du réviseur
 * Statuts de la coopérative
-* Règlement d’ordre intérieur
 * Charte fondatrice & Manifeste Imagine
