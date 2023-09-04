@@ -12,9 +12,8 @@ section_one:
         COOP est spécialisée dans **les transformations écologique et sociale**.
     - text: >-
         Une **entreprise ancrée localement** (Wallonie-Bruxelles), qui emploie
-        sept personnes, avec des valeurs et des engagements forts : une
-        gouvernance éthique et démocratique, une parité de genre (7 employés,
-        cinq hommes et deux hommes), une approche éco-responsable…
+        sept personnes (dont une majorité femmes), avec des valeurs et des engagements forts : une
+        gouvernance éthique et démocratique, une approche éco-responsable…
     - text: >-
         Un **magazine précurseur** (Imagine Demain le monde) fondé en 1996 qui
         s’inscrit dans le courant slow press et porte un regard audacieux,
@@ -26,7 +25,7 @@ section_one:
         & digital à découvrir dès le 11 octobre) et l’**Agence de services
         Imagine** qui propose des services aux associations, entreprises
         sociales, opérateurs culturels… à la carte (accompagnement pédagogique,
-        production de contenus, animations…).
+        production de contenus, graphisme, animations…).
     - text: >-
         Une **gouvernance structurée et partagée** avec un conseil
         d’administration pluraliste et transdisciplinaire, une assemblée
@@ -39,7 +38,7 @@ section_two:
         Je soutiens la création d’une **coopérative à finalité sociale**, de
         presse et de services
     - text: >-
-        Je contribue au redéploiement d’un **magazine pionnier** depuis 1996,
+        Je contribue au redéploiement d’un **magazine pionnier**,
         autonome et d’intérêt public
     - text: Je défends un **journalisme d’impact**, constructif et de qualité
     - text: >-
@@ -47,7 +46,7 @@ section_two:
         financiers et bancaires classiques
     - text: >-
         Je prends part à une entreprise sociale et solidaire avec des **valeurs
-        et des engagements** forts (gouvernance, égalité de genre,
+        et des engagements** forts (gouvernance, égalité des genres,
         éco-responsabilité…). J’ai un **droit de regard et de vote** dans la
         gestion de l’entreprise et je peux m’impliquer via divers canaux (boîte
         à ressources, rôle d’ambassadeur/drice…)
@@ -56,7 +55,7 @@ section_two:
         durables
     - text: >-
         J’entre dans la **communauté Imagine**, partie prenante des
-        indispensables transformations écologique et sociale
+        indispensables transformations écologiques et sociales
 section_three:
   title: Notre mission
   blocks:
@@ -157,9 +156,7 @@ team:
       photo: ''
 cta:
   text: >-
-    Imagine est un éditeur indépendant. Il vit en priorité grâce à ses lecteurs.
-    Abonnez-vous et contribuez au développement d’un projet de presse original,
-    alternatif et sans but lucratif.
+    Imagine est un éditeur indépendant. Jusqu’ici le magazine vit en priorité grâce à ses lectrices et ses lecteurs. En soutenant Imagine COOP, vous participez à financer une presse libre, originale et pionnière sur les questions environnementales et sociales. Comme coopératrice, comme coopérateur, vous nous aidez à déployer notre entreprise sociale.
   button: Je prends des parts
 section_faq:
   title: Infos pratiques & FAQ
@@ -253,15 +250,17 @@ section_faq:
 ---
 ### **Trois classes de coopérateurs**
 
-* Classe A (fondateurs & garants) : les travailleuses et travailleurs d’Imagine, le CNCD-11.11.11 et l’Asbl La Petite Fabrique Imagine
-* Classe B : les lecteurs, abonnés, citoyens et sympathisants
+* Classe A (fondateurs & garants des valeurs) : les travailleuses et travailleurs d’Imagine, le CNCD-11.11.11 et l’Asbl La Petite Fabrique Imagine
+* Classe B : les lectrices et les lecteurs, abonné.e.s, citoyen.ne.s et sympathisant.e.s
 * Classe C : les organisations (associations, ONG, entreprises, opérateurs culturels, villes & communes, syndicats, mutuelles…)
 
 ### **Le prix de la part**
 
 * 100 € / part nominale (classe B)
-* Les organisations (classe C ) : minimum 5 parts (500 €)
-* La présente offre de souscription de parts (classe B & C) est limitée à maximum 5.000€ par coopérateur et 500.000€ par an, conformément à la réglementation en vigueur
+* Les organisations (classe C ) : minimum 5 parts de 100 € (= 500 €)
+* La présente offre de souscription de parts (classe B & C) limitée à un maximum de 5.000 €  par personne
+
+
 
 ### **Son impact social & environnemental**
 
