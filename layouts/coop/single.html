@@ -26,7 +26,26 @@
     </div>
 </section>
 {{partial "cta.html" .}}
+<section class="agence" style="background-image: url({{.Params.section_services.img}}); background-size: contain;
+background-position: center;
+background-repeat: no-repeat;
+background-color: white;">
+    <div class="cw" style="max-width:1280px;">
+        <h2>{{ .Params.section_services.title | safeHTML }}</h2>
+        <div class="flex-2-cols">
+            <div class="flex-2-cols__col">
+                <img src="{{.Params.section_services.media_img}}" width="200"/>
+                <p>{{ .Params.section_services.media_txt | markdownify }}</p>
+                {{/*  <a href="{{ .Params.section_three.btn_link }}" class="btn">{{ .Params.section_three.btn_txt }}</a>  */}}
+            </div>
+            <div class="flex-2-cols__col" style="padding:">
+                <img src="{{.Params.section_services.presse_img}}" width="200"/>
 
+                <p>{{ .Params.section_services.presse_txt | markdownify }}</p>
+            </div>
+        </div>
+    </div>
+</section>
 <section class="section-2-cols reasons">
     <div class="cw">
         <div class="">

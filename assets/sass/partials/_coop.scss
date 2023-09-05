@@ -104,16 +104,16 @@
     .page-header {
         background: var(--coop);
         text-align:center;
-        padding-top: 10rem;
+        padding: 8rem 0 6rem;
         background-size: cover;
-        background-position: bottom;
-        padding-bottom: 6rem;
+        background-position: top;
         
         h1 {
             max-width: none;
             padding-right: 0;
             font-family: 'faible';
             font-size: 2rem;
+            padding: 0 0 1rem;;
 
             strong {
                 color: var(--coopsec);
@@ -141,12 +141,21 @@
         p {
             color: white;
             font-family:'faible', serif;
+            font-weight: bolder;
         }
 
         a {
             background: var(--coopsec);
             color: white;
-        }
+       
+
+            &:hover {
+                border: 2px solid var(--coopsec);
+                background: none;
+                color: var(--coopsec)
+            }
+
+        }   
     
     }
 
@@ -175,6 +184,29 @@
 
     #text {
         color: red;
+    }
+
+    .agence {
+
+        .flex-2-cols {
+
+            align-items: flex-start;
+            margin-bottom: 0; 
+            text-align: center;
+        }
+
+        @media screen and (max-width: 800px) {
+            background-image: none!important;
+        
+            ul {
+                list-style-type: none;
+                padding: 0;
+            }
+
+        }
+
+      
+       
     }
 }
 
