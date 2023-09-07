@@ -204,16 +204,17 @@ section_faq:
 
         Ce processus en deux temps – \#Imagine2020 (éditorial) et Imaginnove
         (entreprise) – s’est déroulé de manière collaborative et dynamique avec
-        des workshops thématiques, une consultation de nos lectrices et de nos
-        lecteurs, un accompagnement par une agence-conseil (Propage-s), l’appui
+        des workshops thématiques, une consultation de nos lecteurs et
+        lectrices, un accompagnement par une agence-conseil (Propage-s), l’appui
         de professionnels extérieurs (la Fopes-UCLouvain, l’Ihecs Academy,
-        l’Asbl Collectiv-a…), etc.
+        l’Asbl Collectiv-a…).
 
 
         Au bout de ce passionnant processus, nous avons construit avec l’aide de
         Propage-s un plan de structuration d’entreprise, un plan financier et un
         plan stratégique 2023-2026. Très vite, nous avons également pu compter
-        sur le soutien de W.alter.
+        sur le soutien de W.alter, le partenaire financier des projets
+        d'économie sociale et coopérative en Wallonie.
     - question: "Pourquoi une coopérative agréée à finalité sociale\_?"
       reponse: >-
         Ce modèle est cohérent avec nos valeurs (processus démocratique,
@@ -424,7 +425,7 @@ section_faq:
 ### **Trois classes de coopérateurs**
 
 * Classe A (fondateurs & garants des valeurs) : les travailleurs et travailleuses d’Imagine, le CNCD-11.11.11 et l’Asbl La petite fabrique Imagine
-* Classe B : les lectrices et les lecteurs, abonné.es, citoyen.nes et sympathisant.es
+* Classe B : les lectrices et les lecteurs, abonné·es, citoyennes et sympathisant·es
 * Classe C : les organisations (associations, ONG, entreprises, opérateurs culturels, villes & communes, syndicats, mutuelles…)
 
 ### **Le prix de la part**
