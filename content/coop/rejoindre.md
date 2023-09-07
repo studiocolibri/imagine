@@ -84,7 +84,7 @@ section_three:
         média digital (dès le 11/10) et les réseaux sociaux* **Offrir des
         services à la collectivité** (écoles, associations, collectifs,
         opérateurs culturels, secteur de l’économie sociale…) en matière
-        d’accompagnement pédagogique et de  formations, d’animations et de
+        d’accompagnement pédagogique et de  formations, d’animation et de
         productions graphiques et de contenus* **Fédérer** autour du magazine
         **les actrices et les acteurs de changement** et aider nos lectrices et
         nos lecteurs à passer à l’action
