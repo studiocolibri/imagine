@@ -281,10 +281,11 @@ section_faq:
         L’article 8 des statuts de la coopérative précise bien cette
         responsabilité limitée des coopérateurs et coopératrices de la
         coopérative.
-    - question: "Les coopérateurs bénéficient-ils d’avantages fiscaux\_?"
+    - question: "Les coopérateurs et coopératrices bénéficient-ils d’avantages fiscaux\_?"
       reponse: >-
         Non, car Imagine COOP est une transformation d’une entreprise existante
-        (ASBL) en coopérative. Elle ne bénéficie pas du système de Tax Shelter.
+        (ASBL) en coopérative. Elle ne bénéficie pas du système de Tax
+        Shelter.&nbsp;
     - question: "Les coopérateurs peuvent-il se retirer et récupérer leur(s) part(s)\_?"
       reponse: >-
         Oui, il est possible de renoncer à son statut de coopérateur et de
