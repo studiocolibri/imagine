@@ -493,6 +493,11 @@ collections_config:
         options:
           allow_resize: true
           initial_height: 320
+          blockquote: true
+          bold: true
+          bulletedlist: true
+          code: true
+          copyformatting: true
           image_size_attributes: true
           resize_style: contain
         label: Texte Media
