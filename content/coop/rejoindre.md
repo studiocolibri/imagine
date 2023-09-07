@@ -172,7 +172,7 @@ cta:
   text: >-
     Imagine est un éditeur indépendant. Jusqu’ici le magazine vit en priorité
     grâce à ses lectrices et ses lecteurs. En soutenant Imagine COOP, vous
-    participez à financer une presse libre, originale et pionnière sur les
+    participez au financement d'une presse libre, originale et pionnière sur les
     questions environnementales et sociales. Comme coopératrice, comme
     coopérateur, vous nous aidez à déployer notre entreprise sociale.
   button: Je prends des parts
