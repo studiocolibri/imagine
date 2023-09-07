@@ -286,7 +286,7 @@ section_faq:
         Non, car Imagine COOP est une transformation d’une entreprise existante
         (ASBL) en coopérative. Elle ne bénéficie pas du système de Tax
         Shelter.&nbsp;
-    - question: "Les coopérateurs peuvent-il se retirer et récupérer leur(s) part(s)\_?"
+    - question: "Les coopérateurs et coopératrices peuvent-elles se retirer et récupérer leur(s) part(s)\_?"
       reponse: >-
         Oui, il est possible de renoncer à son statut de coopérateur et de
         récupérer sa ou ses part(s) à tout moment. Soit en les revendant à
