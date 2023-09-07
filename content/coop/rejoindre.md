@@ -246,16 +246,18 @@ section_faq:
         premier objectif est de réunir 150.000 €, tous types de parts confondus.
         Si nous atteignons cette somme avant la fin de la campagne, nous
         reverrons notre objectif à la hausse.&nbsp;
-    - question: "A quoi va servir le capital investi par les coopérateurs\_? "
+    - question: >-
+        A quoi va servir le capital investi par les coopérateurs et
+        coopératrices ?
       reponse: >-
         Notre plan financier 2023-2026 prévoit une série d’investissements
         autour de trois grands axes : la transformation digitale du média
         Imagine (nouvelle plateforme web, créations numériques, podcasts…), la
         gestion informatique (logiciels de gestion, IT…) et les ressources
         humaines (engagement d’une nouvelle directrice, renforcement de l’emploi
-        existant, recrutement d’un(e) community manager free-lance et de
-        nouveaux collaborateurs.trices…). Montant total de l’investissement :
-        207.000 €
+        existant, recrutement d’un·e community manager free-lance et de nouveaux
+        collaborateurs·trices…). Montant total de l’investissement : 207.000
+        €&nbsp;
     - question: "Quid des éventuels bénéfices\_?"
       reponse: >-
         Si la coopérative réalise des bénéfices, les statuts prévoient que c’est
