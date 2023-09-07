@@ -214,8 +214,8 @@ section_faq:
         Au bout de ce passionnant processus, nous avons construit avec l’aide de
         Propage-s un plan de structuration d’entreprise, un plan financier et un
         plan stratégique 2023-2026. Très vite, nous avons également pu compter
-        sur le soutien de W.alter, partenaire financier de l'économie sociale et
-        coopérative en Wallonie.
+        sur le soutien de W.alter, le partenaire financier de l'économie sociale
+        et coopérative en Wallonie.
     - question: "Pourquoi une coopérative agréée à finalité sociale\_?"
       reponse: >-
         Ce modèle est cohérent avec nos valeurs (processus démocratique,
