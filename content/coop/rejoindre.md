@@ -12,7 +12,7 @@ section_one:
         COOP est spécialisée dans **les transformations écologique et sociale**.
     - text: >-
         Une **entreprise ancrée localement** (Wallonie-Bruxelles), qui emploie
-        sept personnes (dont une majorité femmes), avec des valeurs et des
+        sept personnes (dont une majorité de femmes), avec des valeurs et des
         engagements forts : une gouvernance éthique et démocratique, une
         approche éco-responsable…
     - text: >-
@@ -113,7 +113,7 @@ section_four:
       text: >-
         Notre organisation ne se contente pas d’évoluer « ici et maintenant
         ».&nbsp; Elle est en mouvement, se place dans une perspective future et
-        tente d’ébaucher ce qui nous attend «&nbsp; demain&nbsp; ».
+        tente d’ébaucher ce qui nous attend « demain ».&nbsp;
     - title: La considération
       photo: /uploads/consideration1.png
       text: >-
@@ -123,10 +123,10 @@ section_four:
     - title: L'équilibre
       photo: /uploads/equilibre1.png
       text: >-
-        L'articulation vie privée et vie professionnelle pour ses travailleuses
-        et travailleurs, l'égalité des genres, la diversité des âges et des
-        parcours… Imagine COOP vise l’équilibre. Y compris dans son traitement
-        de l’information (juste et nuancée) et des enjeux (articulation des
+        Articulation vie privée et vie professionnelle pour ses travailleuses et
+        travailleurs, égalité des genres, diversité des âges et des parcours
+        d’âge… Imagine COOP vise l’équilibre. Y compris dans son traitement de
+        l’information (juste et nuancée) et des enjeux (articulation des
         thématiques de manière systémique).
     - title: L'engagement
       photo: /uploads/engagement1.png
@@ -426,14 +426,14 @@ section_faq:
 ### **Trois classes de coopérateurs**
 
 * Classe A (fondateurs & garants des valeurs) : les travailleuses et travailleurs d’Imagine, le CNCD-11.11.11 et l’Asbl La Petite Fabrique Imagine
-* Classe B : les lectrices et les lecteurs, abonné.e.s, citoyen.ne.s et sympathisant.e.s
+* Classe B : les lectrices et les lecteurs, abonné.es, citoyen.nes et sympathisant.es
 * Classe C : les organisations (associations, ONG, entreprises, opérateurs culturels, villes & communes, syndicats, mutuelles…)
 
 ### **Le prix de la part**
 
 * 100 € / part nominale (classe B)
 * Les organisations (classe C ) : minimum 5 parts de 100 € (= 500 €)
-* La présente offre de souscription de parts (classe B & C) limitée à un maximum de 5.000 € par personne
+* La présente offre de souscription de parts (classe B & C) est limitée à un maximum de 5.000 € par personne
 
 ### **Cet appel public à l’épargne est ouvert :**
 
@@ -462,14 +462,14 @@ Chaque personne peut souscrire à un maximum de 5.000 € conformément à la l�
 
 ### **La gouvernance**
 
-* Quatre organes de gouvernance : **l’assemblée générale** (l’ensemble des coopérateurs), **le conseil d’administration** (9 personnalités issues d’horizons divers avec des compétences complémentaires : finance, stratégie, droit, presse… - lire dans FAQ ci-dessous), **le comité de rédaction** (garant de la ligne éditoriale du magazine) et **le Laboratoire d’idées Imagine** (un *think tank* qui se réunit une fois par an)
+* Quatre organes de gouvernance : **l’assemblée générale** (l’ensemble des coopérateurs), **le conseil d’administration** (9 personnalités issues d’horizons divers avec des compétences complémentaires : finance, stratégie, droit, presse… - lire dans la Foire aux questions ci-dessous), **le comité de rédaction** (garant de la ligne éditoriale du magazine) et **le laboratoire d’idées Imagine** (un *think tank* qui se réunit une fois par an)
 * Droit de vote sur le principe **« 1 personne = 1 voix »**
 * Un mode de fonctionnement **éthique et transparent**
 
 ### **Quelques chiffres clés**
 
 * **7 travailleurs salariés** (**4,8** équivalents temps plein) et plusieurs collaborateurs fixes et/ou occasionnel (graphiste, correctrice, journalistes, photographes, illustrateurs…)
-* Un **modèle économique mixte** (78 % de recettes propres) et 22 % de subventions publiques (Aide à presse non commerciale Fédération Wallonie-Bruxelles et coopérative au développement via notre partenaire, le CNCD-11.11.11)
+* Un **modèle économique mixte** : 78 % de recettes propres et 22 % de subventions publiques (Aide à presse non commerciale Fédération Wallonie-Bruxelles et Coopération au développement via notre partenaire, le CNCD-11.11.11)
 * **Part des recettes**&nbsp;: abonnements (80 %), ventes au numéro (10 %), suppléments rédactionnels et publicité éthique & responsable (7%), aides publiques (33 %)
 * **Part des dépenses**&nbsp;: rémunérations (56 %), production (26 %), frais de fonctionnement (9 %), diffusion (7%), promotion (2%)
 * **Tirage moyen** du magazine papier : 7.000 exemplaires
