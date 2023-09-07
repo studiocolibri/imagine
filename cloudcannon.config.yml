@@ -488,6 +488,10 @@ collections_config:
           image_size_attributes: true
           resize_style: contain
         cascade: true
+      media_txt:
+        type: markdown
+        label: Texte Media
+        cascade: true
     _select_data: {}
     _structures: {}
     create:
