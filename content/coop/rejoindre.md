@@ -122,18 +122,17 @@ section_four:
     - title: L'équilibre
       photo: /uploads/equilibre1.png
       text: >-
-        Articulation vie privée et vie professionnelle pour ses travailleuses et
-        travailleurs, égalité des genres, diversité des âges et des parcours
-        d’âge… Imagine COOP vise l’équilibre. Y compris dans son traitement de
+        Articulation vie privée et vie professionnelle pour ses travailleurs et
+        travailleuses, égalité des genres, diversité des âges et des parcours…
+        Imagine COOP vise l’équilibre. Y compris dans son traitement de
         l’information (juste et nuancée) et des enjeux (articulation des
         thématiques de manière systémique).
     - title: L'engagement
       photo: /uploads/engagement1.png
       text: >-
         Imagine COOP participe activement à&nbsp; la vie sociale, démocratique,
-        écologique, culturelle, intellectuelle… de son temps. Il a des
-        convictions qui sont connues et assumées (cfr son Manifeste & sa charte
-        fondatrice).
+        écologique, culturelle, intellectuelle… de son temps. Ses convictions
+        sont claires et assumées (cfr son Manifeste & sa charte fondatrice).
 team:
   title: Notre équipe
   members:
