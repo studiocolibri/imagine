@@ -40,11 +40,10 @@ section_services:
     bibliothèque Imagine (400 articles archivés)  
   media_img: /uploads/logoblue.jpg
   presse_txt: >-
-    L'agence de services Imagine propose à la collectivité (opérateurs
+    Notre agence de services Imagine propose à la collectivité (opérateurs
     culturels, pouvoirs publics, associations, ONG, entreprises sociales...) une
     série de prestations à la carte (animations, outils pédagogiques,
-    productions de contenus...)<br><br> Voir ici l'ensemble des services et des
-    tarifs
+    productions de contenus...)<br><br> Notre grille de services et de tarifs
   presse_img: /uploads/logocoop.jpg
   img: /uploads/arbrecoop.jpg
 section_two:
