@@ -448,7 +448,7 @@ section_faq:
 
 ### **Impact social et environnemental**
 
-* L’implantation d’Imagine COOP début 2024 à La Menuiserie, un centre d’entreprises dédié à la transition vers une économie soutenable, plus sociale et solidaire (mutualisation des ressources, architecture durable, mobilité douce…)
+* L’implantation d’Imagine COOP début 2024 à La Menuiserie, un centre d’entreprises dédié à la transition vers une économie soutenable, plus sociale et solidaire (mutualisation des ressources, architecture durable, mobilité douce…)&nbsp;
 
 * Une rémunération juste de ses collaborateurs et des collaboratrices
 
