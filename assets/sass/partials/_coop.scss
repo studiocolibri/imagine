@@ -106,7 +106,7 @@
         text-align:center;
         padding: 8rem 0 6rem;
         background-size: cover;
-        background-position: top;
+        background-position: bottom;
         
         h1 {
             max-width: none;
@@ -124,12 +124,22 @@
         svg {
             
             max-width: 20%;
+
+            @media screen and (max-width: 800px) {
+                max-width: 40%;
         }
+        }
+
+
 
     }   
 
     .notre-projet__header__title {
         padding: 0;
+
+        @media screen and (max-width: 800px) {
+            padding: 2rem;
+    }
     }
 
     .cta-abonnement {
@@ -240,6 +250,25 @@
 
     }
 
+    position: relative;
+
+    .single-e-magine__img-credits {
+        display: block;
+        position: absolute;
+        right: 60px;
+        top: 0;
+        margin-left: auto;
+        text-align: right;
+        color: var(--coop);
+        z-index: 50;
+        font-weight: 800;
+
+        @media screen and (max-width: 800px) {
+            text-align: left;
+            left: 1.3rem;
+    
+        }
+    }
 
 }
 
