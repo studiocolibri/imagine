@@ -200,7 +200,7 @@ section_faq:
       reponse: >-
         C’est un chantier évolutif de trois ans autour de notre gouvernance, de
         notre modèle économique, de la stratégie éditoriale, de la
-        diversification de nos recettes…
+        diversification de nos recettes…&nbsp;
 
 
         Ce processus en deux temps – \#Imagine2020 (éditorial) et Imaginnove
@@ -215,7 +215,7 @@ section_faq:
         Propage-s un plan de structuration d’entreprise, un plan financier et un
         plan stratégique 2023-2026. Très vite, nous avons également pu compter
         sur le soutien de W.alter, le partenaire financier de l'économie sociale
-        et coopérative en Wallonie.
+        et coopérative en Wallonie.&nbsp;
     - question: "Pourquoi une coopérative agréée à finalité sociale\_?"
       reponse: >-
         Ce modèle est cohérent avec nos valeurs (processus démocratique,
