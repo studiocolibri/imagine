@@ -348,7 +348,7 @@ section_faq:
         effectue en toute indépendance ses choix rédactionnels. Par contre, les
         coopératrices et les coopérateurs seront associé(e)s à la vie du
         magazine (newsletter, événement…) et elles/ils pourront s’investir via
-        notre boîte à idées et à ressources Imagine COOP.
+        notre boîte à idées et à ressources de la coopérative.
     - question: "Quel est votre lien avec les partis politiques\_? "
       reponse: >-
         Imagine n’a aucun lien structurel ni idéologique avec un parti.
