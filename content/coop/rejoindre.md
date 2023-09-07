@@ -419,7 +419,7 @@ section_faq:
         l’environnement, coordinatrice du réseau Fossil Free Politics, activiste
         climatique et gestionnaire du compte Instagram Greenmonki
 
-        * **Noémie Laumont,&nbsp;**océanographe, responsable développements &
+        * \*\*Noémie Laumont, \*\*océanographe, responsable développements &
         coopératrice à La Smala
 
         * **Hugues Dorzée**, rédacteur en chef d'*Imagine* (membre invité)
