@@ -119,7 +119,7 @@ section_four:
       text: >-
         Chez Imagine COOP, on a de la considération pour l’ensemble du monde
         vivant, humains et non humains compris. On tient compte de toutes et
-        tous dans l’entreprise. C’est un projet avant tout collectif.
+        tous dans l’entreprise. C’est un projet avant tout collectif. 
     - title: L'équilibre
       photo: /uploads/equilibre1.png
       text: >-
