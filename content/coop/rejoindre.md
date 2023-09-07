@@ -43,7 +43,11 @@ section_services:
     Notre agence de services Imagine propose à la collectivité (opérateurs
     culturels, pouvoirs publics, associations, ONG, entreprises sociales...) une
     série de prestations à la carte (animations, outils pédagogiques,
-    productions de contenus...)<br><br> Notre grille de services et de tarifs
+    productions de contenus...)
+
+
+    <br><a target="_blank" rel="noopener" href="imagine-magazine.com">→ Notre
+    grille de services et de tarifs</a>
   presse_img: /uploads/logocoop.jpg
   img: /uploads/arbrecoop.jpg
 section_two:
@@ -229,7 +233,7 @@ section_faq:
         coopération, de l’entreprenariat social et de l’entreprise agricole
         (CNC).
     - question: "Qui sont les fondateurs et fondatrices d’Imagine COOP\_?"
-      reponse: >-  
+      reponse: >-
         Ce sont les travailleurs et travailleuses d’Imagine à titre individuel,
         ainsi que deux personnes morales : La petite fabrique Imagine Asbl et le
         CNCD-11.11.11.
