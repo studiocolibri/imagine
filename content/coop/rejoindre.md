@@ -24,7 +24,7 @@ section_one:
     - text: >-
         Imagine COOP a deux branches d’activités : le **Média Imagine** (papier
         & digital à découvrir dès le 11 octobre) et l’**Agence de services
-        Imagine** qui propose des services aux associations, entreprises
+        Imagine** qui propose des prestations aux associations, entreprises
         sociales, opérateurs culturels… à la carte (accompagnement pédagogique,
         production de contenus, graphisme, animations…).
     - text: >-
