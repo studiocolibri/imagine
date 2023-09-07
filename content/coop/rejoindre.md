@@ -193,8 +193,8 @@ section_faq:
         l’extérieur (un magazine de 27 ans qui se réinvente et se projette vers
         l’avenir) et de réinjecter du capital pour retrouver une capacité
         d’investissement et assurer notre développement (notamment en lien avec
-        digitalisation de nos contenus et afin d’être en phase avec de nouvelles
-        manières de « consommer l’information »).
+        la digitalisation de nos contenus et afin d’être en phase avec de
+        nouvelles manières de «&nbps;consommer l’information »).
     - question: "Comment s’est construit Imagine COOP\_?"
       reponse: >-
         C’est un chantier évolutif de trois ans autour de notre gouvernance, de
