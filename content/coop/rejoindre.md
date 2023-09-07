@@ -42,8 +42,9 @@ section_services:
   presse_txt: >-
     L'agence de services Imagine propose à la collectivité (opérateurs
     culturels, pouvoirs publics, associations, ONG, entreprises sociales...) une
-    série de services à la carte (animation, outils pédagogiques, production de
-    contenus...)<br><br> Voir ici l'ensemble des prestations et des tarifs
+    série de prestations à la carte (animations, outils pédagogiques,
+    productions de contenus...)<br><br> Voir ici l'ensemble des prestations et
+    des tarifs
   presse_img: /uploads/logocoop.jpg
   img: /uploads/arbrecoop.jpg
 section_two:
