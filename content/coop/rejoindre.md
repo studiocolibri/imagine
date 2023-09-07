@@ -34,12 +34,10 @@ section_one:
         laboratoire d’idées Imagine.
 section_services:
   title: L'agence de <strong>services</strong><br>& le <strong>média</strong> Imagine
-  media_txt: >-
+  media_txt: |-
     * Un magazine papier trimestriel (4 n°/an) + un hors-série inédit
-
-    * Imagine digital (podcasts, articles web, grands entretiens audio...) 
-
-    * La Petite bibliothèque Imagine (400 articles archivés)  
+    * Imagine digital (podcasts, articles web, grands entretiens audio...)
+    * La Petite bibliothèque Imagine (400 articles archivés)
   media_img: /uploads/logoblue.jpg
   presse_txt: >-
     Notre agence de services Imagine propose à la collectivité (opérateurs
@@ -84,11 +82,11 @@ section_three:
         trois canaux de diffusion : un magazine papier, un média digital (dès le
         11/10) et les réseaux sociaux
 
-        * **Offrir des services à la collectivité**
-        (écoles, associations, collectifs, opérateurs culturels, secteur de
-        l’économie sociale…) en matière d’accompagnement pédagogique et de 
-        formations, d’animations et de productions graphiques et de contenus
-        
+        * **Offrir des services à la collectivité** (écoles, associations,
+        collectifs, opérateurs culturels, secteur de l’économie sociale…) en
+        matière d’accompagnement pédagogique et de  formations, d’animations et
+        de productions graphiques et de contenus
+
         * **Fédérer** autour du magazine **les acteurs et les actrices de
         changement** et aider nos lecteurs et nos lectrices à passer à l’action
     - title: Notre vision
