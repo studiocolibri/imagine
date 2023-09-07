@@ -8,7 +8,7 @@ section_one:
   list:
     - text: >-
         Une **coopérative à finalité sociale** de presse et de services fondée
-        début septembre 2023 par ses travailleuses et ses travailleurs. Imagine
+        début septembre 2023 par ses travailleurs et ses travailleuses. Imagine
         COOP est spécialisée dans **les transformations écologique et sociale**.
     - text: >-
         Une **entreprise ancrée localement** (Wallonie-Bruxelles), qui emploie
