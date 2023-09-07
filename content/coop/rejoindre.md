@@ -446,7 +446,7 @@ Chaque personne peut souscrire à un maximum de 5.000 € conformément à la l�
 
 * L’implantation d’Imagine COOP début 2024 à La Menuiserie, un centre d’entreprises dédié à la transition vers une économie soutenable, plus sociale et solidaire (mutualisation des ressources, architecture durable, mobilité douce…)
 
-* Une rémunération juste de ses collaboratrices et des collaborateurs
+* Une rémunération juste de ses collaborateurs et collaboratrices
 
 * Des modes de déplacement bas carbone (transports en commun, vélo, limitation des voyages en avion & compensation)
 
