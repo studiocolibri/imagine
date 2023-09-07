@@ -111,9 +111,9 @@ section_four:
     - title: L'anticipation
       photo: /uploads/anticipation1.png
       text: >-
-        Notre organisation ne se contente pas d’évoluer « ici et maintenant
-        ».&nbsp; Elle est en mouvement, se place dans une perspective future et
-        tente d’ébaucher ce qui nous attend « demain&nbsp; ». 
+        Notre organisation ne se contente pas d’évoluer « ici et maintenant ».
+        Elle est en mouvement, se place dans une perspective future et tente
+        d’ébaucher ce qui nous attend « demain&nbsp; ». 
     - title: La considération
       photo: /uploads/consideration1.png
       text: >-
