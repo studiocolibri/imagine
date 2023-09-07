@@ -434,7 +434,7 @@ section_faq:
 * Les organisations (classe C ) : minimum 5 parts de 100 € (= 500 €)
 * La présente offre de souscription de parts (classe B & C) est limitée à un maximum de 5.000 € par personne
 
-### **Cet appel public à l’épargne est ouvert**
+### **Cet appel public à l’épargne est ouvert&nbsp;**
 
 * pour une durée de 6 mois (du 15 septembre 2023 jusqu’au 31 mars 2024)
 * son montant est limité à 500.000 €
