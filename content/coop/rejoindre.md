@@ -31,7 +31,7 @@ section_one:
         Une **gouvernance structurée et partagée** avec un conseil
         d’administration pluraliste et transdisciplinaire, une assemblée
         générale souveraine, un comité de rédaction indépendant et le
-        Laboratoire d’idées Imagine.
+        laboratoire d’idées Imagine.
 section_services:
   title: L'agence de <strong>services</strong><br>& le <strong>média</strong> Imagine
   media_txt: |-
