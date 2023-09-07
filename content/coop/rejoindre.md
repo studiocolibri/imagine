@@ -376,14 +376,14 @@ section_faq:
         d'actualité.&nbsp;
     - question: "\LQuel est votre lien avec les groupes de presse\_? "
       reponse: >-
-        Aucun. Imagine est un éditeur libre, qui évolue en dehors des deux seuls
-        grands groupes de presse en Belgique francophone (Rossel et IPM).
+        Aucun. *Imagine* est un éditeur libre, qui évolue en dehors des grands
+        groupes de presse en Belgique francophone (Rossel, IPM, Mediafin).
 
 
-        Par contre, il fait partie du collectif Kiosque, qui regroupe 7 médias
-        belges, francophones et libres (axelle, Alter Echos, Imagine, Le
-        Ligueur, Médor, Wilfried) (<a href="https://kiosque.media/"
-        target="_blank" rel="noopener">https://kiosque.media/</a>)
+        Par contre, il fait partie du <a target="_blank" rel="noopener"
+        href="https://kiosque.media/">collectif Kiosque</a>, qui regroupe 7
+        médias belges, francophones et indépendants (axelle, Alter Echos,
+        Imagine, Le Ligueur, Médor, Wilfried)
     - question: "Qui compose le Conseil d’Administration\_?"
       reponse: >-
         Notre CA est pluriel, pluridisciplinaire et paritaire. Il est composé de
