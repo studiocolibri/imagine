@@ -298,7 +298,7 @@ section_faq:
         registre. Mais rien n’empêche de former un petit groupe pour acheter une
         ou plusieurs part(s) et de déléguer une personne pour la gestion de
         celle(s)-ci.
-    - question: "Quels sont les droits d’un coopérateur\_?"
+    - question: Quels sont les droits d’un actionnaire ?
       reponse: >-
         Il est co-propriétaire d’Imagine COOP et membre de droit de l’Assemblée
         Générale qui se réunit au moins une fois par an pour transmettre aux
