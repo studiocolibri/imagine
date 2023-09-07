@@ -123,8 +123,8 @@ section_four:
     - title: L'équilibre
       photo: /uploads/equilibre1.png
       text: >-
-        L'articulation vie privée et vie professionnelle pour ses travailleuses
-        et travailleurs, l'égalité des genres, la diversité des âges et des
+        Articulation vie privée et vie professionnelle pour ses travailleurs et
+        travailleuses, l'égalité des genres, la diversité des âges et des
         parcours… Imagine COOP vise l’équilibre. Y compris dans son traitement
         de l’information (juste et nuancée) et des enjeux (articulation des
         thématiques de manière systémique). 
