@@ -474,11 +474,11 @@ section_faq:
 
 * **7 travailleurs salariés** (**4,8** équivalents temps plein) et plusieurs collaborateurs fixes et/ou occasionnel (graphiste, correctrice, journalistes, photographes, illustrateurs…)
 * Un **modèle économique mixte** : 78 % de recettes propres et 22 % de subventions publiques (Aide à presse non commerciale Fédération Wallonie-Bruxelles et Coopération au développement via notre partenaire, le CNCD-11.11.11)
-* **Part des recettes**&nbsp;: abonnements (80 %), ventes au numéro (10 %), suppléments rédactionnels et publicité éthique & responsable (7%), aides publiques (33 %)
-* **Part des dépenses**&nbsp;: rémunérations (56 %), production (26 %), frais de fonctionnement (9 %), diffusion (7%), promotion (2%)
+* **Part des recettes**&nbsp;: abonnements (50 %), ventes au numéro (10 %), suppléments rédactionnels et publicité éthique & responsable (7%), aides publiques (33 %)
+* **Part des dépenses**&nbsp;: rémunérations (56 %), production (26 %), frais de fonctionnement (9 %), diffusion (7 %), promotion (2 %)
 * **Tirage moyen** du magazine papier : 7.000 exemplaires
 
-### **Les documents utiles** **(on joindra des PDF)**
+### **Les documents utiles**&nbsp;
 
 * Bilan 2022 de l’Asbl & rapport du réviseur
 * Statuts de la coopérative
