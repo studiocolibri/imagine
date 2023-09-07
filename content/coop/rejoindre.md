@@ -319,24 +319,23 @@ section_faq:
       reponse: >-
         Pour monter le plan financier 2023-2026 d’Imagine COOP, nous avons été
         accompagnés par une agence-conseil composée de professionnels
-        (financier, juriste…) et nous sommes par ailleurs épaulé par un
+        (financier, juriste…) et nous sommes par ailleurs épaulés par un
         investisseur public de premier plan (W.Alter, qui s’est engagé à
-        investir 125 000 € en trois tranches et de manière conditionnée ) qui
+        investir 125.000 € en trois tranches et de manière conditionnée) qui
         dispose également d’une large expertise financière et technique pour
         nous accompagner dans notre développement.
 
 
         Entreprendre, c’est toujours un pari sur l’avenir. Nous avons tout mis
         en œuvre pour réussir cette transformation (CA professionnel,
-        investissements raisonnés…). Toutefois, on ne peut jamais garantir un
-        résultat à 100 %.
+        investissements raisonnés…). Toutefois, nous ne pouvons jamais garantir
+        un résultat à 100 %.
 
 
         En cas de faillite de l’entreprise, il est toujours possible qu’elle ne
         puisse pas rembourser ses coopérateurs. Néanmoins, le risque est limité,
-        car l’équipe opérationnelle et le CA, seront particulièrement attentifs
-        à la mise en oeuvre du plan financier et corriger le tir dès qu’il le
-        faut.
+        car l’équipe opérationnelle et le CA seront particulièrement attentifs à
+        la mise en œuvre du plan financier et corriger le tir dès qu’il le faut.
     - question: "Quelle est la durée de la campagne\_? "
       reponse: >-
         La campagne va durer 6 mois (du 15 septembre au 31 mars), mais la prise
@@ -430,7 +429,7 @@ section_faq:
 ### **Trois classes de coopérateurs**
 
 * Classe A (fondateurs & garants des valeurs) : les travailleurs et travailleuses d’Imagine, le CNCD-11.11.11 et l’Asbl La petite fabrique Imagine
-* Classe B : les lectrices et les lecteurs, abonné·es, citoyen·nes et sympathisant·es
+* Classe B : les lecteurs·rices, abonné·es, citoyen·nes et sympathisant·es
 * Classe C : les organisations (associations, ONG, entreprises, opérateurs culturels, villes & communes, syndicats, mutuelles…)
 
 ### **Le prix de la part**
