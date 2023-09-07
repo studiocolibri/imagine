@@ -107,7 +107,7 @@ section_four:
       text: >-
         Elle est au cœur du projet Imagine COOP (ligne éditoriale,
         éco-responsabilité, relations sociales et histoire de l’entreprise,
-        engagements sociétaux…)
+        engagements sociétaux…) 
     - title: L'anticipation
       photo: /uploads/anticipation1.png
       text: >-
