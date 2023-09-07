@@ -351,13 +351,13 @@ section_faq:
         notre boîte à idées et à ressources de la coopérative.
     - question: "Quel est votre lien avec les partis politiques\_? "
       reponse: >-
-        Imagine n’a aucun lien structurel ni idéologique avec un parti.
+        *Imagine* n’a aucun lien structurel ni idéologique avec un parti.
 
 
         En 1996, « Imagine. Allant vert » a bien été créé à l’initiative de
         Jacky Morael, alors secrétaire général d’Ecolo, avec l’expertise du
         journaliste André Ruwet (La Cité, les magazines de Greenpeace), avec
-        l’objectif de lancer un magazine trimestriel financé par le parti, mais
+        l’objectif de lancer un magazine trimestriel financé par le parti mais
         organisé en Asbl.
 
 
@@ -365,14 +365,15 @@ section_faq:
         et Ecolo se sont quelques peu distendues et le divorce a été prononcé.
 
 
-        En février 2003, l’équipe d’Imagine a racheté le titre pour un euro
+        En février 2003, l’équipe d’*Imagine* a racheté le titre pour un euro
         symbolique et relancé un bimestriel 100 % autonome, autogéré et soutenu
-        par ses lectrices et ses lecteurs.
+        par ses lecteurs et ses lectrices.
 
 
-        En mars 2005, Imagine s’est ensuite associé avec le Centre national de
+        En mars 2005, *Imagine* s’est associé avec le Centre national de
         coopération au développement (CNCD-11.11.11), une ONG pluraliste qui
-        regroupe 90 organisations (ONG, syndicats…)
+        regroupe 90 organisations (ONG, syndicats…). Ce partenariat est toujours
+        d'actualité.&nbsp;
     - question: "\LQuel est votre lien avec les groupes de presse\_? "
       reponse: >-
         Aucun. Imagine est un éditeur libre, qui évolue en dehors des deux seuls
