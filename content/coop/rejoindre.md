@@ -116,9 +116,9 @@ section_four:
     - title: La considération
       photo: /uploads/consideration1.png
       text: >-
-        Chez Imagine COOP, on a de la considération pour l’ensemble du monde
-        vivant, humains et non humains compris. On tient compte de toutes et
-        tous dans l’entreprise. C’est un projet avant tout collectif.
+        Chez Imagine COOP, nous avons de la considération pour l’ensemble du
+        monde vivant, humains et non humains compris. Nous tenons compte de tous
+        et toutes dans l’entreprise. C’est un projet avant tout collectif.
     - title: L'équilibre
       photo: /uploads/equilibre1.png
       text: >-
