@@ -347,7 +347,7 @@ section_faq:
         investi. Par ailleurs, le comité de rédaction reste pleinement libre. Il
         effectue en toute indépendance ses choix rédactionnels. Par contre, les
         coopératrices et les coopérateurs seront associé(e)s à la vie du
-        magazine (newsletter, événement…) et elles/ils pourront s’investir via
+        magazine (newsletter, événements…) et elles/ils pourront s’investir via
         notre boîte à idées et à ressources de la coopérative.
     - question: "Quel est votre lien avec les partis politiques\_? "
       reponse: >-
