@@ -229,7 +229,7 @@ section_faq:
         coopération, de l’entreprenariat social et de l’entreprise agricole
         (CNC).
     - question: "Qui sont les fondateurs et fondatrices d’Imagine COOP\_?"
-      reponse: >-
+      reponse: >-  
         Ce sont les travailleurs et travailleuses d’Imagine à titre individuel,
         ainsi que deux personnes morales : La petite fabrique Imagine Asbl et le
         CNCD-11.11.11.
