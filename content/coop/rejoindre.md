@@ -442,7 +442,7 @@ section_faq:
 ### **Cet appel public à l’épargne est ouvert&nbsp;**
 
 * pour une durée de 6 mois (du 15 septembre 2023 jusqu’au 31 mars 2024)
-* son montant est limité à 500.000 €
+* son montant est limité à 500.000 €&nbsp;
 
 ### **Impact social et environnemental**
 
