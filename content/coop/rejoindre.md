@@ -387,24 +387,25 @@ section_faq:
     - question: "Qui compose le Conseil d’Administration\_?"
       reponse: >-
         Notre CA est pluriel, pluridisciplinaire et paritaire. Il est composé de
-        X membres et deux invité.e.s permanent.e.s :&nbsp; six femmes et cinq
+        neuf membres et deux invité·es permanent·es :&nbsp; six femmes et cinq
         hommes, cinq bruxellois, six wallons, avec des compétences mixtes
         (économie, culture, sciences politique, marketing, monde académique...)
 
 
-        * **Charlotte Moreau**, économiste. Titulaire de la ChairES en Economie
-        Sociale, chargée de recherche au Centre d'Economie Sociale et maître de
-        conférences à HEC Liège
+        * **Charlotte Moreau**, docteur en sciences économiques et de gestion,
+        titulaire de la ChairES en Économie Sociale, chargée de recherche au
+        Centre d'Economie Sociale et maître de conférences à HEC Liège et
+        UCLouvain
 
-        * **Adrienne Nizet**, ex-journaliste (Le Soir, culture) directrice
+        * **Adrienne Nizet**, ex-journaliste (*Le Soir*, culture), directrice
         adjointe de Passa Porta (Maison internationale des Littératures à
         Bruxelles) et coordinatrice du Passa Porta Festival
 
-        * **Maxime Vanderheyden,** économiste, co-fondateur et directeur
+        * **Maxime Vanderheyden,**&nbsp;économiste, co-fondateur et directeur
         d’Ecopoon, coopérateur du Petit Monde de Desnié
 
-        * **Delphine Buchet,** sociologue, coordinatrice de Liège Créative –
-        Université de Liège, présidente des Amis du Théâtre de Liège
+        * **Delphine Buchet,**&nbsp;sociologue, coordinatrice de Liège Créative
+        – Université de Liège, présidente des Amis du Théâtre de Liège
 
         * **Arnaud Zacharie,** docteur en sciences politiques et sociales,
         secrétaire général du Centre national de coopération au développement
@@ -413,16 +414,17 @@ section_faq:
         * **Audrey Comtesse,** architecte, historienne de l’art, directrice de
         l’Institut Culturel d'Architecture Wallonie-Bruxelles (ICA)
 
-        * **Sandrino Graceffa,** sociologue, ** ** consultant, expert en
-        économie solidaire (coopératives & nouvelles formes de travail)
+        * **Sandrino Graceffa,** sociologue, consultant, expert en économie
+        solidaire (coopératives & nouvelles formes de travail)
 
         * **Chloé Mikolajczak,** titulaire d’un master en gestion de
         l’environnement, coordinatrice du réseau Fossil Free Politics, activiste
         climatique et gestionnaire du compte Instagram Greenmonki
 
-        * **Noémie Laumont (ajouter descriptif)**
+        * **Noémie Laumont,&nbsp;**océanographe, responsable développements &
+        coopératrice à La Smala
 
-        * **Hugues Dorzée**, rédacteur chef Imagine (membre invité)
+        * **Hugues Dorzée**, rédacteur en chef d'*Imagine* (membre invité)
 
         * **Sarah Jonet,** directrice d’Imagine COOP, déléguée aux affaires
         journalières du CA (membre invité)
@@ -452,7 +454,7 @@ section_faq:
 
 * Des modes de déplacement bas carbone (transports en commun, vélo, limitation des voyages en avion & compensation)
 
-* L’égalité des genres (et une équipe de 7 personnes dont majoritairement des femmes)
+* L’égalité des genres&nbsp;
 
 * La production d’un magazine papier éco-conçu (papier recyclé, label FSC, encres écologiques), via un imprimeur local, familial et spécialisé dans l’édition durable (Kliemo, Eupen)
 
