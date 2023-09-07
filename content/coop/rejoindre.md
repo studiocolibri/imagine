@@ -218,9 +218,9 @@ section_faq:
     - question: "Pourquoi une coopérative agréée à finalité sociale\_?"
       reponse: >-
         Ce modèle est cohérent avec nos valeurs (processus démocratique,
-        participation des travailleurs, pas de recherche d’enrichissement des
-        associés, affectation des bénéfices à la réalisation du projet
-        Imagine…).
+        participation des travailleurs et travailleuses, pas de recherche
+        d’enrichissement des associés, affectation des bénéfices à la
+        réalisation du projet Imagine…).
 
 
         Par ailleurs, Imagine COOP a sollicité un agrément de la part du
