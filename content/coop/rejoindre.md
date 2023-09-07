@@ -34,16 +34,16 @@ section_one:
         Laboratoire d’idées Imagine.
 section_services:
   title: L'agence de <strong>services</strong><br>& le <strong>média</strong> Imagine
-  media_txt: >-
-        * Un magazine papier : trimestriel (4 n°/an) + un hors-série collector
-
-        * Imagine Digital (podcasts, articles web, grand entretien audio...) 
-        
-        * La Petite Bibliothèque Imagine (400 articles archivés)
+  media_txt: |-
+    * Un magazine papier : trimestriel (4 n°/an) + un hors-série collector
+    * Imagine Digital (podcasts, articles web, grand entretien audio...) 
+    * La Petite Bibliothèque Imagine (400 articles archivés)
   media_img: /uploads/logoblue.jpg
   presse_txt: >-
-        L'agence de services Imagine propose à la collectivité (opérateurs culturels, pouvoirs publics, associations, ONG, entreprises sociales...) une série de services à la carte (animation, outils pédagogiques, production de contenus...)<br><br>
-        Voir ici l'ensemble des prestations et des tarifs
+    L'agence de services Imagine propose à la collectivité (opérateurs
+    culturels, pouvoirs publics, associations, ONG, entreprises sociales...) une
+    série de services à la carte (animation, outils pédagogiques, production de
+    contenus...)<br><br> Voir ici l'ensemble des prestations et des tarifs
   presse_img: /uploads/logocoop.jpg
   img: /uploads/arbrecoop.jpg
 section_two:
@@ -113,7 +113,7 @@ section_four:
       text: >-
         Notre organisation ne se contente pas d’évoluer « ici et maintenant
         ».&nbsp; Elle est en mouvement, se place dans une perspective future et
-        tente d’ébaucher ce qui nous attend « demain ».&nbsp;
+        tente d’ébaucher ce qui nous attend « demain&nbsp; ».
     - title: La considération
       photo: /uploads/consideration1.png
       text: >-
