@@ -227,11 +227,11 @@ section_faq:
         Ministre de l'Economie afin de devenir membre du Conseil national de la
         coopération, de l’entreprenariat social et de l’entreprise agricole
         (CNC).
-    - question: "Qui sont les fondateurs d’Imagine COOP\_?"
+    - question: "Qui sont les fondateurs et fondatrices d’Imagine COOP\_?"
       reponse: >-
-        Ce sont les travailleuses et les travailleurs d’Imagine à titre
-        individuels, ainsi que deux personnes morales : La Petite Fabrique
-        Imagine Asbl et le CNCD-11.11.11.
+        Ce sont les travailleurs et travailleuses d’Imagine à titre individuel,
+        ainsi que deux personnes morales : La petite fabrique Imagine Asbl et le
+        CNCD-11.11.11.
     - question: "Où est le siège d’Imagine COOP\_?"
       reponse: >-
         Actuellement installée Boulevard Frères Orban à Liège, notre entreprise
