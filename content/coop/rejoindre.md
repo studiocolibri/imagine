@@ -35,9 +35,9 @@ section_one:
 section_services:
   title: L'agence de <strong>services</strong><br>& le <strong>média</strong> Imagine
   media_txt: >-
-    * Un magazine papier trimestriel (4 n°/an) + un hors-série * Imagine Digital
-    (podcasts, articles web, grand entretien audio...) * La Petite Bibliothèque
-    Imagine (400 articles archivés)
+    * Un magazine papier trimestriel (4 n°/an) + un hors-série * Imagine digital
+    (podcasts, articles web, grands entretiens audio...) * La Petite
+    bibliothèque Imagine (400 articles archivés)
   media_img: /uploads/logoblue.jpg
   presse_txt: >-
     L'agence de services Imagine propose à la collectivité (opérateurs
