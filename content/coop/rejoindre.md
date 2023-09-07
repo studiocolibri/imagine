@@ -35,9 +35,11 @@ section_one:
 section_services:
   title: L'agence de <strong>services</strong><br>& le <strong>média</strong> Imagine
   media_txt: >-
-    * Un magazine papier trimestriel (4 n°/an) + un hors-série inédit * Imagine
-    digital (podcasts, articles web, grands entretiens audio...) * La Petite
-    bibliothèque Imagine (400 articles archivés)  
+    * Un magazine papier trimestriel (4 n°/an) + un hors-série inédit
+
+    * Imagine digital (podcasts, articles web, grands entretiens audio...) 
+
+    * La Petite bibliothèque Imagine (400 articles archivés)  
   media_img: /uploads/logoblue.jpg
   presse_txt: >-
     Notre agence de services Imagine propose à la collectivité (opérateurs
@@ -80,11 +82,14 @@ section_three:
         * **Produire de l’information** de qualité, inspirante et critique,
         libre et non-conformiste en adéquation avec le Manifeste Imagine et via
         trois canaux de diffusion : un magazine papier, un média digital (dès le
-        11/10) et les réseaux sociaux* **Offrir des services à la collectivité**
+        11/10) et les réseaux sociaux
+
+        * **Offrir des services à la collectivité**
         (écoles, associations, collectifs, opérateurs culturels, secteur de
         l’économie sociale…) en matière d’accompagnement pédagogique et de 
-        formations, d’animations et de productions graphiques et de contenus*
-        **Fédérer** autour du magazine **les acteurs et les actrices de
+        formations, d’animations et de productions graphiques et de contenus
+        
+        * **Fédérer** autour du magazine **les acteurs et les actrices de
         changement** et aider nos lecteurs et nos lectrices à passer à l’action
     - title: Notre vision
       photo: /uploads/vision.jpg
@@ -419,7 +424,7 @@ section_faq:
         l’environnement, coordinatrice du réseau Fossil Free Politics, activiste
         climatique et gestionnaire du compte Instagram Greenmonki
 
-        * \*\*Noémie Laumont, \*\*océanographe, responsable développements &
+        * **Noémie Laumont,** océanographe, responsable développements &
         coopératrice à La Smala
 
         * **Hugues Dorzée**, rédacteur en chef d'*Imagine* (membre invité)
