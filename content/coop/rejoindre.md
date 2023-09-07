@@ -265,7 +265,8 @@ section_faq:
         priori*, ils seront prioritairement affectés au développement de la
         coopérative (emploi, contenus éditoriaux, investissements…). Toutefois,
         si l’assemblée générale le décide, le versement de dividendes aux
-        coopérateurs n’est pas exclu. Mais ceux-ci seront plafonnées à 6 %.
+        coopérateurs et coopératrices n’est pas exclu. Mais ceux-ci seront
+        plafonnées à 6 %.
     - question: "Quid des éventuelles pertes\_? "
       reponse: >-
         Si la coopérative réalise des pertes, ou contractent des dettes,
