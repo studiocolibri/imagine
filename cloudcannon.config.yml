@@ -490,7 +490,25 @@ collections_config:
         cascade: true
       media_txt:
         type: markdown
+        options:
+          allow_resize: true
+          initial_height: 320
+          image_size_attributes: true
+          resize_style: contain
         label: Texte Media
+        cascade: true
+      presse_txt:
+        type: markdown
+        options:
+          allow_resize: true
+          initial_height: 320
+          blockquote: true
+          bold: true
+          bulletedlist: true
+          copyformatting: true
+          image_size_attributes: true
+          resize_style: contain
+        label: Texte Agence de Services
         cascade: true
     _select_data: {}
     _structures: {}
