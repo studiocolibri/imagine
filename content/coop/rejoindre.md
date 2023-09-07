@@ -245,7 +245,7 @@ section_faq:
         phase qui se déroulera du 15 septembre 2023 à fin mars 2024. Notre
         premier objectif est de réunir 150.000 €, tous types de parts confondus.
         Si nous atteignons cette somme avant la fin de la campagne, nous
-        reverrons notre objectif à la hausse.
+        reverrons notre objectif à la hausse.&nbsp;
     - question: "A quoi va servir le capital investi par les coopérateurs\_? "
       reponse: >-
         Notre plan financier 2023-2026 prévoit une série d’investissements
@@ -425,14 +425,14 @@ section_faq:
 ### **Trois classes de coopérateurs**
 
 * Classe A (fondateurs & garants des valeurs) : les travailleurs et travailleuses d’Imagine, le CNCD-11.11.11 et l’Asbl La petite fabrique Imagine
-* Classe B : les lectrices et les lecteurs, abonné·es, citoyennes et sympathisant·es
+* Classe B : les lectrices et les lecteurs, abonné·es, citoyen·nes et sympathisant·es
 * Classe C : les organisations (associations, ONG, entreprises, opérateurs culturels, villes & communes, syndicats, mutuelles…)
 
 ### **Le prix de la part**
 
 * 100 € / part nominale (classe B)
 * Les organisations (classe C ) : minimum 5 parts de 100 € (= 500 €)
-* La présente offre de souscription de parts (classe B & C) est limitée à un maximum de 5.000 € par personne
+* La présente offre de souscription de parts (classe B & C) est limitée à un maximum de 5.000 € par personne&nbsp;
 
 ### **Cet appel public à l’épargne est ouvert&nbsp;**
 
