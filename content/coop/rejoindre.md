@@ -65,7 +65,7 @@ section_two:
         et des engagements** forts (gouvernance, égalité des genres,
         éco-responsabilité…). J’ai un **droit de regard et de vote** dans la
         gestion de l’entreprise et je peux m’impliquer via divers canaux (boîte
-        à ressources, rôle d’ambassadeur ou ambassadricedrice…)
+        à ressources, rôle d’ambassadeur ou ambassadrice…)
     - text: >-
         Je permets le renforcement et la **création d’emplois** locaux et
         durables
