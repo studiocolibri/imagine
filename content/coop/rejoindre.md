@@ -179,6 +179,7 @@ cta:
     environnementales et sociales. Comme coopératrice, comme coopérateur, vous
     nous aidez à déployer notre entreprise sociale.
   button: Je prends des parts
+  link: https://imagine.coophub.be/home/fr-fr
 section_faq:
   title: Infos pratiques & FAQ
   block:
