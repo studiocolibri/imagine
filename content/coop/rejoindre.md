@@ -162,14 +162,18 @@ team:
     - name: Fanny Dion
       job: Chargée de développement
       photo: /uploads/dion-fanny.png
-    - name: David Cauwe
-      job: Graphiste
-      photo: /uploads/cauwe-david.png
     - name: Sophie Weverbergh
       job: Correctrice
       photo: /v1591708258/sophie-weverbergh_amyoos.jpg
+    - name: David Cauwe
+      job: Graphiste
+      photo: /uploads/cauwe-david.png
+    - name: Lola Fonta
+      job: Graphiste
+      photo:
+      text: ''
     - name: Anthony Barbarich
-      job: Consultant web
+      job: Web designer
       photo: /uploads/barbarich-anthony.png
     - name: Julie Mouvet
       job: Community manager (freelance)
@@ -177,10 +181,6 @@ team:
       text: ''
     - name: Julie Peustjens
       job: Community manager
-      photo:
-      text: ''
-    - name: Lola Fonta
-      job: Graphiste
       photo:
       text: ''
 cta:
