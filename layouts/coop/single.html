@@ -94,7 +94,7 @@ background-color: white;">
 {{ range .Params.team.members }}
 <div class="team-member">
     <div class="team-member__photo">
-        {{ if or (.photo) (ne .photo "") }}<img src="{{ $img_path }}f_auto,q_80,w_200/{{ .photo }}" alt="Photo de {{ .name }}" loading="lazy" width="200" height="200">{{ end }}
+        {{ if or (.photo) (ne .photo "") }}<img src="{{ $img_path }}e_grayscale,e_tint:100:272a55:0p:cb4e21:100p,f_auto,q_80,w_400/{{ .photo }}" alt="Photo de {{ .name }}" loading="lazy" width="200" height="200">{{ end }}
     </div>
     <div class="team-member__text">
         <p class="team-member__name-job"><strong>{{ .name }}</strong><br> <span>{{ .job | markdownify }}</span></p>
