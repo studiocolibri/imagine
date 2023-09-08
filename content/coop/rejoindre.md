@@ -146,35 +146,35 @@ team:
       photo: /uploads/sarah-jonet.jpg
     - name: Hugues Dorzée
       job: Rédacteur en chef
-      photo: /uploads/dorzee-hugues.png
+      photo: /v1591708260/hugues-dorzee_rufkqe.jpg
     - name: Laure de Hesselle
       job: Journaliste
-      photo: /uploads/dehesselle-laure.png
+      photo: /v1591708260/laure-de-hesselle_dp4gdq.jpg
     - name: Christophe Schoune
       job: Journaliste
-      photo: /uploads/schoune-christophe.png
+      photo: /v1591708259/christophe-schoune_uldx8g.jpg
     - name: Sarah Freres
       job: Journaliste
-      photo: /uploads/feres-sarah.png
+      photo: /v1591708265/sarah-frere_dlcywu.jpg
     - name: Pascale Derriks
       job: Chargée administrative & financière
-      photo: /uploads/derricks-pascale.png
+      photo: /v1591708258/pascale-derriks_yaqzte.jpg
     - name: Fanny Dion
       job: Chargée de développement
-      photo: /uploads/dion-fanny.png
+      photo: /uploads/image-50433793.JPG
     - name: Sophie Weverbergh
       job: Correctrice
       photo: /v1591708258/sophie-weverbergh_amyoos.jpg
     - name: David Cauwe
       job: Graphiste
-      photo: /uploads/cauwe-david.png
+      photo: /v1591708258/david-cauwe_w6zktb.jpg
     - name: Lola Fonta
       job: Graphiste
-      photo:
+      photo: /uploads/lola-fonta.jpg
       text: ''
     - name: Anthony Barbarich
       job: Web designer
-      photo: /uploads/barbarich-anthony.png
+      photo: /uploads/anthony-barbarich.jpeg
     - name: Julie Mouvet
       job: Community manager
       photo:

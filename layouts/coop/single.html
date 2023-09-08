@@ -90,7 +90,7 @@ background-color: white;">
         Notre équipe
     </h2>
 <div class="gallery">
-{{ $img_path := .Site.Params.cloudinary_url }}
+{{ $img_path := $.Site.Params.cloudinary_url }}
 {{ range .Params.team.members }}
 <div class="team-member">
     <div class="team-member__photo">
