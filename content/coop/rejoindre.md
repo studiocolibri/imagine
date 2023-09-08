@@ -143,7 +143,7 @@ team:
   members:
     - name: Sarah Jonet
       job: Directrice d’Imagine COOP
-      photo: /uploads/jonet-sarah.png
+      photo: /uploads/sarah-jonet.jpg
     - name: Hugues Dorzée
       job: Rédacteur en chef
       photo: /uploads/dorzee-hugues.png
