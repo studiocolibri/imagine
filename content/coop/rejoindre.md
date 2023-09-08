@@ -173,7 +173,7 @@ team:
       photo: /uploads/lola-fonta-1.jpg
       text: ''
     - name: Anthony Barbarich
-      job: Web designer
+      job: Consultant Web
       photo: /uploads/anthony-barbarich.jpeg
     - name: Julie Mouvet
       job: Community manager

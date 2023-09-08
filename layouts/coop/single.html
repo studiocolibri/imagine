@@ -64,7 +64,12 @@ background-color: white;">
         </div>  */}}
     </div>
 </section>
-
+<div id="videoModal" class="modal">
+    <div class="modal-content">
+        <span class="close">✕</span>
+        <iframe id="videoFrame" width="560" height="600" src="" frameborder="0" allowfullscreen></iframe>
+    </div>
+</div>
 <section class="vid">
     <div class="cw">
         <div class="vid-container">
@@ -168,4 +173,29 @@ background-color: white;">
     </div>    
 </section>
 </div>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        var modal = document.getElementById("videoModal");
+        var btn = document.querySelector(".vid-container a");
+        var span = document.querySelector(".close");
+btn.addEventListener("click", function(event) {
+    event.preventDefault();
+    document.getElementById("videoFrame").src = "https://www.youtube.com/embed/eIDojVXBmGc";
+    modal.classList.add("open");  
+});
+
+span.onclick = function() {
+    modal.classList.remove("open"); 
+    document.getElementById("videoFrame").src = ""; 
+}
+    
+        window.onclick = function(event) {
+            if (event.target == modal) {
+                modal.style.display = "none";
+                document.getElementById("videoFrame").src = "";
+            }
+        }
+    });
+    
+</script>
 {{ end }}

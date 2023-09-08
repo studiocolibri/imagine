@@ -86,7 +86,7 @@
             width: 200px;
             height: 200px;
             object-fit: cover;
-            filter: brightness(1.2) contrast(1.15);
+            filter: brightness(1.1) contrast(1.2);
 
             @media screen and (max-width: 800px) {
                 width: 9rem;
@@ -365,4 +365,57 @@
 
 ::marker {
     color: var(--coop);
+}
+
+
+.modal {
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s, visibility 0.3s;
+    display: block;  /* Changez "none" par "block" */
+    position: fixed;
+    z-index: 3;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(25, 27, 47, 0.88);
+    backdrop-filter: blur(27px);
+}
+
+.modal.open {
+    opacity: 1;
+    visibility: visible;
+}
+
+.modal-content {
+    position: relative;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+iframe {
+    width: 80%;
+    
+}
+
+.close {
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+
+.close:hover, .close:focus {
+    cursor: pointer;
 }
