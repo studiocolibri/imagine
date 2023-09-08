@@ -352,9 +352,9 @@ section_faq:
         poids au sein de l’assemblée générale n’est donc pas lié au montant
         investi. Par ailleurs, le comité de rédaction reste pleinement libre. Il
         effectue en toute indépendance ses choix rédactionnels. Par contre, les
-        coopératrices et les coopérateurs seront associé(e)s à la vie du
-        magazine (newsletter, événements…) et elles/ils pourront s’investir via
-        notre boîte à idées et à ressources de la coopérative.
+        coopératrices et les coopérateurs seront associé·es à la vie du magazine
+        (newsletter, événements…) et ellesils pourront s’investir via notre
+        boîte à idées et à ressources de la coopérative.
     - question: "Quel est votre lien avec les partis politiques\_? "
       reponse: >-
         *Imagine* n’a aucun lien structurel ni idéologique avec un parti.
