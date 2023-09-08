@@ -456,7 +456,7 @@ section_faq:
 
 * L’implantation d’Imagine COOP début 2024 à La Menuiserie, un centre d’entreprises dédié à la transition vers une économie soutenable, plus sociale et solidaire (mutualisation des ressources, architecture durable, mobilité douce…)&nbsp;
 
-* Une rémunération juste de ses collaborateurs et des collaboratrices
+* Une rémunération juste de ses collaborateurs et collaboratrices
 
 * Des modes de déplacement bas carbone (transports en commun, vélo, limitation des voyages en avion & compensation)
 
@@ -478,7 +478,7 @@ section_faq:
 
 ### **Quelques chiffres clés**
 
-* **7 travailleurs salariés** (**4,8** équivalents temps plein) et plusieurs collaborateurs fixes et/ou occasionnel (graphiste, correctrice, journalistes, photographes, illustrateurs…)
+* **7 personnes salariées** (4,8 équivalents temps plein) et plusieurs collaborateurs fixes et/ou occasionnels (graphistes, correctrice, journalistes, photographes, illustrateurs…)
 * Un **modèle économique mixte** : 78 % de recettes propres et 22 % de subventions publiques (Aide à presse non commerciale Fédération Wallonie-Bruxelles et Coopération au développement via notre partenaire, le CNCD-11.11.11)
 * **Part des recettes**&nbsp;: abonnements (50 %), ventes au numéro (10 %), suppléments rédactionnels et publicité éthique & responsable (7%), aides publiques (33 %)
 * **Part des dépenses**&nbsp;: rémunérations (56 %), production (26 %), frais de fonctionnement (9 %), diffusion (7 %), promotion (2 %)
