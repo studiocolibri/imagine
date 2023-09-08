@@ -437,7 +437,7 @@ section_faq:
 ---
 ### **Trois classes de coopérateurs**
 
-* Classe A (fondateurs & garants des valeurs) : les travailleurs et travailleuses d’Imagine, le CNCD-11.11.11 et l’Asbl La petite fabrique Imagine
+* Classe A (fondateurs & garants des valeurs) : les travailleurs et travailleuses d’*Imagine*, le CNCD-11.11.11 et l’Asbl La petite fabrique Imagine
 * Classe B : les lecteurs·rices, abonné·es, citoyen·nes et sympathisant·es
 * Classe C : les organisations (associations, ONG, entreprises, opérateurs culturels, villes & communes, syndicats, mutuelles…)
 
