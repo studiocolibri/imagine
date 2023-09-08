@@ -179,6 +179,10 @@ team:
       job: Community manager
       photo:
       text: ''
+    - name: Lola Fonta
+      job: Graphiste
+      photo:
+      text: ''
 cta:
   text: >-
     Imagine est un éditeur indépendant. Le magazine vit en priorité grâce à ses
