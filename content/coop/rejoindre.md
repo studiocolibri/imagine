@@ -176,7 +176,7 @@ team:
       job: Web designer
       photo: /uploads/barbarich-anthony.png
     - name: Julie Mouvet
-      job: Community manager (freelance)
+      job: Community manager
       photo:
       text: ''
     - name: Julie Peustjens
