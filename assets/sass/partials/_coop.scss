@@ -8,7 +8,8 @@
         }
     a {
         color: var(--coop);
-        text-decoration: none;
+        font-weight: bolder;
+        text-underline-offset: 0.3rem;
     }
     h2, h3, h4 {
         font-family:faible, sans-serif;
