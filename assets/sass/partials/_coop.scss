@@ -76,6 +76,7 @@
 
         @media screen and (max-width: 800px) {
             width: 50%;
+            display: flex;
         
         }
     
@@ -85,6 +86,11 @@
             height: 200px;
             object-fit: cover;
 
+            @media screen and (max-width: 800px) {
+                width: 9rem;
+                height: 9rem;
+        
+            }
         }
 
         &__photo {
@@ -93,6 +99,13 @@
             margin-right: 0;
             width: 200px;
             height: 200px;
+        
+            @media screen and (max-width: 800px) {
+                width: 9rem;
+                height: 9rem;
+        
+            }
+        
         }
     
     
@@ -223,7 +236,7 @@
 .gallery {
     display:flex;
     flex-wrap: wrap;
-    padding-top: 2rem;
+    padding-top: 1rem;
 
 }
 
