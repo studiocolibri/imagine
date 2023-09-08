@@ -32,7 +32,7 @@ background-position: center;
 background-repeat: no-repeat;
 background-color: white;">
     <div class="cw" style="max-width:1280px;">
-        <h2>{{ .Params.section_services.title | safeHTML }}</h2>
+        {{/*  <h2>{{ .Params.section_services.title | safeHTML }}</h2>  */}}
         <div class="flex-2-cols">
             <div class="flex-2-cols__col">
                 <img src="{{.Site.Params.cloudinary_url }}f_auto,q_80,w_300/{{.Params.section_services.media_img}}" width="200"/>
