@@ -170,7 +170,7 @@ team:
       photo: /v1591708258/david-cauwe_w6zktb.jpg
     - name: Lola Fonta
       job: Graphiste
-      photo: /uploads/lola-fonta.jpg
+      photo: /uploads/lola-fonta-1.jpg
       text: ''
     - name: Anthony Barbarich
       job: Web designer
