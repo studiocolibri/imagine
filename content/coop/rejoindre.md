@@ -171,6 +171,14 @@ team:
     - name: Anthony Barbarich
       job: Consultant web
       photo: /uploads/barbarich-anthony.png
+    - name: Julie Mouvet
+      job: Community manager (freelance)
+      photo:
+      text: ''
+    - name: Julie Peustjens
+      job: Community manager
+      photo:
+      text: ''
 cta:
   text: >-
     Imagine est un éditeur indépendant. Le magazine vit en priorité grâce à ses
