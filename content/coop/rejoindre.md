@@ -177,11 +177,11 @@ team:
       photo: /uploads/anthony-barbarich.jpeg
     - name: Julie Mouvet
       job: Community manager
-      photo:
+      photo: /uploads/julie-mouvet.jpg
       text: ''
     - name: Julie Peustjens
       job: Community manager
-      photo:
+      photo: /uploads/julie.jpg
       text: ''
 cta:
   text: >-
