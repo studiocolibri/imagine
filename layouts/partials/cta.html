@@ -1,4 +1,4 @@
-<div class="cta-abonnement" style="background-image: url({{ .Params.hero_img }})">
+<div class="cta-abonnement" style="background-image: url({{ $.Site.Params.cloudinary_url }}/f_auto,q_70,w_1600{{ .Params.hero_img }})">
     <p>{{ .Params.cta.text | markdownify }}</p>
     <a class="btn btn--square btn--red" href="{{ .Params.cta.link }}" target="_blank">{{.Params.cta.button}}</a>
 </div>
