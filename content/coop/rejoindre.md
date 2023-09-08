@@ -430,7 +430,8 @@ section_faq:
         * **Noémie Laumont,** océanographe, responsable développements &
         coopératrice à La Smala
 
-        * **Hugues Dorzée**, rédacteur en chef d'*Imagine* (membre invité)
+        * **Hugues Dorzée**, journaliste et rédacteur en chef d'*Imagine*
+        (membre invité)
 
         * **Sarah Jonet,** directrice d’Imagine COOP, déléguée aux affaires
         journalières du CA (membre invité)&nbsp;
