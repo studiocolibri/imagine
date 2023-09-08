@@ -85,6 +85,7 @@
             width: 200px;
             height: 200px;
             object-fit: cover;
+            filter: brightness(1.2) contrast(1.15);
 
             @media screen and (max-width: 800px) {
                 width: 9rem;
