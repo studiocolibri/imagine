@@ -459,11 +459,11 @@ section_faq:
 
 * Une rémunération juste de ses collaborateurs et collaboratrices
 
-* Des modes de déplacement bas carbone (transports en commun, vélo, limitation des voyages en avion & compensation)
+* Des modes de déplacement bas carbone (transports en commun, vélo, limitation & compensation des voyages en avion)
 
 * L’égalité des genres&nbsp;
 
-* La production d’un magazine papier éco-conçu (papier recyclé, label FSC, encres écologiques), via un imprimeur local, familial et spécialisé dans l’édition durable (Kliemo, Eupen)
+* La production d’un magazine papier éco-conçu (papier recyclé, label FSC, encres végétales) via un imprimeur local, familial et spécialisé dans l’édition durable (Kliemo, Eupen)
 
 * Un site web eco-friendly (Studio Colibri)
 
@@ -479,7 +479,7 @@ section_faq:
 
 ### **Quelques chiffres clés**
 
-* **7 personnes salariées** (4,8 équivalents temps plein) et plusieurs collaborateurs fixes et/ou occasionnels (graphistes, correctrice, journalistes, photographes, illustrateurs…)
+* **7 personnes salariées** (4,8 équivalents temps plein) et plusieurs collaborateurs·rices fixes et/ou occasionnels (graphistes, correctrice, journalistes, photographes, illustrateurs·rices…)
 * Un **modèle économique mixte** : 78 % de recettes propres et 22 % de subventions publiques (Aide à presse non commerciale Fédération Wallonie-Bruxelles et Coopération au développement via notre partenaire, le CNCD-11.11.11)
 * **Part des recettes**&nbsp;: abonnements (50 %), ventes au numéro (10 %), suppléments rédactionnels et publicité éthique & responsable (7%), aides publiques (33 %)
 * **Part des dépenses**&nbsp;: rémunérations (56 %), production (26 %), frais de fonctionnement (9 %), diffusion (7 %), promotion (2 %)
@@ -487,6 +487,6 @@ section_faq:
 
 ### **Les documents utiles**&nbsp;
 
-* Bilan 2022 de l’Asbl & rapport du réviseur
+* [Bilan 2022 de l’Asbl](/Imagine_bilan_2022-1.pdf) & rapport du réviseur
 * Statuts de la coopérative
-* Charte fondatrice & Manifeste Imagine
+* Charte fondatrice & [Manifeste *Imagine*](/assets/pdf/Manifeste_Imagine2020.pdf)
