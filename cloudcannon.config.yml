@@ -499,6 +499,10 @@ collections_config:
       thumb_img:
         type: image
         cascade: true
+      meta_img:
+        type: image
+        label: Image preview pour Facebook
+        cascade: true
     _select_data: {}
     _structures: {}
     create:
