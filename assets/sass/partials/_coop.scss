@@ -341,11 +341,11 @@
         height: 25rem;
         margin-bottom: -200px;
         color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-position: center;
-    background-size: cover;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-position: center;
+        background-size: cover;
 
         a {
             color: white;
@@ -363,6 +363,10 @@
 
         svg {
             margin-bottom: .5rem;
+        }
+
+        &:hover {
+
         }
     }
 
