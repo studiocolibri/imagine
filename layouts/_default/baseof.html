@@ -15,7 +15,14 @@
   	<meta property="og:url" content="{{ .Permalink }}" />
     <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ with .Params.Title }}{{ . }}{{ end }} | {{ with .Params.categories }}{{ range first 1 . }}{{ . }}{{ end}} | {{ end }}{{ .Site.Title }}{{ end }}" />
     <meta property="og:description" content='{{ with .Content }}{{ . | truncate 158 }}{{ else }}{{ .Site.Data.infos.description }}{{ end }}' />
-    <meta property="og:image" content="{{ if eq .Params.class "single-e-magine" }}{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_1200,h_630,c_fit/{{ .Params.img }}{{ else }}https://res.cloudinary.com/drg3m95yg/image/upload/v1591336459/og-image_qdvisr.jpg{{ end }}" />
+    <meta property="og:image" content="
+    {{ if eq .Params.class "single-e-magine" }}
+        {{ .Site.Params.cloudinary_url }}f_auto,q_80,w_1200,h_630,c_fit/{{ .Params.img }}
+    {{ else if eq .Params.class "coopz" }}
+        {{ .Site.Params.cloudinary_url }}f_auto,q_80,w_1200,h_630,c_fit/{{ .Params.meta_img }}
+    {{ else }}
+        https://res.cloudinary.com/drg3m95yg/image/upload/v1591336459/og-image_qdvisr.jpg
+    {{ end }}" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta property="og:site_name" content="{{ .Site.Title }}" />

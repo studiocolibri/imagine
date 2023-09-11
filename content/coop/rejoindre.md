@@ -1,7 +1,8 @@
 ---
 title: Rejoindre Imagine COOP
 hero_img: /uploads/banner2.jpg
-class: notre-manifeste single-page
+meta_img: /uploads/banner2.jpg 
+class: coopz
 compteur: 22
 section_one:
   title: Imagine COOP,<br> c'est quoi ?
