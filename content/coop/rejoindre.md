@@ -168,9 +168,9 @@ team:
     - name: David Cauwe
       job: Graphiste
       photo: /v1591708258/david-cauwe_w6zktb.jpg
-    - name: Lola Fonta
+    - name: Lola Contessi
       job: Graphiste
-      photo: /uploads/lola-fonta-1.jpg
+      photo: /uploads/lola-contessi.jpg
       text: ''
     - name: Anthony Barbarich
       job: Consultant Web
