@@ -496,6 +496,9 @@ collections_config:
         type: markdown
         label: Texte Agence de Services
         cascade: true
+      thumb_img:
+        type: image
+        cascade: true
     _select_data: {}
     _structures: {}
     create:
