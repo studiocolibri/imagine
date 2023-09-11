@@ -75,6 +75,10 @@ section_two:
     - text: >-
         J’entre dans la **communauté Imagine**, partie prenante des
         indispensables transformations écologiques et sociales
+
+section_video:
+  youtube_id: eIDojVXBmGc
+  thumb_img: /uploads/video-thumb.jpg
 section_three:
   title: Notre mission
   blocks:

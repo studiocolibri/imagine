@@ -338,15 +338,31 @@
     .vid-container {
         background: var(--coopsec);
         width:100%;
-        height: 20rem;
+        height: 25rem;
         margin-bottom: -200px;
         color: white;
     display: flex;
     justify-content: center;
     align-items: center;
+    background-position: center;
+    background-size: cover;
 
         a {
             color: white;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-decoration: none
+        }
+
+        a:hover {
+            color: var();
+            
+        }
+
+        svg {
+            margin-bottom: .5rem;
         }
     }
 
