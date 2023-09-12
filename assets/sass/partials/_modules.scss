@@ -39,16 +39,17 @@ a {
     }
 
     &:after {
-        content: '';
+        content: '→';
         position: absolute;
-        top: 50%;
+        top: 40%;
         right: -1.2em;
-        background-image: url(../assets/img/arrow-right.svg);
+        // background-image: url(../assets/img/arrow-right.svg);
         background-repeat: no-repeat;
         width: 12px;
         height: 18px;
         transform:translate(0px, -50%);
         transition:transform 150ms ease-out;
+        color: var(--coop)
     }
 
     &--square {

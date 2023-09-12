@@ -173,12 +173,17 @@ $bp-cover : 1363px;
         color: $main;
     
         &:after {
-            background-image:url('../assets/img/arrow-right-turquoise.svg');
-            top: 50%;
+            content: '→';
+            position: absolute;
+            top: 40%;
+            right: -1.2em;
+            // background-image: url(../assets/img/arrow-right.svg);
+            background-repeat: no-repeat;
             width: 12px;
             height: 18px;
-            right:-1.2em;
-            transform:translateY(-50%);
+            transform:translate(0px, -50%);
+            transition:transform 150ms ease-out;
+            color: var(--coop)
         }
     }
 

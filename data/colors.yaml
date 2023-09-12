@@ -2,15 +2,15 @@
 - name: purple
   color: "#ac91d5"
 - name: txt-color
-  color: "#495050"
+  color: "#2f3464"
 - name: main
-  color: "#13b18c"
+  color: "#2f3464"
 - name: lightmain
   color: "#75CAC6"
 - name: ultralightmain
   color: "#9CDE9F"
 - name: turquoise
-  color: "#495050"
+  color: "#ee5a24"
 - name: yellow
   color: "#f5bf71"
 - name: orange
