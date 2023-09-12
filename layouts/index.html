@@ -1,5 +1,8 @@
 {{ define "main" }}
-<section class="home-header page-header">
+<section class="home-header page-header" style="
+    background-image: url({{ .Site.Params.cloudinary_url }}f_auto,q_80,w_800/uploads/hero-bottom.jpg);
+    background-position: bottom left;
+    background-size: 44%;">
     {{ $header_title := .Params.header_title }}
     {{ $header_text := .Params.header_text }}
     {{ range first 1 (where $.Site.RegularPages.ByDate.Reverse "Section" "numeros") }}
