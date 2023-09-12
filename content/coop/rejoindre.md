@@ -306,13 +306,12 @@ section_faq:
         plafonnées à 6 %.
     - question: "Quid des éventuelles pertes\_? "
       reponse: >-
-        Si la coopérative réalise des pertes, ou contractent des dettes,
-        celles-ci concernent le patrimoine de la société coopérative, et non
-        celui des coopérateurs et coopératrices (qui sont « concernés »
-        uniquement à hauteur de leurs apports dans le patrimoine de la société).
-        Il s’agit en fait d’une société coopérative à responsabilité limitée
-        (même si l’appellation a été supprimée suite à la réforme du Code des
-        sociétés).
+        Si la coopérative réalise des pertes, ou contracte des dettes, celles-ci
+        concernent le patrimoine de la société coopérative, et non celui des
+        coopérateurs et coopératrices (qui sont « concernés » uniquement à
+        hauteur de leurs apports dans le patrimoine de la société). Il s’agit en
+        fait d’une société coopérative à responsabilité limitée (même si
+        l’appellation a été supprimée suite à la réforme du Code des sociétés).
 
 
         L’article 8 des statuts de la coopérative précise bien cette
