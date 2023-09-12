@@ -386,10 +386,10 @@ section_faq:
 
 
         Tout investissement financier comporte un risque. Ici, l'objectif est
-        aussi que la prise de participation des coopérateurs permettent à
-        Imagine (un projet pérenne - 27 ans d'existence) de trouver les moyens
-        financiers de se redéployer via l'appel à l'épargne public (plus en
-        phase avec nos valeurs et hors du système bancaire classique).
+        aussi que la prise de participation des coopérateurs·rices permettent à
+        *Imagine* (un projet pérenne avec déjà 27 ans d'existence) de trouver
+        les moyens financiers de se redéployer via l'appel à l'épargne public
+        (plus en phase avec nos valeurs et hors du système bancaire classique).
     - question: "Quelle est la durée de la campagne\_? "
       reponse: >-
         La campagne va durer 6 mois (du 15 septembre au 31 mars), mais la prise
