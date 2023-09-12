@@ -198,19 +198,14 @@ cta:
   link: https://imagine.coophub.be/register/be-fr/IMG
 section_faq:
   title: Infos pratiques & FAQ
-  contact_info: >-
+  contact_info: |-
     **Imagine COOP**  
-
     Rue de l'Académie 53  
-
     B-4000 LIEGE  
 
-    
     Tél. : 00 32 (0)4 380 13 37  
-
     coop@imagine-magazine.com  
-    
-    
+
     TVA : BE0479.486.737
   block:
     - question: "Pourquoi le modèle coopératif\_?"
@@ -476,9 +471,9 @@ section_faq:
 
 * 100 € / part nominale (classe B)
 * Les organisations (classe C ) : minimum 5 parts de 100 € (= 500 €)
-* La présente offre de souscription de parts (classe B & C) est limitée à un maximum de 5.000 € par personne&nbsp;
+* La présente offre de souscription de parts (classe B & C) est limitée à un maximum de 5.000 € par personne conformément à la législation en vigueur. Tout investissement financier comporte un risque. Celui-ci est limité à la hauteur de l'apport.
 
-### **Cet appel public à l’épargne est ouvert&nbsp;**
+### **Cet appel public à l’épargne est ouvert**&nbsp;
 
 * pour une durée de 6 mois (du 15 septembre 2023 jusqu’au 31 mars 2024)
 * son montant est limité à 500.000 €&nbsp;
@@ -517,6 +512,7 @@ section_faq:
 
 ### **Les documents utiles**&nbsp;
 
-* [Bilan 2022 de l’Asbl](/Imagine_bilan_2022-1.pdf) & rapport du réviseur
-* Statuts de la coopérative
+* [Bilan 2022 de l’Asbl](/Imagine_bilan_2022-1.pdf)&nbsp;
+* [Statuts de la coopérative](/Statuts-coordonnées-Imagine-COOP-au-07.09.2023.pdf)
+* [La composition du CA d'Imagine COOP](/conseil-admin-V2-1.pdf)
 * Charte fondatrice & [Manifeste *Imagine*](/assets/pdf/Manifeste_Imagine2020.pdf)
