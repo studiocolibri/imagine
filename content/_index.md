@@ -42,23 +42,11 @@ header_title: Clarifier les faits, libérer<br>les idées et les esprits
 header_text: Imagine est un magazine bimestriel et un éditeur indépendant depuis 2001.
 section_one:
   section_title: ''
-  title: 'Imagine COOP, c''est parti ! '
-  text: >-
-    Cet été, notre média va franchir une étape importante dans son histoire avec
-    la transformation d’Imagine d’Asbl en coopérative. L’aboutissement d’un
-    intense chantier de deux ans, accompagné par notre agence-conseil
-    (Propage-s), des experts, des lecteurs… autour de notre gouvernance, notre
-    modèle économique, nos développements stratégiques et nos évolutions
-    éditoriales. Et la promesse d’un redéploiement. Le 1er septembre, Imagine
-    COOP, fondée par les travailleuses et les travailleurs, lancera un grand
-    appel public à l’épargne, associant les lecteurs, sympathisants, citoyens et
-    organisations en transition (ONG, associations, syndicats, mutuelles,
-    opérateurs culturels…). Avec, à la clé, des innovations et un nouveau chemin
-    à tracer ensemble. Pour mieux comprendre ce qui nous/vous attend, nous vous
-    expliquons tout en six étapes !
-  img: /uploads/8d1fbb97-2409-4437-9bfe-85d2ce08444a-1.jpeg
-  btn_text: 'En savoir plus '
-  btn_link: /imagine-coop-cest-parti
+  title: "Je soutiens Imagine COOP\_!"
+  text: "Imagine COOP est la 1ère coopérative de presse et de services spécialisée dans les transformations écologique et sociale en Belgique fondée le 7 septembre. C’est un nouveau Média papier & digital (à découvrir dès le 11 octobre) et une nouvelle Agence services (production de contenus, éducation aux médias, formation, animation). C’est aussi une entreprise sociale, d’utilité publique, éco-responsable, qui génère de l’activité économique durable, crée de l’emploi en Wallonie et à Bruxelles et soutient un journalisme d’impact et de qualité. Devenez, vous aussi, coopératrice et coopérateur d’Imagine COOP, à titre individuel ou via votre organisation, et soyez associé·e à sa gouvernance\_!"
+  img: /uploads/mission.jpg
+  btn_text: Je prends des parts !
+  btn_link: /coop/rejoindre
 section_two:
   section_title: Accès libre
   btn_link: /libre-acces/
