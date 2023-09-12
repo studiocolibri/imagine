@@ -287,8 +287,14 @@ section_faq:
         gestion informatique (logiciels de gestion, IT…) et les ressources
         humaines (engagement d’une nouvelle directrice, renforcement de l’emploi
         existant, recrutement d’un·e community manager free-lance et de nouveaux
-        collaborateurs·trices…). Montant total de l’investissement : 207.000
-        €&nbsp;
+        collaborateurs·trices…). Montant total à financer en priorité : 207.000
+        €
+
+
+        Concrètement, l'idée est aussi de se financer directement avec un appel
+        à l'épargne public afin de mobiliser un effet "levier" (permettant soit
+        de ne pas recourir aux solutions bancaires classiques, soit d'avoir de
+        meilleures conditions).
     - question: "Quid des éventuels bénéfices\_?"
       reponse: >-
         Si la coopérative réalise des bénéfices, les statuts prévoient que c’est
