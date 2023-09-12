@@ -10,11 +10,20 @@
     <link rel="preload" href="/assets/fonts/subset-PlayfairDisplay-Regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
     <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ with .Params.Title }}{{ . }}{{ end }} | {{ with .Params.categories }}{{ range first 1 . }}{{ . }}{{ end}} | {{ end }}{{ .Site.Title }}{{ end }}
     </title>
-    <meta name="description" content="{{- with .Content -}}{{- . | truncate 158 -}}{{- else -}}{{- .Site.Data.infos.description -}}{{- end -}}" />
     <meta property="og:type" content="website" />
   	<meta property="og:url" content="{{ .Permalink }}" />
     <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ with .Params.Title }}{{ . }}{{ end }} | {{ with .Params.categories }}{{ range first 1 . }}{{ . }}{{ end}} | {{ end }}{{ .Site.Title }}{{ end }}" />
-    <meta property="og:description" content='{{ with .Content }}{{ . | truncate 158 }}{{ else }}{{ .Site.Data.infos.description }}{{ end }}' />
+    <meta property="og:description" content='
+    {{ with .Params.meta_txt }}
+        {{ . }}
+    {{ else }}
+        {{ with .Content }}
+            {{ . | truncate 158 }}
+        {{ else }}
+            {{ .Site.Data.infos.description }}
+        {{ end }}
+    {{ end }}' />
+
     <meta property="og:image" content="
     {{ if eq .Params.class "single-e-magine" }}
         {{ .Site.Params.cloudinary_url }}f_auto,q_80,w_1200,h_630,c_fit/{{ .Params.img }}

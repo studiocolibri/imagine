@@ -2,6 +2,7 @@
 title: Rejoindre Imagine COOP
 hero_img: /uploads/banner2.jpg
 meta_img: /uploads/imagine-coop-opengraph.jpg
+meta_txt: Imagine COOP est la 1ère coopérative de presse et de services spécialisée dans les transformations écologique et sociale en Belgique
 class: coopz
 compteur: 22
 section_one:
