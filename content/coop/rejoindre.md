@@ -265,9 +265,9 @@ section_faq:
         CNCD-11.11.11.
     - question: "Où est le siège d’Imagine COOP\_?"
       reponse: >-
-        Actuellement installée Boulevard Frère Orban à Liège, notre entreprise
-        va déménager début 2024 à La Menuiserie (53 rue de l’Académie, à Liège)
-        pour rejoindre <a target="_blank" rel="noopener"
+        Actuellement installée au 35A Boulevard Frère Orban à Liège, notre
+        entreprise va déménager début 2024 à La Menuiserie (53 rue de
+        l’Académie, à Liège) pour rejoindre <a target="_blank" rel="noopener"
         href="https://novacitis.be/">le nouveau centre dédié aux entreprises
         sociales et en transition</a>.&nbsp;
     - question: "Quel est l’objectif financier pour la campagne de levée de fonds\_?"
