@@ -392,7 +392,7 @@ section_faq:
       reponse: >-
         La campagne va durer 6 mois (du 15 septembre au 31 mars), mais la prise
         de parts pourra se poursuivre par la suite.
-    - question: "Si j’achète pour 100.000 €, je pourrai choisi la couverture du prochain numéro d’Imagine\_?"
+    - question: "Si j’achète pour 100.000 €, je pourrai choisir la couverture du prochain numéro d’Imagine\_?"
       reponse: >-
         Non. Le principe de gouvernance est bien « une personne = une voix ». Le
         poids au sein de l’assemblée générale n’est donc pas lié au montant
