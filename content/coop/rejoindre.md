@@ -77,7 +77,7 @@ section_two:
         J’entre dans la **communauté Imagine**, partie prenante des
         indispensables transformations écologiques et sociales
 section_video:
-  youtube_id: eIDojVXBmGc
+  youtube_id: 4o2cO6DfRIc
   thumb_img: /uploads/video-thumb.jpg
 section_three:
   title: Notre mission
