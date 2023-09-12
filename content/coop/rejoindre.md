@@ -47,7 +47,7 @@ section_services:
     productions de contenus...)
 
 
-    <br><a target="_blank" rel="noopener" href="imagine-magazine.com">→ Notre
+    <br><a target="_blank" rel="noopener" href="/grille-tarifs-V2.pdf">→ Notre
     grille de services et de tarifs</a>
   presse_img: /uploads/logocoop.jpg
   img: /uploads/arbrecoop.jpg
