@@ -325,10 +325,19 @@ section_faq:
         Shelter.&nbsp;
     - question: "Les coopérateurs et coopératrices peuvent-elles se retirer et récupérer leur(s) part(s)\_?"
       reponse: >-
-        Oui, il est possible de renoncer à son statut de coopérateur et de
-        récupérer sa ou ses part(s) à tout moment. Soit en les revendant à
-        Imagine COOP, soit à un autre coopérateur. Le remboursement par
-        l’entreprise devra se faire dans un délai maximum d’un an.
+        Oui, il est possible de renoncer à son statut de coopérateurs·rices et
+        de récupérer sa ou ses part(s) à tout moment. Soit en les revendant à
+        Imagine COOP, soit à un autre coopérateur.
+
+
+        Toutefois, le CA doit s'assurer que la revente de(s) part(s) ne met pas
+        en péril l'activité d'Imagine COOP avant d'activer le remboursement.
+
+
+        Concrètement, il fait passer deux tests pour s'en assurer, le test de
+        solvabilité et de liquidité.&nbsp; Les conditions précises sont prévues
+        dans les statuts (article 9.19). En fait, cela concerne surtout les
+        apports "importants" d'Imagine COOP.
     - question: "Les parts sont-elles nominatives\_?"
       reponse: >-
         Oui, elles appartiennent à une personne déterminée, mentionnée dans le
