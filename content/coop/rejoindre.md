@@ -479,8 +479,8 @@ section_faq:
         * **Hugues Dorzée**, journaliste et rédacteur en chef d'*Imagine*
         (membre invité)
 
-        * **Sarah Jonet,** directrice d’Imagine COOP, déléguée aux affaires
-        journalières du CA (membre invité)&nbsp;
+        * **Sarah Jonet,** directrice d’Imagine COOP, déléguée à la gestion
+        journalière (membre invitée)&nbsp;
 ---
 ### **Trois classes de coopérateurs**
 
