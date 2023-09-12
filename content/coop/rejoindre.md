@@ -379,9 +379,17 @@ section_faq:
 
 
         En cas de faillite de l’entreprise, il est toujours possible qu’elle ne
-        puisse pas rembourser ses coopérateurs. Néanmoins, le risque est limité,
-        car l’équipe opérationnelle et le CA seront particulièrement attentifs à
-        la mise en œuvre du plan financier et corriger le tir dès qu’il le faut.
+        puisse pas rembourser ses coopérateurs. Néanmoins, le risque est limité
+        (à l'apport des coopérateurs). Ensuite, l’équipe opérationnelle et le CA
+        seront particulièrement attentifs à la mise en œuvre du plan financier
+        et à corriger le tir s'il le faut.
+
+
+        Tout investissement financier comporte un risque. Ici, l'objectif est
+        aussi que la prise de participation des coopérateurs permettent à
+        Imagine (un projet pérenne - 27 ans d'existence) de trouver les moyens
+        financiers de se redéployer via l'appel à l'épargne public (plus en
+        phase avec nos valeurs et hors du système bancaire classique).
     - question: "Quelle est la durée de la campagne\_? "
       reponse: >-
         La campagne va durer 6 mois (du 15 septembre au 31 mars), mais la prise
