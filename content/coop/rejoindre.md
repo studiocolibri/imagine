@@ -198,6 +198,20 @@ cta:
   link: https://imagine.coophub.be/register/be-fr/IMG
 section_faq:
   title: Infos pratiques & FAQ
+  contact_info: >-
+    Imagine COOP  
+
+    Rue de l'Académie 53  
+
+    B-4000 LIEGE  
+
+    
+    Tél. : 00 32 (0)4 380 13 37  
+
+    coop@imagine-magazine.com  
+    
+    
+    TVA : BE0479.486.737
   block:
     - question: "Pourquoi le modèle coopératif\_?"
       reponse: >-

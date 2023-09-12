@@ -171,7 +171,9 @@ background-color: white;">
             {{.reponse | markdownify}}
         </details>
         {{end}}
-    </div>    
+        <h2>Informations de <strong>contact</strong></h2>
+        {{.Params.section_faq.contact_info | markdownify}}
+    </div>
 </section>
 </div>
 <script>
