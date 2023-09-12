@@ -199,7 +199,7 @@ cta:
 section_faq:
   title: Infos pratiques & FAQ
   contact_info: >-
-    Imagine COOP  
+    **Imagine COOP**  
 
     Rue de l'Académie 53  
 
