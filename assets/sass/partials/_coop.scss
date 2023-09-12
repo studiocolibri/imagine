@@ -477,7 +477,10 @@ iframe {
     strong {
 
         color: var(--coopsec);
-
+        
+        @media screen and (max-width: 800px) {
+            color: white;
+        }
     }
 
     svg {
