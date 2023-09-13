@@ -120,7 +120,7 @@ Notre organisation ne se contente pas d’évoluer « ici et maintenant ».&nbsp
 
 Chez Imagine COOP, on a de la considération pour l’ensemble du monde vivant, humains et non humains compris. On tient compte de toutes et tous dans l’entreprise. C’est un projet avant tout collectif. On a de l’estime pour toutes celles et ceux qui font vivre pleinement notre entreprise (coopérateurs, lecteurs, collaborateurs, partenaires…).
 
-**L’équilibre&nbsp;**
+**L’équilibre**&nbsp;
 
 Articulation vie privée et vie professionnelle pour ses travailleuses et travailleurs, parité de genre et d’âge… Imagine COOP vise l’équilibre. Y compris dans son traitement de l’information (juste et nuancée) et des enjeux (articulation des thématiques de manière systémique).
 

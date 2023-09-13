@@ -2,7 +2,9 @@
 title: Rejoindre Imagine COOP
 hero_img: /uploads/banner2.jpg
 meta_img: /uploads/imagine-coop-opengraph.jpg
-meta_txt: Imagine COOP est la 1ère coopérative de presse et de services spécialisée dans les transformations écologique et sociale en Belgique
+meta_txt: >-
+  Imagine COOP est la 1ère coopérative de presse et de services spécialisée dans
+  les transformations écologique et sociale en Belgique
 class: coopz
 compteur: 22
 section_one:
@@ -520,7 +522,7 @@ section_faq:
 
 ### **La gouvernance**
 
-* Quatre organes de gouvernance : **l’assemblée générale** (l’ensemble des coopérateurs), **le conseil d’administration** (9 personnalités issues d’horizons divers avec des compétences complémentaires : finance, stratégie, droit, presse… - lire dans la Foire aux questions ci-dessous), **le comité de rédaction** (garant de la ligne éditoriale du magazine) et **le laboratoire d’idées Imagine** (un *think tank* qui se réunit une fois par an)
+* Quatre organes de gouvernance : **l’assemblée générale** (l’ensemble des coopérateurs·trices), **le conseil d’administration** (9 personnalités issues d’horizons divers avec des compétences complémentaires : finance, stratégie, droit, presse… - lire dans la Foire aux questions ci-dessous), **le comité de rédaction** (garant de la ligne éditoriale du magazine) et **le laboratoire d’idées Imagine** (un *think tank* qui se réunit une fois par an)
 * Droit de vote sur le principe **« 1 personne = 1 voix »**
 * Un mode de fonctionnement **éthique et transparent**
 
@@ -530,11 +532,11 @@ section_faq:
 * Un **modèle économique mixte** : 78 % de recettes propres et 22 % de subventions publiques (Aide à presse non commerciale Fédération Wallonie-Bruxelles et Coopération au développement via notre partenaire, le CNCD-11.11.11)
 * **Part des recettes**&nbsp;: abonnements (50 %), ventes au numéro (10 %), suppléments rédactionnels et publicité éthique & responsable (7%), aides publiques (33 %)
 * **Part des dépenses**&nbsp;: rémunérations (56 %), production (26 %), frais de fonctionnement (9 %), diffusion (7 %), promotion (2 %)
-* **Tirage moyen** du magazine papier : 7.000 exemplaires
+* **Tirage moyen** du magazine papier : 7.000 exemplaires&nbsp;
 
 ### **Les documents utiles**&nbsp;
 
 * [Bilan 2022 de l’Asbl](/Imagine_bilan_2022-1.pdf)&nbsp;
-* [Statuts de la coopérative](/Statuts-coordonnées-Imagine-COOP-au-07.09.2023.pdf)
+* [Statuts de la coopérative](/Statuts-coordonn%C3%A9es-Imagine-COOP-au-07.09.2023.pdf)
 * [La composition du CA d'Imagine COOP](/conseil-admin-V2-1.pdf)
 * Charte fondatrice & [Manifeste *Imagine*](/assets/pdf/Manifeste_Imagine2020.pdf)
