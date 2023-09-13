@@ -22,7 +22,7 @@ url = "/libre-acces/"
 weight = 2
 [[menu.main]]
 name = "Imagine COOP"
-url = "https://imagine.coophub.be/"
+url = "/coop/rejoindre"
 weight = 6
 [[menu.main]]
 name = "Notre projet"
