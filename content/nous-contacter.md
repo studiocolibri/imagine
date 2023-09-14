@@ -2,16 +2,10 @@
 _schema = "page-simple"
 class = "notre-manifeste single-page"
 title = "Nous contacter"
-
 +++
-**_Imagine Demain le monde_**  
-Magazine bimestriel  
-Ecologie, Société et Nord-Sud  
-Boulevard Frère Orban 35 A  
-B-4000 LIEGE
+***Imagine Demain le monde***<br>Magazine bimestriel<br>Ecologie, Société et Nord-Sud<br>Boulevard Frère Orban 35A<br>B-4000 LIEGE
 
-Tél. : 00 32 (0)4 380 13 37  
-[info@imagine-magazine.com](mailto:info@imagine-magazine.com)
+Tél. : 00 32 (0)4 380 13 37<br>[info@imagine-magazine.com](mailto:info@imagine-magazine.com)
 
 TVA : BE0479.486.737
 
