@@ -536,7 +536,8 @@ section_faq:
 
 ### **Les documents utiles**&nbsp;
 
-* [Bilan 2022 de l’Asbl](/Imagine_bilan_2022-1.pdf)&nbsp;
+* [Bilan 2022 de l’Asbl](/Imagine_bilan_2022-1.pdf)
 * [Statuts de la coopérative](/Statuts-coordonn%C3%A9es-Imagine-COOP-au-07.09.2023.pdf)
 * [La composition du CA d'Imagine COOP](/conseil-admin-V2-1.pdf)
+* Note d'information
 * Charte fondatrice & [Manifeste *Imagine*](/assets/pdf/Manifeste_Imagine2020.pdf)
