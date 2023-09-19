@@ -495,7 +495,7 @@ section_faq:
 
 * 100 € / part nominale (classe B)
 * Les organisations (classe C ) : minimum 5 parts de 100 € (= 500 €)
-* La présente offre de souscription de parts (classe B & C) est limitée à un maximum de 5.000 € par personne conformément à la législation en vigueur. Tout investissement financier comporte un risque. Celui-ci est limité à la hauteur de l'apport.
+* La présente offre de souscription est ouverte pour les parts de classe B et C. Tout investissement financier comporte un risque. Celui-ci est limité à la hauteur de l'apport.
 
 ### **Cet appel public à l’épargne est ouvert**&nbsp;
 
