@@ -539,5 +539,5 @@ section_faq:
 * [Bilan 2022 de l’Asbl](/Imagine_bilan_2022-1.pdf)
 * [Statuts de la coopérative](/Statuts-coordonn%C3%A9es-Imagine-COOP-au-07.09.2023.pdf)
 * [La composition du CA d'Imagine COOP](/conseil-admin-V2-1.pdf)
-* Note d'information
+* <a target="_blank" rel="noopener" href="/202309---Note-dinformation-IMAGINE-COOP.pdf">Note d'information</a>
 * Charte fondatrice & [Manifeste *Imagine*](/assets/pdf/Manifeste_Imagine2020.pdf)
