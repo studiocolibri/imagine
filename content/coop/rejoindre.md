@@ -526,13 +526,13 @@ section_faq:
 * Droit de vote sur le principe **« 1 personne = 1 voix »**
 * Un mode de fonctionnement **éthique et transparent**
 
-### **Quelques chiffres clés**
+### **Quelques chiffres clés en 2022**
 
 * **7 personnes salariées** (4,8 équivalents temps plein) et plusieurs collaborateurs·rices fixes et/ou occasionnels (graphistes, correctrice, journalistes, photographes, illustrateurs·rices…)
 * Un **modèle économique mixte** : 78 % de recettes propres et 22 % de subventions publiques (Aide à presse non commerciale Fédération Wallonie-Bruxelles et Coopération au développement via notre partenaire, le CNCD-11.11.11)
-* **Part des recettes**&nbsp;: abonnements (50 %), ventes au numéro (10 %), suppléments rédactionnels et publicité éthique & responsable (7%), aides publiques (33 %)
-* **Part des dépenses**&nbsp;: rémunérations (56 %), production (26 %), frais de fonctionnement (9 %), diffusion (7 %), promotion (2 %)
-* **Tirage moyen** du magazine papier : 7.000 exemplaires&nbsp;
+* **Part des recettes**&nbsp;: abonnements et ventes au numéro (68 %), publicité éthique & responsable (8 %), aides publiques et prix et soutiens pour le travail journalistique réalisé (22 %)
+* **Part des dépenses**&nbsp;: rémunérations (60 %), coûts de production (30 %), frais de fonctionnement (9 %) et promotion (1 %)
+* **Tirage moyen** du magazine papier : entre 7.000 et 10.000 exemplaires par numéro et autour de 40.000 exemplaires par an
 
 ### **Les documents utiles**&nbsp;
 
