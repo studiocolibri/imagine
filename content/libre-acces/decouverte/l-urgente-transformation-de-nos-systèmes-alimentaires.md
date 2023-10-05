@@ -1,10 +1,10 @@
 ---
 _schema: article
 class: single-e-magine
-cat: ''
+cat: découverte.md
 title: L’urgente transformation de nos systèmes alimentaires
 title_alignment: gauche
-date:
+date: 2023-10-05T03:03:00Z
 description: >-
   Notre modèle alimentaire industriel low cost épuise les écosystèmes, les
   producteurs et productrices ainsi que la santé, humaine et non-humaine. Ces
@@ -15,7 +15,7 @@ img_credits: Johny Goerend / Unsplash
 ---
 **Notre modèle alimentaire industriel low cost épuise les écosystèmes, les producteurs et productrices ainsi que la santé, humaine et non-humaine. Des coûts cachés énormes qui ne se répercutent pas sur le ticket du consommateur... mais bien sur la collectivité. Pour l’ONG de solidarité internationale Humundi (ex-SOS Faim), il est urgent de repenser ce système alimentaire *« insoutenable à long terme ».* Décryptage.**
 
-Dix-huit milliards neuf cent mille dollars. D’après une estimation des Nations unies, c’est le coût annuel caché de notre modèle de production alimentaire industriel. «&nbsp;*Et encore, c’est une estimation basse,* prévient Benoît De Wageneer, secrétaire-général d’Humundi, ONG de solidarité internationale qui lance cet automne une campagne pour repenser nos systèmes alimentaires. *Cette analyse ne tient pas compte d’autres coûts pour la société, comme celui de la dégradation des sols, des zoonoses, la sous-alimentation d’une bonne partie de la population, etc. »*
+Dix-huit milliards neuf cent mille dollars. D’après une estimation des Nations unies, c’est le coût annuel caché de notre modèle de production alimentaire industriel. «&nbsp;*Et encore, c’est une estimation basse,* prévient Benoît De Wageneer, secrétaire-général d’Humundi, ONG de solidarité internationale qui lance cet automne <a target="_blank" rel="noopener" href="https://www.humundi.org/les-couts-caches-de-notre-alimentation-quelles-solutions-pour-un-monde-plus-juste/">une campagne pour repenser nos systèmes alimentaires</a>. *Cette analyse ne tient pas compte d’autres coûts pour la société, comme celui de la dégradation des sols, des zoonoses, la sous-alimentation d’une bonne partie de la population, etc. »*
 
 Face au dépassement de plusieurs limites planétaires, d’une hausse continue de la faim dans le monde depuis 2015, de l’inflation et l’augmentation des prix, notre modèle industriel et mondialisé de production alimentaire se repose sur la promesse du maintien des prix attractifs pour les consommateurs. Or, pour l’ONG, ce low cost camoufle une aberration : plus les prix des produits alimentaires sont abordables, plus ils coûtent cher à la société, la « facture collective » ne se reflétant pas dans les prix affichés. *« Chaque euro dépensé par le consommateur entraîne un coût caché de trois euros pour la société »,* calcule Benoît De Wageneer. Impacts néfastes sur la santé, humaine et animale, sur l’environnement, sur les conditions de travail des producteurs et productrices cultivant notre nourriture, sur les droits humains et le bien-être animal…
 
