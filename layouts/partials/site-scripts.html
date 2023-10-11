@@ -31,3 +31,67 @@ for(var navLinks=document.querySelectorAll(".site-nav__link"),i=0;i<navLinks.len
 <script type="text/javascript">
     /MSIE \d|Trident.*rv:/.test(navigator.userAgent)&&(document.write('<script src="/assets/js/css-vars-ponyfill.js"><\/script>'),cssVars({rootElement:document,shadowDOM:!1,include:"link[rel=stylesheet],style",exclude:"",variables:{},onlyLegacy:!0,preserveStatic:!0,preserveVars:!1,silent:!1,updateDOM:!0,updateURLs:!0,watch:!1}));
 </script>
+
+{{/*  <script>
+
+    const images = [
+    'images/01.jpg',
+    'images/02.jpg',
+    'images/03.jpg',
+    'images/04.jpg',
+    'images/05.jpg',
+    'images/06.jpg',
+    'images/07.jpg',
+    'images/08.jpg',
+    // ...ajoutez autant d'images que vous voulez
+];
+
+let currentIndex = 0;
+let lastX = null;
+let lastY = null;
+
+function createImageElement(src, x, y) {
+    const img = new Image();
+    img.src = src;
+    img.classList.add('image-trail');
+    img.style.left = `${x - 75}px`; // Centrage par rapport au curseur
+    img.style.top = `${y - 75}px`;
+    document.body.appendChild(img);
+
+    setTimeout(() => {
+        img.classList.add('show');
+    }); // Animation d'apparition
+
+    setTimeout(() => {
+        img.classList.add('fade');
+    }, 2700); // Après 4 secondes, l'animation de disparition commence
+}
+
+
+
+function getDistance(x1, y1, x2, y2) {
+    const dx = x2 - x1;
+    const dy = y2 - y1;
+    return Math.sqrt(dx * dx + dy * dy);
+}
+
+document.addEventListener('mousemove', (e) => {
+    if (lastX === null || lastY === null) {
+        lastX = e.pageX;
+        lastY = e.pageY;
+    }
+
+    const distance = getDistance(lastX, lastY, e.pageX, e.pageY);
+
+    if (distance >= 50) {
+        createImageElement(images[currentIndex], e.pageX, e.pageY);
+        currentIndex++;
+        if (currentIndex >= images.length) {
+            currentIndex = 0; // Réinitialisez l'index à 0 lorsqu'il atteint la fin du tableau
+        }
+        lastX = e.pageX;
+        lastY = e.pageY;
+    }
+});x
+
+</script>   */}}

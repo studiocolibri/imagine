@@ -1,6 +1,6 @@
 +++
 _schema = "page-simple"
-class = "notre-manifeste single-page"
+class = ""
 title = "Nous contacter"
 +++
 ***Imagine Demain le monde***<br>Magazine bimestriel<br>Ecologie, Société et Nord-Sud<br>Boulevard Frère Orban 35A<br>B-4000 LIEGE

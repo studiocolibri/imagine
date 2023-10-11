@@ -1,0 +1,78 @@
+{{ define "main" }}
+<section class="home-header page-header">
+    {{ $header_title := .Params.header_title }}
+    {{ $header_text := .Params.header_text }}
+    {{ range first 1 (where $.Site.RegularPages.ByDate.Reverse "Section" "numeros") }}
+        <div class="flex-2-cols cw">
+            <div class="flex-2-cols__col home-header__left">
+                <p class="home-header__numero"><strong>n°{{ .Params.num }}</strong> / {{ .Params.period }}</p>
+                <h1 class="home-header__title page-header__title">{{ $header_title | markdownify }}</h1>
+                <p class="home-header__short-description">{{ $header_text | markdownify }}</p>
+            </div>
+            <div class="flex-2-cols__col home-header__right">
+                <a class="home-header__img" href="/numero-en-cours">
+                    <img 
+                    id="cover"
+                    src="{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_673/{{ .Params.cover }}"
+                    width="673"
+                    height="872"
+                    alt="Couverture du numéro {{ .Params.num }}">
+                    <script>var cover = {{ replace .Params.cover "\"" "" }};var backcover = {{ replace .Params.cover_bis "\"" "" }};</script>
+                </a>
+            </div>
+        </div>
+    {{ end }}
+    <div class="home-header__discover-btn">
+        <a class="btn" href="/numero-en-cours">Découvrir le numéro</a>
+    </div>
+</section>
+
+<section class="home-section-one section-2-cols">
+    <h2 class="section-title right">{{ .Params.section_one.section_title }}</h2>
+    <div class="flex-2-cols cw">
+        <div class="flex-2-cols__col">
+            <img
+            src="{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_470/{{ .Params.section_one.img }}"
+            alt=""
+            width="470"
+            height="547"
+            role="presentation"
+            loading="lazy">
+        </div>
+        <div class="flex-2-cols__col">
+            <h3>{{ .Params.section_one.title | safeHTML }}</h3>
+            <p>{{ .Params.section_one.text | safeHTML }}</p>
+            <a href="{{ .Params.section_one.btn_link }}" class="btn">{{ .Params.section_one.btn_text }}</a>
+        </div>
+    </div>
+</section>
+
+<section class="home-section-two">
+    <h2 class="section-title left margin">{{ .Params.section_two.section_title }}</h2>
+    {{ $items := first 8 (where $.Site.RegularPages.ByDate.Reverse "Section" "libre-acces") }}
+    {{ partial "slider.html" (dict "items" $items "ctx" .) }}
+    <p><a href="{{ .Params.section_two.btn_link }}" class="btn home-section-two__btn-all">{{ .Params.section_two.btn_txt }}</a></p>
+</section>
+
+<section class="home-section-three section-2-cols">
+    <h2 class="section-title right margin">{{ .Params.section_three.section_title }}</h2>
+    <div class="flex-2-cols cw">
+        <div class="flex-2-cols__col">
+            <img
+            src="{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_470/{{ .Params.section_three.img }}"
+            alt=""
+            width="470"
+            height="352"
+            role="presentation"
+            loading="lazy">
+        </div>
+        <div class="flex-2-cols__col">
+            <p>{{ .Params.section_three.text | markdownify }}</p>
+            <a href="{{ .Params.section_three.btn_link }}" class="btn">{{ .Params.section_three.btn_text }}</a>
+        </div>
+    </div>
+</section>
+
+{{ partial "s-abonner.html" . }}
+
+{{ end }}

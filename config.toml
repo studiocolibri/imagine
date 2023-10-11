@@ -17,10 +17,6 @@ name = "Contact"
 url = "/nous-contacter"
 weight = 5
 [[menu.main]]
-name = "Libre accès"
-url = "/libre-acces/"
-weight = 2
-[[menu.main]]
 name = "Imagine COOP"
 url = "/coop/rejoindre"
 weight = 6

@@ -2,9 +2,9 @@
 - name: purple
   color: "#ac91d5"
 - name: txt-color
-  color: "#2f3464"
+  color: "#0e3942"
 - name: main
-  color: "#3a2572"
+  color: "#0e3942"
 - name: lightmain
   color: "#75CAC6"
 - name: ultralightmain
@@ -16,8 +16,8 @@
 - name: orange
   color: "#EE7F00"
 - name: pink
-  color: "#F3BDA9"
+  color: "#F9AD97"
 - name: red
-  color: "#D82F1E"
+  color: "#f44336"
 - name: article-light
   color: "#BBE0DE"

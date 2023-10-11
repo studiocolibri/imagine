@@ -1,37 +1,109 @@
 {{ define "main" }}
-<section class="home-header page-header" style="
-    background-image: url({{ .Site.Params.cloudinary_url }}f_auto,q_80,w_800/uploads/hero-bottom.jpg);
-    background-position: bottom left;
-    background-size: 44%;">
+<section class="home-header page-header">
     {{ $header_title := .Params.header_title }}
     {{ $header_text := .Params.header_text }}
     {{ range first 1 (where $.Site.RegularPages.ByDate.Reverse "Section" "numeros") }}
-        <div class="flex-2-cols cw">
-            <div class="flex-2-cols__col home-header__left">
-                <p class="home-header__numero"><strong>n°{{ .Params.num }}</strong> / {{ .Params.period }}</p>
-                <h1 class="home-header__title page-header__title">{{ $header_title | markdownify }}</h1>
+        <div class="cw">
+            <div class="home-header__content">
+                <p class="home-header__numero"><strong>n°158</strong> / OCTOBRE-NOVEMBRE-DECEMBRE 2023</p>
+                <h1 class="home-header__title page-header__title">Clarifier les faits, <br><em>libérer
+                    les idées</em><br> et les esprits</h1>
                 <p class="home-header__short-description">{{ $header_text | markdownify }}</p>
             </div>
-            <div class="flex-2-cols__col home-header__right">
-                <a class="home-header__img" href="/numero-en-cours">
-                    <img 
-                    id="cover"
-                    src="{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_673/{{ .Params.cover }}"
-                    width="673"
-                    height="872"
-                    alt="Couverture du numéro {{ .Params.num }}">
-                    <script>var cover = {{ replace .Params.cover "\"" "" }};var backcover = {{ replace .Params.cover_bis "\"" "" }};</script>
-                </a>
-            </div>
+
+</section>
+{{ partial "marquee.html" .}}
+<section class="home-section-one section-2-cols">
+
+    <div class="flex-2-cols cw">
+        <div class="flex-2-cols__col">
+            <a class="home-header__img" href="/numero-en-cours">
+                <img 
+                id="cover"
+                src="{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_673/{{ .Params.cover }}"
+                width="673"
+                height="872"
+                alt="Couverture du numéro {{ .Params.num }}">
+                <script>var cover = {{ replace .Params.cover "\"" "" }};var backcover = {{ replace .Params.cover_bis "\"" "" }};</script>
+            </a>
         </div>
-    {{ end }}
-    <div class="home-header__discover-btn">
-        <a class="btn" href="/numero-en-cours">Découvrir le numéro</a>
+        <div class="flex-2-cols__col ctnt">
+            <h2 class="sup-title">N°158 / OCTOBRE-NOVEMBRE-Décembre 2023
+            </h2>
+            <h3>Dans ce numéro, <em>on vous emmène :</em></h3>
+            {{/*  <p>Dans ce numéro automne-hiver d’Imagine, on vous emmène :</p>  */}}
+            <ul>
+                <li>
+                    Dans l’<strong>école du futur</strong>
+                </li>
+                <li>
+                    Sur les traces des trafiquants d’oiseaux
+                </li>
+                <li>
+                    En Lorraine (où l’on cherche de l’hydrogène naturel dans d’anciennes mines de charbon),
+                </li>
+                <li>
+                    Au Mozambique (frappé par les cyclones à répétition),
+                </li>
+                <li>
+                    Au centre neuro-psychiatrique de Dave (Namur) qui développe un projet de musicothérapie,
+                </li>
+                <li>Au Groupe Santé Josaphat pour parler vie affective et sexuelle,
+                </li>
+                <li>
+                    À la rencontre de de l’écrivain Douglas Kennedy, du cinéaste Baloji et de l’activiste française Sanaa Saitouli (Banlieues climat)…
+                </li>
+            </ul>
+                <a class="btn" href="https://kiosque.imagine-magazine.com/digital/imagine-158/">Découvrir le numéro</a>
+        </div>
     </div>
+    {{ end }}
+</section>
+<section class="page-section qui ctnt" style="background-size: contain;
+background-position: center;
+background-repeat: no-repeat;
+background-color: white;">
+    <h2 class="sup-title">Imagine LE MEDIA, L'AGENCE
+    </h2>
+    <h3>QUI <em>NOUS</em> SOMMES</h3>
+<div class="flex-2-cols cw" style="max-width:1280px">
+    <div class="flex-2-cols__col ctnt" style="text-align:center;">
+
+
+        <img src="https://res.cloudinary.com/drg3m95yg/image/upload/f_auto,q_80,w_300//uploads/logoblue.jpg" width="225">
+        <p>
+            <strong>Imagine, le média</strong>, c’est un magazine trimestriel belge et libre, ainsi qu’une plateforme digitale qui défend un journalisme d’impact, critique et constructif, vivant et prospectif.
+        </p>
+
+        <a class="btn" href="/coop/rejoindre">En savoir plus</a>
+    </div>
+    <div class="flex-2-cols__col ctnt" style="text-align:center;">
+
+        <img src="https://res.cloudinary.com/drg3m95yg/image/upload/f_auto,q_80,w_300//uploads/logocoop.jpg" width="225">
+        <p>
+            <strong>Imagine COOP,</strong> c’est une coopérative à finalité sociale, avec une agence de services qui propose des services à la carte (animation, outils pédagogiques, formation…).          </p>
+    
+            <a class="btn" href="/coop/rejoindre">En savoir plus</a>
+        </div>
+    </div>
+</div>
 </section>
 
-<section class="home-section-one section-2-cols">
-    <h2 class="section-title right">{{ .Params.section_one.section_title }}</h2>
+    {{ partial "quote.html" . }}
+    <section class="home-section-one section-2-cols bande">
+        <div class="cw">
+            <div class="flex-2-cols__col ctnt">
+                <h2 class="sup-title">À DECOUVRIR DANS LE N° 158
+                </h2>
+                <h3>Sur les traces des<em> <br>« trafiquants d'oiseaux »</em></h3>
+                <p>Le premier épisode de notre série inédite <strong>« Fait divers environnemental »</strong> : plongée dans le monde de la tenderie.</p>
+                <ul>
+                </ul>
+                    <a class="btn" href="https://kiosque.imagine-magazine.com/digital/imagine-158/">Découvrir le numéro</a>
+            </div>
+        </div>
+    </section>
+{{/*  <section class="home-section-one section-2-cols">
     <div class="flex-2-cols cw">
         <div class="flex-2-cols__col">
             <img
@@ -44,20 +116,65 @@
         </div>
         <div class="flex-2-cols__col">
             <h3>{{ .Params.section_one.title | safeHTML }}</h3>
-            <p>{{ .Params.section_one.text | safeHTML }}</p>
+            <p>Dans ce numéro automne-hiver d’Imagine, on vous emmène dans l’école du futur, sur les traces des trafiquants d’oiseaux, en Lorraine (où l’on cherche de l’hydrogène naturel dans d’anciennes mines de charbon), au Mozambique (frappé par les cyclones à répétition), au centre neuro-psychiatrique de Dave (Namur) qui développe un projet de musicothérapie, au Groupe Santé Josaphat pour parler vie affective et sexuelle, à la rencontre de l’écrivain Douglas Kennedy, du cinéaste Baloji et de l’activiste française Sanaa Saitouli (Banlieues climat)… </p>
             <a href="{{ .Params.section_one.btn_link }}" class="btn">{{ .Params.section_one.btn_text }}</a>
         </div>
     </div>
-</section>
+</section>  */}}
 
-<section class="home-section-two">
+
+
+{{/*  <section class="home-section-two">
     <h2 class="section-title left margin">{{ .Params.section_two.section_title }}</h2>
     {{ $items := first 8 (where $.Site.RegularPages.ByDate.Reverse "Section" "libre-acces") }}
     {{ partial "slider.html" (dict "items" $items "ctx" .) }}
     <p><a href="{{ .Params.section_two.btn_link }}" class="btn home-section-two__btn-all">{{ .Params.section_two.btn_txt }}</a></p>
+</section>  */}}
+
+
+<section class="home-section-one section-2-cols">
+    <div class="flex-2-cols cw">
+        <div class="flex-2-cols__col rgt">
+            <img
+            src="{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_470/{{ .Params.section_one.img }}"
+            alt=""
+            width="470"
+            height="547"
+            role="presentation"
+            loading="lazy">
+        </div>
+        <div class="flex-2-cols__col ctnt" >
+            <h2 class="sup-title">UNE NOUVELLE INTERFACE NUMERIQUE
+            </h2>
+            <h3><em>Dans notre</em> Espace Digital, <em>retrouvez</em></h3>
+            {{/*  <p>Dans ce numéro automne-hiver d’Imagine, on vous emmène dans l’école du futur, sur les traces des trafiquants d’oiseaux, en Lorraine (où l’on cherche de l’hydrogène naturel dans d’anciennes mines de charbon), au Mozambique (frappé par les cyclones à répétition), au centre neuro-psychiatrique de Dave (Namur) qui développe un projet de musicothérapie, au Groupe Santé Josaphat pour parler vie affective et sexuelle, à la rencontre de l’écrivain Douglas Kennedy, du cinéaste Baloji et de l’activiste française Sanaa Saitouli (Banlieues climat)… </p>  */}}
+            <ul>
+                <li>
+                    Notre série podcast « Adaptations » d’Isa Stragliati. Episode 1 : de l’eau pour tous
+                </li>
+                <li>
+                    Deux chroniques sonores et littéraires
+                </li>
+                <li>
+                    « Rock thérapie », une immersion audio à Dave
+                </li>
+                <li>
+                    Notre série web « Les préjudices de l'Anthropocène »
+                </li>
+                <li>
+                    L'école du futur : le récit photo d'Olivier Papegnies
+                </li>
+                <li>
+                    « Climax tour en Tiltrotor », une nouvelle du futur par l’autrice Isabelle Wéry
+                </li>
+            </ul>
+            <a href="https://kiosque.imagine-magazine.com/espace-digital" class="btn" target="_blank">Découvrir</a>
+        </div>
+
+    </div>
 </section>
 
-<section class="home-section-three section-2-cols">
+{{/*  <section class="home-section-three section-2-cols">
     <h2 class="section-title right margin">{{ .Params.section_three.section_title }}</h2>
     <div class="flex-2-cols cw">
         <div class="flex-2-cols__col">
@@ -74,7 +191,7 @@
             <a href="{{ .Params.section_three.btn_link }}" class="btn">{{ .Params.section_three.btn_text }}</a>
         </div>
     </div>
-</section>
+</section>  */}}
 
 {{ partial "s-abonner.html" . }}
 

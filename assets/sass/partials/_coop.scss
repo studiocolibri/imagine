@@ -12,7 +12,7 @@
         text-underline-offset: 0.3rem;
     }
     h2, h3, h4 {
-        font-family:faible, sans-serif;
+        font-family:'Object Sans', sans-serif;
         line-height: 1.2;
     }
 
@@ -129,7 +129,8 @@
         h1 {
             max-width: none;
             padding-right: 0;
-            font-family: 'faible';
+            font-family: 'Object Sans';
+            color: white;
             font-size: 2rem;
             padding: 0 0 1rem;;
 
@@ -168,8 +169,9 @@
         
         p {
             color: white;
-            font-family:'faible', serif;
+            font-family:'Object Sans', serif;
             font-weight: bolder;
+            font-size: 1.2rem;
         }
 
         a {

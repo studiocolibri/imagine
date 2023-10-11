@@ -24,9 +24,21 @@
         padding:1em 4em;
         margin-top:$su*2;
         text-align: center;
+        background-color: white;
+        color: var(--highlight);
 
         &:hover, &:focus {
-            background-color:transparent;
+            background-color:white;
         }
     }
+    
+}
+
+
+.single-page h1 {
+    color: red;
+    font-size: 2.4rem;
+    padding-top: 40px;
+    padding-right: 60px;
+    padding-bottom: 40px;
 }

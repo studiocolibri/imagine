@@ -1,9 +1,7 @@
 .site-nav {
     margin-left:$su;
 
-    @media screen and (min-width:1400px) {
-        margin-left:0;
-    }
+
 }
 
 .site-nav__inner {
@@ -91,13 +89,6 @@
         text-transform: initial;
     }
 
-    @media screen and (min-width:1400px) {
-        margin-right: $su*1.5;
-    }
-
-    @media screen and (min-width:1800px) {
-        margin-right: $su*2;
-    }
 
     &:hover,
     &:focus,
