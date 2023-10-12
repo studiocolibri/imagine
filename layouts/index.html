@@ -1,5 +1,5 @@
 {{ define "main" }}
-<section class="home-header page-header">
+<section class="home-header page-header home">
     {{ $header_title := .Params.header_title }}
     {{ $header_text := .Params.header_text }}
     {{ range first 1 (where $.Site.RegularPages.ByDate.Reverse "Section" "numeros") }}

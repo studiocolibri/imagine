@@ -343,6 +343,7 @@
         background: white;
     }
 
+
     
 }
 }
@@ -436,3 +437,7 @@ section.marquee {
     100% { transform: translateX(-100%); }
 }
 
+
+section.home-header.page-header.home {
+    padding-bottom: 3rem;
+}
