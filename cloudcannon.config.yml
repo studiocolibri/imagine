@@ -134,9 +134,9 @@ collections_config:
     icon: notes
     _editables: {}
     _inputs:
-      Img:
+      photo:
         type: image
-        label: Img
+        label: Image
         cascade: true
     _select_data: {}
     _structures: {}
