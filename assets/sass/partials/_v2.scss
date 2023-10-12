@@ -144,6 +144,7 @@
     .page-header {
         background-color: var(--bg);
         padding-top: 8rem;
+        padding-bottom: 1rem;
    
 
         &__title {
@@ -170,6 +171,18 @@
         background: none;
     }
 
+
+    /* NOTRE PROJET */
+
+    .numero-section-one {
+
+        position: relative;
+
+        img {
+            z-index: 2;
+            position: relative;
+        }
+    }
     /* HOME */
 
 

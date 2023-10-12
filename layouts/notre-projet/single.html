@@ -1,12 +1,26 @@
 {{ define "main" }}
 
-<section class="notre-projet__header page-header">
-    <div class="notre-projet__header__title page-header__title cw">
-        <h1>{{ .Title }}</h1>
+<section class="page-header">
+    <div class="cw">
+        <h1 class="page-header__title">{{ .Title }}</h1>
     </div>
 </section>
 
-<section class="notre-projet__section-one section-2-cols">
+<section class=" section-2-cols">
+    <div class="flex-2-cols cw">
+        <div class="flex-2-cols__col left">
+            <img src="{{ .Site.Params.cloudinary_url }}{{ .Params.section_four.img }}" alt="" role="presentation" loading="lazy">
+        </div>
+        <div class="flex-2-cols__col right">
+            <h2 class="section-title">{{ .Params.section_four.section_title }}</h2>
+            <h3>{{ .Params.section_four.title | safeHTML }}</h3>
+            <p>{{ .Params.section_four.text | safeHTML }}</p>
+            <a href="{{ .Params.section_four.btn_link }}" class="btn">{{ .Params.section_four.btn_txt }}</a>
+        </div>
+    </div>
+</section>
+
+<section class="section-2-cols">
     <div class="flex-2-cols cw">
         <div class="flex-2-cols__col left">
             <h2 class="section-title">{{ .Params.section_one.section_title }}</h2>
@@ -50,22 +64,10 @@
     </div>
 </section>  */}}
 
-<section class="notre-projet__section-four section-2-cols">
-    <div class="flex-2-cols cw">
-        <div class="flex-2-cols__col left">
-            <img src="{{ .Site.Params.cloudinary_url }}{{ .Params.section_four.img }}" alt="" role="presentation" loading="lazy">
-        </div>
-        <div class="flex-2-cols__col right">
-            <h2 class="section-title">{{ .Params.section_four.section_title }}</h2>
-            <h3>{{ .Params.section_four.title | safeHTML }}</h3>
-            <p>{{ .Params.section_four.text | safeHTML }}</p>
-            <a href="{{ .Params.section_four.btn_link }}" class="btn">{{ .Params.section_four.btn_txt }}</a>
-        </div>
-    </div>
-</section>
+
 
 <section class="notre-projet__section-five section-2-cols cw">
-    <h2 class="section-title">{{ .Params.section_five.title }}</h2>
+    <h2 class="section-title"></h2>
     <h3>{{ .Params.section_five.title | safeHTML }}</h3>
     <ul class="partenaires-list">
         {{ $imgUrl := .Site.Params.cloudinary_url }}
