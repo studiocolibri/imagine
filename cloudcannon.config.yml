@@ -133,7 +133,11 @@ collections_config:
     name: Pages
     icon: notes
     _editables: {}
-    _inputs: {}
+    _inputs:
+      Img:
+        type: image
+        label: Img
+        cascade: true
     _select_data: {}
     _structures: {}
     disable_add: false
