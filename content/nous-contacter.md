@@ -3,7 +3,7 @@ _schema = "page-simple"
 class = ""
 title = "Nous contacter"
 +++
-***Imagine Demain le monde***<br>Magazine bimestriel<br>Ecologie, Société et Nord-Sud<br>Boulevard Frère Orban 35A<br>B-4000 LIEGE
+***Imagine COOP***<br>Le média et l'agence de services<br>Magazine trimestriel<br>rue de l'Académie 53<br>B-4000 LIEGE
 
 Tél. : 00 32 (0)4 380 13 37<br>[info@imagine-magazine.com](mailto:info@imagine-magazine.com)
 
