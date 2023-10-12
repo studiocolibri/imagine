@@ -138,6 +138,13 @@ collections_config:
         type: image
         label: Image
         cascade: true
+      img:
+        type: image
+        options:
+          correct_orientation: true
+          resize_style: contain
+        label: Img
+        cascade: true
     _select_data: {}
     _structures: {}
     disable_add: false
