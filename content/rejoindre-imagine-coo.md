@@ -9,7 +9,7 @@ type: coop
 * Une **coopérative agréée, à finalité sociale**, fondée le 30 août 2023 par ses travailleuses et ses travailleurs
 * Une **entreprise ancrée localement** (Wallonie-Bruxelles), qui emploie sept personnes, avec des valeurs et des engagements forts : une gouvernance éthique et démocratique, une parité de genre (7 employés, cinq hommes et deux hommes), une approche éco-responsable…
 * Un **magazine précurseur** (*Imagine Demain le monde*), fondé en 1996, qui s’inscrit dans le courant *slow press* et porte, depuis 27 ans, un regard audacieux, constructif et critique sur les grandes urgences sociétales (climat, inégalités sociales, biodiversité, éducation, démocratie, solidarités internationales…) lien vers notre Manifeste
-* Une structure coopérative et deux branches d’activités : le **Média Imagine** (papier & digital) à découvrir, dès le 11 octobre et l’**Agence services Imagine** qui propose différents services à la collectivité (associations, entreprises sociales, opérateurs culturels, pouvoirs publics…) et à la carte (production de contenus, éducation aux médias & crises environnementales, animation).
+* Une structure coopérative et deux branches d’activités : le **Média Imagine** (papier & digital) et l’**Agence de services Imagine** qui propose différents services à la collectivité (associations, entreprises sociales, opérateurs culturels, pouvoirs publics…) et à la carte (production de contenus, éducation aux médias & crises environnementales, animation).
 * Une **gouvernance structurée et partagée** avec un conseil d’administration pluraliste et transdisciplinaire, une assemblée générale souveraine, un comité de rédaction indépendant et le Laboratoire d’idées Imagine.
 
 {{< figure src="/uploads/747a4d04-a2ad-4481-a619-17f32e0b941e.jpeg" title="Je prends des parts" caption="Je prends des parts" link="kiosque.imagine-magazine.com" target="_blank" >}}
@@ -29,8 +29,6 @@ En prenant une ou plusieurs part(s) dans Imagine COOP…
 * J’entre dans la **communauté Imagine**, partie prenante des indispensables transformations écologique et sociale
 
 **La coopérative**
-
-
 
 **Trois classes de coopérateurs**
 
@@ -78,8 +76,6 @@ En prenant une ou plusieurs part(s) dans Imagine COOP…
 
 ## **Notre équipe**
 
-
-
 **Galer de&nbsp; petites photos (site)** **\+ Sarah Jonet, notre nouvelle directrice en PJ**
 
 Sarah Jonet, directrice d’Imagine COOP
@@ -100,21 +96,17 @@ David Cauwe, graphiste
 
 Sophie Weverbergh, correctrice
 
-
-
 ## **Nos missions**
 
 Imagine COOP poursuit trois missions :
 
-* **Produire de l’information** de qualité, inspirante et critique, libre et non-conformiste en adéquation avec le Manifeste Imagine et via quatre canaux de diffusion : son magazine papier, sa platerforme web, son média digital (dès le 10/10) et ses réseaux sociaux
+* **Produire de l’information** de qualité, inspirante et critique, libre et non-conformiste en adéquation avec le Manifeste Imagine et via quatre canaux de diffusion : son magazine papier, sa plateforme web, son média digital et ses réseaux sociaux
 * **Offrir des services à la collectivité** (écoles, société civile, secteur de l’économie sociale…) en matière d’accompagnement pédagogique et de formations, d’animation et de productions de contenus
 * **Fédérer** autour du magazine **les acteurs de changement** et aider ses lecteurs à passer à l’action
 
 ## **Notre vision**
 
 Etre, en 2025, **un média et un co-producteur de référence** en Belgique et en francophonie. Imagine COOP propose des contenus journalistiques et documentaires originaux et indépendants, fédère autour de sa nouvelle coopérative de presse et de services une communauté Imagine. Sa gouvernance repose sur l’agilité, la coopération, la participation et l’inclusion de différents acteurs de la société civile et l’exemplarité des valeurs portées par l’organisation.
-
-
 
 ## **Nos valeurs**
 
@@ -130,9 +122,7 @@ Notre organisation ne se contente pas d’évoluer « ici et maintenant ».&nbsp
 
 Chez Imagine COOP, on a de la considération pour l’ensemble du monde vivant, humains et non humains compris. On tient compte de toutes et tous dans l’entreprise. C’est un projet avant tout collectif. On a de l’estime pour toutes celles et ceux qui font vivre pleinement notre entreprise (coopérateurs, lecteurs, collaborateurs, partenaires…).
 
-
-
-**L’équilibre&nbsp;**
+**L’équilibre**&nbsp;
 
 Articulation vie privée et vie professionnelle pour ses travailleuses et travailleurs, parité de genre et d’âge… Imagine COOP vise l’équilibre. Y compris dans son traitement de l’information (juste et nuancée) et des enjeux (articulation des thématiques de manière systémique).
 
@@ -140,18 +130,12 @@ Articulation vie privée et vie professionnelle pour ses travailleuses et travai
 
 Imagine COOP participe activement à&nbsp; la vie sociale, démocratique, écologique, culturelle, intellectuelle… de son temps. Il a des convictions qui sont connues et assumées (cfr son Manifeste & sa charte fondatrice).
 
-
-
 Onglet
 
 **Je prends des parts**
 
-
-
 **Lien vers un formulaire type Médor**
 
-**https://odoo.medor.coop/page/become\_cooperator**
+**[https://odoo.medor.coop/page/become\_cooperator](https://odoo.medor.coop/page/become_cooperator)**
 
-
-
-**Merci&nbsp;**😊
+\*\*Merci \*\*😊
