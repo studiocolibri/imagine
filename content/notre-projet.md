@@ -25,7 +25,7 @@ section_two:
     un univers thématique, journalistique et graphique.
   btn_txt: En savoir plus
   btn_link: /la-cartographie-imagine
-  img: /v1591304484/6territoires_2x_e3shub.jpg
+  img: /uploads/imgl9678.png
 section_three:
   section_title: Une métamorphose
   title: Le processus<br>#Imagine 2020
