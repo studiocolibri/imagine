@@ -39,7 +39,9 @@ _inputs:
 class: home
 title: Page d'accueil
 header_title: Clarifier les faits, libérer<br>les idées et les esprits
-header_text: Imagine est un magazine trimestriel et un éditeur indépendant depuis 2001.
+header_text: >-
+  Imagine (Écologie, société, Nord-Sud) est un magazine trimestriel et un
+  éditeur indépendant depuis 2001.
 section_one:
   section_title: ''
   title: "Je soutiens Imagine COOP\_!"
