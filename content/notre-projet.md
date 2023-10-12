@@ -45,7 +45,7 @@ section_four:
     réalisé et géré avec soin et passion par ceux qui le fabriquent.
   btn_txt: En savoir plus
   btn_link: /le-projet-imagine
-  img: /v1591305781/dessinImagine_thyoyd.jpg
+  img: /uploads/imgl9678.png
 section_five:
   title: Nos partenaires
   text: >-
