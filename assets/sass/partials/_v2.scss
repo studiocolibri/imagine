@@ -16,6 +16,15 @@
     }
 
 
+    a.btn.secondary {
+        color:var(--highlight);
+        background: transparent;
+        
+    }
+    a.btn.secondary:after {
+        color:var(--highlight);
+        
+    }
     .btn {
 
         border-radius: 2rem;
@@ -24,6 +33,26 @@
         padding: 0.75rem 1.6rem 0.75rem 1.2rem;
         background-color: var(--highlight);
         color:white;
+        border: 1px solid var(--highlight);
+
+        @media screen and (max-width: 771px) {
+            margin:.5rem 0;
+        }
+
+
+        .secondary {
+            color:var(--highlight);
+        
+            &:after {
+                content: '→';
+                color: var(--highlight);
+            }
+
+        .secondary:after {
+            color:red;
+        }
+        
+        }
 
     .btn--square {
         border-radius: 2rem;
@@ -300,6 +329,8 @@
     a.btn {
         background: white;
     }
+
+    
 }
 }
 
@@ -391,3 +422,4 @@ section.marquee {
     0% { transform: translateX(0); }
     100% { transform: translateX(-100%); }
 }
+
