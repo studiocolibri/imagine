@@ -91,10 +91,14 @@ section_three:
         * **Produire de l’information** de qualité, inspirante et critique,
         libre et non-conformiste en adéquation avec le Manifeste Imagine et via
         trois canaux de diffusion : un magazine papier, un média digital et les
-        réseaux sociaux* **Offrir des services à la collectivité** (écoles,
+        réseaux sociaux
+
+        * **Offrir des services à la collectivité** (écoles,
         associations, collectifs, opérateurs culturels, secteur de l’économie
         sociale…) en matière d’accompagnement pédagogique et de  formations,
-        d’animations et de productions graphiques et de contenus* **Fédérer**
+        d’animations et de productions graphiques et de contenus
+        
+        * **Fédérer**
         autour du magazine **les acteurs et les actrices de changement** et
         aider nos lecteurs et nos lectrices à passer à l’action
     - title: Notre vision
