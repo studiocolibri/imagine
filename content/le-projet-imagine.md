@@ -111,7 +111,7 @@ team:
         d'enfants.
     - name: Yves Alié
       job: conseiller régie publicitaire
-      photo: /uploads/anthony.jpg
+      photo: /uploads/anthony-1.jpg
       text: >-
         Chargé de prospecter et de gérer les annonces publicitaires éthiques et
         durables dans notre magazine, Yves est un adepte de la communication « à
