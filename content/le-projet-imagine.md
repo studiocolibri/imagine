@@ -109,17 +109,6 @@ team:
         le théâtre, le vin rouge, les chats noirs...). Ses premières passions
         demeurant la littérature et sa famille, Sophie vit entourée de livres et
         d'enfants.
-    - name: Yves Alié
-      job: conseiller régie publicitaire
-      photo: /uploads/anthony-1.jpg
-      text: >-
-        Chargé de prospecter et de gérer les annonces publicitaires éthiques et
-        durables dans notre magazine, Yves est un adepte de la communication « à
-        360 ° ». Imprimeur de formation, entrepreneur engagé et soucieux de
-        contourner les pièges du _greenwashing_, créateur du blog
-        unautremonde.be, il pratique la photo amateur qu’il envisage comme _« un
-        acte de liberté »_ à la manière _« d’un gosse dans son terrain de jeu
-        »._
     - name: André Ruwet
       job: fondateur d’_Imagine_
       photo: ''
