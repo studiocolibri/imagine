@@ -5,37 +5,7 @@ title: Le média Imagine et Imagine COOP en bref
 type: le-projet-imagine
 organization:
   title: Notre organisation
-  content: >-
-    Imagine est un magazine trimestriel qui traite des questions d’écologie, de
-    société et de solidarités internationales. Il s’inscrit dans le courant slow
-    press et défend un journalisme d’impact, à la fois vivant et critique,
-    apaisé et constructif. Il propose une version papier (108 pages,
-    trimestriel) et un média digital (podcast, créations web…).  Fondé en 1996,
-    avec l’appui financier du parti Ecolo, Imagine est un média pionnier en
-    matière de transformations écologiques et sociales. En 2004, l’équipe de
-    rédaction a racheté le titre et relancé son propre projet éditorial de
-    manière totalement autonome en créant une Asbl. Depuis, elle s’est associée
-    avec le CNCD-11.11.11 pour développer le volet Nord-Sud. Aujourd’hui,
-    Imagine est un éditeur indépendant de tout groupe de presse et de tout parti
-    politique organisé en coopérative à finalité sociale qui défend les
-    principes de l’économie sociale (service à la collectivité plutôt que le
-    profit, démocratie interne, autonomie de gestion...). Imagine COOP s’appuie
-    sur des valeurs fortes (gouvernance partagée, égalité des genres,
-    éco-responsabilité…) et gère à la fois le média Imagine et l’agence de
-    services Imagine COOP qui propose des services à la carte (formation,
-    animations, production de contenus…). Imagine COOP s’appuie sur un modèle
-    économique mixte : environ 70 % de recettes propres (ventes, abonnements et
-    recettes publicitaires éthiques et durables), 30 % de subventions publiques
-    (Aide à la presse FWB et CNCD-11.11.11). Pour développer son projet
-    éditorial libre, Imagine s’appuie sur son Manifeste (2020) et sur sa charte
-    fondatrice (1996). Deux documents dans lesquels le magazine (ré)affirme sa
-    ligne éditoriale et ses engagements vis-à-vis des lecteurs. Par ailleurs, il
-    s’appuie sur cinq valeurs cardinales dans l’entreprise : la cohérence,
-    l’anticipation, l’équilibre, la considération et l’engagement. En 2014, puis
-    en 2020 et 2023, le magazine a réalisé plusieurs réformes éditoriales
-    (format, pagination, site web...) de manière participative et dynamique
-    (questionnaires aux lecteurs, ateliers d’intelligence collective,
-    workshops...) baptisés #Imagine2020 et Imaginnove.  
+  content: "•\tImagine est un magazine trimestriel qui traite des questions d’écologie, de société et de solidarités internationales. Il s’inscrit dans le courant slow press et défend un journalisme d’impact, à la fois vivant et critique, apaisé et constructif. Il propose une version papier (108 pages, trimestriel) et un média digital (podcast, créations web…). liens •\tFondé en 1996, avec l’appui financier du parti Ecolo, Imagine est un média pionnier en matière de transformations écologiques et sociales. En 2004, l’équipe de rédaction a racheté le titre et relancé son propre projet éditorial de manière totalement autonome en créant une Asbl. Depuis, elle s’est associée avec le CNCD-11.11.11 pour développer le volet Nord-Sud. •\tAujourd’hui, Imagine est un éditeur indépendant de tout groupe de presse et de tout parti politique organisé en coopérative à finalité sociale lien vers page qui défend les principes de l’économie sociale (service à la collectivité plutôt que le profit, démocratie interne, autonomie de gestion...). Imagine COOP s’appuie sur des valeurs fortes (gouvernance partagée, égalité des genres, éco-responsabilité…) et gère à la fois le média Imagine et l’agence de services Imagine COOP qui propose des services à la carte (formation, animations, production de contenus…). •\tImagine COOP s’appuie sur un modèle économique mixte : environ 70 % de recettes propres (ventes, abonnements et recettes publicitaires éthiques et durables), 30 % de subventions publiques (Aide à la presse FWB et CNCD-11.11.11). •\tPour développer son projet éditorial libre, Imagine s’appuie sur son Manifeste (2020) et sur sa charte fondatrice (1996). Deux documents dans lesquels le magazine (ré)affirme sa ligne éditoriale et ses engagements vis-à-vis des lecteurs. Par ailleurs, il s’appuie sur cinq valeurs cardinales dans l’entreprise : la cohérence, l’anticipation, l’équilibre, la considération et l’engagement. •\tEn 2014, puis en 2020 et 2023, le magazine a réalisé plusieurs réformes éditoriales (format, pagination, site web...) de manière participative et dynamique (questionnaires aux lecteurs, ateliers d’intelligence collective, workshops...) baptisés #Imagine2020 et Imaginnove.  "
 team:
   title: Notre équipe
   members:
