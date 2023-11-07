@@ -9,25 +9,25 @@ name = "Numéro en cours"
 url = "/numero-en-cours/"
 weight = 1
 [[menu.main]]
-name = "Archives"
+name = "Tous nos numéros"
 url = "https://kiosque.imagine-magazine.com/categorie-produit/numeros/"
-weight = 4
+weight = 3
 [[menu.main]]
 name = "Contact"
 url = "/nous-contacter"
-weight = 5
+weight = 6
 [[menu.main]]
 name = "Imagine COOP"
 url = "/coop/rejoindre"
-weight = 6
+weight = 4
 [[menu.main]]
 name = "Imagine Digital"
 url = "https://kiosque.imagine-magazine.com/espace-digital/"
-weight = 7
+weight = 2
 [[menu.main]]
 name = "Notre projet"
 url = "/notre-projet/"
-weight = 3
+weight = 5
 [params]
 cloudinary_url = "https://res.cloudinary.com/drg3m95yg/image/upload/"
 disableKinds = ["categories", "tags"]
