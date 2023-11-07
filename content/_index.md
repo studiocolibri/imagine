@@ -46,7 +46,7 @@ section_one:
   section_title: ''
   title: "Je soutiens Imagine COOP\_!"
   text: "Imagine COOP est la 1ère coopérative de presse et de services spécialisée dans les transformations écologique et sociale en Belgique fondée le 7 septembre. C’est un nouveau Média papier & digital (à découvrir dès le 11 octobre) et une nouvelle Agence services (production de contenus, éducation aux médias, formation, animation). C’est aussi une entreprise sociale, d’utilité publique, éco-responsable, qui génère de l’activité économique durable, crée de l’emploi en Wallonie et à Bruxelles et soutient un journalisme d’impact et de qualité. Devenez, vous aussi, coopératrice et coopérateur d’Imagine COOP, à titre individuel ou via votre organisation, et soyez associé·e à sa gouvernance\_!"
-  img: /uploads/compoespace.png
+  img: /uploads/patchwork2.png
   btn_text: Je prends des parts !
   btn_link: /coop/rejoindre
 section_two:
