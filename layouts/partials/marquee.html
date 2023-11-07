@@ -1,14 +1,9 @@
 <section class="marquee">
     <div class="marquee-content">
-    <div class="image-gallery">
-        <img src="images/01.jpg">
-        <img src="images/02.jpg">
-        <img src="images/03.jpg">
-        <img src="images/04.jpg">
-        <img src="images/05.jpg">
-        <img src="images/06.jpg">
-        <img src="images/07.jpg">
-        <img src="images/08.jpg">
-    </div>
+        <div class="image-gallery">
+            {{ range .Page.Params.carousel }}
+            <img src="{{ . | absURL }}">
+            {{ end }}
+        </div>
     </div>
 </section>

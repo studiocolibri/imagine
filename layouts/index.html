@@ -2,7 +2,6 @@
 <section class="home-header page-header home">
     {{ $header_title := .Params.header_title }}
     {{ $header_text := .Params.header_text }}
-    {{ range first 1 (where $.Site.RegularPages.ByDate.Reverse "Section" "numeros") }}
         <div class="cw">
             <div class="home-header__content">
                 <p class="home-header__numero"><strong>n°158</strong> / OCTOBRE-NOVEMBRE-DECEMBRE 2023</p>
@@ -12,9 +11,17 @@
             </div>
 
 </section>
-{{ partial "marquee.html" .}}
+<section class="marquee">
+    <div class="marquee-content">
+        <div class="image-gallery">
+            {{ range .Params.carousel }}
+            <img src="https://res.cloudinary.com/drg3m95yg/image/upload/f_auto,q_80/{{ . }}">
+            {{ end }}
+        </div>
+    </div>
+</section>
 <section class="home-section-one section-2-cols">
-
+    {{ range first 1 (where $.Site.RegularPages.ByDate.Reverse "Section" "numeros") }}
     <div class="flex-2-cols cw">
         <div class="flex-2-cols__col">
             <a class="home-header__img" href="/numero-en-cours">
@@ -58,6 +65,7 @@
         </div>
     </div>
     {{ end }}
+    
 </section>
 <section class="page-section qui ctnt" style="background-size: contain;
 background-position: center;
