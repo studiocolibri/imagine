@@ -131,6 +131,7 @@ collections_config:
         - libre-acces/tribune/le-prix-de-l-information.md
         - numeros/139.md
     name: Pages
+    description: ''
     icon: notes
     _editables: {}
     _inputs:
@@ -144,6 +145,9 @@ collections_config:
           correct_orientation: true
           resize_style: contain
         label: Img
+        cascade: true
+      carousel:
+        type: auto
         cascade: true
     _select_data: {}
     _structures: {}
