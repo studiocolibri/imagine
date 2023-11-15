@@ -40,8 +40,9 @@ section_four:
   section_title: Le magazine
   title: Notre projet de presse indépendante
   text: >-
-    Fondé en 1996, <em>Imagine Demain le monde</em> est une coopérative de presse et un média alternatif et indépendant. Ce magazine est pensé,
-    réalisé et géré avec soin et passion par ceux qui le fabriquent.
+    Fondé en 1996, <em>Imagine Demain le monde</em> est une coopérative de
+    presse et un média alternatif et indépendant. Ce magazine est pensé, réalisé
+    et géré avec soin et passion par ceux qui le fabriquent.
   btn_txt: En savoir plus
   btn_link: /le-projet-imagine
   img: /uploads/photo-team.jpg
@@ -63,10 +64,10 @@ section_five:
     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
     consequat.
   img_list_2:
-    - img: logo-federation-wal-bxl.png
+    - img: /uploads/logo-fwb-couleur-quadri-vertical.jpg
       title: Fédération Wallonie-Bruxelles
       link: http://www.federation-wallonie-bruxelles.be/
-    - img: logo-developpement.png
+    - img: /uploads/cbd-logo-fr-cmyk.jpg
       title: ENABEL - Agence belge de développement
       link: https://www.enabel.be/fr
 section_six:
