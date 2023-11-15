@@ -40,23 +40,29 @@ section_four:
   section_title: Le magazine
   title: Notre projet de presse indépendante
   text: >-
-    Fondé en 1996, <em>Imagine Demain le monde</em> est un projet de presse
-    alternative et indépendante sans but lucratif. Ce magazine est pensé,
+    Fondé en 1996, <em>Imagine Demain le monde</em> est une coopérative de presse et un média alternatif et indépendant. Ce magazine est pensé,
     réalisé et géré avec soin et passion par ceux qui le fabriquent.
   btn_txt: En savoir plus
   btn_link: /le-projet-imagine
   img: /uploads/photo-team.jpg
 section_five:
-  title: Nos partenaires
+  title_1: Notre partenaire
   text: >-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
     consequat.
-  img_list:
+  img_list_1:
     - img: logo-11-11-11.png
       title: CNCD 11.11.11
       link: https://www.cncd.be/-operation-11-11-11-
+  title_2: Nos soutiens publics
+  text_2: >-
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat.
+  img_list_2:
     - img: logo-federation-wal-bxl.png
       title: Fédération Wallonie-Bruxelles
       link: http://www.federation-wallonie-bruxelles.be/

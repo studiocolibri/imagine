@@ -68,13 +68,24 @@
 
 <section class="notre-projet__section-five section-2-cols cw">
     <h2 class="section-title"></h2>
-    <h3>{{ .Params.section_five.title | safeHTML }}</h3>
+    <h3>{{ .Params.section_five.title_1 | safeHTML }}</h3>
     <ul class="partenaires-list">
         {{ $imgUrl := .Site.Params.cloudinary_url }}
-        {{ range .Params.section_five.img_list }}
+        {{ range .Params.section_five.img_list_1 }}
             <li>
                 <a href="{{ .link }}" target="_blank" rel="noopener">
-                    <img src="{{ $imgUrl }}f_auto,q_80,w_135,c_limit/{{ .img }}" alt="logo de : {{ .title }}" title="{{ .title }}" loading="lazy">
+                    <img src="{{ $imgUrl }}f_auto,q_80,w_400,c_limit/{{ .img }}" alt="logo de : {{ .title }}" title="{{ .title }}" loading="lazy">
+                </a>
+            </li>
+        {{ end }}
+    </ul>
+    <h3>{{ .Params.section_five.title_2 | safeHTML }}</h3>
+    <ul class="partenaires-list">
+        {{ $imgUrl := .Site.Params.cloudinary_url }}
+        {{ range .Params.section_five.img_list_2 }}
+            <li>
+                <a href="{{ .link }}" target="_blank" rel="noopener">
+                    <img src="{{ $imgUrl }}f_auto,q_80,w_400,c_limit/{{ .img }}" alt="logo de : {{ .title }}" title="{{ .title }}" loading="lazy">
                 </a>
             </li>
         {{ end }}
