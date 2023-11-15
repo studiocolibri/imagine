@@ -150,7 +150,7 @@
 
             font-size: 4rem;
             font-weight: 100;
-            line-height: .85;
+            line-height: 1;
 
 
             h1 {
@@ -324,6 +324,7 @@
 }
 
 
+
 .cta-abonnement {
 
     background-color: var(--highlight);
@@ -439,4 +440,12 @@ section.marquee {
 
 section.home-header.page-header.home {
     padding-bottom: 3rem;
+}
+
+
+
+/* NUMERO EN COURS */
+
+.numero-header__right .page-header__title h1 {
+    margin: 0;
 }
