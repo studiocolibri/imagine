@@ -50,13 +50,24 @@ carousel:
     - img: /uploads/05.jpg
     - img: /uploads/06.jpg
     - img: /uploads/07.jpg
-section_one:
-  section_title: ''
-  title: "Je soutiens Imagine COOP\_!"
-  text: "Imagine COOP est la 1ère coopérative de presse et de services spécialisée dans les transformations écologique et sociale en Belgique fondée le 7 septembre. C’est un nouveau Média papier & digital (à découvrir dès le 11 octobre) et une nouvelle Agence services (production de contenus, éducation aux médias, formation, animation). C’est aussi une entreprise sociale, d’utilité publique, éco-responsable, qui génère de l’activité économique durable, crée de l’emploi en Wallonie et à Bruxelles et soutient un journalisme d’impact et de qualité. Devenez, vous aussi, coopératrice et coopérateur d’Imagine COOP, à titre individuel ou via votre organisation, et soyez associé·e à sa gouvernance\_!"
+section_digital:
+  section_title: "_Dans notre_ Espace Digital, _retrouvez_"
+  title: "Nos contenus numériques"
+  text: >-
+    * Notre série podcast « Adaptations » d’Isa Stragliati. Episode 1 : de l’eau pour tous
+
+    * Deux chroniques sonores et littéraires 
+
+    * « Rock thérapie », une immersion audio à Dave 
+
+    * Notre série web « Les préjudices de l'Anthropocène » 
+
+    * L'école du futur : le récit photo d'Olivier Papegnies 
+
+    * « Climax tour en Tiltrotor », une nouvelle du futur par l’autrice Isabelle Wéry
   img: /uploads/patchwork-carre.png
-  btn_text: Je prends des parts !
-  btn_link: /coop/rejoindre
+  btn_text: Découvrir 
+  btn_link: /numero-en-cours/
 section_two:
   section_title: Accès libre
   btn_link: /libre-acces/

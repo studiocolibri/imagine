@@ -147,7 +147,7 @@ background-color: white;">
     <div class="flex-2-cols cw">
         <div class="flex-2-cols__col rgt">
             <img
-            src="{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_470/{{ .Params.section_one.img }}"
+            src="{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_470/{{ .Params.section_digital.img }}"
             alt=""
             width="470"
             height="547"
@@ -155,31 +155,12 @@ background-color: white;">
             loading="lazy">
         </div>
         <div class="flex-2-cols__col ctnt" >
-            <h2 class="sup-title">NOS CONTENUS NUMERIQUES
+            <h2 class="sup-title">{{ .Params.section_digital.title | markdownify}}
             </h2>
-            <h3><em>Dans notre</em> Espace Digital, <em>retrouvez</em></h3>
+            <h3>{{ .Params.section_digital.section_title | markdownify}}</h3>
             {{/*  <p>Dans ce numéro automne-hiver d’Imagine, on vous emmène dans l’école du futur, sur les traces des trafiquants d’oiseaux, en Lorraine (où l’on cherche de l’hydrogène naturel dans d’anciennes mines de charbon), au Mozambique (frappé par les cyclones à répétition), au centre neuro-psychiatrique de Dave (Namur) qui développe un projet de musicothérapie, au Groupe Santé Josaphat pour parler vie affective et sexuelle, à la rencontre de l’écrivain Douglas Kennedy, du cinéaste Baloji et de l’activiste française Sanaa Saitouli (Banlieues climat)… </p>  */}}
-            <ul>
-                <li>
-                    Notre série podcast « Adaptations » d’Isa Stragliati. Episode 1 : de l’eau pour tous
-                </li>
-                <li>
-                    Deux chroniques sonores et littéraires
-                </li>
-                <li>
-                    « Rock thérapie », une immersion audio à Dave
-                </li>
-                <li>
-                    Notre série web « Les préjudices de l'Anthropocène »
-                </li>
-                <li>
-                    L'école du futur : le récit photo d'Olivier Papegnies
-                </li>
-                <li>
-                    « Climax tour en Tiltrotor », une nouvelle du futur par l’autrice Isabelle Wéry
-                </li>
-            </ul>
-            <a href="/numero-en-cours/" class="btn" target="_blank">Découvrir</a>
+            {{ .Params.section_digital.text | markdownify}}
+            <a href="{{ .Params.section_digital.btn_link}}" class="btn" target="_blank">{{ .Params.section_digital.btn_text}}</a>
         </div>
 
     </div>
