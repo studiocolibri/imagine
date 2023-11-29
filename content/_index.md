@@ -45,7 +45,7 @@ header_text: >-
 carousel:
   - img: /uploads/carrousel-1.jpg
   - img: /uploads/carrousel-2.jpg
-  - img: /uploads/carrousel-3.jpg
+  - img: /uploads/carrousel-3-1.jpg
   - img: /uploads/carrousel-4.jpg
   - img: /uploads/carrousel-5.jpg
   - img: /uploads/carrousel-6.jpg
