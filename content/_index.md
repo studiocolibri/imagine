@@ -43,18 +43,19 @@ header_text: >-
   Imagine (écologie, société, Nord-Sud) est un magazine trimestriel et un
   éditeur indépendant depuis 2001.
 carousel:
-    - img: /uploads/01.jpg
-    - img: /uploads/02.jpg
-    - img: /uploads/03.jpg
-    - img: /uploads/04.jpg
-    - img: /uploads/05.jpg
-    - img: /uploads/06.jpg
-    - img: /uploads/07.jpg
+  - img: /uploads/01.jpg
+  - img: /uploads/02.jpg
+  - img: /uploads/03.jpg
+  - img: /uploads/04.jpg
+  - img: /uploads/05.jpg
+  - img: /uploads/06.jpg
+  - img: /uploads/07.jpg
 section_digital:
-  section_title: "_Dans notre_ Espace Digital, _retrouvez_"
-  title: "Nos contenus numériques"
+  section_title: _Dans notre_ Espace Digital, _retrouvez_
+  title: Nos contenus numériques
   text: >-
-    * Notre série podcast « Adaptations » d’Isa Stragliati. Episode 1 : de l’eau pour tous
+    * Notre série podcast « Adaptations » d’Isa Stragliati. Episode 1 : de l’eau
+    pour tous
 
     * Deux chroniques sonores et littéraires 
 
@@ -64,10 +65,11 @@ section_digital:
 
     * L'école du futur : le récit photo d'Olivier Papegnies 
 
-    * « Climax tour en Tiltrotor », une nouvelle du futur par l’autrice Isabelle Wéry
+    * « Climax tour en Tiltrotor », une nouvelle du futur par l’autrice Isabelle
+    Wéry
   img: /uploads/patchwork-carre.png
-  btn_text: Découvrir 
-  btn_link: /numero-en-cours/
+  btn_text: Découvrir
+  btn_link: https://kiosque.imagine-magazine.com/espace-digital/
 section_two:
   section_title: Accès libre
   btn_link: /libre-acces/
