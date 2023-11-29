@@ -43,13 +43,14 @@ header_text: >-
   Imagine (écologie, société, Nord-Sud) est un magazine trimestriel et un
   éditeur indépendant depuis 2001.
 carousel:
-  - img: /uploads/01.jpg
-  - img: /uploads/02.jpg
-  - img: /uploads/03.jpg
-  - img: /uploads/04.jpg
-  - img: /uploads/05.jpg
-  - img: /uploads/06.jpg
-  - img: /uploads/07.jpg
+  - img: /uploads/carrousel-1.jpg
+  - img: /uploads/carrousel-2.jpg
+  - img: /uploads/carrousel-3.jpg
+  - img: /uploads/carrousel-4.jpg
+  - img: /uploads/carrousel-5.jpg
+  - img: /uploads/carrousel-6.jpg
+  - img: /uploads/carrousel-7.jpg
+  - img: /uploads/carrousel-8.jpg
 section_digital:
   section_title: _Dans notre_ Espace Digital, _retrouvez_
   title: Nos contenus numériques
