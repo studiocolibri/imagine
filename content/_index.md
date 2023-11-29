@@ -46,8 +46,8 @@ carousel:
   - img: /uploads/carrousel-1.jpg
   - img: /uploads/carrousel-2.jpg
   - img: /uploads/carrousel-3-2.jpg
-  - img: /uploads/carrousel-5.jpg
   - img: /uploads/carrousel-4-1.jpg
+  - img: /uploads/carrousel-5.jpg
   - img: /uploads/carrousel-6.jpg
   - img: /uploads/carrousel-7.jpg
   - img: /uploads/carrousel-8.jpg
