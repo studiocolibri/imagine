@@ -12,3 +12,5 @@ TVA : BE0479.486.737
 Banque CBC : BE10 7320 7178 5004
 
 Banque BNP Paribas Fortis : BE86 0013 9179 9850
+
+Banque Triodos : BE70 5230 4023 0625
