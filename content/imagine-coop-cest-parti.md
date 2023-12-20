@@ -71,7 +71,7 @@ Devenir un média et un coproducteur de référence, tant en Belgique que dans l
 
 Imagine COOP s’appuie sur cinq valeurs cardinales. Celles-ci constituent les qualités principales qui rendent Imagine – en tant qu’entreprise, organisation, équipe de travailleuses et de travailleurs et média présent dans l’espace public – digne d’intérêt et d’estime : la cohérence, l’anticipation, l’équilibre, la considération et la responsabilité.
 
-<img src="/uploads/747a4d04-a2ad-4481-a619-17f32e0b941e-1.jpeg" width="4843" height="1713" alt="Eve Siropt" title="Eve Siropt" />
+<img width="4843" height="1713" alt="Eve Siropt" title="Eve Siropt" src="/uploads/747a4d04-a2ad-4481-a619-17f32e0b941e-1.jpeg" />
 
 ##### Étape 3 : Une grande levée de fonds
 

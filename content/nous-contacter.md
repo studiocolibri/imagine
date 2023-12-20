@@ -9,6 +9,6 @@ Tél. : 00 32 (0)4 380 13 37<br>[info@imagine-magazine.com](mailto:info@imagine-
 
 TVA : BE0479.486.737
 
-Banque Triodos : BE70 5230 4023 0625
+Banque CBC : BE10 7320 7178 5004
 
 Banque BNP Paribas Fortis : BE86 0013 9179 9850
