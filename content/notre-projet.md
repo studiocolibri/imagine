@@ -70,6 +70,19 @@ section_five:
     - img: /uploads/cbd-logo-fr-cmyk.jpg
       title: ENABEL - Agence belge de développement
       link: https://www.enabel.be/fr
+  title_3: Nos sommes membres de
+  text_2: >-
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat.
+  img_list_3:
+    - img: /uploads/logo-fwb-couleur-quadri-vertical.jpg
+      title: Fédération Wallonie-Bruxelles
+      link: http://www.federation-wallonie-bruxelles.be/
+    - img: /uploads/cbd-logo-fr-cmyk.jpg
+      title: ENABEL - Agence belge de développement
+      link: https://www.enabel.be/fr
 section_six:
   title: La presse et nous
 ---
