@@ -74,7 +74,8 @@ section_five:
   img_list_3:
     - img: /uploads/logo-cdj.jpg
       title: Conseil de déontologie journalistique
-      link: https://www.lecdj.be/fr/
+      link: >-
+        https://www.lecdj.be/fr/bienvenue-sur-le-site-du-conseil-de-deontologie-journalistique-cdj/
 section_six:
   title: La presse et nous
 ---
