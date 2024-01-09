@@ -45,7 +45,7 @@ header_text: >-
 carousel:
   - img: /uploads/159-volcan-universite-fossile-lucie-morauw.jpg
   - img: /uploads/159-volcan-vrac-eve-anne-henskens.jpg
-  - img: /uploads/carrousel-3-2.jpg
+  - img: /uploads/159-volcan-jc-katende-sarah-freres.jpg
   - img: /uploads/carrousel-4-1.jpg
   - img: /uploads/carrousel-5.jpg
   - img: /uploads/carrousel-6.jpg
