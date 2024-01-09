@@ -149,6 +149,10 @@ collections_config:
       carousel:
         type: auto
         cascade: true
+      text:
+        type: textarea
+        label: Texte
+        cascade: true
     _select_data: {}
     _structures: {}
     disable_add: false
