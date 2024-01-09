@@ -162,9 +162,13 @@ collections_config:
     path: content/numeros
     output: true
     name: Numeros
+    description: ''
     icon: notes
     _editables: {}
-    _inputs: {}
+    _inputs:
+      short_description:
+        type: markdown
+        cascade: true
     _select_data: {}
     _structures: {}
     disable_add: false
