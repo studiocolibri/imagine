@@ -43,7 +43,7 @@ header_text: >-
   Imagine (écologie, société, Nord-Sud) est un magazine trimestriel et un
   éditeur indépendant depuis 2001.
 carousel:
-  - img: /uploads/carrousel-1.jpg
+  - img: /uploads/159-volcan-universite-fossile-lucie-morauw.jpg
   - img: /uploads/carrousel-2.jpg
   - img: /uploads/carrousel-3-2.jpg
   - img: /uploads/carrousel-4-1.jpg
