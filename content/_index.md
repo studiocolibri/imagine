@@ -54,6 +54,10 @@ carousel:
   - img: /uploads/159-terra-incognita-prison-alternative-vincent-de-lannoy5.jpg
   - img: /uploads/159-les-confluents-typographies-sarah-freres.jpg
   - img: /uploads/159-les-confluents-conflit-marion-sellenet.jpg
+section_quote:
+  text: >-
+    « Trump est le dernier des _*ploutocrates*_ mais il y a une longue histoire derrière lui »
+  ref: Douglas Kennedy, Ecrivain
 section_digital:
   section_title: _Dans notre_ Espace Digital, _retrouvez_
   title: Nos contenus numériques
