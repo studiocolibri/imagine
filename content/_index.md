@@ -65,8 +65,9 @@ section_digital:
 
     * « Toujours actif », une immersion audio avec un collectif de sans-papiers
 
-    * « L’IA et les oiseaux recensés », un reportage à écouter \* « La route du
-    lithium » : le grand récit photo de Colin Delfosse
+    * « L’IA et les oiseaux recensés », un reportage à écouter
+
+    * « La route du lithium » : le grand récit photo de Colin Delfosse
 
     * « Extrêmomorphes », une nouvelle du futur par l’autrice Katia Lanero
     Zamora
