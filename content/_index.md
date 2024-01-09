@@ -44,7 +44,7 @@ header_text: >-
   éditeur indépendant depuis 2001.
 carousel:
   - img: /uploads/159-volcan-universite-fossile-lucie-morauw.jpg
-  - img: /uploads/carrousel-2.jpg
+  - img: /uploads/159-volcan-vrac-eve-anne-henskens.jpg
   - img: /uploads/carrousel-3-2.jpg
   - img: /uploads/carrousel-4-1.jpg
   - img: /uploads/carrousel-5.jpg
