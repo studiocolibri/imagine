@@ -54,6 +54,7 @@ carousel:
   - img: /uploads/159-terra-incognita-prison-alternative-vincent-de-lannoy5.jpg
   - img: /uploads/159-les-confluents-typographies-sarah-freres.jpg
   - img: /uploads/159-les-confluents-conflit-marion-sellenet.jpg
+  - img: /uploads/159-au-large-artistes-collectifs-l-amicale.jpg
 section_digital:
   section_title: _Dans notre_ Espace Digital, _retrouvez_
   title: Nos contenus numériques
