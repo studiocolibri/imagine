@@ -49,7 +49,7 @@ carousel:
   - img: >-
       /uploads/159-sixieme-continent-sans-papiers-frederic-moreau-de-bellaing10.jpg
   - img: /uploads/159-zones-fertiles-chronique-arnaud-zacharie-julie-graux.jpg
-  - img: /uploads/carrousel-6.jpg
+  - img: /uploads/159-zones-fertiles-lithium-colin-delfosse9.jpg
   - img: /uploads/carrousel-7.jpg
   - img: /uploads/carrousel-8.jpg
 section_digital:
