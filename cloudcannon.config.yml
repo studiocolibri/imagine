@@ -207,7 +207,7 @@ collections_config:
             label: Titre du Numéro
             cascade: true
           $.short_description:
-            type: auto
+            type: markdown
             label: Courte description du numéro
             cascade: true
           $.cover:
