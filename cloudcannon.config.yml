@@ -150,8 +150,7 @@ collections_config:
         type: auto
         cascade: true
       text:
-        type: textarea
-        label: Texte
+        type: markdown
         cascade: true
     _select_data: {}
     _structures: {}
