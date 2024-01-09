@@ -84,10 +84,10 @@ section_two:
   btn_link: /libre-acces/
   btn_txt: Tous nos articles
 section_decouvrir:
-  section_title: Le silence des oiseaux
+  section_title: 'Des universités sans industrie fossile '
   text: >-
-    Découvrez le premier épisode de notre nouvelle série inédite sur la
-    délinquance environnementale.
+    Imagine s'est rendu sur les campus où des étudiantes et étudiants se
+    mobilisent pour se débarrasser des lobbies fossiles.&nbsp;
   img: /uploads/patchwork-carre.png
   btn_text: Découvrir le numéro
   btn_link: https://kiosque.imagine-magazine.com/pour-les-abonnes-imagine/
