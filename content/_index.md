@@ -58,11 +58,12 @@ section_digital:
   section_title: _Dans notre_ Espace Digital, _retrouvez_
   title: Nos contenus numériques
   text: >-
-    * Notre série podcast « Adaptations » d’Isa Stragliati. Episode 2 : vers les
+    Notre série podcast « Adaptations » d’Isa Stragliati. Episode 2 : vers les
     forêts* Deux chroniques sonores et littéraires * « Toujours actif », une
-    immersion audio avec un collectif de sans-papiers * * L'école du futur : le
-    récit photo d'Olivier Papegnies * « Climax tour en Tiltrotor », une nouvelle
-    du futur par l’autrice Isabelle Wéry
+    immersion audio avec un collectif de sans-papiers * * « L’IA et les oiseaux
+    recensés », un reportage à écouter * « La route du lithium » : le grand
+    récit photo de Colin Delfosse * « Extrêmomorphes », une nouvelle du futur
+    par l’autrice Katia Lanero Zamora
   img: /uploads/patchwork-carre.png
   btn_text: Découvrir
   btn_link: https://kiosque.imagine-magazine.com/espace-digital/
