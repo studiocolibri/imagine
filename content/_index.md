@@ -52,6 +52,7 @@ carousel:
   - img: /uploads/159-zones-fertiles-lithium-colin-delfosse9.jpg
   - img: /uploads/159-terra-incognita-ia-transition-eve-siropt2.jpg
   - img: /uploads/159-terra-incognita-prison-alternative-vincent-de-lannoy5.jpg
+  - img: /uploads/159-les-confluents-typographies-sarah-freres.jpg
 section_digital:
   section_title: _Dans notre_ Espace Digital, _retrouvez_
   title: Nos contenus numériques
