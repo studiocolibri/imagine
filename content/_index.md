@@ -56,8 +56,7 @@ carousel:
   - img: /uploads/159-les-confluents-conflit-marion-sellenet.jpg
 section_quote:
   text: >-
-    « Trump est le dernier des ****ploutocrates**** mais il y a une longue
-    histoire derrière lui »
+    « Trump est le dernier des _*ploutocrates*_ mais il y a une longue histoire derrière lui »
   ref: Douglas Kennedy, Ecrivain
 section_digital:
   section_title: _Dans notre_ Espace Digital, _retrouvez_
@@ -83,16 +82,11 @@ section_two:
   section_title: Accès libre
   btn_link: /libre-acces/
   btn_txt: Tous nos articles
-section_three:
-  section_title: Espace abonnés numériques
+section_decouvrir:
+  section_title: Le silence des oiseaux
   text: >-
-    Pour les abonnés à notre version numérique (PDF + bonus), découvrez un texte
-    inédit (en anglais) écrit par l'écrivain américain Rick Bass, nos baromètres
-    égalité-diversité, une interview d'Olivia U. Rutazibwa en version longue, le
-    portfolio d'un projet de cartograhie des pandémies, une carte interactive
-    inédite des luttes environnementales en Belgique... Et bien d'autres
-    avantages !
+    Découvrez le premier épisode de notre nouvelle série inédite sur la délinquance environnementale.
   img: ordiimagine_xf4rmd.png
-  btn_text: Découvrir
+  btn_text: Découvrir le numéro
   btn_link: https://kiosque.imagine-magazine.com/pour-les-abonnes-imagine/
 ---

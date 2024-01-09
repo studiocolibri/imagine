@@ -83,10 +83,10 @@ background-color: white;">
     <section class="home-section-one section-2-cols bande">
         <div class="cw">
             <div class="flex-2-cols__col ctnt">
-                <h2 class="sup-title">À DECOUVRIR DANS LE N° 158
+                <h2 class="sup-title">À DECOUVRIR DANS LE N° 159
                 </h2>
-                <h3>Le silence<em> <br>des oiseaux</em></h3>
-                <p>Découvrez le premier épisode de notre nouvelle série inédite sur la <strong>délinquance environnementale. </strong>
+                <h3>{{ .Params.section_decouvrir.section_title | markdownify }}</h3>
+                <p>{{ .Params.section_decouvrir.text | markdownify }}</strong>
 
                 <ul>
                 </ul>
