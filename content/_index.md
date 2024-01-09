@@ -50,7 +50,7 @@ carousel:
       /uploads/159-sixieme-continent-sans-papiers-frederic-moreau-de-bellaing10.jpg
   - img: /uploads/159-zones-fertiles-chronique-arnaud-zacharie-julie-graux.jpg
   - img: /uploads/159-zones-fertiles-lithium-colin-delfosse9.jpg
-  - img: /uploads/carrousel-7.jpg
+  - img: /uploads/159-terra-incognita-ia-transition-eve-siropt2.jpg
   - img: /uploads/carrousel-8.jpg
 section_digital:
   section_title: _Dans notre_ Espace Digital, _retrouvez_
