@@ -35,32 +35,13 @@
             </a>
         </div>
         <div class="flex-2-cols__col ctnt">
-            <h2 class="sup-title">N°158 / OCTOBRE-NOVEMBRE-Décembre 2023
+            <h2 class="sup-title">N°{{ .Params.num }} / Janvier-Févier-Mars 2024
             </h2>
             <h3>Dans ce numéro, <em>on vous emmène :</em></h3>
             {{/*  <p>Dans ce numéro automne-hiver d’Imagine, on vous emmène :</p>  */}}
-            <ul>
-                <li>
-                    Dans l’<strong>école du futur</strong>
-                </li>
-                <li>
-                    Sur les traces des trafiquants d’oiseaux
-                </li>
-                <li>
-                    En Lorraine, où l’on cherche de l’hydrogène naturel dans d’anciennes mines de charbon
-                </li>
-                <li>
-                    Au Mozambique, frappé par les cyclones à répétition
-                </li>
-                <li>
-                    Au centre neuro-psychiatrique de Dave (Namur), qui développe un projet de musicothérapie
-                </li>
-                <li>Au Groupe Santé Josaphat, pour parler vie affective et sexuelle
-                </li>
-                <li>
-                    À la rencontre de l’écrivain Douglas Kennedy, du cinéaste Baloji et de l’activiste française Sanaa Saitouli (Banlieues climat)…
-                </li>
-            </ul>
+            {{
+                .Params.short_description
+            }}
                 <a class="btn" href="/numero-en-cours/">Découvrir le numéro</a>
         </div>
     </div>
