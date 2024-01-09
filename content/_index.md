@@ -51,7 +51,7 @@ carousel:
   - img: /uploads/159-zones-fertiles-chronique-arnaud-zacharie-julie-graux.jpg
   - img: /uploads/159-zones-fertiles-lithium-colin-delfosse9.jpg
   - img: /uploads/159-terra-incognita-ia-transition-eve-siropt2.jpg
-  - img: /uploads/carrousel-8.jpg
+  - img: /uploads/159-terra-incognita-prison-alternative-vincent-de-lannoy5.jpg
 section_digital:
   section_title: _Dans notre_ Espace Digital, _retrouvez_
   title: Nos contenus numériques
