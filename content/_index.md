@@ -88,7 +88,7 @@ section_decouvrir:
   text: >-
     Imagine s'est rendu sur les campus où des étudiantes et étudiants se
     mobilisent pour se débarrasser des lobbies fossiles.&nbsp;
-  img: /uploads/patchwork-carre.png
+  img: /uploads/159-volcan-universite-fossile-lucie-morauw-1.jpg
   btn_text: Découvrir le numéro
   btn_link: https://kiosque.imagine-magazine.com/pour-les-abonnes-imagine/
 ---
