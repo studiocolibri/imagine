@@ -54,24 +54,15 @@ carousel:
   - img: /uploads/159-terra-incognita-prison-alternative-vincent-de-lannoy5.jpg
   - img: /uploads/159-les-confluents-typographies-sarah-freres.jpg
   - img: /uploads/159-les-confluents-conflit-marion-sellenet.jpg
-  - img: /uploads/159-au-large-artistes-collectifs-l-amicale.jpg
 section_digital:
   section_title: _Dans notre_ Espace Digital, _retrouvez_
   title: Nos contenus numériques
   text: >-
-    * Notre série podcast « Adaptations » d’Isa Stragliati. Episode 1 : de l’eau
-    pour tous
-
-    * Deux chroniques sonores et littéraires 
-
-    * « Rock thérapie », une immersion audio à Dave 
-
-    * Notre série web « Les préjudices de l'Anthropocène » 
-
-    * L'école du futur : le récit photo d'Olivier Papegnies 
-
-    * « Climax tour en Tiltrotor », une nouvelle du futur par l’autrice Isabelle
-    Wéry
+    * Notre série podcast « Adaptations » d’Isa Stragliati. Episode 2 : vers les
+    forêts* Deux chroniques sonores et littéraires * « Toujours actif », une
+    immersion audio avec un collectif de sans-papiers * * L'école du futur : le
+    récit photo d'Olivier Papegnies * « Climax tour en Tiltrotor », une nouvelle
+    du futur par l’autrice Isabelle Wéry
   img: /uploads/patchwork-carre.png
   btn_text: Découvrir
   btn_link: https://kiosque.imagine-magazine.com/espace-digital/
