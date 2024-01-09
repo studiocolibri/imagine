@@ -46,7 +46,8 @@ carousel:
   - img: /uploads/159-volcan-universite-fossile-lucie-morauw.jpg
   - img: /uploads/159-volcan-vrac-eve-anne-henskens.jpg
   - img: /uploads/159-volcan-jc-katende-sarah-freres.jpg
-  - img: /uploads/carrousel-4-1.jpg
+  - img: >-
+      /uploads/159-sixieme-continent-sans-papiers-frederic-moreau-de-bellaing10.jpg
   - img: /uploads/carrousel-5.jpg
   - img: /uploads/carrousel-6.jpg
   - img: /uploads/carrousel-7.jpg
