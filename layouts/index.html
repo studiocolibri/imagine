@@ -80,7 +80,11 @@ background-color: white;">
 </div>
 </section>
     {{ partial "quote.html" . }}
-    <section class="home-section-one section-2-cols bande">
+    <section class="home-section-one section-2-cols bande" style="
+    background-image: url('{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_673/{{ .Params.section_decouvrir.img }}');
+    background-position: bottom right;
+    
+    ">
         <div class="cw">
             <div class="flex-2-cols__col ctnt">
                 <h2 class="sup-title">À DECOUVRIR DANS LE N° 159

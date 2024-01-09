@@ -86,7 +86,7 @@ section_decouvrir:
   section_title: Le silence des oiseaux
   text: >-
     Découvrez le premier épisode de notre nouvelle série inédite sur la délinquance environnementale.
-  img: ordiimagine_xf4rmd.png
+  img: /uploads/patchwork-carre.png
   btn_text: Découvrir le numéro
   btn_link: https://kiosque.imagine-magazine.com/pour-les-abonnes-imagine/
 ---
