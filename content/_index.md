@@ -56,9 +56,9 @@ carousel:
   - img: /uploads/159-les-confluents-conflit-marion-sellenet.jpg
 section_quote:
   text: >-
-    « Trump est le dernier des _*ploutocrates*_ mais il y a une longue histoire
-    derrière lui »
-  ref: Douglas Kennedy, Ecrivain
+    *« L’histoire retiendra tant d’occasions manquées. Trente années ont été
+    gaspillées pour lutter contre les changements climatiques »*
+  ref: Naomi Oreskes, historienne des sciences, autrice des Marchands de doute
 section_digital:
   section_title: _Dans notre_ Espace Digital, _retrouvez_
   title: Nos contenus numériques
@@ -88,7 +88,7 @@ section_decouvrir:
   text: >-
     Découvrez le premier épisode de notre nouvelle série inédite sur la
     délinquance environnementale.
-  img: /uploads/02.jpg
+  img: /uploads/patchwork-carre.png
   btn_text: Découvrir le numéro
   btn_link: https://kiosque.imagine-magazine.com/pour-les-abonnes-imagine/
 ---
