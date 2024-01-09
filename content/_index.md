@@ -61,8 +61,9 @@ section_digital:
     * Notre série podcast « Adaptations » d’Isa Stragliati. Episode 2 : vers les
     forêts
 
-    * Deux chroniques sonores et littéraires \* « Toujours actif », une
-    immersion audio avec un collectif de sans-papiers
+    * Deux chroniques sonores et littéraires
+
+    * « Toujours actif », une immersion audio avec un collectif de sans-papiers
 
     * « L’IA et les oiseaux recensés », un reportage à écouter \* « La route du
     lithium » : le grand récit photo de Colin Delfosse
