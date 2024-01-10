@@ -46,6 +46,27 @@
                     position: absolute;
                     top: 5rem;
                 }
+
+                &:after {
+                    content: '';
+                    position: absolute;
+                    top: 114px;
+    left: 407px;
+                    bottom: 0;
+                    background-color: #bdbdbd;
+                    background-image: url(../assets/img/book-pages.png);
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    background-position: 0 0;
+                    z-index: -1;
+                    -webkit-transform: perspective(430px)rotateY(32deg);
+                    -moz-transform: perspective(430px)rotateY(32deg);
+                    transform: perspective(430px)rotateY(32deg);
+                    width: 20px;
+                    height: 565px;
+                    z-index: -1;
+
+                }
             }
         }
 
