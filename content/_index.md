@@ -53,6 +53,7 @@ carousel:
   - img: /uploads/159-terra-incognita-prison-alternative-vincent-de-lannoy5.jpg
   - img: /uploads/159-les-confluents-typographies-sarah-freres.jpg
   - img: /uploads/159-les-confluents-conflit-marion-sellenet.jpg
+  - img: /uploads/159-volcan-vrac.jpg
 section_quote:
   text: >-
     *« L’histoire retiendra tant d’occasions manquées. Trente années ont été
