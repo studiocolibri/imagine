@@ -44,7 +44,6 @@ header_text: >-
   éditeur indépendant depuis 2001.
 carousel:
   - img: /uploads/159-volcan-universite-fossile-lucie-morauw.jpg
-  - img: /uploads/159-volcan-vrac-eve-anne-henskens.jpg
   - img: /uploads/159-volcan-jc-katende-sarah-freres.jpg
   - img: >-
       /uploads/159-sixieme-continent-sans-papiers-frederic-moreau-de-bellaing10.jpg
