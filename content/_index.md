@@ -43,17 +43,17 @@ header_text: >-
   Imagine (écologie, société, Nord-Sud) est un magazine trimestriel et un
   éditeur indépendant depuis 2001.
 carousel:
+  - img: /uploads/159-volcan-vrac.jpg
   - img: /uploads/159-volcan-universite-fossile-lucie-morauw.jpg
   - img: /uploads/159-volcan-jc-katende-sarah-freres.jpg
-  - img: >-
-      /uploads/159-sixieme-continent-sans-papiers-frederic-moreau-de-bellaing10.jpg
   - img: /uploads/159-zones-fertiles-chronique-arnaud-zacharie-julie-graux.jpg
   - img: /uploads/159-zones-fertiles-lithium-colin-delfosse9.jpg
   - img: /uploads/159-terra-incognita-ia-transition-eve-siropt2.jpg
+  - img: >-
+      /uploads/159-sixieme-continent-sans-papiers-frederic-moreau-de-bellaing10.jpg
   - img: /uploads/159-terra-incognita-prison-alternative-vincent-de-lannoy5.jpg
   - img: /uploads/159-les-confluents-typographies-sarah-freres.jpg
   - img: /uploads/159-les-confluents-conflit-marion-sellenet.jpg
-  - img: /uploads/159-volcan-vrac.jpg
 section_quote:
   text: >-
     *« L’histoire retiendra tant d’occasions manquées. Trente années ont été
