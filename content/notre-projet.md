@@ -60,6 +60,9 @@ section_five:
     - img: /uploads/newb-2024.jpg
       title: ''
       link: ''
+    - img: /uploads/triodos-2024.jpg
+      title: ''
+      link: ''
   title_2: Nos soutiens publics
   text_2: >-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
