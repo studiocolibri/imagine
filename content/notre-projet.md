@@ -57,6 +57,9 @@ section_five:
     - img: logo-11-11-11.png
       title: CNCD 11.11.11
       link: https://www.cncd.be/-operation-11-11-11-
+    - img: /uploads/newb-2024.jpg
+      title: ''
+      link: ''
   title_2: Nos soutiens publics
   text_2: >-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
