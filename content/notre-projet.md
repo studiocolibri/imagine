@@ -58,7 +58,7 @@ section_five:
       title: CNCD 11.11.11
       link: https://www.cncd.be/-operation-11-11-11-
     - img: /uploads/newb-2024.jpg
-      title: ''
+      title: NewB
       link: ''
     - img: /uploads/triodos-2024.jpg
       title: ''
