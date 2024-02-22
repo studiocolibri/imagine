@@ -61,7 +61,7 @@ section_five:
       title: NewB
       link: ''
     - img: /uploads/triodos-2024.jpg
-      title: ''
+      title: Triodos
       link: ''
   title_2: Nos soutiens publics
   text_2: >-
