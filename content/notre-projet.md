@@ -47,7 +47,7 @@ section_four:
   btn_link: /le-projet-imagine
   img: /uploads/photo-team.jpg
 section_five:
-  title_1: Notre partenaire
+  title_1: Notre partenaire/nos annonceurs
   text: >-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
