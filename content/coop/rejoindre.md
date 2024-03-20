@@ -50,8 +50,8 @@ section_services:
     productions de contenus...)
 
 
-    <br><a target="_blank" rel="noopener" href="/grille-tarifs-V3.pdf">→ Notre
-    grille de services et de tarifs</a>
+    <br><a href="/Lagence-de-services--(1).pdf" target="_blank" rel="noopener">→
+    Notre grille de services et de tarifs</a>
   presse_img: /uploads/logocoop.jpg
   img: /uploads/arbrecoop.jpg
 section_two:
@@ -93,14 +93,13 @@ section_three:
         trois canaux de diffusion : un magazine papier, un média digital et les
         réseaux sociaux
 
-        * **Offrir des services à la collectivité** (écoles,
-        associations, collectifs, opérateurs culturels, secteur de l’économie
-        sociale…) en matière d’accompagnement pédagogique et de  formations,
-        d’animations et de productions graphiques et de contenus
-        
-        * **Fédérer**
-        autour du magazine **les acteurs et les actrices de changement** et
-        aider nos lecteurs et nos lectrices à passer à l’action
+        * **Offrir des services à la collectivité** (écoles, associations,
+        collectifs, opérateurs culturels, secteur de l’économie sociale…) en
+        matière d’accompagnement pédagogique et de  formations, d’animations et
+        de productions graphiques et de contenus
+
+        * **Fédérer** autour du magazine **les acteurs et les actrices de
+        changement** et aider nos lecteurs et nos lectrices à passer à l’action
     - title: Notre vision
       photo: /uploads/vision.jpg
       text: >-
@@ -152,30 +151,39 @@ team:
     - name: Sarah Jonet
       job: Directrice d’Imagine COOP
       photo: /uploads/sarah-jonet.jpg
+      text: ''
     - name: Hugues Dorzée
       job: Rédacteur en chef
       photo: /v1591708260/hugues-dorzee_rufkqe.jpg
+      text: ''
     - name: Laure de Hesselle
       job: Journaliste
       photo: /v1591708260/laure-de-hesselle_dp4gdq.jpg
+      text: ''
     - name: Christophe Schoune
       job: Journaliste
       photo: /v1591708259/christophe-schoune_uldx8g.jpg
+      text: ''
     - name: Sarah Freres
       job: Journaliste
       photo: /v1591708265/sarah-frere_dlcywu.jpg
+      text: ''
     - name: Pascale Derriks
       job: Chargée administrative & financière
       photo: /v1591708258/pascale-derriks_yaqzte.jpg
+      text: ''
     - name: Fanny Dion
       job: Chargée de développement
       photo: /uploads/image-50433793.JPG
+      text: ''
     - name: Sophie Weverbergh
       job: Correctrice
       photo: /v1591708258/sophie-weverbergh_amyoos.jpg
+      text: ''
     - name: David Cauwe
       job: Graphiste
       photo: /v1591708258/david-cauwe_w6zktb.jpg
+      text: ''
     - name: Lola Contessi
       job: Graphiste
       photo: /uploads/lola-contessi.jpg
@@ -183,6 +191,7 @@ team:
     - name: Anthony Barbarich
       job: Consultant Web
       photo: /uploads/anthony-barbarich.jpeg
+      text: ''
     - name: Julie Mouvet
       job: Community manager
       photo: /uploads/julie-mouvet.jpg
@@ -498,27 +507,20 @@ section_faq:
 * Les organisations (classe C ) : minimum 5 parts de 100 € (= 500 €)
 * La présente offre de souscription est ouverte pour les parts de classe B et C. Tout investissement financier comporte un risque. Celui-ci est limité à la hauteur de l'apport.
 
-### **Cet appel public à l’épargne est ouvert**&nbsp;
+### **Cet appel public à l’épargne est ouvert**
 
 * pour une durée de 6 mois (du 15 septembre 2023 jusqu’au 31 mars 2024)
-* son montant est limité à 500.000 €&nbsp;
+* son montant est limité à 500.000 €
 
 ### **Impact social et environnemental**
 
-* L’implantation d’Imagine COOP début 2024 à La Menuiserie, un centre d’entreprises dédié à la transition vers une économie soutenable, plus sociale et solidaire (mutualisation des ressources, architecture durable, mobilité douce…)&nbsp;
-
+* L’implantation d’Imagine COOP début 2024 à La Menuiserie, un centre d’entreprises dédié à la transition vers une économie soutenable, plus sociale et solidaire (mutualisation des ressources, architecture durable, mobilité douce…)
 * Une rémunération juste de ses collaborateurs et collaboratrices
-
 * Des modes de déplacement bas carbone (transports en commun, vélo, limitation & compensation des voyages en avion)
-
-* L’égalité des genres&nbsp;
-
+* L’égalité des genres
 * La production d’un magazine papier éco-conçu (papier recyclé, label FSC, encres végétales) via un imprimeur local, familial et spécialisé dans l’édition durable (Kliemo, Eupen)
-
 * Un site web eco-friendly (Studio Colibri)
-
 * Une partie de la distribution assurée via la Belgian Cycle Logistics Federation (vélos cargos) à Liège, Namur et Bruxelles
-
 * La revalorisation des numéros invendus (récupération & dons)
 
 ### **La gouvernance**
@@ -531,11 +533,11 @@ section_faq:
 
 * **7 personnes salariées** (4,8 équivalents temps plein) et plusieurs collaborateurs·rices fixes et/ou occasionnels (graphistes, correctrice, journalistes, photographes, illustrateurs·rices…)
 * Un **modèle économique mixte** : 78 % de recettes propres et 22 % de subventions publiques (Aide à presse non commerciale Fédération Wallonie-Bruxelles et Coopération au développement via notre partenaire, le CNCD-11.11.11)
-* **Part des recettes**&nbsp;: abonnements et ventes au numéro (68 %), publicité éthique & responsable (8 %), aides publiques et prix et soutiens pour le travail journalistique réalisé (22 %)
-* **Part des dépenses**&nbsp;: rémunérations (60 %), coûts de production (30 %), frais de fonctionnement (9 %) et promotion (1 %)
+* **Part des recettes** : abonnements et ventes au numéro (68 %), publicité éthique & responsable (8 %), aides publiques et prix et soutiens pour le travail journalistique réalisé (22 %)
+* **Part des dépenses** : rémunérations (60 %), coûts de production (30 %), frais de fonctionnement (9 %) et promotion (1 %)
 * **Tirage moyen** du magazine papier : entre 7.000 et 10.000 exemplaires par numéro et autour de 40.000 exemplaires par an
 
-### **Les documents utiles**&nbsp;
+### **Les documents utiles**
 
 * [Bilan 2022 de l’Asbl](/Imagine_bilan_2022-1.pdf)
 * [Statuts de la coopérative](/Statuts-coordonn%C3%A9es-Imagine-COOP-au-07.09.2023.pdf)

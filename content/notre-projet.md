@@ -7,10 +7,10 @@ section_one:
   section_title: Nos valeurs
   title: Le manifeste et la charte fondatrice
   text: >-
-    Pour développer son projet slow press, <em>Imagine</em> s’appuie sur son
-    manifeste (2020) et sur sa charte fondatrice (1996). Deux documents dans
-    lesquels le magazine (ré)affirme ses valeurs, sa ligne éditoriale et ses
-    engagements vis-à-vis des lecteurs.
+    Pour développer son projet slow press, *Imagine* s’appuie sur son manifeste
+    (2020) et sur sa charte fondatrice (1996). Deux documents dans lesquels le
+    magazine (ré)affirme ses valeurs, sa ligne éditoriale et ses engagements
+    vis-à-vis des lecteurs.
   btn_txt: En savoir plus
   btn_link: /notre-manifeste
   img: /v1591304643/manifest-leaflet_hrv4jt.jpg
@@ -40,9 +40,9 @@ section_four:
   section_title: Le magazine
   title: Notre projet de presse indépendante
   text: >-
-    Fondé en 1996, <em>Imagine Demain le monde</em> est une coopérative de
-    presse et un média alternatif et indépendant. Ce magazine est pensé, réalisé
-    et géré avec soin et passion par ceux qui le fabriquent.
+    Fondé en 1996, *Imagine Demain le monde* est une coopérative de presse et un
+    média alternatif et indépendant. Ce magazine est pensé, réalisé et géré avec
+    soin et passion par ceux qui le fabriquent.
   btn_txt: En savoir plus
   btn_link: /le-projet-imagine
   img: /uploads/photo-team.jpg
