@@ -62,19 +62,20 @@ section_digital:
   section_title: _Dans notre_ Espace Digital, _retrouvez_
   title: Nos contenus numériques
   text: >-
-    * Notre série podcast « Adaptations » d’Isa Stragliati. Episode 2 : vers les
-    forêts
+    * Notre série podcast « Adaptations » d’Isa Stragliati. <br>Episode 3 :
+    Culture durable ?
 
     * Deux chroniques sonores et littéraires
 
-    * « Toujours actif », une immersion audio avec un collectif de sans-papiers
+    * « Rwanda 1994-2024, la lente réconciliation », un long format en six
+    chapitres
 
-    * « L’IA et les oiseaux recensés », un reportage à écouter
+    * « Le chamanisme, entre esprits et neurosciences », un reportage à écouter
 
-    * « La route du lithium » : le grand récit photo de Colin Delfosse
+    * « Sur les chemins de la résilience » : notre web-documentaire citoyen et
+    interactif
 
-    * « Extrêmomorphes », une nouvelle du futur par l’autrice Katia Lanero
-    Zamora
+    * « Flammes sur mer », une nouvelle du futur par l’autrice Hélène Zimmer
   img: /uploads/patchwork-carre.png
   btn_text: Découvrir
   btn_link: https://kiosque.imagine-magazine.com/espace-digital/
