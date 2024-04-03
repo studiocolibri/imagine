@@ -210,6 +210,10 @@ collections_config:
             type: markdown
             label: Courte description du numéro
             cascade: true
+          $.home_description:
+            type: markdown
+            label: Accueil description du numéro
+            cascade: true
           $.cover:
             type: file
             cascade: true
