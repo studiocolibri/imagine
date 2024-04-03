@@ -53,9 +53,11 @@ carousel:
   - img: /uploads/159-terra-incognita-prison-alternative-vincent-de-lannoy5.jpg
 section_quote:
   text: >-
-    *« L’histoire retiendra tant d’occasions manquées. Trente années ont été
-    gaspillées pour lutter contre les changements climatiques »*
-  ref: Naomi Oreskes, historienne des sciences, autrice des Marchands de doute
+    *« Aujourd’hui, il y a une forte émotion populaire, comme on disait au
+    18<sup>e</sup> siècle avant la Révolution française. Ces émotions populaires
+    sont politiques et de portée universelle. Elles disent : le monde que vous
+    nous infligez nous mène à la catastrophe »*
+  ref: 'Barbara Stiegler, philosophe '
 section_digital:
   section_title: _Dans notre_ Espace Digital, _retrouvez_
   title: Nos contenus numériques
