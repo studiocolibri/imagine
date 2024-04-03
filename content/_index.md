@@ -89,7 +89,7 @@ section_decouvrir:
     Trente ans après le génocide, *Imagine* a sillonné les collines du « Petit
     Pays » pour réaliser une enquête de terrain sur la lente réconciliation en
     cours.
-  img: /uploads/160-confluents-rwanda6-patricia-allen.jpg
+  img: /uploads/160-confluents-rwanda3-patricia-allenbis.jpg
   btn_text: Découvrir le numéro
   btn_link: https://kiosque.imagine-magazine.com/pour-les-abonnes-imagine/
 ---
