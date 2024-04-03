@@ -133,7 +133,7 @@ collections_config:
     name: Pages
     description: ''
     icon: notes
-    _editables: {}
+    _editables:
     _inputs:
       photo:
         type: image
@@ -152,25 +152,29 @@ collections_config:
       text:
         type: markdown
         cascade: true
-    _select_data: {}
-    _structures: {}
+    _select_data:
+    _structures:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
-    schemas: {}
+    schemas:
   numeros:
     path: content/numeros
     output: true
     name: Numeros
     description: ''
     icon: notes
-    _editables: {}
+    _editables:
     _inputs:
       short_description:
         type: markdown
         cascade: true
-    _select_data: {}
-    _structures: {}
+      home_description:
+        type: markdown
+        label: Description Accueil
+        cascade: true
+    _select_data:
+    _structures:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
@@ -242,10 +246,10 @@ collections_config:
     output: true
     name: Nos contenus
     icon: notes
-    _editables: {}
-    _inputs: {}
-    _select_data: {}
-    _structures: {}
+    _editables:
+    _inputs:
+    _select_data:
+    _structures:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
@@ -326,10 +330,10 @@ collections_config:
     output: true
     name: Catégories
     icon: notes
-    _editables: {}
-    _inputs: {}
-    _select_data: {}
-    _structures: {}
+    _editables:
+    _inputs:
+    _select_data:
+    _structures:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
@@ -370,10 +374,10 @@ collections_config:
     output: true
     name: Pages
     icon: notes
-    _editables: {}
-    _inputs: {}
-    _select_data: {}
-    _structures: {}
+    _editables:
+    _inputs:
+    _select_data:
+    _structures:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
@@ -479,6 +483,8 @@ collections_config:
       - {}
     _editables:
       text:
+        allow_custom_markup: true
+        remove_custom_markup: false
         bold: true
         copyformatting: true
         italic: true
@@ -510,6 +516,8 @@ collections_config:
         type: markdown
         options:
           allow_resize: true
+          allow_custom_markup: false
+          remove_custom_markup: false
           initial_height: 320
           image_size_attributes: true
           resize_style: contain
@@ -529,10 +537,10 @@ collections_config:
         type: image
         label: Image preview pour Facebook
         cascade: true
-    _select_data: {}
-    _structures: {}
+    _select_data:
+    _structures:
     create:
-      extra_data: {}
+      extra_data:
       _inputs:
         counter:
           type: number
@@ -541,12 +549,12 @@ collections_config:
           label: Compteur
           instance_value: NOW
           cascade: true
-      _select_data: {}
-      _structures: {}
+      _select_data:
+      _structures:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
-    schemas: {}
+    schemas:
 collection_groups:
   - heading: Content
     collections:
@@ -614,6 +622,5 @@ _structures:
           img:
             type: file
             cascade: true
-_editables: {}
 data_config: {}
 timezone: Etc/UTC
