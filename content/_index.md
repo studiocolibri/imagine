@@ -87,8 +87,8 @@ section_decouvrir:
   section_title: Rwanda 1994-2024
   text: >-
     Trente ans après le génocide, *Imagine* a sillonné les collines du « Petit
-    Pays » meurtri pour y recueillir les témoignages de ses habitants engagés
-    sur la longue route de la réconciliation.
+    Pays » pour réaliser une enquête de terrain sur la lente réconciliation en
+    cours.
   img: /uploads/160-confluents-rwanda3-patricia-allen.jpg
   btn_text: Découvrir le numéro
   btn_link: https://kiosque.imagine-magazine.com/pour-les-abonnes-imagine/
