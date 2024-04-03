@@ -7,5 +7,4 @@ section_two:
 section_three:
   section_title: dans ce numéro
   title: Entre les pages
-
 ---
