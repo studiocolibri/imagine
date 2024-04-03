@@ -54,9 +54,9 @@ carousel:
 section_quote:
   text: >-
     *« Aujourd’hui, il y a une forte émotion populaire, comme on disait au
-    18<sup>e</sup> siècle avant la Révolution française. Ces émotions populaires
-    sont politiques et de portée universelle. Elles disent : le monde que vous
-    nous infligez nous mène à la catastrophe »*
+    18ième siècle avant la Révolution française. Ces émotions populaires sont
+    politiques et de portée universelle. Elles disent : le monde que vous nous
+    infligez nous mène à la catastrophe »*
   ref: 'Barbara Stiegler, philosophe '
 section_digital:
   section_title: _Dans notre_ Espace Digital, _retrouvez_
