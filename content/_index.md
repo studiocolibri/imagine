@@ -66,13 +66,14 @@ section_digital:
 
     * Deux chroniques sonores et littéraires
 
-    * « Rwanda 1994-2024, la lente réconciliation », un long format en six
+    * « Rwanda 1994-2024, la lente réconciliation », <br>un long format en six
     chapitres
 
-    * « Le chamanisme, entre esprits et neurosciences », un reportage à écouter
+    * « Le chamanisme, entre esprits et neurosciences », <br>un reportage à
+    écouter
 
-    * « Sur les chemins de la résilience » : notre web-documentaire citoyen et
-    interactif
+    * « Sur les chemins de la résilience » : <br>notre web-documentaire citoyen
+    et interactif
 
     * « Flammes sur mer », une nouvelle du futur par l’autrice Hélène Zimmer
   img: /uploads/patchwork-carre.png
