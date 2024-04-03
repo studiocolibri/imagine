@@ -84,11 +84,12 @@ section_two:
   btn_link: /libre-acces/
   btn_txt: Tous nos articles
 section_decouvrir:
-  section_title: 'Des universités sans industrie fossile '
+  section_title: Rwanda 1994-2024
   text: >-
-    Imagine s'est rendu sur les campus où des étudiantes et étudiants se
-    mobilisent pour se débarrasser des lobbies fossiles.&nbsp;
-  img: /uploads/159-volcan-universite-fossile-lucie-morauw2-1.jpeg
+    Trente ans après le génocide, *Imagine* a sillonné les collines du « Petit
+    Pays » meurtri pour y recueillir les témoignages de ses habitants engagés
+    sur la longue route de la réconciliation.
+  img: /uploads/160-confluents-rwanda3-patricia-allen.jpg
   btn_text: Découvrir le numéro
   btn_link: https://kiosque.imagine-magazine.com/pour-les-abonnes-imagine/
 ---
