@@ -50,7 +50,7 @@ carousel:
   - img: /uploads/160-confluents-rwanda6-patricia-allen.jpg
   - img: /uploads/160-zones-fertiles-desert2-credit-caroline-pultz-low-tech-lab.jpg
   - img: /uploads/160-terra-secusocial-bees-dr.jpg
-  - img: /uploads/159-terra-incognita-prison-alternative-vincent-de-lannoy5.jpg
+  - img: /uploads/160-terra-velo-c-schoune.jpg
 section_quote:
   text: >-
     *« Aujourd’hui, il y a une forte émotion populaire, comme on disait au
