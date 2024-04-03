@@ -4,12 +4,11 @@
     {{ $header_text := .Params.header_text }}
         <div class="cw">
             <div class="home-header__content">
-                <p class="home-header__numero"><strong>n°159</strong> / Janvier-Février-Mars 2024</p>
+                <p class="home-header__numero"><strong>n°160</strong> / Avril-Mai-Juin 2024</p>
                 <h1 class="home-header__title page-header__title">Clarifier les faits, <br><em>libérer
                     les idées</em><br> et les esprits</h1>
                 <p class="home-header__short-description">{{ $header_text | markdownify }}</p>
             </div>
-
 </section>
 <section class="marquee">
     <div class="marquee-content">
@@ -35,13 +34,15 @@
             </a>
         </div>
         <div class="flex-2-cols__col ctnt">
-            <h2 class="sup-title">N°{{ .Params.num }} / Janvier-Févier-Mars 2024
+            <h2 class="sup-title">N°{{ .Params.num }} / Avril-Mai-Juin 2024
             </h2>
             <h3>Dans ce numéro, <em>on vous emmène :</em></h3>
             {{/*  <p>Dans ce numéro automne-hiver d’Imagine, on vous emmène :</p>  */}}
             {{
-                .Params.short_description
+                .Params.home_description
             }}
+
+            <br>
                 <a class="btn" href="/numero-en-cours/">Découvrir le numéro</a>
         </div>
     </div>
@@ -80,15 +81,11 @@ background-color: white;">
 </div>
 </section>
     {{ partial "quote.html" . }}
-    <section class="home-section-one section-2-cols bande" style="
-    background-image: url('{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_673/{{ .Params.section_decouvrir.img }}');
-    background-position: bottom right;
-    background-size: cover;
-    
-    ">
+    <section class="home-section-one section-2-cols bande">
+    <img src="{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_673/{{ .Params.section_decouvrir.img }}" />
         <div class="cw">
             <div class="flex-2-cols__col ctnt">
-                <h2 class="sup-title">À DECOUVRIR DANS LE N° 159
+                <h2 class="sup-title">À DECOUVRIR DANS LE N°160
                 </h2>
                 <h3>{{ .Params.section_decouvrir.section_title | markdownify }}</h3>
                 <p>{{ .Params.section_decouvrir.text | markdownify }}</strong>
@@ -97,6 +94,7 @@ background-color: white;">
                 </ul>
                     <a class="btn" href="/numero-en-cours/">Découvrir le numéro</a>
             </div>
+            
         </div>
     </section>
 {{/*  <section class="home-section-one section-2-cols">

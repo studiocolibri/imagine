@@ -91,6 +91,39 @@ $bp-cover : 1363px;
     }
 }
 
+.bande {
+
+    @media screen and (max-width: 771px) {
+        padding-top: 0!important;
+
+        &::before {
+            width: 100%!important;
+        }
+          
+        }
+
+        
+
+   
+
+    img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50%;
+    height: 100%;
+    object-fit: cover;
+
+
+    @media screen and (max-width: 771px) {
+        position: relative;
+        width:100%;
+        margin-bottom: 2rem;
+          }
+
+    }
+
+}
 .home-header__img {
     display:block;
     position: relative;

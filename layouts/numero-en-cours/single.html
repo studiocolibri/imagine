@@ -3,7 +3,7 @@
 <section class="numero-header numero-header--top">
     {{ range first 1 (where $.Site.RegularPages.ByDate.Reverse "Section" "numeros") }}
         <div class="numero-header__left">
-            <img id="cover" src="{{ .Site.Params.cloudinary_url }}{{ .Params.simulation_cover }}" alt="Couverture du numéro {{ .Params.num }}">
+            <img id="cover" src="{{ .Site.Params.cloudinary_url }}/w_443,f_auto/{{ .Params.simulation_cover }}" alt="Couverture du numéro {{ .Params.num }}" width="673">
             <script>var cover = {{ replace .Params.simulation_cover "\"" "" }};var backcover = {{ replace .Params.simulation_cover_bis "\"" "" }};</script>
         </div>
         <div class="numero-header__right">
