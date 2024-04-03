@@ -53,10 +53,9 @@ carousel:
   - img: /uploads/160-terra-velo-c-schoune.jpg
 section_quote:
   text: >-
-    *« Aujourd’hui, il y a une forte émotion populaire, comme on disait au
-    18ième siècle avant la Révolution française. Ces émotions populaires sont
-    politiques et de portée universelle. Elles disent : le monde que vous nous
-    infligez nous mène à la catastrophe »*
+    *« Nous sommes dans un moment de bouleversement face à l'avènement de
+    régimes de plus en plus autoritaires. La seule solution, c'est de
+    s'assembler pour délibérer et entrer en résistance »*
   ref: 'Barbara Stiegler, philosophe '
 section_digital:
   section_title: _Dans notre_ Espace Digital, _retrouvez_
