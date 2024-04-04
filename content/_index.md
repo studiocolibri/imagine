@@ -76,7 +76,7 @@ section_digital:
     et interactif
 
     * « Flammes sur mer », une nouvelle du futur par l’autrice Hélène Zimmer
-  img: /uploads/patchwork-carre.png
+  img: /uploads/imagine160-patch.png
   btn_text: Découvrir
   btn_link: https://kiosque.imagine-magazine.com/espace-digital/
 section_two:
