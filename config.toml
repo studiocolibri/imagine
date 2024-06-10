@@ -21,7 +21,7 @@ name = "Imagine COOP"
 url = "/coop/rejoindre"
 weight = 4
 [[menu.main]]
-name = "Imagine Digital"
+name = "Espace Digital"
 url = "https://kiosque.imagine-magazine.com/espace-digital/"
 weight = 2
 [[menu.main]]

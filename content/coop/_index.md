@@ -12,7 +12,6 @@ compteur: 21
 
 {{< figure src="/uploads/747a4d04-a2ad-4481-a619-17f32e0b941e.jpeg" title="Je prends des parts" caption="Je prends des parts" link="kiosque.imagine-magazine.com" target="_blank" >}}
 
-{{< youtube id="" >}}
 
 ## **Le sept bonnes raisons de nous rejoindre**
 
