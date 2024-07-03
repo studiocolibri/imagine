@@ -41,7 +41,7 @@
     {{ partial "site-favicon.html" . }}
   </head>
 	<body id="root" class="v2 {{ with .Page.Params.class }}{{ . }}{{ end }}{{ if eq .Type "categories" }} categories-list{{ end }} ">
-        <img src="https://res.cloudinary.com/dbftnu0ia/image/upload/f_auto,q_60,w_400,e_grayscale/v1696886199/bg-up3_kxytkv.jpg" alt="" class="bg-tests">
+        <img src="https://res.cloudinary.com/dbftnu0ia/image/upload/f_auto,q_60,w_400,e_grayscale/v1696886199/bg-up3_kxytkv.jpg" alt="" class="bg-tests" style="pointer-events:none">
             <a class="hide skip-to-content" href="#site-main">Aller directement vers le contenu</a>
     <div class="site-wrapper v2">
       {{ partial "site-header.html" . }}

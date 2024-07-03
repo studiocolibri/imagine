@@ -4,7 +4,12 @@
     {{ $header_text := .Params.header_text }}
         <div class="cw">
             <div class="home-header__content">
-                <p class="home-header__numero"><strong>n°160</strong> / Avril-Mai-Juin 2024</p>
+                <p class="home-header__numero"><strong>
+                    {{ range first 1 (where $.Site.RegularPages.ByDate.Reverse "Section" "numeros") }}
+                        n°{{ .Params.num }}
+                    
+                </strong> / {{ .Params.period }}</p>
+                {{ end }}
                 <h1 class="home-header__title page-header__title">Clarifier les faits, <br><em>libérer
                     les idées</em><br> et les esprits</h1>
                 <p class="home-header__short-description">{{ $header_text | markdownify }}</p>
@@ -85,7 +90,10 @@ background-color: white;">
     <img src="{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_673/{{ .Params.section_decouvrir.img }}" />
         <div class="cw">
             <div class="flex-2-cols__col ctnt">
-                <h2 class="sup-title">À DECOUVRIR DANS LE N°160
+                <h2 class="sup-title">À DECOUVRIR DANS LE N°
+                    {{ range first 1 (where $.Site.RegularPages.ByDate.Reverse "Section" "numeros") }}
+                        {{ .Params.num }}
+                    {{ end }}
                 </h2>
                 <h3>{{ .Params.section_decouvrir.section_title | markdownify }}</h3>
                 <p>{{ .Params.section_decouvrir.text | markdownify }}</strong>
