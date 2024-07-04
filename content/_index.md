@@ -43,20 +43,19 @@ header_text: >-
   Imagine (écologie, société, Nord-Sud) est un magazine trimestriel et un
   éditeur indépendant depuis 2001.
 carousel:
-  - img: /uploads/160-au-large-navire-avenir-elisa-lavergo-1.jpg
-  - img: /uploads/160-volcan-stiegler-dr.jpg
-  - img: /uploads/160-sixieme-continent-sols-a-soigner-jcguillaume-2.jpg
-  - img: /uploads/160-volcan-delinquance-fallys-sarah-freres.jpg
-  - img: /uploads/160-confluents-rwanda6-patricia-allen.jpg
-  - img: /uploads/160-zones-fertiles-desert2-credit-caroline-pultz-low-tech-lab.jpg
-  - img: /uploads/160-terra-secusocial-bees-dr.jpg
-  - img: /uploads/160-terra-velo-c-schoune.jpg
+  - img: /uploads/161-6e-continent-jc-guillaume-12.jpg
+  - img: /uploads/161-volcan-delta-inde-qnoirfalise7.jpg
+  - img: /uploads/161-confluents-oliviagazale-patrick-wack.jpg
+  - img: /uploads/161-volcan-gaza-qg-univ-apres.jpg
+  - img: /uploads/161-6e-continent-jc-guillaume-16.jpg
+  - img: /uploads/161-confluents-marlagne-lola-contessi2.jpg
+  - img: /uploads/161-zf-facilitateurvegetal-sf2-e1718893423676.jpg
+  - img: /uploads/161-zf-familegorille-h-do.jpg
 section_quote:
   text: >-
-    *« Nous sommes dans un moment de bouleversement face à l'avènement de
-    régimes de plus en plus autoritaires. La seule solution, c'est de
-    s'assembler pour délibérer et entrer en résistance »*
-  ref: 'Barbara Stiegler, philosophe '
+    *« Le rire a toujours eu une fonction politique majeure, comme arme de
+    subversion, mais aussi de domination »*
+  ref: Olivia Gazalé, philosophe
 section_digital:
   section_title: _Dans notre_ Espace Digital, _retrouvez_
   title: Nos contenus numériques
