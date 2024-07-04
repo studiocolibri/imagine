@@ -47,7 +47,7 @@ carousel:
   - img: /uploads/161-volcan-delta-inde-qnoirfalise7.jpg
   - img: /uploads/161-confluents-oliviagazale-patrick-wack.jpg
   - img: /uploads/161-volcan-gaza-qg-univ-apres.jpg
-  - img: /uploads/161-6e-continent-jc-guillaume-16.jpg
+  - img: /uploads/volcan-droitsnature-sambre-cs2.jpg
   - img: /uploads/161-confluents-marlagne-lola-contessi2.jpg
   - img: /uploads/161-zf-facilitateurvegetal-sf2-e1718893423676.jpg
   - img: /uploads/161-zf-familegorille-h-do.jpg
@@ -60,22 +60,17 @@ section_digital:
   section_title: _Dans notre_ Espace Digital, _retrouvez_
   title: Nos contenus numériques
   text: >-
-    * Notre série podcast « Adaptations » d’Isa Stragliati. <br>Episode 3 :
-    Culture durable ?
+    * Notre série podcast « Adaptations » d’Isa Stragliati<br>Episode 4 :
+    Déconstruction et réemploi
 
     * Deux chroniques sonores et littéraires
 
-    * « Rwanda 1994-2024, la lente réconciliation », <br>un long format en six
-    chapitres
+    * Deux podcasts sur les squats et la crise du logement
 
-    * « Le chamanisme, entre esprits et neurosciences », <br>un reportage à
-    écouter
+    * « En chemin » : <br>notre web-documentaire citoyen et interactif
 
-    * « Sur les chemins de la résilience » : <br>notre web-documentaire citoyen
-    et interactif
-
-    * « Flammes sur mer », une nouvelle du futur par l’autrice Hélène Zimmer
-  img: /uploads/imagine160-patch.png
+    * « Tuer le temps », une nouvelle du futur par l’autrice Lucie Rico
+  img: /uploads/imagine161-patch.png
   btn_text: Découvrir
   btn_link: https://kiosque.imagine-magazine.com/espace-digital/
 section_two:
