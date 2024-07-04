@@ -78,12 +78,12 @@ section_two:
   btn_link: /libre-acces/
   btn_txt: Tous nos articles
 section_decouvrir:
-  section_title: Rwanda 1994-2024
+  section_title: Un delta dans l'oeil du cyclone
   text: >-
-    Trente ans après le génocide, *Imagine* a sillonné les collines du « Petit
-    Pays » pour réaliser une enquête de terrain sur la lente réconciliation en
-    cours.
-  img: /uploads/160-confluents-rwanda3-patricia-allenbis.jpg
+    Un reportage dans la plus vaste forêt de mangrove du monde, qui subit de
+    plein fouet les cyclones, la montée des eaux, mais aussi l'empreinte
+    indélébile de l'activité humaine.
+  img: /uploads/161-volcan-delta-inde-qnoirfalise5.jpg
   btn_text: Découvrir le numéro
   btn_link: https://kiosque.imagine-magazine.com/pour-les-abonnes-imagine/
 ---
