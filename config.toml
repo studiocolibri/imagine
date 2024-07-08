@@ -17,6 +17,10 @@ name = "Contact"
 url = "/nous-contacter"
 weight = 6
 [[menu.main]]
+name = "Se connecter"
+url = "https://kiosque.imagine-magazine.com/mon-compte/"
+weight = 7
+[[menu.main]]
 name = "Imagine COOP"
 url = "/coop/rejoindre"
 weight = 4
