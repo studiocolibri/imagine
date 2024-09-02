@@ -142,6 +142,11 @@
 
     .site-header {
         /*top: 3rem!important;*/
+     
+        @media screen and (max-width: 771px) {
+            top: 3rem!important;
+            }
+        
     }
 
     .page-header {
