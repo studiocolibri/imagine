@@ -76,7 +76,7 @@ section_two:
   btn_link: /libre-acces/
   btn_txt: Tous nos articles
 section_decouvrir:
-  section_title: Un delta dans l'oeil du cyclone
+  section_title: Les  Veuves du tigre
   text: >-
     Reportage dans les mangroves des Sundarbans, en Inde, où la crise climatique
     et la quête d’un revenu décent ont poussé les habitants à pêcher dans une
