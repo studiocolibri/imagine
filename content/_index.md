@@ -81,7 +81,7 @@ section_decouvrir:
     Notre grand reportage au Nord-Kivu (Congo), où des artistes continuent à
     créer, chanter, peindre, slamer sur fond de guerre civile et de violences.
     La culture comme source d’espoir et de résilience.
-  img: /uploads/162-au-large-goma-ldh-1.jpg
+  img: /uploads/162-au-large-goma-ldh-5.jpg
   btn_text: Découvrir le numéro
   btn_link: https://kiosque.imagine-magazine.com/pour-les-abonnes-imagine/
 ---
