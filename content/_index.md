@@ -45,7 +45,7 @@ header_text: >-
 carousel:
   - img: /uploads/tissons-des-liens-pas-des-menottes-2.jpg
   - img: /uploads/veuves-du-tigre-2.jpg
-  - img: /uploads/162-zones-fertiles-medocs-a-leau-vincent-de-lannoy-2.jpg
+  - img: /uploads/brd-7287.jpg
   - img: /uploads/162-terra-co2-christophe-schoune-3-e1727098124788.jpg
   - img: /uploads/162-confluents-musees-pbalille-cdelcourt.jpg
   - img: /uploads/162-au-large-goma-ldh-5.jpg
