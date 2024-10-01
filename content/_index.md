@@ -76,13 +76,12 @@ section_two:
   btn_link: /libre-acces/
   btn_txt: Tous nos articles
 section_decouvrir:
-  section_title: Les  Veuves du tigre
+  section_title: Goma, l’art de l’espoir
   text: >-
-    Reportage dans les mangroves des Sundarbans, en Inde, où la crise climatique
-    et la quête d’un revenu décent ont poussé les habitants à pêcher dans une
-    zone à haut risque, à quelques mètres des tigres du Bengale vivant dans une
-    zone protégée.
-  img: /uploads/162-volcan-inde-amitrajit-chakraborty-4-1.jpg
+    Notre grand reportage au Nord-Kivu (Congo), où des artistes continuent à
+    créer, chanter, peindre, slamer sur fond de guerre civile et de violences.
+    La culture comme source d’espoir et de résilience.
+  img: /uploads/162-au-large-goma-ldh-7-e1727082657916.jpg
   btn_text: Découvrir le numéro
   btn_link: https://kiosque.imagine-magazine.com/pour-les-abonnes-imagine/
 ---
