@@ -48,7 +48,7 @@ carousel:
   - img: /uploads/c-froidevaux-metterie.jpeg
   - img: /uploads/162-terra-co2-christophe-schoune-3-e1727098124788.jpg
   - img: /uploads/162-confluents-musees-pbalille-cdelcourt.jpg
-  - img: /uploads/162-au-large-goma-ldh-5.jpg
+  - img: /uploads/162-au-large-goma-ldh-7-e1727082657916.jpg
   - img: /uploads/162-confluents-cancer-vincent-de-lannoy-1.jpg
   - img: /uploads/162-6e-continent-manon-sellenet-2.jpg
 section_quote:
