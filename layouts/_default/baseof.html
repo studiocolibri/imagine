@@ -35,7 +35,23 @@
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta property="og:site_name" content="{{ .Site.Title }}" />
-    <style>:root{ {{- range .Site.Data.colors }}--{{ .name }}: {{ .color }};{{- end }} }</style>
+    <style>
+
+        :root {
+            --purple: #ac91d5;
+            --txt-color: #514b96;
+            --main: #514b96;
+            --lightmain: #75CAC6;
+            --ultralightmain: #9CDE9F;
+            --turquoise: #ee5a24;
+            --yellow: #f5bf71;
+            --orange: #EE7F00;
+            --pink: #F9AD97;
+            --red: #319f9c;
+            --article-light: #BBE0DE;
+        }
+
+    </style>
     {{- $style := resources.Get "sass/main.scss" | resources.ToCSS | resources.PostCSS (dict "config" "postcss.config.js") | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet" type="text/css" href="{{ $style.Permalink | relURL }}">
     {{ partial "site-favicon.html" . }}
