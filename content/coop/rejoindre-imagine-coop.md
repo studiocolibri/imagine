@@ -10,6 +10,7 @@ compteur: 22
 section_one:
   title: Imagine COOP,<br> c'est quoi ?
   list:
+    - text: RECRUTEMENT
     - text: >-
         Une **coopérative à finalité sociale** de presse et de services fondée
         début septembre 2023 par ses travailleurs et ses travailleuses. Imagine
@@ -37,7 +38,6 @@ section_one:
         générale souveraine, un comité de rédaction indépendant et le
         laboratoire d’idées Imagine.
     - text:
-    - text: RECRUTEMENT
 section_services:
   title: L'agence de <strong>services</strong><br>& le <strong>média</strong> Imagine
   media_txt: |-
