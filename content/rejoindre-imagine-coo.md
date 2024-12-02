@@ -22,7 +22,7 @@ UN.E CHARGÉ.E DE GESTION ADMINISTRATIVE ET FINANCIÈRE
 
 **Envie de contribuer à notre mission ?** [**Cliquez ici pour consulter le descriptif de notre offre**](https://kiosque.imagine-magazine.com/wp-content/uploads/2024/12/202411-Offre-d-emploi-chargee-de-gestion-administrative-et-fin.pdf)**.**
 
-## **Imagine COOP, c’est quoi ?**
+## **Imagine COO, c’est quoi ?**
 
 * Une **coopérative agréée, à finalité sociale**, fondée le 30 août 2023 par ses travailleuses et ses travailleurs
 * Une **entreprise ancrée localement** (Wallonie-Bruxelles), qui emploie sept personnes, avec des valeurs et des engagements forts : une gouvernance éthique et démocratique, une parité de genre (7 employés, cinq hommes et deux hommes), une approche éco-responsable…
