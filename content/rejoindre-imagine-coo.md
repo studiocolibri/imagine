@@ -4,8 +4,6 @@ title: Rejoindre Imagine COO
 class: notre-manifeste single-page
 type: coop
 ---
-&nbsp;
-
 ## **RECRUTEMENT**
 
 **APPEL À CANDIDATURES**
