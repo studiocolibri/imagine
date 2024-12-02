@@ -4,6 +4,24 @@ title: Rejoindre Imagine COO
 class: notre-manifeste single-page
 type: coop
 ---
+&nbsp;
+
+## **RECRUTEMENT**
+
+**APPEL À CANDIDATURES**
+
+UN.E CHARGÉ.E DE GESTION ADMINISTRATIVE ET FINANCIÈRE
+
+**Rejoignez l'équipe Imagine Coop !**
+
+**Vous êtes passionné(e) par l'économie sociale et les transformations écologiques et solidaires ?** Vous aimez mettre vos compétences administratives et financières au service de projets porteurs de sens ? Imagine Coop, média engagé dans les enjeux sociétaux actuels, cherche son/sa **responsable administratif et financier** pour accompagner son développement.
+
+**Qui sommes-nous ?**
+
+**Imagine Coop, c’est bien plus qu’un média** ! Depuis près de 30 ans, nous sommes le porte-voix des acteurs de la transition écologique et sociale en Belgique. Nous sommes une coopérative de presse et de services qui promeut l’information constructive, la solidarité internationale et les solutions concrètes pour un monde plus juste. Imagine Demain le Monde, c’est d’abord un média vivant et inspirant, qui vit grâce à ses lectrices et ses lecteurs.
+
+**Envie de contribuer à notre mission ?** [**Cliquez ici pour consulter le descriptif de notre offre**](https://kiosque.imagine-magazine.com/wp-content/uploads/2024/12/202411-Offre-d-emploi-chargee-de-gestion-administrative-et-fin.pdf)**.**
+
 ## **Imagine COOP, c’est quoi ?**
 
 * Une **coopérative agréée, à finalité sociale**, fondée le 30 août 2023 par ses travailleuses et ses travailleurs
@@ -13,7 +31,6 @@ type: coop
 * Une **gouvernance structurée et partagée** avec un conseil d’administration pluraliste et transdisciplinaire, une assemblée générale souveraine, un comité de rédaction indépendant et le Laboratoire d’idées Imagine.
 
 {{< figure src="/uploads/747a4d04-a2ad-4481-a619-17f32e0b941e.jpeg" title="Je prends des parts" caption="Je prends des parts" link="kiosque.imagine-magazine.com" target="_blank" >}}
-
 
 ## **Le sept bonnes raisons de nous rejoindre**
 
@@ -135,6 +152,6 @@ Onglet
 
 **Lien vers un formulaire type Médor**
 
-**[https://odoo.medor.coop/page/become\_cooperator](https://odoo.medor.coop/page/become_cooperator)**
+[**https://odoo.medor.coop/page/become\_cooperator**](https://odoo.medor.coop/page/become_cooperator)
 
 \*\*Merci \*\*😊
