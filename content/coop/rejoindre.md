@@ -36,6 +36,24 @@ section_one:
         d’administration pluraliste et transdisciplinaire, une assemblée
         générale souveraine, un comité de rédaction indépendant et le
         laboratoire d’idées Imagine.
+    - text: >-
+        RECRUTEMENT  APPEL À CANDIDATURES  UN.E CHARGÉ.E DE GESTION
+        ADMINISTRATIVE ET FINANCIÈRE  Rejoignez l'équipe Imagine Coop !  Vous
+        êtes passionné(e) par l'économie sociale et les transformations
+        écologiques et solidaires ? Vous aimez mettre vos compétences
+        administratives et financières au service de projets porteurs de sens ?
+        Imagine Coop, média engagé dans les enjeux sociétaux actuels, cherche
+        son/sa responsable administratif et financier pour accompagner son
+        développement.  Qui sommes-nous ?  Imagine Coop, c’est bien plus qu’un
+        média ! Depuis près de 30 ans, nous sommes le porte-voix des acteurs de
+        la transition écologique et sociale en Belgique. Nous sommes une
+        coopérative de presse et de services qui promeut l’information
+        constructive, la solidarité internationale et les solutions concrètes
+        pour un monde plus juste. Imagine Demain le Monde, c’est d’abord un
+        média vivant et inspirant, qui vit grâce à ses lectrices et ses
+        lecteurs.  Envie de contribuer à notre mission ? Cliquez ici pour
+        consulter le descriptif de notre offre.
+    - text:
 section_services:
   title: L'agence de <strong>services</strong><br>& le <strong>média</strong> Imagine
   media_txt: |-
@@ -533,8 +551,8 @@ section_faq:
 
 * **7 personnes salariées** (4,8 équivalents temps plein) et plusieurs collaborateurs·rices fixes et/ou occasionnels (graphistes, correctrice, journalistes, photographes, illustrateurs·rices…)
 * Un **modèle économique mixte** : 78 % de recettes propres et 22 % de subventions publiques (Aide à presse non commerciale Fédération Wallonie-Bruxelles et Coopération au développement via notre partenaire, le CNCD-11.11.11)
-* **Part des recettes** : abonnements et ventes au numéro (68 %), publicité éthique & responsable (8 %), aides publiques et prix et soutiens pour le travail journalistique réalisé (22 %)
-* **Part des dépenses** : rémunérations (60 %), coûts de production (30 %), frais de fonctionnement (9 %) et promotion (1 %)
+* **Part des recettes**&nbsp;: abonnements et ventes au numéro (68 %), publicité éthique & responsable (8 %), aides publiques et prix et soutiens pour le travail journalistique réalisé (22 %)
+* **Part des dépenses**&nbsp;: rémunérations (60 %), coûts de production (30 %), frais de fonctionnement (9 %) et promotion (1 %)
 * **Tirage moyen** du magazine papier : entre 7.000 et 10.000 exemplaires par numéro et autour de 40.000 exemplaires par an
 
 ### **Les documents utiles**
