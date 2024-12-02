@@ -36,7 +36,8 @@ section_one:
         d’administration pluraliste et transdisciplinaire, une assemblée
         générale souveraine, un comité de rédaction indépendant et le
         laboratoire d’idées Imagine.
-    - text: null
+    - text:
+    - text: RECRUTEMENT
 section_services:
   title: L'agence de <strong>services</strong><br>& le <strong>média</strong> Imagine
   media_txt: |-
@@ -496,3 +497,18 @@ section_faq:
         * **Sarah Jonet,** directrice d’Imagine COOP, déléguée à la gestion
         journalière (membre invitée)&nbsp;
 ---
+## **RECRUTEMENT**
+
+**APPEL À CANDIDATURES**
+
+UN.E CHARGÉ.E DE GESTION ADMINISTRATIVE ET FINANCIÈRE
+
+**Rejoignez l'équipe Imagine Coop !**
+
+**Vous êtes passionné(e) par l'économie sociale et les transformations écologiques et solidaires ?** Vous aimez mettre vos compétences administratives et financières au service de projets porteurs de sens ? Imagine Coop, média engagé dans les enjeux sociétaux actuels, cherche son/sa **responsable administratif et financier** pour accompagner son développement.
+
+**Qui sommes-nous ?**
+
+**Imagine Coop, c’est bien plus qu’un média** ! Depuis près de 30 ans, nous sommes le porte-voix des acteurs de la transition écologique et sociale en Belgique. Nous sommes une coopérative de presse et de services qui promeut l’information constructive, la solidarité internationale et les solutions concrètes pour un monde plus juste. Imagine Demain le Monde, c’est d’abord un média vivant et inspirant, qui vit grâce à ses lectrices et ses lecteurs.
+
+**Envie de contribuer à notre mission ?** [**Cliquez ici pour consulter le descriptif de notre offre**](https://kiosque.imagine-magazine.com/wp-content/uploads/2024/12/202411-Offre-d-emploi-chargee-de-gestion-administrative-et-fin.pdf)**.**
