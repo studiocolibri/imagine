@@ -43,7 +43,7 @@ header_text: >-
   Imagine (écologie, société, Nord-Sud) est un magazine trimestriel et un
   éditeur indépendant depuis 2001.
 carousel:
-  - img: /uploads/163-zones-fertiles-condor-ch-schoune2.jpg
+  - img: /uploads/marina-cox-img-5023.jpg
   - img: /uploads/163-6e-continent-ph-moes4.jpg
   - img: /uploads/163-confluents-fresques-tineke-dhaese-oxfam1.jpg
   - img: /uploads/163-zones-fertiles-transfo-city-to-ocean.jpg
@@ -77,10 +77,11 @@ section_two:
 section_decouvrir:
   section_title: Goma, l’art de l’espoir
   text: >-
-    Notre grand reportage au Nord-Kivu (Congo), où des artistes continuent à
-    créer, chanter, peindre, slamer sur fond de guerre civile et de violences.
-    La culture comme source d’espoir et de résilience.
-  img: /uploads/162-au-large-goma-ldh-1.jpg
+    Notre grand reportage au Pérou, où le Condor des Andes est menacé notamment
+    à cause de la crise climatique. Retour sur les traces de cet oiseau mythique
+    pour le peuple Quecha qui se bat pour le conserver et défendre la
+    biodiversité en déclin.
+  img: /uploads/163-zones-fertiles-condor-ch-schoune2.jpg
   btn_text: Découvrir le numéro
   btn_link: https://kiosque.imagine-magazine.com/pour-les-abonnes-imagine/
 ---
