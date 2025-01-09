@@ -53,9 +53,9 @@ carousel:
   - img: /uploads/162-6e-continent-manon-sellenet-2.jpg
 section_quote:
   text: >-
-    *"Les combats pour les droits des femmes et des personnes discriminées sont
-    aussi des combats contre les logiques mortifères du capitalisme"*
-  ref: Camille Froidevaux-Metterie, philosophe
+    « La marche vers l’égalité et la dignité peut reprendre ses droits. C’est un
+    combat qui a été gagné dans le passé et qui le sera encore à l’avenir »
+  ref: Thomas Piketty, économiste
 section_digital:
   section_title: _Dans notre_ Espace Digital, _retrouvez_
   title: Nos contenus numériques
