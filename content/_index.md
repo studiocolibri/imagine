@@ -43,14 +43,15 @@ header_text: >-
   Imagine (écologie, société, Nord-Sud) est un magazine trimestriel et un
   éditeur indépendant depuis 2001.
 carousel:
-  - img: /uploads/tissons-des-liens-pas-des-menottes-2.jpg
-  - img: /uploads/veuves-du-tigre-2.jpg
-  - img: /uploads/c-froidevaux-metterie.jpeg
-  - img: /uploads/162-terra-co2-christophe-schoune-3-e1727098124788.jpg
-  - img: /uploads/162-confluents-musees-pbalille-cdelcourt.jpg
-  - img: /uploads/162-au-large-goma-ldh-7-e1727082657916.jpg
-  - img: /uploads/162-confluents-cancer-vincent-de-lannoy-1.jpg
-  - img: /uploads/162-6e-continent-manon-sellenet-2.jpg
+  - img: /uploads/163-zones-fertiles-condor-ch-schoune2.jpg
+  - img: /uploads/163-6e-continent-ph-moes4.jpg
+  - img: /uploads/163-confluents-fresques-tineke-dhaese-oxfam1.jpg
+  - img: /uploads/163-zones-fertiles-transfo-city-to-ocean.jpg
+  - img: /uploads/163-volcan-ukraine-nicolas-dykmans-1.jpg
+  - img: /uploads/163-zones-fertiles-condor-ch-schoune1.jpg
+  - img: /uploads/163-zones-fertiles-cuisines-quartier-v-de-lannoy1.jpg
+  - img: /uploads/163-volcan-ukraine-nicolas-dykmans-8.jpg
+  - img: /uploads/163-6e-continent-ph-moes2.jpg
 section_quote:
   text: >-
     « La marche vers l’égalité et la dignité peut reprendre ses droits. C’est un
