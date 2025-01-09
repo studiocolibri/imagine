@@ -55,7 +55,7 @@ carousel:
 section_quote:
   text: >-
     « La marche vers l’égalité et la dignité peut reprendre ses droits. C’est un
-    combat qui a été gagné dans le passé et qui le sera encore à l’avenir »
+    combat qui a été gagné dans le passé et qui le sera encore à l’avenir&nbsp;»
   ref: Thomas Piketty, économiste
 section_digital:
   section_title: _Dans notre_ Espace Digital, _retrouvez_
