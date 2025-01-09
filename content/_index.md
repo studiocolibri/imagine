@@ -62,13 +62,11 @@ section_digital:
   text: >-
     * La chronique sonore de l’écrivain Philippe Marczewski
 
-    * Un portfolio sur la maison de détention de Forest, par Vincent de Lannoy
+    * "Ceux qui restent", un portfolio de Nicolas Dykmans en Ukraine
 
-    * La vidéo d’Amélie Mouton autour de sa nouvelle littéraire du futur «
-    Vengeance naturelle »
-
-    * « En Chemin », un webdocumentaire interactif autour de la transition
-  img: /uploads/imagine162-patch.png
+    * L'Instant Papillon, un podcast qui rencontre l'humain.e en Transition
+    écologique, sociale et culturelle
+  img: /uploads/imagine163-patch.png
   btn_text: Découvrir
   btn_link: https://kiosque.imagine-magazine.com/espace-digital/
 section_two:
