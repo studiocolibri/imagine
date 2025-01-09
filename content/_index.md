@@ -75,7 +75,7 @@ section_two:
   btn_link: /libre-acces/
   btn_txt: Tous nos articles
 section_decouvrir:
-  section_title: Goma, l’art de l’espoir
+  section_title: Sur les traces du Condor des Andes
   text: >-
     Notre grand reportage au Pérou, où le Condor des Andes est menacé notamment
     à cause de la crise climatique. Retour sur les traces de cet oiseau mythique
