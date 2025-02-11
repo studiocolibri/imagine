@@ -75,13 +75,13 @@ section_two:
   btn_link: /libre-acces/
   btn_txt: Tous nos articles
 section_decouvrir:
-  section_title: Sur les traces du Condor des Andes
+  section_title: 'Rwanda (1994-2024) : sur les chemins de la réconciliation'
   text: >-
-    Notre grand reportage au Pérou, où le Condor des Andes est menacé notamment
-    à cause de la crise climatique. Retour sur les traces de cet oiseau mythique
-    pour le peuple Quecha qui se bat pour le conserver et défendre la
-    biodiversité en déclin.
-  img: /uploads/163-zones-fertiles-condor-ch-schoune2.jpg
+    Trente ans après le génocide des Tutsi au Rwanda, découvrez notre enquête
+    sur un complexe et passionnant processus d’unité et de réconciliation. Avec
+    un hors-série inédit (68 pages) et un long format web en 6 épisodes.
+  img: /uploads/dsc-0093-copie.jpg
   btn_text: Découvrir le numéro
-  btn_link: https://kiosque.imagine-magazine.com/pour-les-abonnes-imagine/
+  btn_link: >-
+    https://kiosque.imagine-magazine.com/rwanda-1994-2024-sur-les-chemins-de-la-reconciliation/
 ---
