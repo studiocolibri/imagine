@@ -54,6 +54,24 @@
     {{ end }}
     
 </section>
+<section class="home-section-one section-2-cols bande">
+    <img src="{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_673/{{ .Params.section_decouvrir.img }}" />
+        <div class="cw">
+            <div class="flex-2-cols__col ctnt">
+                <h2 class="sup-title">À découvrir dans notre Hors-Série
+                </h2>
+                <h3>{{ .Params.section_decouvrir.section_title | markdownify }}</h3>
+                <p>{{ .Params.section_decouvrir.text | markdownify }}</strong>
+
+                <ul>
+                </ul>
+                    <a class="btn" href="https://kiosque.imagine-magazine.com/rwanda-1994-2024-sur-les-chemins-de-la-reconciliation/">Découvrir le numéro</a>
+            </div>
+            
+        </div>
+    </section>
+    {{ partial "quote.html" . }}
+
 <section class="page-section qui ctnt" style="background-size: contain;
 background-position: center;
 background-repeat: no-repeat;
@@ -85,23 +103,6 @@ background-color: white;">
     </div>
 </div>
 </section>
-    {{ partial "quote.html" . }}
-    <section class="home-section-one section-2-cols bande">
-    <img src="{{ .Site.Params.cloudinary_url }}f_auto,q_80,w_673/{{ .Params.section_decouvrir.img }}" />
-        <div class="cw">
-            <div class="flex-2-cols__col ctnt">
-                <h2 class="sup-title">À découvrir dans notre Hors-Série
-                </h2>
-                <h3>{{ .Params.section_decouvrir.section_title | markdownify }}</h3>
-                <p>{{ .Params.section_decouvrir.text | markdownify }}</strong>
-
-                <ul>
-                </ul>
-                    <a class="btn" href="https://kiosque.imagine-magazine.com/rwanda-1994-2024-sur-les-chemins-de-la-reconciliation/">Découvrir le numéro</a>
-            </div>
-            
-        </div>
-    </section>
 {{/*  <section class="home-section-one section-2-cols">
     <div class="flex-2-cols cw">
         <div class="flex-2-cols__col">
