@@ -496,8 +496,6 @@ section_faq:
         * **Sarah Jonet,** directrice d’Imagine COOP, déléguée à la gestion
         journalière (membre invitée)&nbsp;
 ---
-## **RECRUTEMENT**
-
 **Qui sommes-nous ?**
 
 **Imagine Coop, c’est bien plus qu’un média** ! Depuis près de 30 ans, nous sommes le porte-voix des acteurs de la transition écologique et sociale en Belgique. Nous sommes une coopérative de presse et de services qui promeut l’information constructive, la solidarité internationale et les solutions concrètes pour un monde plus juste. Imagine Demain le Monde, c’est d’abord un média vivant et inspirant, qui vit grâce à ses lectrices et ses lecteurs.
