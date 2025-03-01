@@ -501,5 +501,3 @@ section_faq:
 **Qui sommes-nous ?**
 
 **Imagine Coop, c’est bien plus qu’un média** ! Depuis près de 30 ans, nous sommes le porte-voix des acteurs de la transition écologique et sociale en Belgique. Nous sommes une coopérative de presse et de services qui promeut l’information constructive, la solidarité internationale et les solutions concrètes pour un monde plus juste. Imagine Demain le Monde, c’est d’abord un média vivant et inspirant, qui vit grâce à ses lectrices et ses lecteurs.
-
-**Envie de contribuer à notre mission ?** [**Cliquez ici pour consulter le descriptif de notre offre**](https://kiosque.imagine-magazine.com/wp-content/uploads/2024/12/202411-Offre-d-emploi-chargee-de-gestion-administrative-et-fin.pdf)**.**
