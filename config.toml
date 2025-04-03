@@ -35,3 +35,9 @@ weight = 5
 [params]
 cloudinary_url = "https://res.cloudinary.com/drg3m95yg/image/upload/"
 disableKinds = ["categories", "tags"]
+
+[[redirects]]
+  from = "/"
+  to = "https://kiosque.imagine-magazine.com/"
+  status = 301
+  force = true
